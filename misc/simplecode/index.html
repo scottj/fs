@@ -1,0 +1,101 @@
+<html>
+<head>
+<title>SimpleCode</title>
+<style type="text/css">
+body {
+	padding: 20px 50px;
+ font-family: "Lucida Grande", Verdana, sans-serif;
+  font-size: 12px;
+	background: #fff;
+ }
+
+h2 {
+	font-size: 120%;
+  color: #c30;
+  border-bottom: 1px solid #fc6;
+  }
+
+p { 
+ color: #666;
+  }
+
+div { 
+	padding-left: 30px;
+ margin: 20px 20px 20px 30px;
+  border-left: 1px solid #ddd;
+  }
+ 
+#footer {
+	font-size: 90%;
+ margin-top: 20px;
+ padding-top: 10px;
+  border-top: 2px solid #ccc;
+ }
+</style>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<script type="text/javascript">
+
+function doProcess() {
+  var raw = document.getElementById("html").value+"";
+  raw = raw.replace(/</g, "&lt;");
+  raw = raw.replace(/>/g, "&gt;");
+  raw = raw.replace(/(\n|\r|\n\r)/g, "<br \/>");
+  raw = raw.replace(/  /g, "&#160;&#160;");
+  var pre = raw+"";
+//  raw = raw.replace(/&/g, "&amp;");
+  var enc = raw+"";
+//  alert (enc);
+
+  document.getElementById("cut").value = "<code>\n"+pre+"\n</code>";
+  document.getElementById("pre").innerHTML = pre;
+}
+</script>
+<body>
+<h1>SimpleCode</h1>
+
+<p>Enter normal (X)HTML in the markup box below.  <del>Press "Process"</del>Just type and it will spit out entity-encoded markup
+suitable for &lt;code&gt; examples.  Use spaces in increments of two for nesting idents.</p>
+
+<h2>Enter Markup</h2>
+
+<div id="form">
+<form action="#" method="post">
+<textarea id="html" rows="10" cols="50" onkeydown="setTimeout('doProcess();',10);"></textarea><br />
+</form>
+</div>
+
+<h2>Cut n' Paste</h2>
+<div id="paste">
+
+<textarea rows="10" cols="50" id="cut">
+&lt;code&gt;
+
+&lt;/code&gt;
+</textarea>
+
+</div>
+
+<h2>Preview</h2>
+<div id="preview">
+<code id="pre">
+</code>
+</div>
+
+<p id="footer">v03 &#169; Copyright 2004 <a href="http://www.simplebits.com/">Dan Cederholm</a> - JavaScript version by <a href="http://waffle.wootest.net/">Jesper</a><br/>Hosted by <a href="http://full-speed.org/">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)</p>
+
+</body>
+</html>

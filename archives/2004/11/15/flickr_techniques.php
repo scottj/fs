@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Flickr has started a new discussion group called Technique that is already off to a great start providing all kinds of exciting details on how to take certain kinds of photos. The group will likely grow into a repository of..." />
+<meta name="author" content="Scott Johnson" />
+<title>Flickr Techniques ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2004/11/15/flickr_techniques.php">
+<dc:title>Flickr Techniques</dc:title>
+<dc:description>Flickr has started a new discussion group called Technique that is already off to a great start providing all kinds of exciting details on how to take certain kinds of photos. The group will likely grow into a repository of...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2004-11-15T15:10:02-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2004/11/">November</a> <a href="/archives/2004/11/15/">15</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">Flickr Techniques</h3>
+<p><a href="http://www.flickr.com/">Flickr</a> has started a <a href="http://www.flickr.com/groups/technique/">new discussion group</a> called <a href="http://blog.flickr.com/flickrblog/2004/11/techniques.html" title="Techniques">Technique</a> that is already off to a great start providing all kinds of exciting details on how to take certain kinds of photos.  The group will likely grow into a repository of method descriptions along with accompanying examples.  I have already learned a <a href="http://www.flickr.com/groups_topic.gne?id=7209" title="Example: Big Steve (composition, exposure, flash)">new trick</a> in the few minutes that I have spent browsing the forum today.</p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2006/07/27/questions_for_the_jury.php">Questions for the Jury</a> - July 27, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2006/07/20/san_francisco_streets.php">San Francisco Streets</a> - July 20, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2006/08/28/links_for_2006-08-28.php">links for 2006-08-28</a> - August 28, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2005/12/24/christmas_eve_wreck.php">Christmas Eve Wreck</a> - December 24, 2005</li>
+
+<li><a href="http://full-speed.org/archives/2006/03/10/links_for_2006-03-11.php">links for 2006-03-11</a> - March 10, 2006</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2004/11/15/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2004/11/15/links_for_2004-11-15.php" title="links for 2004-11-15">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2004/11/16/links_for_2004-11-16.php" title="links for 2004-11-16">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

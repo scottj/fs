@@ -1,0 +1,529 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/27/">27</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000753"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/27/81ghz.php">81GHz!</a></h3>
+
+<p>With the <a href="/archives/2003/08/15/wired_diamonds.php" title="Wired Diamonds" rel="nofollow">advent</a> of cheaper, purer diamonds, the semiconductor industry is on the heels of a revolution.  And <acronym title="Nippon Telegraph and Telephone Corp">NTT</acronym> is <a href="http://www.eetimes.com/at/hpm/news/OEG20030822S0005" title="NTT verifies diamond semiconductor operation at 81 GHz" rel="nofollow">leading the way</a>.  Sure, we&#8217;re still years away from an Athlon Diamond XP, but this is the first step on that long path.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000752"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/27/css_mini_tabs.php">CSS Mini Tabs</a></h3>
+
+<p>I found Dan Cederholm&#8217;s <a href="http://www.simplebits.com/code/minitabs.html" title="CSS Mini Tabs (the UN-tab, tab)" rel="nofollow">mini tabs</a> a while back but lost track of them somehow.  It was probably one of those days when my browser was crashing frequently due to the java-based rss aggregator that was running in my browser.  But thanks to <a href="http://www.adampolselli.com/archives/2003/08/18/minitabs_i_sense_a_trend.php" title="Mini-Tabs: I Sense a Trend" rel="nofollow">Adam Polselli</a>, I now know where to find the Minis again.  And Dan has <a href="http://www.simplebits.com/archives/2003/08/14/minitab_shapes.html" title="Mini-Tab Shapes" rel="nofollow">improved</a> them as well.  This is a simple styling that is very extensible and flexible.  If you need some tab-based navigation for your site, be sure to check this out.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000751"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/27/movable_photos.php">Movable Photos</a></h3>
+
+<p>Adam Polselli must have been reading my mind when he was working up his <a href="http://www.adampolselli.com/archives/2003/08/11/creating_an_mtpowered_photo_album.php" title="Creating an MT-Powered Photo Album" rel="nofollow">new photo album</a>.  It&#8217;s 100% pure Movable Type.  And it is pleasing to the eye as well.  Have a <a href="http://www.adampolselli.com/photography/" title="The Photography of Adam Polselli" rel="nofollow">look</a>.  Expect to see something similar in this space soon.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/26/">26</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000750"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/26/4gb_microdrive_confirmed.php">4GB Microdrive Confirmed!</a></h3>
+
+<p>It&#8217;s <a href="http://www.dpreview.com/news/0308/03082601hitachi2gb4gbmdrive.asp" title="Hitachi confirm 2 and 4 GB Microdrive" rel="nofollow">been</a> <a href="http://www.infoworld.com/article/03/08/26/HNmicrodrives_1.html" title="Hitachi to ship 2GB, 4GB microdrives this year" rel="nofollow">confirmed</a>!  As <a href="/archives/2003/08/25/serious_storage_for_digital_cameras.php" title="Serious Storage for Digital Cameras" rel="nofollow">mentioned yesterday</a>, Hitachi is breaking out the big guns this year.  Now it&#8217;s <a href="http://www.pcworld.com/news/article/0,aid,112153,00.asp" title="Microdrive Storage Hits 4GB" rel="nofollow">official</a>!  The new giant Microdrives will be out just in time for the holidays.  Hopefully I&#8217;ll be shooting 8 or more megapixels by then.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/25/">25</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000749"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/25/mars.php">Mars</a></h3>
+
+<p>Don&#8217;t forget to <a href="http://starryskies.com/The_sky/events/mars/opposition03.html" title="When and Where to see Mars" rel="nofollow">check out Mars</a> this week.  You&#8217;ll never see it quite like this again.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000748"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/25/more_on_the_f-828.php">More on the F-828</a></h3>
+
+<p>It <a href="http://www.gizmodo.com/archives/008366.php" title=" Sony's F-828 vs. Canon's EOS Digital Rebel" rel="nofollow">looks</a> like I&#8217;m not the only one who is <a href="http://www.luminous-landscape.com/columns/sm-08-24.shtml" title="I.m a Sony Man" rel="nofollow">excited</a> <a href="http://www.photographyblog.com/comments.php?id=P700_0_1_0" title="Sunday Morning Photographer: I.m a Sony Man" rel="nofollow">about</a> Sony&#8217;s new camera.  Now when can I test-drive one?</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000747"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/25/serious_storage_for_digital_cameras.php">Serious Storage for Digital Cameras</a></h3>
+
+<p>Hitachi&#8217;s 4GB Microdrive is <a href="http://rss.com.com/2100-1041_3-5067530.html?part=rss&tag=feed&subj=news" title="Tiny Hitachi drive hits 4GB" rel="nofollow">coming soon</a>!  Priced far below the equivalent flash-based <acronym title="Compact Flash">CF</acronym> card, this is sure to spark some good <acronym title="Compact Flash">CF</acronym> competition.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/20/">20</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000746"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/20/shutterbug.php">shutterbug</a></h3>
+
+<p>I ran across another great photoblog today: <a href="http://www.sh1ft.org/shutterbug/" title="shutterbug : photographs by tracey" rel="nofollow">shutterbug</a>.  There is a stark contrast between this site and the site that I <a href="/archives/2003/08/20/sensitive_light.php" title="Sensitive Light" rel="nofollow">mentioned earlier today</a>.  They&#8217;re both great in their own unique ways, though.  I suggest that you block of a good part of the day and review the history of photos on each site.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000745"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/20/sensitive_light.php">Sensitive Light</a></h3>
+
+<p>Phil Ringnalda <a href="http://philringnalda.com/blog/2003/08/brilliant_clarity.php" title="Brilliant clarity" rel="nofollow">linked</a> to a long chain of sites that led him to <a href="http://sensitivelight.com/blog/" title="Sensitive Light" rel="nofollow">Sensitive Light</a>.  And he&#8217;s right&#8211;it is indeed &#8220;absolutely stunning&#8221;.  I really need to start taking more photos and get some of them up on this site.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/18/">18</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000744"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/18/cybershot_8_megapixel_marvel.php">Cybershot 8 MegaPixel Marvel</a></h3>
+
+<p>Sony recently <a href="http://news.sel.sony.com/pressrelease/3920" title="EIGHT MEGAPIXELS JUST PART OF THE PICTURE WITH SONY" rel="nofollow">announced</a> their new flagship digital camera, the DSC-F828.  <a href="http://dpreview.com/" title="Digital Photography Review" rel="nofollow">DPReview</a> published a <a href="http://www.dpreview.com/news/0308/03081502sonydscf828.asp" title="Sony DSC-F828 and detailed preview" rel="nofollow">preview</a> of a pre-production model on the same day.  This looks like a promising camera for the &#8220;prosumer&#8221; market.  It certainly bridges the gap between the current pro and consumer models.  It&#8217;s the first Sony camera that I know of to offer a compact flash slot.  The new black, slightly thicker casing seems to be a bonus as well&#8211;while it will add a bit of weight, it will certainly take away the fragile feeling that the prior models gave.  I can&#8217;t wait to try out this model.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/15/">15</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000743"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/15/xslt_for_your_movable_type.php">XSLT for your Movable Type</a></h3>
+
+<p>Kevin Davis <a href="http://alazanto.org/weblog/cat_mt_carbon.php" title="MT Carbon" rel="nofollow">has written</a> a series of articles on using XML and XSLT templates with Movable Type. (Thanks <a href="http://simon.incutio.com/archive/2003/08/11/MTxslt" title="Simon Willison: Moveably Type with XSLT" rel="nofollow">Simon</a>!)  In the initial sample, Kevin had some problems with the HTML inside an entry body being rendered in Mozilla.  That problem has since been <a href="http://alazanto.org/weblog/cat_mt_carbon.php#000037" title="Embedded Formatting for Mozilla" rel="nofollow">solved</a>.  Check out this <a href="http://alazanto.org/xml/style2.xml" title="MT Carbon Sample" rel="nofollow">great sample</a>!</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000742"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/15/javascript_for_long_forms.php">JavaScript for Long Forms</a></h3>
+
+<p>Andy Arikawa first <a href="http://modulo26.net/daily/080703.php" title="Multi-Part Forms" rel="nofollow">wrote</a> about a new multipart form concept for making those longer web forms appear as short as possible.  Simon Willison has <a href="http://simon.incutio.com/archive/2003/08/12/multiPartForms" title="Simon Willison: Multi part forms with Javascript" rel="nofollow">expanded</a> on this concept to make the same form more accessible.  If you have ever dealt with a web form that was too long, you&#8217;ll certainly appreciate Simon&#8217;s <a href="http://simon.incutio.com/code/js/multi-page-form/" title="Contact Form" rel="nofollow">example</a>.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000741"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/15/wired_diamonds.php">Wired Diamonds</a></h3>
+
+<p>I just got the Semtember issue of <a href="http://www.wired.com/" title="Wired" rel="nofollow">Wired</a> in the mail a couple of days ago.  She cover features a woman adorned in nothing but diamonds.  The story behind this photo is called <a href="http://www.wired.com/wired/archive/11.09/diamond.html" title="The New Diamond Age" rel="nofollow">&#8220;The New Diamond Age&#8221;</a>.  This is a very interesting read.</p>
+
+<p>We all know that <a href="http://www.debeers.com/" title="De Beers" rel="nofollow">De Beers</a> is the <a href="http://www.dashes.com/anil/index.php?archives/004817.php" title="diamonds are for never" rel="nofollow">only reason</a> that diamonds cost so much.  Any many of us know of the evil practices that this company engages in.  After reading these articles on diamonds, you may find yourself reconsidering the idea of spending such a large sum of money on such a worthless rock.</p>
+
+<p>Remember, De Beers recommends that you spend 16.67% of your annual salary on an engagement ring.  For many of us, that amount would feed quite a few hungry people for a year.  I think I&#8217;ll wait for these cheaper, lab-grown stones.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/14/">14</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000740"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/14/image_rollovers_with_css.php">Image Rollovers with CSS</a></h3>
+
+<p>Jon Hicks recently posted an excellent article on <a href="http://exp.hicksdesign.co.uk/articles/archive/000055.php" title="// hicksdesign articles: Image rollovers with CSS" rel="nofollow">image rollovers with CSS</a>.  This eliminates the need for complicated JavaScript code in your site design while still allowing those rollovers that many have come to love.  This is certainly a bookmark that should be in the toolchest of all CSS designers.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000739"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/14/calendar_fix.php">Calendar Fix</a></h3>
+
+<p>I&#8217;m not a big fan of Movable Type&#8217;s default calendar setup.  With individual archiving enabled, the links for each day on the calendar take you to the last entry from that day.  I think that it makes much more sense for that link to send you to a daily archive for that day.  So now my calendar does just that.</p>
+
+<p>Here&#8217;s how it works.  First, I installed <a href="http://www.bradchoate.com/" title="Brad Choate" rel="nofollow">Brad Choate</a>&#8217;s <a href="http://www.bradchoate.com/past/mtregex.php" title="Brad Choate: Regex Plugin" rel="nofollow">MT Regex Plugin</a>.  Next, I added a regex line at the top of my main index template:</p>
+
+<p><span class="entryData"><code>&lt;MTRegexDefine&gt;s|^(.*/)[^/]*$|$1|&lt;/MTRegexDefine&gt;</code></span></p>
+
+<p>This regular expression removes everything after the final slash in the url for the calendar links.  This works for my site&#8217;s setup because my daily archive is the index for the directory that contains that day&#8217;s articles.  Different configurations might need some tweaking.  For reference, here&#8217;s how I have my archiving configured:</p>
+
+<table class="entryData">
+<tr><td>Individual</td><td><code>&lt;$MTArchiveDate format="%Y/%m/%d/"$&gt;&lt;$MTEntryTitle dirify="1"$&gt;.fs</code></td></tr>
+<tr><td>Daily</td><td><code>&lt;$MTArchiveDate format="%Y/%m/%d/"$&gt;index.fs</code></td></tr>
+<tr><td>Monthly</td><td><code>&lt;$MTArchiveDate format="%Y/%m/index.fs"$&gt;</code></td></tr>
+<tr><td>Category</td><td><code>&lt;$MTArchiveCategory dirify="1"$&gt;/index.fs</code></td></tr>
+</table>
+
+<p>I apply the regular expression to the calendar links by changing the MTEntryLink tag in the calendar to the following:</p>
+
+<p><span class="entryData"><code>&lt;$MTEntryLink  regex="1"$&gt;</code></span></p>
+
+<p>Save, rebuild, and you now have a calendar that links to daily archives.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000738"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/14/blogrolling_with_movable_type.php">Blogrolling with Movable Type</a></h3>
+
+<p><a href="http://dylan.tweney.com/" title="the tweney report" rel="nofollow">Dylan Tweney</a> wrote an <a href="http://dylan.tweney.com/weblog/000611.html" title="Movable Type blogroll." rel="nofollow">interesting article</a> about using PHP to spiff up your MT blogroll.  I&#8217;ve already incorporated this partially into my site.  The gist of the article is that you create an additional blog which contains one blogroll link for each entry.  The index page for that blog is then pulled into your main blog&#8217;s index with a PHP-based include.  Very slick!</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000737"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/14/guide_to_manhattan.php">Guide to Manhattan</a></h3>
+
+<p>I just stumbled upon the <a href="http://www.manhattanusersguide.com/" title="Manhattan User's Guide" rel="nofollow">Manhattan User&#8217;s Guide</a> yesterday.  This site seems full of tips and recommendations that should be useful for that next visit to the Big Apple.  The daily articles are informative and well-written.  I know that I&#8217;ll be consulting this site before my next trip to Manhattan.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/13/">13</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000736"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/13/faster_downloads_with_bittorrent.php">Faster Downloads with BitTorrent</a></h3>
+
+<p>I&#8217;m typically an early adopter when it comes to hardware, but with software, there are always far too many new projects for me to jump on the bandwagon of each one.  Yesterday I decided that there had been enough buzz around <a href="http://bitconjurer.org/BitTorrent/" title="BitTorrent" rel="nofollow">BitTorrent</a> that I should give it a shot.  To my surprise, getting it up and running was incredibly simple.  The <a href="http://www.nullsoft.com/free/nsis/" title="Nullsoft SuperPiMP Install System" rel="nofollow">NSIS</a>-based installer required minimal interaction.  Within minutes, I was downloading a CD image from a site that had been slashdotted.  But this wasn&#8217;t the normal kind of slashdotted download.  Instead of 1Kbps, I was getting about 150Kbps.  That was sweet.  BitTorrent works by forcing users to upload chunks as they download chunks.  That way, all users form a web amongst each other and the downloads just scream.  Once your download is finished, you can give back to the downloading community by leaving your BT &#8220;seed&#8221; running so that others can continue to download from you.</p>
+
+<p>While I was waiting for my downloads to finish last night, I was reading up on all that has been going on in the BT community recently.  One interesting discovery was the <a href="http://ei.kefro.st/projects/btclient/" title="BitTorrent EXPERIMENTAL download client" rel="nofollow">BT Experimental Client</a>.  This new client offers some great improvements over the stock client.  In particular, I like all of the extra stats that it lets me monitor.  Whether you are a new or experienced BT user, this client is definitely worth a look.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/08/"> 8</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000735"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/08/xda_ii_pocket_pc_phone.php">xda II Pocket PC Phone</a></h3>
+
+<p>I think I&#8217;ve found the phone for me.  It&#8217;s the <a href="http://msmobiles.com/news.php/1134.html" title="msmobiles.com - Review: xda II (xda 2) Pocket PC phone (with many detailed photos)" rel="nofollow">xda II Pocket PC phone</a>.  No external antenna.  Interchangable battery.  Built-in camera!  See the link for a ton of great photos.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/06/"> 6</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000734"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/06/zeldmans_accessibility_lecture.php">Zeldman&#8217;s Accessibility Lecture</a></h3>
+
+<p>Jeffrey Zeldman <a href="http://www.zeldman.com/daily/0703b.shtml#lex" title="Lecture notes online" rel="nofollow">posted</a> a link to his notes from a recent lecture titled <a href="http://www.happycog.com/lectures/access/" title="Accessibility and Section 508" rel="nofollow">&#8220;Accessibility and Section 508&#8221;</a>.  Not only is this an excellent presentation on accessibility, but it&#8217;s beautifully designed with <acronym title="Extensible HyperText Markup Language">XHTML</acronym> and <acronym title="Cascading style Sheets">CSS</acronym>.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/03/"> 3</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000733"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/03/free_world_dialup.php">Free World Dialup</a></h3>
+
+<p>I just found out about <a href="http://www.fwdnet.net/" title="Free World Dialup" rel="nofollow">Free World Dialup</a> today.  It looks like an interesting free <acronym title="Voice over Internet Protocol">VoIP</acronym> service.  I signed on using a version of  <a href="http://www.xten.com/" title="Xten" rel="nofollow">Xten&#8217;s</a> <a href="http://www.xten.com/lite.php" title="X-Lite" rel="nofollow">X-Lite</a> that was customized for FWD.  I&#8217;ve only made one call to a time service thus far, but the quality was great.  They also have a number you can dial for an echo service.  This seems like a good idea for those curious about the delays that such networks have.  I&#8217;ll certainly have to try this out next.</p>
+
+<p>A strange thing happened tonight, though.  Soon after I made a couple of test calls, someone by the name of &#8220;Rodrigo Rodrigues&#8221; called me.  This is strange because I requested that me number be unlisted.  I&#8217;m guessing that I may have just been a victim of random dialing, but I guess I&#8217;ll never know.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

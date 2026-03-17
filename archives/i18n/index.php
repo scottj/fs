@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > i18n Archives</title>
+<!-- common -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body>  
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/11/">November</a> <a href="/archives/2006/11/10/">10</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001182"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/11/10/yahoo_doesnt_quite_get_html_entities.php">Yahoo Doesn&#8217;t Quite Get HTML Entities</a></h3>
+
+<p>Why is it that it&#8217;s almost 2007, and Yahoo still doesn&#8217;t get <a href="http://www.w3.org/TR/html401/sgml/entities.html" rel="nofollow">HTML entities</a> right?  Of particular concern is the &amp;raquo; entity (&raquo;), which is part of the default WordPress install.  To say WordPress is pervasive would be understating its reach.  And yet Yahoo can&#8217;t properly display the titles of millions of WordPress articles because it fails to properly render the &amp;raquo; character.  This is simple stuff guys, when will you get it straight?</p>
+
+<p>I suppose an example is in order, although I&#8217;m certain that one can be found quickly by almost anyone with access to search.yahoo.com.  This evening I entered the domain of my wife&#8217;s new site, <a href="http://analyzingmind.com" rel="nofollow">analyzingmind.com</a>, into Yahoo.  <a href="http://search.yahoo.com/search?ei=UTF-8&p=analyzingmind.com" rel="nofollow">The results show</a> &#34; instead of &raquo; in the page titles.  In the HTML source of the page, there is simply a quotation mark where there should be a &raquo;.</p>
+
+<p>My first thought when I noticed this oddity months ago was that it was a browser issue.  Today, however, I&#8217;m running Firefox 2, which tells me that it rendered the page in <em>Standards compliance mode</em> and that the character set for the page is UTF-8.  With those bits in order, I&#8217;m thinking that it should be no problem to display this simple character.  And besides, when I view the site directly, the glyph displays properly.</p>
+
+<p>I am beginning to think that Yahoo, upon crawling and indexing the site, translated the &raquo; to a &#34; and stored it that way in its index.  The HTML 4 spec linked above states that &amp;raquo; is a &#8220;right-pointing double angle quotation mark,&#8221; and that&#8217;s sort of similar to a standard, non-pointing, non-angled quotation mark, right?  I&#8217;m not sure of the reasoning behind this, but I think it probably has something to do with not wanting to serve up characters that are not displayable in certain browser/font combinations.  Whatever the reasoning, something is wrong.</p>
+
+<p>I wonder how they would handle this string in a title:  IÃ±tÃ«rnÃ¢tiÃ´nÃƒlizÃ¦tiÃ¸n.  Yahoo could learn a lot from <a href="http://www.intertwingly.net/blog/2006/11/06/One-way-Discovery" rel="nofollow">Sam Ruby</a>.  After all, <a href="http://ask.com/" rel="nofollow">Ask</a> is listening.</p>
+
+
+
+ <div class="posted"> 7:42 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/11/10/yahoo_doesnt_quite_get_html_entities.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br/>
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

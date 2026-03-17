@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="I'm not a big fan of Movable Type's default calendar setup. With individual archiving enabled, the links for each day on the calendar take you to the last entry from that day. I think that it makes much more sense..." />
+<meta name="author" content="Scott Johnson" />
+<title>Calendar Fix ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2003/08/14/calendar_fix.php">
+<dc:title>Calendar Fix</dc:title>
+<dc:description>I&apos;m not a big fan of Movable Type&apos;s default calendar setup. With individual archiving enabled, the links for each day on the calendar take you to the last entry from that day. I think that it makes much more sense...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2003-08-14T17:45:32-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/14/">14</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">Calendar Fix</h3>
+<p>I&#8217;m not a big fan of Movable Type&#8217;s default calendar setup.  With individual archiving enabled, the links for each day on the calendar take you to the last entry from that day.  I think that it makes much more sense for that link to send you to a daily archive for that day.  So now my calendar does just that.</p>
+
+<p>Here&#8217;s how it works.  First, I installed <a href="http://www.bradchoate.com/" title="Brad Choate">Brad Choate</a>&#8217;s <a href="http://www.bradchoate.com/past/mtregex.php" title="Brad Choate: Regex Plugin">MT Regex Plugin</a>.  Next, I added a regex line at the top of my main index template:</p>
+
+<p><span class="entryData"><code>&lt;MTRegexDefine&gt;s|^(.*/)[^/]*$|$1|&lt;/MTRegexDefine&gt;</code></span></p>
+
+<p>This regular expression removes everything after the final slash in the url for the calendar links.  This works for my site&#8217;s setup because my daily archive is the index for the directory that contains that day&#8217;s articles.  Different configurations might need some tweaking.  For reference, here&#8217;s how I have my archiving configured:</p>
+
+<table class="entryData">
+<tr><td>Individual</td><td><code>&lt;$MTArchiveDate format="%Y/%m/%d/"$&gt;&lt;$MTEntryTitle dirify="1"$&gt;.fs</code></td></tr>
+<tr><td>Daily</td><td><code>&lt;$MTArchiveDate format="%Y/%m/%d/"$&gt;index.fs</code></td></tr>
+<tr><td>Monthly</td><td><code>&lt;$MTArchiveDate format="%Y/%m/index.fs"$&gt;</code></td></tr>
+<tr><td>Category</td><td><code>&lt;$MTArchiveCategory dirify="1"$&gt;/index.fs</code></td></tr>
+</table>
+
+<p>I apply the regular expression to the calendar links by changing the MTEntryLink tag in the calendar to the following:</p>
+
+<p><span class="entryData"><code>&lt;$MTEntryLink  regex="1"$&gt;</code></span></p>
+
+<p>Save, rebuild, and you now have a calendar that links to daily archives.</p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2006/04/19/meta_descriptions_in_movable_type.php">Meta Descriptions in Movable Type</a> - April 19, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2004/04/05/some_links.php">Some Links</a> - April  5, 2004</li>
+
+<li><a href="http://full-speed.org/archives/2006/02/24/icerocket_is_dumb.php">IceRocket is Dumb</a> - February 24, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2004/02/18/advanced_spam_filtering.php">Advanced Spam Filtering</a> - February 18, 2004</li>
+
+<li><a href="http://full-speed.org/archives/2006/05/17/new_feature_related_entries.php">New Feature: Related Entries</a> - May 17, 2006</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2003/08/14/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2003/08/14/blogrolling_with_movable_type.php" title="Blogrolling with Movable Type">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2003/08/14/image_rollovers_with_css.php" title="Image Rollovers with CSS">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

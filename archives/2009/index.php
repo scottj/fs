@@ -1,0 +1,454 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/11/">November</a> <a href="/archives/2009/11/28/">28</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001312"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/11/28/tab_sweep.php">Tab Sweep</a></h3>
+
+<ul><li><a href="http://building-iphone-apps.labs.oreilly.com/" rel="nofollow">Building iPhone Apps with HTML, CSS, and JavaScript</a></li><li><a href="http://www.caterina.net/archive/001196.html" rel="nofollow">Working hard is overrated</a>:<blockquote>&#8220;Much more important than working hard is knowing how to find the right thing to work on. Paying attention to what is going on in the world. Seeing patterns. Seeing things as they are rather than how you want them to be. Being able to read what people want. Putting yourself in the right place where information is flowing freely and interesting new juxtapositions can be seen. But you can save yourself a lot of time by working on the right thing. Working hard, even, if that&#8217;s what you like to do.&#8221;</blockquote></li><li><a href="http://cocoawithlove.com/2009/11/creating-iphone-and-mac-icons-using.html" rel="nofollow">Creating iPhone and Mac icons using Inkscape (Part 1 of 2)</a></li><li><a href="http://cocoawithlove.com/2009/11/creating-iphone-and-mac-icons-using_06.html" rel="nofollow">Creating iPhone and Mac icons using Inkscape (Part 2 of 2)</a></li><li><a href="http://ejohn.org/apps/learn/" rel="nofollow">Learning Advanced JavaScript</a></li><li><a href="http://www.macresearch.org/cocoa-scientists-xxxii-10-uses-blocks-cobjective-c?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+macresearch+%28MacResearch+-+Online+Community+and+Resource+for+Mac+OS+X+in+Science%29" rel="nofollow">10 Uses for Blocks in C/Objective-C</a></li><li><a href="http://ejohn.org/blog/deep-tracing-of-internet-explorer/" rel="nofollow">Deep Tracing of Internet Explorer</a></li><li><a href="http://mg.pov.lt/blog/escaping-hotel-firewall" rel="nofollow">Escaping hotel firewalls with ssh over port 80</a></li><li><a href="http://documentcloud.github.com/underscore/" rel="nofollow">Underscore.js</a><blockquote>&#8220;Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js  (or Ruby), but without extending any of the built-in JavaScript objects. It&#8217;s the tie to go along with jQuery&#8217;s tux.&#8221;</blockquote></li><li><a href="http://www.philcoffman.com/blog/photography/iphone-photography/" rel="nofollow">iPhone Photography</a></li><li><a href="http://code.google.com/p/touchcode/wiki/TouchJSON" rel="nofollow">TouchJSON</a></li><li><a href="http://a.deveria.com/caniuse/" rel="nofollow">When can I use&#8230;</a></li><li><a href="http://pythonconquerstheuniverse.wordpress.com/2009/09/10/debugging-in-python/" rel="nofollow">Debugging in Python</a></li><li><a href="http://joehewitt.com/post/the-three20-project/" rel="nofollow">The Three20 Project</a></li><li><a href="http://carsonified.com/blog/design/css/how-to-create-a-valid-non-javascript-lightbox/" rel="nofollow">How to Create a Valid Non-Javascript Lightbox</a></li></ul>
+
+<p><br />
+</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/11/">November</a> <a href="/archives/2009/11/27/">27</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001311"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/11/27/links_for_2009-11-27.php">links for 2009-11-27</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://blog.getify.com/2009/11/labjs-new-hotness-for-script-loading/" rel="nofollow">LABjs: new hotness for script loading</a></div>
+                <div class="delicious-extended">&quot;gives you complete control over the loading and executing behavior of your scripts&quot;</div>
+                <div class="delicious-tags">(tags: javascript optimization webdev performance)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/11/">November</a> <a href="/archives/2009/11/15/">15</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001310"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/11/15/links_for_2009-11-15.php">links for 2009-11-15</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://bink.nu/news/windows-7-as-an-wifi-accesspoint.aspx" rel="nofollow">Windows 7 as an WiFi AccessPoint</a></div>
+                
+                <div class="delicious-tags">(tags: windows7 wifi hacks)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.ransom-note-typography.com/index.php/SSD_and_Your_Home_Directory" rel="nofollow">Move Your Home Folder Off Your SSD Boot Drive in OS X</a></div>
+                
+                <div class="delicious-tags">(tags: mac osx tips)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/11/">November</a> <a href="/archives/2009/11/12/">12</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001309"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/11/12/links_for_2009-11-12.php">links for 2009-11-12</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://dev.chromium.org/spdy" rel="nofollow">SPDY</a></div>
+                <div class="delicious-extended">&quot;an experiment with protocols for the web.  It&#039;s goal is to reduce the latency of web pages&quot;</div>
+                <div class="delicious-tags">(tags: google web http speed performance)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/10/">October</a> <a href="/archives/2009/10/07/"> 7</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001308"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/10/07/more_tabs.php">More Tabs</a></h3>
+
+<ul><li><a href="http://www.sysresccd.org/Sysresccd-manual-en_Mounting_an_NTFS_partition_with_full_Read-Write_support" rel="nofollow">Mounting an NTFS partition with full Read-Write support</a></li><li><a href="http://ping.windowsdream.com/" rel="nofollow">PING (Partimage Is Not Ghost)</a></li><li><a href="http://wiki.awkwardtv.org/wiki/Mount_a_Remote_Drive_via_SMBFS" rel="nofollow">Mount a Remote Drive via SMBFS (AppleTV)</a></li><li><a href="http://0xfeedbeef.com/appletv/" rel="nofollow">Turbo&#8217;s AppleTV Hacks</a></li><li><a href="http://whatdoiknow.org/archives/003082.shtml" rel="nofollow">How to install IE 7 and keep IE 6</a></li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/10/">October</a> <a href="/archives/2009/10/06/"> 6</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001307"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/10/06/tab_sweep.php">Tab Sweep</a></h3>
+
+<p>Because I <i>really</i> needed to clean these tabs out of the browser.<br />
+<ul><li><a href="http://mattgemmell.com/2009/07/14/iphone-development-emergency-guide" rel="nofollow">iPhone Development Emergency Guide</a></li><li><a href="http://www.stanford.edu/class/cs193p/cgi-bin/index.php" rel="nofollow">CS193P - iPhone Application Programming</a></li><li><a href="http://astuteo.com/slickmap/" rel="nofollow">SlickMap CSS</a></li><li><a href="http://www.smashingmagazine.com/2009/09/22/complete-guide-to-css-font-stacks/" rel="nofollow">Guide to CSS Font Stacks: Techniques and Resources</a></li><li><a href="http://weitz.de/regex-coach/" rel="nofollow">The Regex Coach</a></li><li><a href="http://sumolinux.suntzudata.com/" rel="nofollow">SUMO Linux</a></li></ul></p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/06/">June</a> <a href="/archives/2009/06/28/">28</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001306"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/06/28/links_for_2009-06-27.php">links for 2009-06-27</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://ubuntuforums.org/showthread.php?t=1155961" rel="nofollow">HowTo Achieve &quot;Ubuntu-Desktop-Minimal&quot;</a></div>
+                
+                <div class="delicious-tags">(tags: ubuntu minimal)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/06/">June</a> <a href="/archives/2009/06/16/">16</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001305"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/06/16/links_for_2009-06-15.php">links for 2009-06-15</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://www.pixelbeat.org/cmdline.html" rel="nofollow">Linux Commands - A practical reference</a></div>
+                
+                <div class="delicious-tags">(tags: linux cli reference)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.steve.org.uk/Reference/rosetta.html" rel="nofollow">Rosetta Stone for Unix</a></div>
+                
+                <div class="delicious-tags">(tags: unix cli reference cheatsheet)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/06/">June</a> <a href="/archives/2009/06/01/"> 1</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001304"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/06/01/links_for_2009-05-31.php">links for 2009-05-31</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://developer.apple.com/documentation/Darwin/Reference/ManPages/man5/nfs.conf.5.html" rel="nofollow">Mac OS X Manual Page For nfs.conf(5)</a></div>
+                
+                <div class="delicious-tags">(tags: osx nfs)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://developer.apple.com/documentation/Darwin/Reference/ManPages/man1/netstat.1.html#//apple_ref/doc/man/1/netstat" rel="nofollow">Mac OS X Manual Page For netstat(1)</a></div>
+                
+                <div class="delicious-tags">(tags: osx nfs)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://developer.apple.com/documentation/Darwin/Reference/ManPages/man8/mount.8.html#//apple_ref/doc/man/8/mount" rel="nofollow">Mac OS X Manual Page For mount(8)</a></div>
+                
+                <div class="delicious-tags">(tags: osx nfs)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://developer.apple.com/documentation/Darwin/Reference/ManPages/man8/mount_nfs.8.html" rel="nofollow">Mac OS X Manual Page For mount_nfs(8)</a></div>
+                
+                <div class="delicious-tags">(tags: osx nfs)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/05/">May</a> <a href="/archives/2009/05/21/">21</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001303"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/05/21/links_for_2009-05-20.php">links for 2009-05-20</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://www.holovaty.com/writing/django-two-phased-rendering/" rel="nofollow">Django tip: Caching and two-phased template rendering</a></div>
+                
+                <div class="delicious-tags">(tags: django development tips)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/04/">April</a> <a href="/archives/2009/04/13/">13</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001302"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/04/13/links_for_2009-04-12.php">links for 2009-04-12</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://pinaxproject.com/" rel="nofollow">Pinax</a></div>
+                <div class="delicious-extended">&quot;a platform for rapidly developing websites&quot;</div>
+                <div class="delicious-tags">(tags: webdev django social tools programming)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://intranation.com/entries/2009/03/development-virtual-machines-os-x-using-vmware-and/" rel="nofollow">Development virtual machines on OS X using VMWare and Ubuntu</a></div>
+                
+                <div class="delicious-tags">(tags: virtualization vmware ubuntu jeos dev)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://perian.org/#explore" rel="nofollow">Perian</a></div>
+                <div class="delicious-extended">&quot;The Swiss Army knife of QuickTime components&quot;</div>
+                <div class="delicious-tags">(tags: mac osx quicktime plugins video)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.getmiro.com/" rel="nofollow">Miro HD Video Player</a></div>
+                <div class="delicious-extended">&quot;free internet tv and video podcast player&quot;</div>
+                <div class="delicious-tags">(tags: video mac osx hd bittorrent)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://virtualgeek.typepad.com/virtual_geek/2009/01/updated-homebrew-esx-hardware-list.html" rel="nofollow">Virtual Geek: Updated Homebrew ESX Hardware List</a></div>
+                
+                <div class="delicious-tags">(tags: vmware diy hardware)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/02/">February</a> <a href="/archives/2009/02/12/">12</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001301"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/02/12/links_for_2009-02-12.php">links for 2009-02-12</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://regex.info/blog/lightroom-goodies/flickr" rel="nofollow">Jeffrey’s “Export to Flickr” Lightroom Plugin</a></div>
+                
+                <div class="delicious-tags">(tags: lightroom flickr export plugin)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2009/01/">January</a> <a href="/archives/2009/01/05/"> 5</a>, <a href="/archives/2009/">2009</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001300"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2009/01/05/links_for_2009-01-05.php">links for 2009-01-05</a></h3>
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://www.wait-till-i.com/2009/01/05/detecting-and-displaying-the-information-of-a-logged-in-twitter-user/" rel="nofollow">Detecting and displaying the information of a logged-in twitter user</a></div>
+                
+                <div class="delicious-tags">(tags: twitter hacking json)</div>
+            </li></ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

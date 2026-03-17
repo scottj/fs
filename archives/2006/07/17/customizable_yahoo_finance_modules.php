@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Yahoo has finally let loose with their new Finance site modules. Naturally, this was timed to coincide with the launch of the new Yahoo homepage as well as the new Finance page. I have some problems with these things, though...." />
+<meta name="author" content="Scott Johnson" />
+<title>Customizable Yahoo Finance Modules ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2006/07/17/customizable_yahoo_finance_modules.php">
+<dc:title>Customizable Yahoo Finance Modules</dc:title>
+<dc:description>Yahoo has finally let loose with their new Finance site modules. Naturally, this was timed to coincide with the launch of the new Yahoo homepage as well as the new Finance page. I have some problems with these things, though....</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2006-07-17T17:13:46-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2006/07/">July</a> <a href="/archives/2006/07/17/">17</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">Customizable Yahoo Finance Modules</h3>
+<p>Yahoo has finally <a href="http://feeds.feedburner.com/~r/YPN/~3/http%3A%2F%2Fypnblog.com%2Fblog%2F2006%2F07%2F17%2Fbuy-sell%2F">let loose</a> with their new <a href="http://finance.yahoo.com/">Finance</a> site modules.  Naturally, this was timed to coincide with the launch of <a href="http://yahoo.com/">the new Yahoo homepage</a> as well as the new Finance page.</p>
+
+<p>I have some problems with these things, though.  First of all, I added a red border to the example below so that you can see the large whitespace at the bottom.  The height of the iframe can easily be changed to compensate for that, but I have no way of knowing that the space in question will <i>never</i> be used, so I am hesitant to remove it.  I have tried adding more stock symbols to see if that would increase the height of the widget in order to fill the whitespace, but instead of filling the space, the iframe was only made taller.<br />
+<div class="artimg"><!-- Start of Yahoo! Finance code --><iframe style="border:1px solid red;" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="http://api.finance.yahoo.com/instrument/1.0/GOOG,YHOO,MSFT,AAPL,INTC,AMD/badge;chart=5d;quote/HTML?AppID=1WxnpzLgTg.VigGtlYqhQKO9lXVYcx4-&sig=BF8CcC9j0HzpuevC2GL.SplcB34-&t=1153178891250" width="300px" height="672px"></iframe><!-- End of Yahoo! Finance code --></div><br />
+My second concern is that of advertising.  Clearly, there is no advertising on this widget today, other than links to other Yahoo properties.  And I&#8217;m fine with that.  But I have a feeling that the space at the bottom might be allocated for future ads.  If I could put my <a href="http://publisher.yahoo.com/">YPN</a> ID into the code and receive targeted ads in that space, I wouldn&#8217;t mind.  But I certainly don&#8217;t want the kind of ads that I expect from Yahoo in that space&#8211;the kind of ads that annoy me every time I fire up Yahoo Messenger.  The jury is still out on this one.</p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2006/10/06/yahoo_seeking_advertising_guinea_pigs.php">Yahoo Seeking Advertising Guinea Pigs</a> - October  6, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2005/10/12/yahoo_publisher_network.php">Yahoo Publisher Network</a> - October 12, 2005</li>
+
+<li><a href="http://full-speed.org/archives/2006/11/10/yahoo_doesnt_quite_get_html_entities.php">Yahoo Doesn't Quite Get HTML Entities</a> - November 10, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2005/07/04/links_for_2005-07-04.php">links for 2005-07-04</a> - July  4, 2005</li>
+
+<li><a href="http://full-speed.org/archives/2005/09/02/magellan_roadmate.php">Magellan Roadmate</a> - September  2, 2005</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2006/07/17/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2006/07/17/links_for_2006-07-17.php" title="links for 2006-07-17">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2006/07/17/amazon_grocery_is_out_of_beta.php" title="Amazon Grocery Is Out of Beta">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

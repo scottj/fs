@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Scott's Wishlist</title>
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://speed.insane.com/css/speed.css" type="text/css" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/2.0/" />
+<!-- nav links -->
+<link rel="section" href="/" title="Home" />
+<link rel="section" href="/about/" title="About" />
+<link rel="section" href="/archives/" title="Archives" />
+<link rel="section" href="/contact/" title="Contact" />
+<link rel="section" href="/search/" title="Search" />
+<!-- categories -->
+
+
+<script type="text/javascript" src="/js/speed.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_alternate_ad_url = "http://speed.insane.com/google.html";
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+</head>
+<body>
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+Scott's Wishlist
+</h2>
+
+<div class="blogbody">
+<h3 class="wishlist"><a href="http://shop.insane.com/a/asinsearch_B0002XQJFA/"><del>Canon EOS 20D</del></a></h3>	
+</div>
+<div class="blogbody">
+<h3 class="wishlist"><a href="http://amazon.com/o/registry/102LVFOVT47FN/insane-20">Amazon Wishlist</a></h3>	
+</div>
+
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2005 <a href="http://speed.insane.com/" title="Full Speed">Scott Johnson</a>
+<img src="/counter/?id=speed-wishlist" alt="" />
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+
+</body>
+</html>

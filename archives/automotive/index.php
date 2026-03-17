@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Automotive Archives</title>
+<!-- common -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body>  
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/12/">December</a> <a href="/archives/2005/12/24/">24</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001052"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/12/24/christmas_eve_wreck.php">Christmas Eve Wreck</a></h3>
+
+<div class="artimg"><a href="http://www.flickr.com/photos/scottj/76820961/" title="" rel="nofollow"><img src="http://static.flickr.com/41/76820961_fb9c6b1b87.jpg" width="412" height="500" alt="plc01" /></a></div>
+
+
+
+ <div class="posted"> 3:39 AM
+ 
+ :: <a href="http://full-speed.org/archives/2005/12/24/christmas_eve_wreck.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/01/"> 1</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000831"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/01/ahhhhh.php">Ahhhhh</a></h3>
+
+<div class="artimg"><a href="http://gsx.suzuki.com/~sucycles/sr_03/sportstreet/fr_sv650s.htm" title="2003 Suzuki SV650S" rel="nofollow"><img width="480" height="278" src="/images/sv650sk3.jpg" alt="2003 Suzuki SV650S" /></a></div>
+2003 Suzuki SV650S.  Dealer closeout.  Gotta make room for those &#8217;04s somehow.
+<br />
+
+
+
+ <div class="posted">10:12 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/02/01/ahhhhh.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/17/">17</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000760"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/17/959_at_last.php">959 At Last!</a></h3>
+
+<p>More than ten years after the limited production of the Porsche 959 supercar, laws have finally been passed that allow an emissions modified version of the car to roam the streets of the US.  Read more at <a href="http://www.autoweek.com/cat_content.mv?port_code=autoweek&amp;cat_code=coverstory&amp;loc_code=index&amp;content_code=09282484" title="AutoWeek - Cover Story" rel="nofollow">AutoWeek</a>.</p>
+
+
+
+ <div class="posted"> 1:16 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/17/959_at_last.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/30/">30</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000731"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/infiniti_fx45.php">Infiniti FX45</a></h3>
+
+<p>A few weeks ago, I discovered the new <a href="http://www.infiniti.com/" title="Infiniti" rel="nofollow">Infiniti</a> <a href="http://www.infiniti.com/content/0,,cid-24508_sctid-12001,00.html" title="Infiniti FX45/FX35" rel="nofollow">FX</a> and was admittedly a bit intrigued.  Car and Driver recently <a href="http://www.caranddriver.com/article.asp?section_id=16&amp;article_id=6857" title="Infiniti FX35 : Whater it's called, it's pretty good" rel="nofollow">gave rave reviews</a> on the FX35.  Typically, I don&#8217;t like SUVs at all.  I&#8217;m more of a sports car kind of guy.  But this is one SUV that&#8217;s just sporty enough to grab my interest.  And by the time I left the Infiniti showroom, I was in love with this mean SUV.</p>
+
+<blockquote>&#8220;Whatever it&#8217;s called, it&#8217;s pretty good.&#8221;</blockquote>
+
+<p>The Infiniti FX shares its platform with the G35 Coupe and the Nissan 350Z.  Those are typically not the type of vehicle that one would think of as cousins of an SUV.  And it shows in the way the FX grips the road on a fast curve.</p>
+
+<p>The 45 comes standard with 20&#34; rims.  As far as I know, that&#8217;s a first on an SUV.  And being a firm believer that stock wheels almost always are better suited to a vehicle, this is a nice touch.  Any other SUV would require me to ditch the stock rims for such an upgrade.</p>
+
+<p>But this isn&#8217;t just any SUV.  Even for a &#8220;crossover&#8221;, this is an oddball.  When the FX drives past you on the road for the first time, you can&#8217;t help but stare at it&#8217;s sleek, low-slung design.</p>
+
+<p>And the 315 HP 4.5-liter V8 certainly lives up to the visual styling.  While it&#8217;s not quite as quick as the cars that I typically drive, it&#8217;s certainly the quickest SUV that I&#8217;ve ever driven.  The more powerful (and heavier) Cadillac Escalade certainly won&#8217;t keep up.  And unlike its competition, the FX inspires confidence at higher speeds.</p>
+
+<p>The interior of the vehicle is luxurious.  The brick leather is particularly nice.  The stereo is excellent.  There are more electronics on this car that most any other.  Take for example the rear-view camera that automatically takes over the LCD screen on the center of the dash when the FX is placed in reverse.</p>
+
+<p>Overall, the FX just can&#8217;t be beaten.  Even if you&#8217;re not in the market for a sub-$55k SUV, it&#8217;s certainly worth the time to stop by your local Infiniti dealer for a test drive.  I&#8217;m sure you&#8217;ll enjoy it.</p>
+
+
+
+ <div class="posted"> 7:27 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/30/infiniti_fx45.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/15/">15</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000710"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/15/tomahawk_might_make_it_to_production.php">Tomahawk Might Make it to Production</a></h3>
+
+<p>According to <a href="http://www.allpar.com/cars/concepts/tomahawk.html" title="Dodge Tomahawk" rel="nofollow">this site</a>, the Dodge Tomahawk might actually see the light of day.  If you haven&#8217;t seen this thing yet, you&#8217;ve got to check it out.  It&#8217;s basically a motorcycle with the Viper&#8217;s V10 engine.  If it does actually go golden, there won&#8217;t be very many of them, and I know I certainly won&#8217;t be able to afford one.</p>
+
+
+
+ <div class="posted">11:15 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/15/tomahawk_might_make_it_to_production.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br/>
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

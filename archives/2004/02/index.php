@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/25/">25</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000840"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/25/ie_bug_list.php">IE Bug List</a></h3>
+
+<p>In his most recent <a href="http://www.mezzoblue.com/archives/2004/02/25/sidestepping/" rel="nofollow">rant about IE</a>, Dave Shea dropped a nice link to a <a href="http://www.positioniseverything.net/explorer.html" title="Explorer Exposed!" rel="nofollow">thorough list of bugs in Internet Explorer</a>.  I&#8217;m sure there are probably other IE buglists out there, but this one gives examples <b>and</b> workarounds!  This list should be very helpful in getting <a href="/" rel="nofollow">Full Speed</a> looking better in IE.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/19/">19</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000839"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/19/ssh_for_pocket_pc.php">SSH for Pocket PC</a></h3>
+
+<p>For those of you who have the occasional need to tweak a server while on the go, <a href="http://pocketputty.duxy.net/viewtopic.php?t=5" rel="nofollow">PocketPuTTY</a> is for you.  This makes that <a href="http://h10010.www1.hp.com/wwpc/us/en/sm/WF05a/215348-64929-215381-314903-f43-349042.html" rel="nofollow">WiFi-enabled iPAQ</a> look a bit more tempting to me. [via <a href="http://www.mobilewhack.com/pda/pocketpc/pocketputty__free_ssh_for_pocket_pc.html" rel="nofollow">MobileWhack</a>]</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/18/">18</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000838"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/18/advanced_spam_filtering.php">Advanced Spam Filtering</a></h3>
+
+<p>Brad Choate has a fairly complicated <a href="http://www.bradchoate.com/weblog/2004/02/18/qpsmtpd" rel="nofollow">spam filtering setup</a> that&#8217;s based on <a href="http://develooper.com/code/qpsmtpd/" title="a qmail-smtpd replacement written in perl" rel="nofollow">qpsmtpd</a>.  After reading his story, I&#8217;m <em>very</em> tempted to give qmail another shot.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/14/">14</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000837"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/14/online_advertising_is_officially_back.php">Online Advertising is Officially Back</a></h3>
+
+<p>I didn&#8217;t really think it was ever going to happen, but the $2.1 billion record for online advertising revenue set in 2000 has been broken.  With a lot of help from Google&#8217;s <a href="http://adwords.google.com/" rel="nofollow">AdWords</a> and <a href="http://www.google.com/adsense/" rel="nofollow">AdSense</a>, Q4 2003 ad revenue hit an estimated $2.2 billion.  The bubble may have burst, but we&#8217;re definitely recovering.  [via <a href="http://battellemedia.com/archives/000345.php" title="The Ad Bubble Has Been Topped" rel="nofollow">Searchblog</a>]</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/11/">11</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000836"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/11/8gb_compact_flash.php">8GB Compact Flash</a></h3>
+
+<p>Simpletech has announced that they&#8217;ll soon be bringing an 8GB compact flash card to market.  With digital camera resolution increasing with every new product generation, this will be nice to have around.  For taking raw images at 8mp+, this begins to seem more like a necessity.  [via <a href="http://www.digitalslr.org/2004/02/8gb_compact_fla.html" title="8GB Compact Flash Card" rel="nofollow">digitalslr.org</a>]</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000835"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/11/firefox_unstable.php">Firefox Unstable</a></h3>
+
+<p>Like most of the web design community, I upgraded to Mozilla Firefox 0.8 when it was released on Monday.  And I am not happy.</p>
+
+<p>While the team that handled the new <a href="http://www.hicksdesign.co.uk/journal/archives/000377.php" rel="nofollow">branding initiative</a> did an excellent job, the code monkeys screwed something up.  Now just 24 hours into my use of the new browser, it has crashed over six times.</p>
+
+<p>Initially, the browser had problems with my old profile.  I wasn&#8217;t really surprised at this because I knew that the profile had problems.  So I gave in and created a new profile, keeping only my bookmarks file.  With the new profile, I thought that I was in the clear.  Everything (saved logins, autocompletes, etc) began to work properly once again.</p>
+
+<p>But then I slowly began to notice some problems.  For example, Firefox often forgets cookies that it shouldn&#8217;t.  This gets to be really annoying when using a site that uses cookies for its authentication.  Imaging clicking submit after writing a long post only to be greeted with a login screen.  This has happened to me more than ten times today.</p>
+
+<p>And the crashes.  Firebird 0.7 crashed on me after about 5-7 days of solid use.  By solid use I mean never closing the app.  Always having at least 50 tabs open at any given time.  Closing one tab woudl typically mean opening three more.  Its memory footprint, according to the Windows XP Task Manager, often exceeded 150MB.  I didn&#8217;t mind the memory usage, considering what I was asking of the browser, but the crashes just really bothered me.</p>
+
+<p>The problem is worse with Firefox.  I can&#8217;t seem to keep the browser running for more than a couple of hours once I load up 20 or so tabs.  In my most recent crash, I launched the browser, opened two tabs, and then, before the loading of both pages was complete, Firefox crashed.</p>
+
+<p>The Mozilla Organization has simply failed with the release of this product.  <a href="http://www.mozilla.org/products/firefox/" rel="nofollow">Their own words</a>, while well-intentioned, provide false statements about the browser:<br />
+<blockquote>&#8220;Firefox empowers you to accomplish your online activities faster, more safely and efficiently than any other browser, period.&#8221;</blockquote><br />
+Now please understand that I have been using a <a href="http://www.mozilla.org/newlayout/" rel="nofollow">Gecko</a>-based browser for quite some time now.  In one form or another, Gecko has been my primary web browser for probably at least two years.  I&#8217;m a big fan of this project.  But this release was just not good.  It&#8217;s not good for me.  It&#8217;s not good for the newbies that Mozilla is trying to attract away from IE.  And it&#8217;s not good for Mozilla&#8217;s image and reputation.  We need Firefox 0.81, and we need it <b>fast</b>!</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/09/"> 9</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000834"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/09/easy_entity_encoding.php">Easy Entity Encoding</a></h3>
+
+<p>Dan Cederholm wrote a <a href="http://www.simplebits.com/archives/2004/02/05/simplecode.html" title="SimpleCode" rel="nofollow">simple utility</a> for converting XHTML (or other code-like data) into entity-encoded markup.  This is a simple <a href="http://www.simplebits.com/cgi-bin/simplecode.pl" rel="nofollow">perl script</a> that&#8217;s just designed to save a bit of time when writing web content.</p>
+
+<p><a href="http://waffle.wootest.net/" rel="nofollow">Jesper</a> rewrote the script in a neat, self-contained html page with a bit of JavaScript.  <a href="http://wootest.net/simplecode.htm" rel="nofollow">Jesper&#8217;s version</a>, <a href="/misc/simplecode/" rel="nofollow">mirrored here</a>, provides live previews and requires no server interaction.  Very slick.  A little more time saved.</p>
+
+<p>This looks a lot like Jon Hicks&#8217; <a href="http://www.hicksdesign.co.uk/journal/archives/000317.php" rel="nofollow">live comment previews</a>.  There&#8217;s just something great about seeing my input rendered by the browser as I type.  It&#8217;s almost like having a WYSIWYG word processor in the browser.  We need more of this kind of stuff on the web.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/05/"> 5</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000833"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/05/rss_linkdump.php">RSS LinkDump</a></h3>
+
+<p><a href="http://en.wikipedia.org/wiki/Really_Simple_Syndication" title="Really Simple Syndication" rel="nofollow">RSS</a> feeds are popping up everywhere.  I finally found the <a href="http://www.wired.com/news/rss" title="RSS Feeds: Get Your Site Wired" rel="nofollow">master list</a> over at Wired News.</p>
+
+<p>Also, <a href="http://www.pickajob.com/rss/" rel="nofollow">PickAJob.com</a> has a listing of job feeds by state.  They claim that their feeds are RSS 0.91, but they appear to be <a href="http://www.feedvalidator.org/check?url=http%3A%2F%2Fwww.pickajob.com%2Frss%2Frss.asp%3Fstate%3DTX" rel="nofollow">valid RSS 2.0</a>.</p>
+
+<p>In other news, InternetNews.com seems to think that <a href="http://www.internetnews.com/IAR/article.php/3307961" title="Is Ad-Supported RSS the Next Big Thing?" rel="nofollow">ad-supported RSS</a> might be the &#8220;Next Big Thing&#8221;.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/03/"> 3</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000832"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/03/google_catalogs.php">Google Catalogs</a></h3>
+
+<p><a href="http://www.kk.org/cooltools/archives/000276.php" title="Better than mail order" rel="nofollow">Kevin Kelly</a> has discovered Google&#8217;s latest new beta project, <a href="http://catalog.google.com/" rel="nofollow">Google Catalogs</a>.  He describes it quite well:<br />
+<blockquote>&#8220;Google has scanned in the pages of hundreds of mail order catalogs. This means you can search for anything you can think of and Google will bring up a picture of the item on the actual catalog page. In my experience browsing these scans turns out to be better and faster than scrolling through a company&#8217;s website. Because catalog pages are generally better designed than web pages, they are more informative. And because you can keyword search for items, it&#8217;s superior to the actual paper catalog.&#8221;</blockquote></p>
+
+<p>Add this to your list of places to search when researching that next purchase.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/01/"> 1</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000831"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/01/ahhhhh.php">Ahhhhh</a></h3>
+
+<div class="artimg"><a href="http://gsx.suzuki.com/~sucycles/sr_03/sportstreet/fr_sv650s.htm" title="2003 Suzuki SV650S" rel="nofollow"><img width="480" height="278" src="/images/sv650sk3.jpg" alt="2003 Suzuki SV650S" /></a></div>
+2003 Suzuki SV650S.  Dealer closeout.  Gotta make room for those &#8217;04s somehow.
+<br />
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

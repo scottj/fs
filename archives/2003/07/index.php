@@ -1,0 +1,815 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/30/">30</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000732"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/is_the_nicotini_the_answer.php">Is the Nicotini the answer?</a></h3>
+
+<p>Many cities and states already have the legislation.  Here in Austin, it&#8217;s scheduled to take effect in September.  I&#8217;m talking about the smoking ban.</p>
+
+<p>Austin has had a ban on smoking in restaurants since I moved here about five and a half years ago.  Bear in mind that it&#8217;s not all restaurants, however&#8211;there <em>are</em> loopholes.  So my smoking friends typically only patronize the loophole-conscious restaurants.</p>
+
+<p>Bars are the main concern with the new ordinance.  Many bar owners complain that their business will be gone when their customers aren&#8217;t allowed to smoke.  This complaint holds some truth, as several popular bars have outdoor patios or balconies.  These are the loopholes of the new ordinance.</p>
+
+<p>But the clever bar owners in Miami might be leading the way in fighting the antismoking laws.  Enter the <a href="http://www.sun-sentinel.com/entertainment/barsandclubs/sfl-linicotini30jul30,0,1955010.story?coll=sfla-entertainment-nightlife" title="Enter the nicotini: Smoking ban leads to tobacco-infused drink" rel="nofollow">Nicotini</a>.</p>
+
+<blockquote>&#8220;Call it a liquid cigarette because this drink comes complete with the nicotine rush and tobacco aftertaste found in a pack of Camels.&#8221;</blockquote>
+
+<p>Not being a smoker, I don&#8217;t quite understand what these people go through without their precious Nicotine, but I do know that when most smokers drink, their Nicotine craving increases.  Without being allowed to smoke in bars, most would opt to simply walk outside for a quick smoke whenever necessary.  But with this type of hassle, why wouldn&#8217;t they just opt instead for a bar with a patio? </p>
+
+<p>I can easily see where the Nicotini might appear golden in the eyes of local bartenders and bar owners.  Will this become a nationwide trend?</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000731"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/infiniti_fx45.php">Infiniti FX45</a></h3>
+
+<p>A few weeks ago, I discovered the new <a href="http://www.infiniti.com/" title="Infiniti" rel="nofollow">Infiniti</a> <a href="http://www.infiniti.com/content/0,,cid-24508_sctid-12001,00.html" title="Infiniti FX45/FX35" rel="nofollow">FX</a> and was admittedly a bit intrigued.  Car and Driver recently <a href="http://www.caranddriver.com/article.asp?section_id=16&amp;article_id=6857" title="Infiniti FX35 : Whater it's called, it's pretty good" rel="nofollow">gave rave reviews</a> on the FX35.  Typically, I don&#8217;t like SUVs at all.  I&#8217;m more of a sports car kind of guy.  But this is one SUV that&#8217;s just sporty enough to grab my interest.  And by the time I left the Infiniti showroom, I was in love with this mean SUV.</p>
+
+<blockquote>&#8220;Whatever it&#8217;s called, it&#8217;s pretty good.&#8221;</blockquote>
+
+<p>The Infiniti FX shares its platform with the G35 Coupe and the Nissan 350Z.  Those are typically not the type of vehicle that one would think of as cousins of an SUV.  And it shows in the way the FX grips the road on a fast curve.</p>
+
+<p>The 45 comes standard with 20&#34; rims.  As far as I know, that&#8217;s a first on an SUV.  And being a firm believer that stock wheels almost always are better suited to a vehicle, this is a nice touch.  Any other SUV would require me to ditch the stock rims for such an upgrade.</p>
+
+<p>But this isn&#8217;t just any SUV.  Even for a &#8220;crossover&#8221;, this is an oddball.  When the FX drives past you on the road for the first time, you can&#8217;t help but stare at it&#8217;s sleek, low-slung design.</p>
+
+<p>And the 315 HP 4.5-liter V8 certainly lives up to the visual styling.  While it&#8217;s not quite as quick as the cars that I typically drive, it&#8217;s certainly the quickest SUV that I&#8217;ve ever driven.  The more powerful (and heavier) Cadillac Escalade certainly won&#8217;t keep up.  And unlike its competition, the FX inspires confidence at higher speeds.</p>
+
+<p>The interior of the vehicle is luxurious.  The brick leather is particularly nice.  The stereo is excellent.  There are more electronics on this car that most any other.  Take for example the rear-view camera that automatically takes over the LCD screen on the center of the dash when the FX is placed in reverse.</p>
+
+<p>Overall, the FX just can&#8217;t be beaten.  Even if you&#8217;re not in the market for a sub-$55k SUV, it&#8217;s certainly worth the time to stop by your local Infiniti dealer for a test drive.  I&#8217;m sure you&#8217;ll enjoy it.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000730"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/simplifying_the_web.php">Simplifying the Web</a></h3>
+
+<p><a href="http://kalsey.com/" title="Kalsey Consulting Group" rel="nofollow">Kalsey</a> is trying to  <a href="http://kalsey.com/2003/07/simplifying_the_web_one_step_at_a_time/" title="Simplifying the web, one step at a time :: Kalsey Consulting Group" rel="nofollow">simplify the web, one step at a time</a>.  This is certainly a long overdue step in the right direction for form design.</p>
+
+<blockquote>&#8220;Some things in Web design are too complex.&#8221;</blockquote>
+
+<p>With the first article on <a href="http://kalsey.com/simplified/" title="Simplified" rel="nofollow">Simplified</a>, a simple PHP script is introduced that provides highly usable form errors.  Having dealt with many websites with brain dead forms, I&#8217;m eagerly anticipating the adoption of such techniques.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000729"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/zempt.php">Zempt</a></h3>
+
+<p>I just discovered <a href="http://zempt.com/" title="Zempt :: Multi-platform posting for Movable Type :: Zempt" rel="nofollow">Zempt</a> this past weekend.  In short, it&#8217;s totally changing the way I post to my site.</p>
+
+<p>First off, since it runs on my PC instead of on my web server, it&#8217;s a lot faster than <a href="http://www.movabletype.org/" title="Movable Type" rel="nofollow">Movable Type</a>&#8217;s web interface.  Sure, there are <a href="http://wbloggar.com/" title="w.bloggar" rel="nofollow">other</a> tools that have similar functionality, but I haven&#8217;t been happy with them.</p>
+
+<p>Second, it&#8217;s got spell check!  Hopefully this will take care of the inevitable typos that plague my postings.</p>
+
+<p>And my favorite feature of this tool is the Preview functionality.  The preview isn&#8217;t anything special&#8211;it&#8217;s just showing my simple markup in a basic HTML control.  But it&#8217;s <strong>far</strong> faster than MT&#8217;s web interface.  This is a major plus for me.</p>
+
+<p>And lastly, Zempt will be a multi-platform app as soon as the next release is available&#8211;Linux support is due in version 0.4.  Mac support is also supposed to show up in 0.5.  I can&#8217;t wait!</p>
+
+<p>If you&#8217;re looking for a better tool for posting to Movable Type, be sure to check out Zempt.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/27/">27</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000728"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/27/lindows_webstation.php">Lindows WebStation</a></h3>
+
+<p>Add in a wireless card and a decent LCD monitor, and the <a title="Lindows WebStation" href="http://info.lindows.com/webstation/" rel="nofollow">Lindows WebStation</a> will make a very nice computer for browsing in places where browsing is all that you need.</p>
+
+<p>And with built-in support for connecting to an <acronym title="Server Message Block">SMB</acronym> server, it instantly has access to my home FreeBSD server running <a href="http://www.samba.org/" rel="nofollow">Samba</a>.  For anyone who has a wireless network and an SMB server at home, this is a very cheap way to add another PC to the family.</p>
+
+<p>I particularly like the <a href="http://www.idot.com/TheStore/Desktop/847Spec.asp?Product.id=847&amp;Cate.id=19" title="Sereniti WebStation" rel="nofollow">version</a> offered by <a title="iDOT.computers - The First PC Company Built for the Web." href="http://www.idot.com/" rel="nofollow">iDOT.computers</a>.  Based on the VIA C3 processor, it&#8217;s likely to be quieter, cooler, and more energy-efficient.  Plus, it&#8217;s case looks much less like the &#8220;beige box&#8221; PC &#8211; much more sleek.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/26/">26</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000727"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/26/almost_there.php">Almost There!</a></h3>
+
+<p>Found on Brighthand, <a href="http://www.sandisk.com/consumer/sdwifi.asp" title="SD Wi-Fi Card" rel="nofollow">Sandisk</a> is about to release a new <a href="http://brighthand.com/article/SanDisk_SD_WiFi_Card_Reviewed" title="Brighthand Reviews the SanDisk SD Wi-Fi Card" rel="nofollow">SD Wi-Fi Card</a>!</p>
+
+<p>This thing might get me one step closer to finding a small device that addresses all of my connectivity needs when I&#8217;m on the go.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/25/">25</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000726"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/25/serious_css.php">Serious CSS</a></h3>
+
+<p><a href="mailto:schampeo@hesketh.com" rel="nofollow">Steve Champeon</a> wrote up a <a href="http://hotwired.lycos.com/webmonkey/03/21/index3a.html" title="Progressive Enhancement and the Future of Web Design" rel="nofollow">great article</a> on some of his recent <a href="http://hesketh.com/presentations/sxsw/2003/" title="Inclusive Web Design" rel="nofollow">css</a> <a href="http://hesketh.com/" title="hesketh.com" rel="nofollow">work</a>.</p>
+
+<blockquote>&#8220; &#8230; a comprehensive approach to Web document design that both embraced the future and drew heavily upon the past.&#8221;<br /><br />&#8220; &#8230; restored markup to its rightful place, showed how presentation could be requested only by those browsers that wanted it, and demonstrated how much money and time could be saved by expanding your audience and embracing the medium.&#8221;</blockquote>
+
+<p>I&#8217;m thoroughly impressed with Steve&#8217;s <a href="http://hesketh.com/presentations/sxsw/2003/" title="Inclusive Web Design" rel="nofollow">presentation</a> on web design that he gave at this year&#8217;s <a href="http://www.sxsw.com/" title="South by Southwest" rel="nofollow">SXSW</a>.  The entire content of the presentation is one HTML file.  The design and navigation aspects of the presentation are contained in various <acronym title="Cascading Style Sheets">CSS</acronym> and <acronym title="JavaScript">JS</acronym> files.  Now, if one were to take this concept and extend it a bit, an entire presentation could easily be included in one HTML file.  I relize that this digresses from the ideal separation of content and design, but for a presentation that needs to be sent to colleagues or potential clients, I find that having everything in a single file is <em>very</em> convenient.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000725"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/25/notebook_or_handheld_pc.php">Notebook or Handheld PC?</a></h3>
+
+<p>So I was reading PC Magazine a few days ago (free subscribtion&#8211;I&#8217;d never pay for that one), and I stubmled across an ad for the <a href="http://www.necsam.com/MP6" title="NEC MobilePro 900" rel="nofollow">most recent addition</a> to the NEC MobilePro series of <a href="http://www.microsoft.com/catalog/display.asp?site=10617&amp;subid=22&amp;pg=4" title="Microsoft Windows Powered Handheld PC" rel="nofollow">Handheld PCs</a>.  This one is listed at <a href="http://www.cdw.com/shop/products/default.asp?edc=487401" rel="nofollow">$899</a>.  The form factor of this PDA on steroids is certainly <a href="http://www.necsolutions-am.com/mobilesolutions/products/MobilePro/900/specs.htm" title="MobilePro 900 Specs" rel="nofollow">impressive</a>.  And while I like the wide-format display, 640x240 isn&#8217;t much real estate, especially when I&#8217;m stuggling to see a passive matrix screen.</p>
+
+<p>So why would anybody want to buy this when you can get a <a href="http://info.lindows.com/mobilepc/mobilepc.htm" rel="nofollow">Lindows Mobile PC</a> for only $799?  This thing has a 1024x768 <acronym title="Thin Film Transistor">TFT</acronym> display.  That&#8217;s much more usable to me.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/24/">24</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000724"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/24/i_wont_buymusiccom.php">I won&#8217;t BuyMusic.com!</a></h3>
+
+<p>Jeffrey Zeldman beat me to <a href="http://www.zeldman.com/daily/0703b.shtml#outoftune" title="Buymusic.com: out of tune with the times" rel="nofollow">the punch</a> with his bit about <a href="http://www.buy.com/" rel="nofollow">Buy.com</a>&#8217;s new music site:</p>
+
+<blockquote>The Web Standards Project <a href="http://www.webstandards.org/buzz/archive/2003_07.html#a000169" title="Some men you just can't reach" rel="nofollow">says everything</a> we would have said about this foolishness.</blockquote>
+
+
+<p>Updated July 27, 2003:</p>
+
+<p>Apple's <a href="http://www.apple.com/music/store/" rel="nofollow">iTunes Music Store</a> certainly does it right.  They sold a very large amount of music in the first few weeks, and I don't see any sign of that slowing down.  And with the ability to play that music on the <a href="http://www.apple.com/ipod/" title="iPod" rel="nofollow">ultimate personal music player</a>, the momentum is certainly powerful.</p>
+
+<p>But BuyMusic.com music won't play on my iPod.  In fact, I can't even download it on my Mac.  It's not only restricted to windows, but it's also restricted to Internet Explorer and WMA audio.  The will certainly be competitors that will challenge Apple in this market, but BuyMusic.com is not one of them.</p>
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/23/">23</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000723"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/23/i_want_this_bike.php">I want this bike!</a></h3>
+
+<p>I was reading <a title="A Whole Lotta Nothing" href="http://a.wholelottanothing.org/" rel="nofollow">nothing</a> this afternoon and found a really cool bike.  <a title="BiGHA, inc." href="http://bigha.com/" rel="nofollow">BiGHA, inc.</a> seems to make only one model, but it looks like it would be the perfect bike for commuting.</p>
+
+<p>There&#8217;s a guy that rides the most bizarre looking recumbent bike around the streets of Austin all the time.  I see him everywhere.  Ever since I first saw him, I realized that recumbent bikes are certainly the way to go for the longer rides around town.</p>
+
+<p>But BiGHA has made some true innovations.  The bike&#8217;s headlights automatically turn on when it gets dark.  The brake lights automatically light up when you are slowing down, glowing brighter with greater deceleration rates.  It&#8217;s got turn signals!  The LCD display on the handlebards not only acts as a speedometer and a tach, but it gives all sorts of other data, such as wind speed, elevation, compass heading, trip distance, and humity level.  Oh, and it&#8217;s got dual disc brakes for those times when you just can&#8217;t stop fast enough.</p>
+
+<p>But the price is a bit high, starting at $3,000.  Fortunately, though, if I decide I want to get one, I won&#8217;t be worried about it at all:  BiGHA offers a &#8220;no questions asked&#8221; 60-day return policy.  If you don&#8217;t like it, they&#8217;ll arrange to pick it up at <i>their</i> expense.  This sounds like a very consumer-friendly company.</p>
+
+<p>And they <a href="http://www.bigha.com/blog/" title="BiGHA Blog" rel="nofollow">blog</a>, too.  :)</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000722"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/23/need_a_low-power_server.php">Need a Low-Power Server?</a></h3>
+
+<p>I&#8217;ve been very interested in low-power computing for quite some time now.  All of my computers, whether servers, desktops, or laptops, are power-hungry heat monsters.  My desktop has about eight fans in it.  The house server has seven fans and five drives that spin non-stop.  My development server, which runs <a href="http://www.freebsd.org/" rel="nofollow">FreeBSD</a>, only has five fans in it, but it manages to be the loudest box in the house.  My <a href="http://www.ibm.com/thinkpad/" title="IBM Thinkpad" rel="nofollow">Thinkpad</a> often gets so hot that it becomes very uncomfortable to use it as a laptop.  I&#8217;m often forced to place it on the floor for a while to let it cool down, but it&#8217;s definitely silent in comparison with the others.  With those four boxes all in the same room, it&#8217;s very hot and very loud.  (And that&#8217;s just half of the computers in the house!)</p>
+
+<p>Enter <a href="http://www.ironsystems.com/" rel="nofollow">Iron Systems</a>.  They have a sweet little <a title="A-110 iServer" href="http://www.ironsystems.com/products/iservers/aclass/a110_low_power.htm" rel="nofollow">1U server</a> that&#8217;s powered by a 933 MHz VIA C3.  While many C3 boxes are completely fanless, that&#8217;s not the case with the server.  In fact, I&#8217;ve heard <a href="http://marc.theaimsgroup.com/?l=freebsd-stable&amp;m=105892226315630&amp;w=2" rel="nofollow">rumor</a> that they are even overcooled.  While this won&#8217;t solve my noise problems, it&#8217;s certainly going to lower my energy bill each month.  And it certainly won&#8217;t generate as much heat as the incumbent Athlons.</p>
+
+<p>So I&#8217;m inclined to ask:  For my meager processing needs at the house, why would I want to keep the Athlons around?  (Except for the desktop, of course.  ;-)</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/21/">21</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000721"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/21/sonys_new_ultralight.php">Sony&#8217;s New Ultralight</a></h3>
+
+<p>Sony&#8217;s <a href="http://reviews.designtechnica.com/firstlook24.html" title="Sony VAIO PCG-TR1A Notebook" rel="nofollow">latest</a> <a href="http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?CatalogCategoryID=7gwKC0%2eNOosAAAD2WYTZ7HTA&amp;ProductID=FAQKC0%2eNLzUAAAD2CJfZ7HTD&amp;Dept=cpu" rel="nofollow">entry</a> in the ultralight subnotebook category is being called a <a href="http://slashdot.org/article.pl?sid=03/07/21/2310222" title="Sony's New Vaio PCG-TR1A: 12&quot; Powerbook Killer?" rel="nofollow">12&#8221; Powerbook Killer</a>.</p>
+
+<p>I&#8217;m not a big fan of Sony hardware.  I once purchased one of their tiny notebooks rom CompUSA and had to take it back because the touchpad just didn&#8217;t work at all.  In all, they gave me four different notebooks before I just gave up and decided that I wanted my money back.</p>
+
+<p>Then I bought a Sony CLIE.  The NR-70.  This was one of their first to include and MP3 player in a clamshell form factor.  But the problem:  the thing didn&#8217;t recognize my memory sticks.  I had about 5 different sticks which worked quite well in my Sony camera, voice recorder, and TV.  These sticks also worked just fine on my Mac and PCs via USB and PCMCIA adapters.  But the CLIE said that the stick was improperly formatted.  I even tried formatting the stick on the CLIE, but that didn&#8217;t even help.  I eventually unloaded the PDA on <a href="http://www.ebay.com/" rel="nofollow">eBay</a>.</p>
+
+<p>Sony definitely knows how to <a href="/archives/2003/07/20/sony_cli_ux50.php" title="Sony CLIï¿½ UX50" rel="nofollow">pack the features</a> into a small device.  They know what the market wants.  They know how to make it look good.  But they just don&#8217;t hold up.  Whenever I finally get around to buying a tiny notebook for myself, I think I&#8217;ll stick to the good old <a href="http://www.ibm.com/thinkpad/" rel="nofollow">IBM Thinkpad</a> line.  I&#8217;m using a very heavy Thinkpad right now, and it&#8217;s withstood some horrific falls.  I don&#8217;t think any Sony notebook owner can say the same.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000720"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/21/i_think_i_missed_out_on_refinancing_my_house.php">I think I missed out on refinancing my house</a></h3>
+
+<p>OK, so I was thinking about refinancing my house a while back.  I bought it in 2001, just before the <a href="http://news.com.com/2009-1017_3-253125.html" title="Assessing the carnage" rel="nofollow">tech bubble bursted</a>.  A couple of months ago, I had my <a href="http://www.juliechadwick.com/" title="Julie" rel="nofollow">girlfriend</a> (a REALTOR&reg;) contact the president of a <a href="http://www.capital-mortgage.net/" title="Capital Mortgage Services" rel="nofollow">mortgage company</a> that she had been working with.  This guy promised that he could have our house refinanced within two weeks and that he would call us by the end of the following day.  Well, first off, he never called back.  We had to call him.  And when we did, his responses to our questions were rather curt.  He made promise after promise but never came through with anything.  And so I didn&#8217;t get the great rate cut that I was hoping for.</p>
+
+<p>Now, three months later, MSNBC seems to be saying that <a href="http://www.msnbc.com/news/937692.asp" title="Did you miss the refinancing boat?" rel="nofollow">I&#8217;ve waited too long</a>.  The recent <a href="http://money.cnn.com/2003/07/10/pf/yourhome/q_weekly_rates/index.htm" title="Mortgage rates surge again" rel="nofollow">media coverage</a> along with my GF&#8217;s local market research confirm that the mortgage rates are skyrocketing.</p>
+
+<p>Now I won&#8217;t lie:  I got a pretty good rate on the loan in 2001.  But earlier this year, mortgage rates hit 40-year lows.  Let&#8217;s just say that I could have easily shaved about two and a half points off of my rate if the re-fi came through.</p>
+
+<p>Nothing has happened since the initial failed attempt at getting my house refinanced.  Did I miss out on some huge savings?</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/20/">20</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000719"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/20/cheap_ibm_ppc_servers_coming.php">Cheap IBM PPC Servers Coming</a></h3>
+
+<p>eWEEK has an <a href="http://www.eweek.com/article2/0,3959,1197450,00.asp" title="IBM Servers to Pair Linux, New PowerPC Chips" rel="nofollow">article</a> that talks about IBM&#8217;s plans for some &#8220;ultra-low-end&#8221; servers based on the PowerPC 970.  It looks like we can expect to start seeing these sometime next year.  And the best part is that they&#8217;re planning to put out a 4U, 4-way server at around $3500.  These servers will run either Linux or AIX.  I&#8217;ve been drooling over their <a href="http://www-132.ibm.com/content/home/store_IBMPublicUSA/en_US/eServer/pSeries/mid_range/pSeries_midrange.html" title="IBM eServer pSeries mid-range servers - UNIX servers" rel="nofollow">POWER4-based servers</a> for quite some time now, but they are WAY out of my price range.  These new offerings make me really happy.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000718"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/20/sony_clie_ux50.php">Sony CLIE UX50</a></h3>
+
+<p>Sony finally announced their hot <a href="http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?CatalogCategoryID=0ScKC0%2eNFCcAAAD2WXHZ7HTA&amp;ProductID=1GoKC0%2eNc3MAAAD24TbZ7HTG" title="UX50 CLIE&trade; Handheld" rel="nofollow">new PDA</a> that I <a href="/archives/000017.html" title="The Ultimate PDA?" rel="nofollow">mentioned</a> a few days ago.</p>
+
+<p>Slashdot gave a <a href="http://slashdot.org/article.pl?sid=03/07/19/216235" title="Sony Switches To Its Own Processor For Handhelds" rel="nofollow">a bit of coverage</a> yesterday.  I found several interesting viewpoints there.</p>
+
+<p>I&#8217;m still waiting on these guys to deliver one that adds in GSM/GPRS support, too.  My previous experience with Sony CLIEs has been <em><b>very</b></em> bad, though, so even when they get the features that I need, I&#8217;m going to have to make sure I purchase from a store that has a very customer-friendly return policy.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/18/">18</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000717"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/18/linksys_linux_maybe.php">Linksys Linux (maybe?)</a></h3>
+
+<p><a href="http://www.oreillynet.com/pub/au/80" rel="nofollow">Rob Flickenger</a> <a href="http://www.oreillynet.com/pub/wlg/3525" title="Linux on the Linksys" rel="nofollow">reported</a> today on some <a href="http://seattlewireless.net/index.cgi/LinksysWrt54g#line50" title="Hacking on the WRT54G at hack night" rel="nofollow">serious hacking</a> that he and some <a href="http://seattlewireless.net/" rel="nofollow">Seattle Wireless</a> buddies have been doing on the <a href="http://www.linksys.com/products/product.asp?prid=508" rel="nofollow">Linksys WRT54G</a> wireless router.  This router already runs Linux out of the box, but these guys are trying to get their own firmware into it so that they can extend it to run some of the <a href="http://nocat.net/" rel="nofollow">NoCat</a> <a href="http://nocat.net/download/" rel="nofollow">projects</a>, tunnelling, monitoring, better firewalling, and anything else that one might expect from a good, secure WLAN node.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/17/">17</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000716"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/17/the_ultimate_pda.php">The Ultimate PDA?</a></h3>
+
+<p>Sony is supposed to announce a new PDA tomorrow.  Brighthand seems to have an <a href="http://www.brighthand.com/article/Sony_Announcing_Wireless_Handheld_on_Friday" title="Sony Announces Clamshell-Shaped Clie with Wi-Fi" rel="nofollow">early scoop</a> on it (via <a href="http://arstechnica.com/archive/news/1058463762.html" title="New Sony CliÃ©aising the bar (again)" rel="nofollow">Ars Technica</a>).  WiFi, Bluetooth, QWERTY keyboard, .3 megapixel camera.  Also, the ARM-based processor is made by Sony and is supposedly tweaked for maximum battery life.  Very <a href="http://animatedtv.about.com/library/weekly/aa040502a.htm" rel="nofollow">sweet</a>.  For me, there are only two things missing:  a GSM phone and a CF slot.  Perhaps the followup model will get those added in.</p>
+
+<p>Update:  <a href="http://www.gizmodo.com/archives/007640.php" title=" Sony's new Clie" rel="nofollow">Gizmodo</a> and <a href="http://www.infosyncworld.com/news/n/3837.html" title="New CLIE PEG-UX50 sports Wi-Fi, Bluetooth, and more" rel="nofollow">infoSync World</a> seem to have discovered this, too.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000715"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/17/the_buzz_on_yahoo.php">The Buzz on Yahoo</a></h3>
+
+<p><a href="http://jeremy.zawodny.com/" rel="nofollow">Jeremy</a> pointed out some great <a href="http://jeremy.zawodny.com/blog/archives/000774.html" title="Yahoo! Buzz RSS Feeds" rel="nofollow">RSS feeds</a> today.  Now if only we could get the <a href="http://www.google.com/press/zeitgeist.html" title="Google Zeitgeist" rel="nofollow">Zeitgeist</a> in RSS.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/16/">16</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000714"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/16/chill_out.php">Chill Out</a></h3>
+
+<p>In these days of constant chaos, I think that all of the <a href="http://www.buymeds.com/affiliates/aw.asp?A=3359&amp;Task=Click&amp;B=63&amp;P=14" title="Viagra" rel="nofollow">Viagra</a> spam its misdirected.  These spammers would be doing a much greater service to the world if they would simply recommend <a href="http://www.buymeds.com/affiliates/aw.asp?A=3359&amp;Task=Click&amp;B=68&amp;P=18" title="Xanax" rel="nofollow">Xanax</a> or <a href="http://www.buymeds.com/affiliates/aw.asp?A=3359&amp;Task=Click&amp;B=60&amp;P=23" title="Valium" rel="nofollow">Valium</a>.  I think the world would be a better place if people would take some chill pills.  Can you imagine a world filled with people who are just <em>that much more</em> relaxed?</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000713"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/16/adsense_changes.php">AdSense Changes?</a></h3>
+
+<p>I know I&#8217;m not the <a href="http://jason.defillippo.com/blog/archives/000292.phtml" title="GRRRR" rel="nofollow">first</a> to notice this, but it seems like <a href="http://www.google.com/adsense/" title="Google AdSense" rel="nofollow">AdSense</a> isn&#8217;t paying anywhere near as much per click today as it has been over the past couple of weeks.  What gives?</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000712"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/16/shorter_urls.php">Shorter URLs</a></h3>
+
+<p>Go <a href="http://notlong.com/links/" title="Web Sites That Shorten Long URLs" rel="nofollow">here</a> if you are needing to shorten that long URL and want to see a comparison of the various services do this for you.  (via <a href="http://boingboing.net/#200443677" rel="nofollow">Boing Boing</a>)</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000711"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/16/fun_with_movabletype.php">Fun with MovableType</a></h3>
+
+<p>Until my first <a href="http://www.movabletype.org/" title="MovableType" rel="nofollow">MT</a> install last week, I had always thought that it was just a simple tool for blogging.  I&#8217;m been learning rather quickly, however, that it&#8217;s for more than that.  <a href="http://www.bradchoate.com/past/001656.php" title="Doing your whole site with MT" rel="nofollow">Brad Choate</a> runs his whole site on MT.  <a href="http://a.wholelottanothing.org/features.blah/entry/007162" title="Beyond the Blog" rel="nofollow">Matt Haughey</a> has done the same on many sites.   In fact, I&#8217;m find <a href="http://scott.typepad.com/delimiter/2003/07/relative_paths_.html" title="Relative Paths in MT" rel="nofollow">references</a> of this type of thing happening all over the place.  I know that my site is currently missing some important info.  Right now it&#8217;s just a blog needing some personalization.  These new tips will certainly make life easier when I finally getting around to fixing things up.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/15/">15</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000710"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/15/tomahawk_might_make_it_to_production.php">Tomahawk Might Make it to Production</a></h3>
+
+<p>According to <a href="http://www.allpar.com/cars/concepts/tomahawk.html" title="Dodge Tomahawk" rel="nofollow">this site</a>, the Dodge Tomahawk might actually see the light of day.  If you haven&#8217;t seen this thing yet, you&#8217;ve got to check it out.  It&#8217;s basically a motorcycle with the Viper&#8217;s V10 engine.  If it does actually go golden, there won&#8217;t be very many of them, and I know I certainly won&#8217;t be able to afford one.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000709"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/15/claudette.php">Claudette</a></h3>
+
+<p><a href="http://www.cnn.com/2003/WEATHER/07/15/claudette/index.html" title="Hurricane Claudette slams Texas coast" rel="nofollow">Claudette</a>, now a hurricane, is slowly making her way towards the Texas coast.  I&#8217;m glad that I live <a href="http://www.ci.austin.tx.us/" title="Austin" rel="nofollow">far enough inland</a> as to avoid most of the misery.  I suppose that my grass will finally get a well-deserved watering.  I&#8217;d kill to see the hurricane up close.  It&#8217;s too bad that I have to work tomorrow.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/13/">13</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000708"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/13/karl_on_bob.php">Karl on Bob</a></h3>
+
+<p>Karl, I couldn&#8217;t have possibly written a better description of &#8220;<a href="http://www.wordsoup.com/word/archives/000981.html" title="Get a Job, Lazy Shithead..." rel="nofollow">Bob</a>&#8221;.  When the corp that I worked for began laying off Bobs left and right, I decided that it was time to free myself from their slavery.  I&#8217;m happily an independent consultant now.  When will the Bobs die off?  I know of several.  They are just waiting for that next Bob Job to fall out of the sky.  And it&#8217;s not going to happen in today&#8217;s economy.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/11/">11</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000707"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/11/browser_fun.php">Browser Fun</a></h3>
+
+<p>So while checking out some blogs seeking inspiration today, I found a <a href="http://simon.incutio.com/archive/2003/07/09/linkPropogation" title="CSS Drop Shadows" rel="nofollow">neat trick</a>. </p>
+
+<p>I&#8217;m sure I&#8217;ll find a good use for this before long.  It&#8217;s too bad, though, that IE can&#8217;t do the sweet 24-bit PNG shadows, though.  Those look really nice in mozilla.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/10/">10</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000706"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/10/wi-fi_detector.php">Wi-Fi Detector</a></h3>
+
+<p>I hate it when I pick the wrong chair at an unfamiliar Starbuck&#8217;s.  It&#8217;s the chair with the dead spot.  The chair where I can&#8217;t get my <a href="http://www.t-mobile.com/hotspot/" rel="nofollow">T-Mobile</a> connection.</p>
+
+<p>But <a href="http://kensington.com/html/3720.html" title="Kensington WiFi Finder" rel="nofollow">this gadget</a> (introduced to me by <a href="http://boingboing.net/2003_07_01_archive.html#200443609" rel="nofollow">Boing Boing</a>) will solve all of my problems.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/09/"> 9</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000705"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/09/bookmarklets_rock.php">Bookmarklets Rock!</a></h3>
+
+<p><a href="http://simon.incutio.com/" rel="nofollow">Simon</a> gave a <a href="http://simon.incutio.com/archive/2003/06/03/bookmarkletsAndCSS" title="Using bookmarklets to experiment with CSS" rel="nofollow">great writeup</a> about <a href="http://www.squarefree.com/bookmarklets/" rel="nofollow">Jesse&#8217;s Bookmarklets</a> about a month ago.  I just managed to find it today, but I am <em>very</em> impressed.</p>
+
+<p>You&#8217;ll need <a href="http://www.mozilla.org/" rel="nofollow">mozilla</a> to use some of them; if you aren&#8217;t using mozilla already anyway, it&#8217;s probably a good idea to at least have it installed as a secondary browser.  Unfortunately, there are still a ton of <a href="http://www.webtrendslive.com/" rel="nofollow">brain-dead</a> sites out there that won&#8217;t work with it.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000704"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/09/canada_becomes_first_to_choose_medical_marijuana.php">Canada Becomes First to Choose Medical Marijuana</a></h3>
+
+<p>It&#8217;s been talked about for quite some time now.  Many US states have approved it.  Many municipalities have also followed suit.  But today, Canada <a href="http://reuters.com/printerFriendlyPopup.jhtml?storyID=3062745" rel="nofollow">officially became the first country</a> to dispense the <a href="http://www.hightimes.com/htsite/grow/pix/0902A/pix0902A_6_big.jpg" title="Sticky!" rel="nofollow">wacky weed</a> to its ill.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/08/"> 8</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000703"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/08/new_features_in_mysql.php">New Features in MySQL</a></h3>
+
+<p><a href="http://jeremy.zawodny.com/" rel="nofollow">Jeremy</a> posted a nice <a href="http://jeremy.zawodny.com/blog/archives/000841.html" title="OSCON Day #2: New Features in MySQL" rel="nofollow">summary</a> of the new features in the recent MySQL releases.</p>
+
+<p>Update:  I&#8217;m really looking forward to the <a href="http://simon.incutio.com/archive/2003/07/10/mysqlStoredProcedures" title="Stored procedures in MySQL?" rel="nofollow">stored procedures</a> that are coming in 5.0.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000702"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/08/stop_calling_me.php">Stop Calling Me!</a></h3>
+
+<p>I hate telemarketers.  I signed up for the <a href="http://www.donotcall.gov/" rel="nofollow">National Do Not Call List</a> and <a href="http://www.texasnocall.com/" rel="nofollow">Texas No Call List</a> today.  Hopefully the phone spam will end.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/06/"> 6</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000701"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/06/hello_world.php">Hello, world!</a></h3>
+
+<p>I&#8217;ve finally gotten around to setting up my own blog.  The madness has begun.  And I have no idea where it&#8217;s going to take me.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

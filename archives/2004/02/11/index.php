@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/11/">11</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000836"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/11/8gb_compact_flash.php">8GB Compact Flash</a></h3>
+
+<p>Simpletech has announced that they&#8217;ll soon be bringing an 8GB compact flash card to market.  With digital camera resolution increasing with every new product generation, this will be nice to have around.  For taking raw images at 8mp+, this begins to seem more like a necessity.  [via <a href="http://www.digitalslr.org/2004/02/8gb_compact_fla.html" title="8GB Compact Flash Card" rel="nofollow">digitalslr.org</a>]</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000835"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/11/firefox_unstable.php">Firefox Unstable</a></h3>
+
+<p>Like most of the web design community, I upgraded to Mozilla Firefox 0.8 when it was released on Monday.  And I am not happy.</p>
+
+<p>While the team that handled the new <a href="http://www.hicksdesign.co.uk/journal/archives/000377.php" rel="nofollow">branding initiative</a> did an excellent job, the code monkeys screwed something up.  Now just 24 hours into my use of the new browser, it has crashed over six times.</p>
+
+<p>Initially, the browser had problems with my old profile.  I wasn&#8217;t really surprised at this because I knew that the profile had problems.  So I gave in and created a new profile, keeping only my bookmarks file.  With the new profile, I thought that I was in the clear.  Everything (saved logins, autocompletes, etc) began to work properly once again.</p>
+
+<p>But then I slowly began to notice some problems.  For example, Firefox often forgets cookies that it shouldn&#8217;t.  This gets to be really annoying when using a site that uses cookies for its authentication.  Imaging clicking submit after writing a long post only to be greeted with a login screen.  This has happened to me more than ten times today.</p>
+
+<p>And the crashes.  Firebird 0.7 crashed on me after about 5-7 days of solid use.  By solid use I mean never closing the app.  Always having at least 50 tabs open at any given time.  Closing one tab woudl typically mean opening three more.  Its memory footprint, according to the Windows XP Task Manager, often exceeded 150MB.  I didn&#8217;t mind the memory usage, considering what I was asking of the browser, but the crashes just really bothered me.</p>
+
+<p>The problem is worse with Firefox.  I can&#8217;t seem to keep the browser running for more than a couple of hours once I load up 20 or so tabs.  In my most recent crash, I launched the browser, opened two tabs, and then, before the loading of both pages was complete, Firefox crashed.</p>
+
+<p>The Mozilla Organization has simply failed with the release of this product.  <a href="http://www.mozilla.org/products/firefox/" rel="nofollow">Their own words</a>, while well-intentioned, provide false statements about the browser:<br />
+<blockquote>&#8220;Firefox empowers you to accomplish your online activities faster, more safely and efficiently than any other browser, period.&#8221;</blockquote><br />
+Now please understand that I have been using a <a href="http://www.mozilla.org/newlayout/" rel="nofollow">Gecko</a>-based browser for quite some time now.  In one form or another, Gecko has been my primary web browser for probably at least two years.  I&#8217;m a big fan of this project.  But this release was just not good.  It&#8217;s not good for me.  It&#8217;s not good for the newbies that Mozilla is trying to attract away from IE.  And it&#8217;s not good for Mozilla&#8217;s image and reputation.  We need Firefox 0.81, and we need it <b>fast</b>!</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

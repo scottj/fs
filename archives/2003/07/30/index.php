@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/30/">30</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000732"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/is_the_nicotini_the_answer.php">Is the Nicotini the answer?</a></h3>
+
+<p>Many cities and states already have the legislation.  Here in Austin, it&#8217;s scheduled to take effect in September.  I&#8217;m talking about the smoking ban.</p>
+
+<p>Austin has had a ban on smoking in restaurants since I moved here about five and a half years ago.  Bear in mind that it&#8217;s not all restaurants, however&#8211;there <em>are</em> loopholes.  So my smoking friends typically only patronize the loophole-conscious restaurants.</p>
+
+<p>Bars are the main concern with the new ordinance.  Many bar owners complain that their business will be gone when their customers aren&#8217;t allowed to smoke.  This complaint holds some truth, as several popular bars have outdoor patios or balconies.  These are the loopholes of the new ordinance.</p>
+
+<p>But the clever bar owners in Miami might be leading the way in fighting the antismoking laws.  Enter the <a href="http://www.sun-sentinel.com/entertainment/barsandclubs/sfl-linicotini30jul30,0,1955010.story?coll=sfla-entertainment-nightlife" title="Enter the nicotini: Smoking ban leads to tobacco-infused drink" rel="nofollow">Nicotini</a>.</p>
+
+<blockquote>&#8220;Call it a liquid cigarette because this drink comes complete with the nicotine rush and tobacco aftertaste found in a pack of Camels.&#8221;</blockquote>
+
+<p>Not being a smoker, I don&#8217;t quite understand what these people go through without their precious Nicotine, but I do know that when most smokers drink, their Nicotine craving increases.  Without being allowed to smoke in bars, most would opt to simply walk outside for a quick smoke whenever necessary.  But with this type of hassle, why wouldn&#8217;t they just opt instead for a bar with a patio? </p>
+
+<p>I can easily see where the Nicotini might appear golden in the eyes of local bartenders and bar owners.  Will this become a nationwide trend?</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000731"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/infiniti_fx45.php">Infiniti FX45</a></h3>
+
+<p>A few weeks ago, I discovered the new <a href="http://www.infiniti.com/" title="Infiniti" rel="nofollow">Infiniti</a> <a href="http://www.infiniti.com/content/0,,cid-24508_sctid-12001,00.html" title="Infiniti FX45/FX35" rel="nofollow">FX</a> and was admittedly a bit intrigued.  Car and Driver recently <a href="http://www.caranddriver.com/article.asp?section_id=16&amp;article_id=6857" title="Infiniti FX35 : Whater it's called, it's pretty good" rel="nofollow">gave rave reviews</a> on the FX35.  Typically, I don&#8217;t like SUVs at all.  I&#8217;m more of a sports car kind of guy.  But this is one SUV that&#8217;s just sporty enough to grab my interest.  And by the time I left the Infiniti showroom, I was in love with this mean SUV.</p>
+
+<blockquote>&#8220;Whatever it&#8217;s called, it&#8217;s pretty good.&#8221;</blockquote>
+
+<p>The Infiniti FX shares its platform with the G35 Coupe and the Nissan 350Z.  Those are typically not the type of vehicle that one would think of as cousins of an SUV.  And it shows in the way the FX grips the road on a fast curve.</p>
+
+<p>The 45 comes standard with 20&#34; rims.  As far as I know, that&#8217;s a first on an SUV.  And being a firm believer that stock wheels almost always are better suited to a vehicle, this is a nice touch.  Any other SUV would require me to ditch the stock rims for such an upgrade.</p>
+
+<p>But this isn&#8217;t just any SUV.  Even for a &#8220;crossover&#8221;, this is an oddball.  When the FX drives past you on the road for the first time, you can&#8217;t help but stare at it&#8217;s sleek, low-slung design.</p>
+
+<p>And the 315 HP 4.5-liter V8 certainly lives up to the visual styling.  While it&#8217;s not quite as quick as the cars that I typically drive, it&#8217;s certainly the quickest SUV that I&#8217;ve ever driven.  The more powerful (and heavier) Cadillac Escalade certainly won&#8217;t keep up.  And unlike its competition, the FX inspires confidence at higher speeds.</p>
+
+<p>The interior of the vehicle is luxurious.  The brick leather is particularly nice.  The stereo is excellent.  There are more electronics on this car that most any other.  Take for example the rear-view camera that automatically takes over the LCD screen on the center of the dash when the FX is placed in reverse.</p>
+
+<p>Overall, the FX just can&#8217;t be beaten.  Even if you&#8217;re not in the market for a sub-$55k SUV, it&#8217;s certainly worth the time to stop by your local Infiniti dealer for a test drive.  I&#8217;m sure you&#8217;ll enjoy it.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000730"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/simplifying_the_web.php">Simplifying the Web</a></h3>
+
+<p><a href="http://kalsey.com/" title="Kalsey Consulting Group" rel="nofollow">Kalsey</a> is trying to  <a href="http://kalsey.com/2003/07/simplifying_the_web_one_step_at_a_time/" title="Simplifying the web, one step at a time :: Kalsey Consulting Group" rel="nofollow">simplify the web, one step at a time</a>.  This is certainly a long overdue step in the right direction for form design.</p>
+
+<blockquote>&#8220;Some things in Web design are too complex.&#8221;</blockquote>
+
+<p>With the first article on <a href="http://kalsey.com/simplified/" title="Simplified" rel="nofollow">Simplified</a>, a simple PHP script is introduced that provides highly usable form errors.  Having dealt with many websites with brain dead forms, I&#8217;m eagerly anticipating the adoption of such techniques.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000729"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/zempt.php">Zempt</a></h3>
+
+<p>I just discovered <a href="http://zempt.com/" title="Zempt :: Multi-platform posting for Movable Type :: Zempt" rel="nofollow">Zempt</a> this past weekend.  In short, it&#8217;s totally changing the way I post to my site.</p>
+
+<p>First off, since it runs on my PC instead of on my web server, it&#8217;s a lot faster than <a href="http://www.movabletype.org/" title="Movable Type" rel="nofollow">Movable Type</a>&#8217;s web interface.  Sure, there are <a href="http://wbloggar.com/" title="w.bloggar" rel="nofollow">other</a> tools that have similar functionality, but I haven&#8217;t been happy with them.</p>
+
+<p>Second, it&#8217;s got spell check!  Hopefully this will take care of the inevitable typos that plague my postings.</p>
+
+<p>And my favorite feature of this tool is the Preview functionality.  The preview isn&#8217;t anything special&#8211;it&#8217;s just showing my simple markup in a basic HTML control.  But it&#8217;s <strong>far</strong> faster than MT&#8217;s web interface.  This is a major plus for me.</p>
+
+<p>And lastly, Zempt will be a multi-platform app as soon as the next release is available&#8211;Linux support is due in version 0.4.  Mac support is also supposed to show up in 0.5.  I can&#8217;t wait!</p>
+
+<p>If you&#8217;re looking for a better tool for posting to Movable Type, be sure to check out Zempt.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

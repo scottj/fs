@@ -1,0 +1,278 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/12/">December</a> <a href="/archives/2007/12/31/">31</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001258"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/12/31/links_for_2007-12-31.php">links for 2007-12-31</a></h3>
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://aws.typepad.com/aws/2007/12/ec2-firefox-ext.html" rel="nofollow">Amazon Web Services Blog: EC2 Firefox Extension is now Open Source</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/ec2" rel="nofollow">ec2</a> <a href="http://del.icio.us/scottj/amazon" rel="nofollow">amazon</a> <a href="http://del.icio.us/scottj/firefox" rel="nofollow">firefox</a> <a href="http://del.icio.us/scottj/extension" rel="nofollow">extension</a>)</div>
+	</li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/12/">December</a> <a href="/archives/2007/12/30/">30</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001257"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/12/30/links_for_2007-12-30.php">links for 2007-12-30</a></h3>
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.whcc.com/" rel="nofollow">White House Custom Colour - Professional Photographic Lab and Press Printer</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/printing" rel="nofollow">printing</a> <a href="http://del.icio.us/scottj/digital" rel="nofollow">digital</a> <a href="http://del.icio.us/scottj/photography" rel="nofollow">photography</a> <a href="http://del.icio.us/scottj/prints" rel="nofollow">prints</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://code.google.com/p/jsdoc-toolkit/" rel="nofollow">jsdoc-toolkit</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/documentation" rel="nofollow">documentation</a> <a href="http://del.icio.us/scottj/tools" rel="nofollow">tools</a> <a href="http://del.icio.us/scottj/javadoc" rel="nofollow">javadoc</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.intertwingly.net/blog/2007/12/05/phpMyId-0-7" rel="nofollow">Sam Ruby: phpMyId 0.7</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/php" rel="nofollow">php</a> <a href="http://del.icio.us/scottj/OpenID" rel="nofollow">OpenID</a> <a href="http://del.icio.us/scottj/provider" rel="nofollow">provider</a>)</div>
+	</li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/12/">December</a> <a href="/archives/2007/12/27/">27</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001256"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/12/27/links_for_2007-12-27.php">links for 2007-12-27</a></h3>
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://weblogs.java.net/blog/tomwhite/archive/2007/11/consistent_hash.html" rel="nofollow">Tom White&#8217;s Blog: Consistent Hashing</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/hashing" rel="nofollow">hashing</a> <a href="http://del.icio.us/scottj/programming" rel="nofollow">programming</a> <a href="http://del.icio.us/scottj/java" rel="nofollow">java</a>)</div>
+	</li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/12/">December</a> <a href="/archives/2007/12/20/">20</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001255"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/12/20/links_for_2007-12-20.php">links for 2007-12-20</a></h3>
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.playgroundblues.com/posts/2007/dec/02/django-basic-apps/" rel="nofollow">Django Basic Apps</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/django" rel="nofollow">django</a> <a href="http://del.icio.us/scottj/python" rel="nofollow">python</a> <a href="http://del.icio.us/scottj/applications" rel="nofollow">applications</a> <a href="http://del.icio.us/scottj/opensource" rel="nofollow">opensource</a> <a href="http://del.icio.us/scottj/code" rel="nofollow">code</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://code.google.com/p/flot/" rel="nofollow">flot</a></div>
+		<div class="delicious-extended">Attractive Javascript plotting for jQuery</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/jquery" rel="nofollow">jquery</a> <a href="http://del.icio.us/scottj/graph" rel="nofollow">graph</a> <a href="http://del.icio.us/scottj/chart" rel="nofollow">chart</a> <a href="http://del.icio.us/scottj/plugin" rel="nofollow">plugin</a> <a href="http://del.icio.us/scottj/library" rel="nofollow">library</a>)</div>
+	</li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/12/">December</a> <a href="/archives/2007/12/04/"> 4</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001254"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/12/04/links_for_2007-12-04.php">links for 2007-12-04</a></h3>
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://petdance.com/ack/" rel="nofollow">ack &#8211; a grep replacement</a></div>
+		<div class="delicious-extended">&#8220;a tool like grep, aimed at programmers with large trees of heterogeneous source code.&#8221;</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/grep" rel="nofollow">grep</a> <a href="http://del.icio.us/scottj/tools" rel="nofollow">tools</a> <a href="http://del.icio.us/scottj/search" rel="nofollow">search</a> <a href="http://del.icio.us/scottj/perl" rel="nofollow">perl</a> <a href="http://del.icio.us/scottj/programming" rel="nofollow">programming</a>)</div>
+	</li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/12/">December</a> <a href="/archives/2007/12/01/"> 1</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001251"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/12/01/links_for_2007-12-01.php">links for 2007-12-01</a></h3>
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.xs4all.nl/~whaa/putty/" rel="nofollow">PuTTY Tray</a></div>
+		<div class="delicious-extended">&#8220;an improved version of PuTTY&#8221;</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/putty" rel="nofollow">putty</a> <a href="http://del.icio.us/scottj/ssh" rel="nofollow">ssh</a> <a href="http://del.icio.us/scottj/windows" rel="nofollow">windows</a> <a href="http://del.icio.us/scottj/freeware" rel="nofollow">freeware</a>)</div>
+	</li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

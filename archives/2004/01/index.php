@@ -1,0 +1,505 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/30/">30</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000830"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/30/music_quiz.php">Music Quiz</a></h3>
+
+<p>This was my result:<br />
+<div class="artimg"><img src="/images/musicquiz.jpg" border="0" alt="music" /></div><br />
+<blockquote>&#8220;Good. You know your music. You should be able to work at Championship Vinyl with Rob, Dick and Barry&#8221;</blockquote></p>
+
+<p><a href="http://quizilla.com/users/politicallypissedoff/quizzes/Do%20You%20Know%20Your%20Music%20(Sorry%20MTV%20Generation%20I%20Doubt%20You%20Can%20Handle%20This%20One)/" rel="nofollow"> Do You Know Your Music (Sorry MTV Generation I Doubt You Can Handle This One)</a><br />
+[ Via <a href="http://www.goingcanuck.com/mt/archives/000172.html" rel="nofollow">Going Canuck</a> ]</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/29/">29</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000829"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/29/css_filters_and_hacks.php">CSS Filters and Hacks</a></h3>
+
+<p>Dithered.com has an excellent <a href="http://www.dithered.com/css_filters/css_only/index.php" title="CSS filtering using CSS only" rel="nofollow">chart</a> of CSS filters.  Any designer working on CSS-based designs for multiple browsers will find this useful.  Check out the <a href="http://www.dithered.com/css_filters/index.html" rel="nofollow">CSS Filters</a> page for a bit more commentary.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/28/">28</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000828"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/28/hutton_inquiry_experiment.php">Hutton Inquiry Experiment</a></h3>
+
+<p>Supposedly, the BBC is buying up all of the ads the the Google AdWords keywords &#8220;Hutton inquiry&#8221; and &#8220;Hutton report&#8221;.  According to <a href="http://media.guardian.co.uk/bbc/story/0,7521,1130050,00.html" rel="nofollow">The Guardian</a>, &#8220;No other news broadcaster or any newspaper has paid Google for this facility.&#8221;  This is the type of AdWords/AdSense experiment I&#8217;ve been waiting for.</p>
+
+<p>Lord Hutton is scheduled to deliver his verdict on the death of Dr. David Kelly today.</p>
+
+<p><b>Update:</b> The <a href="http://www.the-hutton-inquiry.org.uk/" rel="nofollow">Hutton Inquiry</a> is out (<a href="http://www.dracos.co.uk/hutton/" rel="nofollow">accessible version</a>). [Via <a href="http://www.metafilter.com/mefi/31001" rel="nofollow">MeFi</a>]</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/27/">27</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000827"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/27/free_image_storage.php">Free Image Storage</a></h3>
+
+<p><a href="http://photobucket.com/" rel="nofollow">Photobucket</a> claims to provide 100MB of free image hosting to anyone.  Use it for your photo albums, images for eBay auctions, images for your blog, or whatever.  If you have strict bandwidth limits on your hosting account, this will certainly help cut your costs.  But this just <em>can&#8217;t</em> last very long. [Via <a href="http://www.metafilter.com/mefi/30957" rel="nofollow">MeFi</a>]</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000826"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/27/easy_tivo_upgrades.php">Easy TiVo Upgrades</a></h3>
+
+<p><a href="http://www.pvrblog.com/pvr/2004/01/weaknees_kit_re.html" rel="nofollow">PVRblog</a> just linked to a story about <a href="http://www.mercurynews.com/mld/mercurynews/business/technology/personal_technology/7798247.htm" title="Mercury News: Add-on kit boosts TiVo storage" rel="nofollow">TiVo upgrades for dummies</a>. The summary:  It seems that the folks at <a href="http://www.weaknees.com/" rel="nofollow">WeaKnees</a> have got the TiVo market figured out.</p>
+
+<p>Whether you want to upgrade your existing TiVo to as much as 344 hours of capacity or you want to buy a new TiVo that&#8217;s already upgraded, they have the solution for you.  They have an excellent <a href="http://www.weaknees.com/warranty.php" rel="nofollow">warranty</a> and are a very customer-oriented company.</p>
+
+<p>And for all of you High Definition freaks out there, be sure to check out their <a href="http://www.weaknees.com/hd_tivo.php" rel="nofollow">HD TiVo</a> page.  The HD hardware isn&#8217;t expected until April, but you&#8217;ll want to be sure to get on the list.</p>
+
+<p>The only thing missing from these guys is the <a href="/archives/2003/12/01/tivo_cachecard.php" rel="nofollow">cache card</a>, but WeaKnees seems to be the most complete TiVo upgrade source out there.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000825"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/27/redirects_are_not_an_option.php">Redirects Are Not An Option</a></h3>
+
+<p>I have just installed David Raynes&#8217; <a href="http://www.rayners.org/2004/01/20/optionalredirect_v01.php" rel="nofollow">Optional-Redirect Plugin</a> for <a href="http://www.movabletype.org/" rel="nofollow">Movable Type</a>.  Comment author links no longer behave in the 2.661 way.  They work as they should&#8212;that is, they link directly.  While I understand the nature of this change that Six Apart made to MT, I don&#8217;t agree with it.  Redirects are slow and destroy Google juice.  There are <a href="http://golem.ph.utexas.edu/~distler/blog/archives/000291.html" rel="nofollow">better</a> <a href="http://golem.ph.utexas.edu/~distler/blog/archives/000294.html" rel="nofollow">ways</a> to fight spam.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/25/">25</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000824"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/25/feedster_interesting_blogs.php">Feedster Interesting Blogs</a></h3>
+
+<p>Wow, I just discovered that my site was selected as <a href="http://feedster.com/fotd.php" rel="nofollow">Feedster Interesting Blog of the Day</a> for December 17, 2003.  And all along I thought that nobody read this thing.</p>
+
+<div class="artimg"><img src="http://feedster.com/i/fotd.jpg" alt="Feed of the Day" /></div>
+
+<p>Seeing <a href="http://battellemedia.com/" rel="nofollow">John Battelle</a> just 15 days earlier and <a href="http://www.nelson.monkey.org/~nelson/weblog" rel="nofollow">Nelson</a> just three months earlier made me feel good.</p>
+
+<p>Thanks to <a href="http://www.fuzzyblog.com/" rel="nofollow">Scott</a>, <a href="http://betsydevine.weblogger.com/" rel="nofollow">Betsy</a>, and everybody else at <a href="http://www.feedster.com/" rel="nofollow">Feedster</a>.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/22/">22</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000823"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/22/itunes_music_store_rss.php">iTunes Music Store RSS</a></h3>
+
+<p>Apple now has an <a href="http://phobos.apple.com/WebObjects/MZSearch.woa/wa/MRSS/rssGenerator" title="iTunes Music Store RSS Generator" rel="nofollow">RSS generator</a> for the iTunes Music Store.  You can get a feed for just about anything you want.  <a href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/newreleases/genre=0000800/limit=10/rss.xml" rel="nofollow">Latest 10 Hip Hop/Rap Releases</a>.  <a href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/topsongs/genre=0008200/limit=50/rss.xml" rel="nofollow">Top 50 Pop &amp; Alternative Songs</a>.  The possibilities are limitless.</p>
+
+<p><b>Update:</b>  It seems that <a href="http://www.metafilter.com/mefi/30910" rel="nofollow">several</a> <a href="http://www.macminute.com/2004/01/22/itunesrss" rel="nofollow">other</a> <a href="http://www.macdailynews.com/comments.php?id=P1993_0_1_0" rel="nofollow">sites</a> have picked up on this one now, too.  This service is sure to be a hit.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/13/">13</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000822"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/13/automatically_closing_old_mt_entries.php">Automatically Closing Old MT Entries</a></h3>
+
+<p>There has been quite a bit of talk about <a href="/archives/2003/11/10/ending_comment_spam.php" title="Ending Comment Spam" rel="nofollow">preventing weblog comment spam</a> lately.  <a href="http://jeremy.zawodny.com/blog/archives/001263.html" title="Auto-closing MT Comments on Old Blog Entries" rel="nofollow">Jeremy Zawodny</a> and <a href="http://www.sifry.com/alerts/archives/000323.html" title="How to limit comments to one week after posting" rel="nofollow">David Sifry</a> have each come up with similar solutions for automatically turning off comments on older posts.  While both of these solutions work perfectly well, I wanted something that was a bit more integrated with <acronym title="Movable Type">MT</acronym>.  I wanted <acronym title="Movable Type">MT</acronym> to handle the updates to the older entries.</p>
+
+<p>So today it dawned on me that Brad Choate&#8217;s <a href="http://www.bradchoate.com/weblog/2002/07/11/sql-plugin.php#000667" title="SQL Plugin" rel="nofollow">MTSQL plugin</a> was exactly what I needed to make this happen.  Since the plugin allows the execution of arbitrary SQL statements, I can now make a template that will shut down comments and pings on my older posts.</p>
+
+<p>Once you have MTSQL installed, create an <em>index</em> template with contents similar to the following:<br />
+<pre>&lt;MTSQL query="<br />    update mt_entry<br />        set entry_allow_comments = 2,<br />            entry_allow_pings = 0<br />    where entry_created_on &lt;= date_sub(CURDATE(), interval 7 day)<br />        and entry_blog_id = 2<br />"&gt;<br />&lt;MTSQLColumn column="1"&gt;<br />&lt;/MTSQL&gt;</pre><br />
+Substitute any number of days in the &#8220;interval 7 day&#8221; part.  Also, you&#8217;ll need to be sure that the <tt>entry_blog_id</tt> matches that of your blog.  Alternatively, if you either have only one blog or want the post on all of your blogs to be closed, you can simply remove the last line of the query.</p>
+
+<p>Be sure to check the box next to &#8220;Rebuild this template automatically when rebuilding index templates&#8221;.  With this option enabled, this query will be executed each time you save an entry.</p>
+
+<p>I prefer this method to the previously mentioned methods because I feel it is more inline with the way MT works.  Nothing happens unless it is in response to my actions.  The other solutions require a cron job to work automatically.  I have no problems with cron&#8212;I just prefer this integrated approach.</p>
+
+<p>One problem that remains unsolved by Jeremy&#8217;s, David&#8217;s, or my solution is that closed entries will still show their comment forms.  The presence of the comment form does not allow comments, but it is misleading.  A user might type in a long rant only to be disappointed by a mesage stating that comments for the entry are closed once he clicks the Post button.</p>
+
+<p>An entry must be rebuilt before the comment form will be removed from its page.  There are a couple of ways to make this happen.  One option is to simply rebuild your entire blog from within MT.  Another option is to use Timothy Appnel&#8217;s <a href="http://www.timaoutloud.org/archives/000238.html" title="mt-rebuild: The rebuild script to end all rebuild scripts." rel="nofollow">mt-rebuild</a> script to rebuild the blog.  This script will rebuild individual pages or the entire blog from the command line.  If you&#8217;re serious about closing down comments, I&#8217;d suggest setting up a cron job to run this script.  And if anyone knows of a way to avoid the cron job and just execute a rebuild from within an MT template, I&#8217;d love to hear about it.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/12/">12</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000821"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/12/share_your_opml.php">Share your OPML</a></h3>
+
+<p>Dave Winer has started a new site called <a href="http://feeds.scripting.com/" title="Share Your OPML!" rel="nofollow">Share Your OPML!</a>  On the site, Dave is attempting to create a community of feed subscription lists and aggregate the resulting data in various ways.  He already has a <a href="http://feeds.scripting.com/rankings" rel="nofollow">Top 100 Feeds</a> page up.  Also, for each feed listed, you can see <a href="http://feeds.scripting.com/whoSubscribesTo?who=http%3A%2F%2Ffeeds.feedburner.com%2Fspeed&amp;subscribe=Who%3F" rel="nofollow">who is subscribed</a>.  A lot of people have already contributed their feeds.  It&#8217;s rather  interesting to see what some people read on a daily basis.  If you use an RSS aggregator that exports OMPL, be sure to <a href="http://feeds.scripting.com/member/signup" rel="nofollow">sign up</a> and add your list.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/10/">10</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000820"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/10/os_x_for_hackers.php">OS X for Hackers</a></h3>
+
+<p>If you&#8217;re like me, you are intrigued by Apple&#8217;s <a href="http://www.apple.com/macosx/" title="Mac OS X" rel="nofollow">OS X</a> because of its FreeBSD heritage.  It&#8217;s got all of the power and stability of that operating system that you run on your servers with the lovely Mac GUI that we all love.</p>
+
+<p>But you want more.  You want to know how everything works.  You want to know <a href="http://www.kernelthread.com/mac/osx/arch_startup.html" title="Mac OS X System Startup" rel="nofollow">what happens when the system starts up</a>.  You want to know what all of <a href="http://www.kernelthread.com/mac/osx/tools.html" title="Mac OS X Hacking Tools" rel="nofollow">Apple&#8217;s custom command line tools</a> do.  In short, you want to know the OS inside and out, just like you know your FreeBSD systems.</p>
+
+<p>And now you can.</p>
+
+<p><a href="http://www.kernelthread.com/" rel="nofollow">Amit Singh</a> has put together an excellent resource called <a href="http://www.kernelthread.com/mac/osx/index.html" rel="nofollow">What is Mac OS X?</a>  And from what I&#8217;ve read so far, this seems to be a very thorough guide.  If you want to have a true understanding of this great new operating system, be sure to check out his site.  [via <a href="http://simon.incutio.com/archive/2004/01/08/hackingOSX" title="A hacker's introduction to OS X" rel="nofollow">Simon</a>]</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/07/"> 7</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000819"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/07/new_design.php">New Design</a></h3>
+
+<p>As I&#8217;m sure you have already noticed, things look a bit different around here today.  I finally got tired of staring at my half complete redesign and decided to just throw it out there.  There are some rough edges still, as it&#8217;s certainly a work in progress.  But the front page and the articles are organized well enough that you can still view all of the content without any problems.  </p>
+
+<p>One thing that has been puzzling me for a while now is <a href="/archives/2003/07/06/hello_world.php" rel="nofollow">this</a>.  I want my container box to automatically expand when the right column is longer than the left.  As you can see at the link above, this is not happening.  Does anybody know how I can fix this?</p>
+
+<p>Other than that one problem and a few browser hacks that need to be added in, the work is almost done.  If you notice any bugs, please let me know by replying to this post.</p>
+
+<p><b>Update:</b> It seems that IE/Win (v6, maybe others) doesn&#8217;t want to display random parts of pages.  Take <a href="/archives/2003/11/29/hdtv_tivo.php" rel="nofollow">this page</a> for example.  IE hides the comment form and the post metadata.  Any suggestions?  This all renders perfectly in Firebird.  Hopefully the other non-IE browsers will fare as well.  It looks like I&#8217;ve got a lot of testing to do.</p>
+
+<p><b>Update 2:</b> The bugs mentioned above are now gone.  IE still doesn&#8217;t do everything I want it to do, but the problems are very minor.  The horizontal borders around the &#8220;Sponsored Ads&#8221; text in the sidebar should intersect with the vertical borders on both sides.  For some reason, though, I have not been able to convince IE that this is how it should work.  Instead, IE randomly affixes the box to either the right or left border, leaving a 2 pixel gap.  Very odd.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000818"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/07/oracle_discovers_rss.php">Oracle Discovers RSS</a></h3>
+
+<p>Like many <a href="http://news.yahoo.com/rss" rel="nofollow">other</a> <a href="http://jeremy.zawodny.com/blog/archives/000774.html" title="Yahoo! Buzz RSS Feeds" rel="nofollow">websites</a>, Oracle has <a href="http://otn.oracle.com/syndication/" title="OTN RSS Newsfeeds" rel="nofollow">seen the light</a>.  You can now access Oracle Technology Network resources via several <a href="http://blogs.law.harvard.edu/tech/rss" title="RSS 2.0 Specification" rel="nofollow">RSS 2.0</a> feeds.</p>
+
+<blockquote>Along with the new year comes a new way for you to access technical resources on OTN: via new RSS versions of the product documentation and software download indexes, as well as separate developer- and DBA-focused RSS feeds containing links to current technical articles.</blockquote>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/06/"> 6</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000817"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/06/ipod_mini.php">iPod Mini</a></h3>
+
+<p>Apple <a href="http://www.metafilter.com/mefi/30572" rel="nofollow">introduced</a> the <a href="http://www.apple.com/ipodmini/" rel="nofollow">iPod Mini</a> today.  It looks like everybody hates this one so far.</p>
+
+<p>The primary gripe is that the 4GB device is only $50 less than the smallest iPod, which has nearly <em>four times</em> the capacity.  That just doesn&#8217;t quite <a href="http://whatdoiknow.org/archives/001424.shtml" rel="nofollow">add up</a> for me.  Sure, 4GB is probably plenty of space for most of my listening needs, but I just don&#8217;t see a ton of people paying this price when they can have the <em>real iPod</em> for just $50 more.</p>
+
+<p>On the positive side, though, you do still get that same excellent iPod interface, a choice of color, and a smaller form factor.  Some have mentioned that they prefer the button configuration on the new device.</p>
+
+<p>For an MP3 player that was expected to fall below the $150 price mark, the iPod Mini is rather disappointing.  But for the budget-minded out there who can&#8217;t afford that extra $50, there is now another option available.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/04/"> 4</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000816"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/04/mars_rover_lands_successfully.php">Mars Rover Lands Successfully</a></h3>
+
+<p><a href="http://www.nasa.gov/" rel="nofollow">NASA</a>&#8217;s first <a href="http://marsrovers.jpl.nasa.gov/home/index.html" title="Mars Exploration Rover Mission" rel="nofollow">Mars rover</a> of 2004, Spirit, has <a href="http://news.bbc.co.uk/2/hi/science/nature/3365371.stm" title="US mission touches down on Mars" rel="nofollow">safely</a> <a href="http://slashdot.org/article.pl?sid=04/01/04/051222" title="Spirit Rover Lands Successfully" rel="nofollow">touched</a> <a href="http://www.space.com/missionlaunches/spirit_lands_040103.html" title="That's the Spirit! Mars Rover Lands Safely on Mars" rel="nofollow">down</a> on Mars.  The rover landed at approximately 04:35 GMT.  The rover&#8217;s <a href="http://msnbc.msn.com/ID/3855168/" title="NASA rover lands safely on Mars" rel="nofollow">success</a> comes in the wake of the recent loss of Europe&#8217;s <a href="http://www.beagle2.com/" rel="nofollow">Beagle 2</a>.  Expect to see new pictures from the surface of the red planet soon.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/03/"> 3</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000815"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/03/tiny_helicopters.php">Tiny Helicopters</a></h3>
+
+<p>The <a href="http://pixelito.reference.be/" rel="nofollow">Pixelito</a> and <a href="http://www.proxflyer.com/mi_meny.htm" rel="nofollow">Proxflyer Micron</a> are really tiny.  Each miniature radio controlled helicopter weighs 6.9g and can fit in the palm of your hand.  [Via <a href="http://www.metafilter.com/mefi/30524" rel="nofollow">MetaFilter</a>]</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/02/"> 2</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000814"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/02/better_bittorrent.php">Better BitTorrent</a></h3>
+
+<p>Tired of having too many BitTorrent windows open while downloading <a href="/archives/2003/12/09/bittorrent_sites.php" title="BitTorrent Sites" rel="nofollow">all of that content</a>?  Try out <a href="http://www.torrentstorm.com/" title="TorrentStorm" rel="nofollow">a better BitTorrent client for Windows</a>: TorrentStorm.  As the <a href="http://www.torrentstorm.com/pages/screenshots.html" rel="nofollow">official screenshots</a> show, this client has all of the advanced features of the experimental clients but combines all downloads into one window, reducing unwanted clutter on your desktop.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

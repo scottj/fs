@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Yesterday marked the arrival of my shiny new Dyson DC07 Animal. I have been borrowing a vacuum for a while and recently decided that it was just time to get my own. After reading many praises of the Dysons, I..." />
+<meta name="author" content="Scott Johnson" />
+<title>Dyson DC07 Animal Sucks Better? ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2005/05/06/dyson_dc07_animal_sucks_better.php">
+<dc:title>Dyson DC07 Animal Sucks Better?</dc:title>
+<dc:description>Yesterday marked the arrival of my shiny new Dyson DC07 Animal. I have been borrowing a vacuum for a while and recently decided that it was just time to get my own. After reading many praises of the Dysons, I...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2005-05-06T13:59:29-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2005/05/">May</a> <a href="/archives/2005/05/06/"> 6</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">Dyson DC07 Animal Sucks Better?</h3>
+<p>Yesterday marked the arrival of my shiny new <a href="http://www.amazon.com/o/ASIN/B000079R7G/fullspeed-20">Dyson DC07 Animal</a>.  I have been borrowing a vacuum for a while and recently decided that it was just time to get my own.  After reading <a href="http://a.wholelottanothing.org/2005/04/the_suckiest_su.html" title="The suckiest suck that ever sucked">many</a> <a href="http://jeremy.zawodny.com/blog/archives/003994.html" title="Dyson DC14 Animal: The Best Vacuum Ever">praises</a> of the Dysons, I was nearly certain it had to be the right choice.  A bit of further research confirmed (enough for me anyway) what I had already suspected:  the Dyson vacuum is a superior product when held in comparison with all others in its price range.</p>
+
+<p>When I first arrived at home with the new box, I immediately felt as if I was carrying home an extremely heavy <a href="http://www.apple.com/">Apple</a> product.  This thing has almost the same carrying handle as my iBook&#8217;s box.  Opening the box wasn&#8217;t quite as pleasing as opening an Apple box, but it was certainly simple.  After breaking some adhesive strips along the top and sides of the lid, the box was completely open with little effort.  The literature inside made me think &#8220;Apple&#8221; again.  The guides to using different parts were extremely simple, multi-lingual, and had pictures with every step.  I spent so much time initially reading the glossies that I almost forgot to take the vacuum out of its box.</p>
+
+<p>As I skimmed through what seemed to be a quick-start guide (but later turned out to be the actual product manual), I quickly learned how to assemble the machine.  I had the entire unit pieced together and working in under five minutes.</p>
+
+<p>After a quick run around the homestead with the vacuum, I was very impressed.  This is one amazing piece of machinery!  There are so many little pieces that will snap off in the event that it becomes clogged.  There&#8217;s a little tube near the bottom rear of the unit, another just above that on the top, and another on the top left near the gigantic hinge.  And when you remove the dirt container, it seems like half of the machine comes with you.</p>
+
+<p>Speaking of the dirt bin, there&#8217;s another treat.  Emptying out the waste is an extremely well-engineered and simple process.  All that you have to do is hold the container over a waste receptacle and pull the trigger.  A door in the bottom drops out, and all of the dirt goes with it.  The door is, of course, hinged, so it doesn&#8217;t actually fall out.  Once you&#8217;ve released the waste, a quick nudge of the clean side of the door will close the container back up.  This was especially nice for me since most bagless vacuums produce clouds of sneeze-inducing dust when they are emptied.  But when I emptied the Dyson, there was no sneezing whatsoever.</p>
+
+<p>On to the attachments &#8212; six in all.  Frankly, I&#8217;m not really sure that I will ever use all six, but they&#8217;re there if I do need them.  There&#8217;s a carpet cleaning attachment, an attachment specially made for pet hair, a stair-cleaning attachment, and an attachment designed specially for cleaning under low chairs and such.  The remaining two attachments are the old standards:  a wedge-shaped tube and a small brush.</p>
+
+<p>The number of ways to attach the attachments is impressive, too.  First of all, there is the standard method.  The handle of the vacuum  is released from the unit by the press of a button.  This handle then becomes a hose with an attachment point at the end.  Remove the host from the handle, and a two foot tubular aluminum wand is exposed.  At this point, you have two choices:  attach an accessory to the hose or reattach the hose to the <em>other</em> end of the wand.  The former option is fairly straightforward, but the latter is very impressive.  The hose gives you about seventeen feet of working room away from the unit.  The wand extends your reach so that you can easily get to ceilings and high fixtures without the need for a chair or ladder.</p>
+
+<p>Overall, I really like my new vacuum.  I cleaned with the borrowed vacuum the day before the Dyson arrived, and yet the Dyson still collected a large amount of dirt and lint on its first use.  This machine really does suck better than its competition.</p>
+
+<p>As recently as a few weeks ago, I thought that the Dyson vacuums were overpriced.  I thought that they were the product of a brilliant marketing department.  But while the marketing is certainly commendable, the product definitely lives up to the hype.</p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2006/10/19/links_for_2006-10-19.php">links for 2006-10-19</a> - October 19, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2005/05/14/java_15_for_tiger.php">Java 1.5 for Tiger</a> - May 14, 2005</li>
+
+<li><a href="http://full-speed.org/archives/2005/04/30/tiger_arrived.php">Tiger Arrived!</a> - April 30, 2005</li>
+
+<li><a href="http://full-speed.org/archives/2006/09/27/more_efficient_computing.php">More Efficient Computing</a> - September 27, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2006/01/25/europe_through_the_back_door.php">Europe Through the Back Door</a> - January 25, 2006</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2005/05/06/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2005/04/30/tiger_arrived.php" title="Tiger Arrived!">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2005/05/09/links_for_2005-05-09.php" title="links for 2005-05-09">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

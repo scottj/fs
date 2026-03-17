@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<h1>Website Performance Guide</h1>
+
+Contents:
+<ul>
+<li>Smaller = Faster
+<ul>
+<li><a href="http://code.google.com/closure/compiler/">Closure Compiler</a></li>
+<li><a href="http://developer.yahoo.com/yui/compressor/">YUI Compressor</a> (JS and CSS, too!)</li>
+<li>deflate</li>
+<li>pngcrush (jpg equiv to remove metadata?)</li></li>
+</ul></li>
+<li>Automated Build and Deployment
+<ul>
+<li>Dive Into Python 3 <a href="http://hg.diveintopython3.org/hgweb.cgi/file/5e0e9c45729b/publish">build script</a></li>
+<li><a href="http://ant.apache.org/">Ant</a>?</li>
+</ul</li>
+<li>Pure Speed
+<ul>
+<li>keepalive</li>
+<li><a href="http://developer.yahoo.com/yslow/">YSlow</a></li>
+<li>Google <a href="http://code.google.com/speed/page-speed/">Page Speed</a></li>
+<li>caching (expires, etc.)</li>
+<li>load balancing (pound, HAProxy, varnish)</li>
+<li>reverse proxy (lighttpd, nginx, varnish, etc.)</li>
+<li>minimize number of requests (combine files)</li>
+<li>use a cdn (faster everything, esp DNS)</li>
+</ul></li>
+<li>Tools
+<ul>
+<li><a href="http://getfirebug.com/">Firebug</a></li>
+<li><a href="http://www.webpagetest.org/">WebPagetest</a></li>
+<li>jQuery</li>
+</ul></li>
+</ul>

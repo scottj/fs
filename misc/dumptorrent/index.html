@@ -1,0 +1,512 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>ArchZoom - ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0 file src/dumptorrent.c </title>
+<base href="http://arch.gna.org/" />
+<style type="text/css">
+<!--
+body {
+  margin: 6px;
+  padding: 0px;
+}
+
+p.header {
+  padding: 3px;
+  padding-left: 2px;
+  margin: 0px;
+  margin-bottom: 6px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+p,td,th,li,dt,dd,div {
+  font-family: "Luxi Serif", Arial, Helvetica, Verdana, sans-serif;
+  font-size: 12px;
+}
+
+div.content {
+  padding: 3px;
+  margin: 0px;
+}
+
+div.linkbar {
+  text-align: right;
+}
+
+div.linkbarmenu {
+  display: inline;
+  font-size: 9px;
+  padding: 1px;
+}
+
+a.link { text-transform: lowercase; }       
+a.link:before { content: "["; }       
+a.link:after  { content: "]"; }        
+
+pre.content, pre.flat_content {
+  font-family: "Luxi Mono", lucidatypewriter, Courier, monospace;
+  font-size: 10px;
+  margin: 0px;
+  width: 100%;
+}
+pre.content {
+  padding: 3px 2px;
+}
+
+table {
+  border-collapse: collapse;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  empty-cells: show;
+  border-spacing: 0;
+}
+
+table.subheader {
+  width: auto;
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 3px;
+  margin-left: 3px;
+}
+table.subheader tr td {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+tr,td {
+  background: inherit;
+  font-family: inherit;
+  border: 0px;
+  padding: 2px;
+  margin: 0px;
+  border-spacing: 0px;
+}
+
+p.rowline {
+  padding: 2px;
+  margin: 0px;
+}
+
+div.homepage {
+  font-family: "Luxi Serif", Helvetica, Arial, Verdana, sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  text-align: right;
+  padding-top: 5px;
+  padding-right: 1px;
+}
+
+p.content {
+  padding: 3px;
+  margin: 0px;
+}
+
+td.summary {
+  padding: 2px;
+  padding-left: 4px;
+  margin: 0px;
+  font-weight: bold;
+}
+
+p.body {
+  padding: 3px;
+  margin: 0px;
+}
+
+div.debug {
+  margin-top: 10px;
+}
+
+p.debug {
+  padding: 0px;
+  margin: 0px;
+  white-space: pre;
+}
+
+p.error {
+  padding: 3px;
+  margin: 0px;
+  white-space: pre;
+}
+
+span.patch_orig, span.patch_mod, span.patch_line, span.patch_del, span.patch_add {
+  width: 100%;
+  display: block;
+}
+
+span.syntax_comment  { font-style: italic; }
+span.syntax_keyword  { font-weight: bold; }
+span.syntax_builtin  { font-weight: bold; }
+span.syntax_string   {}
+span.syntax_special  {}
+span.syntax_funcdef  { font-weight: bold; }
+span.syntax_vartype  { font-weight: bold; }
+span.syntax_constant {}
+
+a.squarelink, a.squarelink2, a.squarelink3 {
+  font-family: Courier, lucidatypewriter, monospace;
+  font-size: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0px;
+  padding-left: 2px;
+  padding-right: 2px;
+  margin: 0px;
+  vertical-align: middle;
+}
+
+td.squarelink {
+  width: 14px;
+  padding-top: 4px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  vertical-align: top;
+}
+
+table.bunch tr td.squarelink {
+  vertical-align: middle;
+}
+
+table.abrowse tr td.squarelink {
+  padding-top: 6px;
+}
+
+td.modisymbol {
+  width: 18px;
+  vertical-align: top;
+  padding-top: 2px;
+}
+
+td.subcontent {
+  vertical-align: top;
+  padding-top: 2px;
+}
+
+/* inspired by color-default.css shipped by archzoom */
+
+body {
+  margin-top: 0.5%;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  margin-bottom: 0.5%;
+  background-color: #c4e4e4;
+  color: #333333;
+}
+
+a {
+  color: #203080;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0059c6;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #00c6a5;
+}
+
+a:visited { color: #005d8c; }
+
+
+ 
+p.header {
+        /* Konqueror 3.1 sets "transparent" to black, so duplicate bg color */
+        border: 1px solid white;
+        color: #082438;
+}
+ 
+div.content {
+  background-color: #ffffff;
+  border: thin solid #333333;
+  margin-top: 1%;
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-bottom: 1%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+ 
+table.list, table.abrowse {
+        border: 1px solid #9ab0d0;
+}
+ 
+table.file {
+        border: 1px dotted #8094b0;
+}
+
+
+table.subheader {
+        color: #406080;
+}
+
+table.bunch {
+        background: #c2d4ec;
+        border: 1px solid #a4aaca;
+}
+ 
+tr.item0 {
+        background: #dfeeff;
+}
+ 
+tr.item1 {
+        background: #d5e4f6;
+}
+ 
+p.body {
+        background: #d4e6fc;
+        border: 1px solid #adb8cf;
+        border-top: hidden;
+}
+
+td.annotation {
+        color: #406080;
+        border-right: 1px solid #b8d0e8;
+}
+ 
+span.patch_orig { background: #b8bec4; }
+span.patch_mod  { background: #b8bec4; }
+span.patch_line { background: #f6f8d4; }
+span.patch_del  { background: #f29ab0; }
+span.patch_add  { background: #9af2b0; }
+ 
+span.syntax_comment  { color: #363680; }
+span.syntax_keyword  { color: #740000; }
+span.syntax_builtin  { color: #a000a0; }
+span.syntax_string   { color: #106a5a; }
+span.syntax_special  { color: #408000; }
+span.syntax_funcdef  { color: #2040d0; }
+span.syntax_vartype  { color: #942060; }
+span.syntax_constant { color: #c08020; }
+ 
+a.squarelink        { border: 1px solid #98a0bc; color: #687088; }
+a.squarelink:hover  { background: #b0c0d8; }
+a.squarelink2       { border: 1px solid #808894; color: #687088; }
+a.squarelink2:hover { background: #94a4c4; }
+a.squarelink3       { border: 1px solid #c08080; color: #a06868; }
+a.squarelink3:hover { background: #e3aaaa; }
+
+//-->
+</style>
+
+</head>
+<body>
+
+
+<p class="header">File in revision tree <span class="archname"><a
+  href="/archzoom/ksandstr@iki.fi--2005-successor">ksandstr@iki.fi--2005-successor</a>/<a
+  href="/archzoom/ksandstr@iki.fi--2005-successor/successor">successor</a>--<a
+  href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline">mainline</a>--<a
+  href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1">0.1</a>--<a
+  href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0">base-0</a>
+
+</span>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3036646830213868";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al";
+google_ad_channel ="1620876311";
+google_color_border = "C4E4E4";
+google_color_bg = "C4E4E4";
+google_color_link = "333333";
+google_color_text = "333333";
+google_color_url = "666666";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+
+<div class="content">
+<div class="linkbar"><div class="linkbarmenu">
+<a class="link" href="/archzoom">All archives</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor?expand">Abrowse</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1">All revisions</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0">Tree</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0/src">Dir</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0/src/dumptorrent.c?history">History</a>
+  <a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0/src/dumptorrent.c?annotate">Annotate</a>
+
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0/src/dumptorrent.c?download">Download</a>
+</div></div>
+<p class="content"></p>
+
+<table class="list"><tr class="item0">
+<td width="50%">File: <a href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0/src">src</a>/<b>dumptorrent.c</b></td>
+<td width="15%">Size: 3201</td>
+<td width="35%">Mime type: text/x-csrc</td>
+</tr></table>
+
+<p class="content"></p>
+
+<table class="list"><tr class="item1"><td>
+  <pre class="content"><span class="syntax_comment">/* successor -- an experimental bittorrent tracker
+ * Copyright (C) 2003, 2004 Kalle A. Sandstr   *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2, or (at your option)
+ * any later version.
+ *
+ * Kalle A. Sandstr   * &lt;ksandstr@iki.fi&gt;
+ */</span>
+
+
+#<span class="syntax_special">include</span> <span class="syntax_string">&lt;stdio.h&gt;</span>
+
+#<span class="syntax_special">include</span> <span class="syntax_string">&lt;stdlib.h&gt;</span>
+#<span class="syntax_special">include</span> <span class="syntax_string">&lt;string.h&gt;</span>
+#<span class="syntax_special">include</span> <span class="syntax_string">&lt;glib.h&gt;</span>
+#<span class="syntax_special">include</span> <span class="syntax_string">&lt;ctype.h&gt;</span>
+
+#<span class="syntax_special">include</span> <span class="syntax_string">&lt;assert.h&gt;</span>
+#<span class="syntax_special">include</span> <span class="syntax_string">&lt;errno.h&gt;</span>
+
+#<span class="syntax_special">include</span> <span class="syntax_string">&quot;bencode.h&quot;</span>
+
+<span class="syntax_vartype">static</span> <span class="syntax_vartype">char</span> *<span class="syntax_funcdef">slurp</span>(FILE *file, <span class="syntax_vartype">long</span> *len_p)
+{
+  assert(len_p != NULL);
+  <span class="syntax_vartype">int</span> n = fseek(file, 0, SEEK_END);
+  (*len_p) = ftell(file);
+  n = fseek(file, 0, SEEK_SET);
+  <span class="syntax_vartype">char</span> *buffer = g_new(<span class="syntax_vartype">char</span>, (*len_p)+1);
+  n = fread(buffer, (*len_p), 1, file);
+  <span class="syntax_keyword">if</span>(n != 1) {
+    fprintf(stderr, <span class="syntax_string">&quot;%s: fread(3) failed: %s\n&quot;</span>, __FUNCTION__,
+      strerror(ferror(file)));
+    g_free(buffer);
+    (*len_p) = 0;
+    <span class="syntax_keyword">return</span> NULL;
+  }
+  buffer[(*len_p)] = <span class="syntax_string">'\0'</span>;
+  <span class="syntax_keyword">return</span> buffer;
+}
+
+
+
+<span class="syntax_vartype">void</span> <span class="syntax_funcdef">dump_torrent</span>(benc_item_t *t)
+{
+  g_return_if_fail(BENC_IS_DICT(t));
+
+  printf(<span class="syntax_string">&quot;announce URL is '%s'\n&quot;</span>, benc_dict_item_s(t, <span class="syntax_string">&quot;announce&quot;</span>, <span class="syntax_string">&quot;NOT KNOWN&quot;</span>));
+  benc_item_t *info = benc_dict_lookup(t, <span class="syntax_string">&quot;info&quot;</span>);
+  <span class="syntax_keyword">if</span>(info != NULL &amp;&amp; BENC_IS_DICT(info)) {
+    <span class="syntax_vartype">const</span> <span class="syntax_vartype">char</span> *name = benc_dict_item_s(info, <span class="syntax_string">&quot;name&quot;</span>, NULL);
+    <span class="syntax_keyword">if</span>(name != NULL) printf(<span class="syntax_string">&quot;info-&gt;name is '%s'\n&quot;</span>, name);
+
+    benc_item_t *piece_length = benc_dict_lookup(info, <span class="syntax_string">&quot;piece length&quot;</span>);
+    <span class="syntax_keyword">if</span>(piece_length != NULL &amp;&amp; BENC_IS_INT(piece_length)) {
+      printf(<span class="syntax_string">&quot;info-&gt;piece_length is %d\n&quot;</span>, piece_length-&gt;i);
+    }
+
+    benc_item_t *length = benc_dict_lookup(info, <span class="syntax_string">&quot;length&quot;</span>);
+    <span class="syntax_keyword">if</span>(length != NULL &amp;&amp; BENC_IS_INT(length)) {
+      printf(<span class="syntax_string">&quot;info-&gt;length is %d\n&quot;</span>, length-&gt;i);
+    }
+
+    benc_item_t *path = benc_dict_lookup(info, <span class="syntax_string">&quot;path&quot;</span>);
+    <span class="syntax_keyword">if</span>(path != NULL &amp;&amp; BENC_IS_LIST(path)) {
+      printf(<span class="syntax_string">&quot;info-&gt;path has %d items\n&quot;</span>, g_list_length(path-&gt;lst));
+    }
+  } <span class="syntax_keyword">else</span> {
+    printf(<span class="syntax_string">&quot;*** 'info' not available\n&quot;</span>);
+  }
+}
+
+
+
+<span class="syntax_vartype">int</span> <span class="syntax_funcdef">main</span>(<span class="syntax_vartype">int</span> argc, <span class="syntax_vartype">char</span> *argv[])
+{
+  <span class="syntax_keyword">if</span>(argc &lt; 2) {
+    fprintf(stderr, <span class="syntax_string">&quot;%s: argument, please\n&quot;</span>, argv[0]);
+    <span class="syntax_keyword">return</span> EXIT_FAILURE;
+  }
+  <span class="syntax_vartype">const</span> <span class="syntax_vartype">char</span> *filename = argv[1];
+  FILE *torrentfile = fopen(filename, <span class="syntax_string">&quot;rb&quot;</span>);
+  <span class="syntax_keyword">if</span>(torrentfile == NULL) {
+    fprintf(stderr, <span class="syntax_string">&quot;can't open '%s'\n&quot;</span>, filename);
+    <span class="syntax_keyword">return</span> EXIT_FAILURE;
+  }
+  <span class="syntax_comment">/* since a torrent file is supposed to be just one big, huge, enormous
+   * dictionary, we'll slurp it completely into memory just like that.
+   */</span>
+
+  <span class="syntax_vartype">long</span> len = -1;
+  <span class="syntax_vartype">char</span> *torrent_data = slurp(torrentfile, &amp;len);
+  fclose(torrentfile);
+  <span class="syntax_keyword">if</span>(torrent_data == NULL) {
+    fprintf(stderr, <span class="syntax_string">&quot;file read failed.\n&quot;</span>);
+    <span class="syntax_keyword">return</span> EXIT_FAILURE;
+  }
+
+  benc_item_t *t_dict = NULL;
+  GError *error = NULL;
+  <span class="syntax_vartype">int</span> n = benc_decode(&amp;t_dict, torrent_data, len, &amp;error);
+  g_free(torrent_data);
+  <span class="syntax_keyword">if</span>(n &lt;= 0) {
+    fprintf(stderr, <span class="syntax_string">&quot;torrent decode failed: %s\n&quot;</span>, error-&gt;message);
+    g_error_free(error);
+    <span class="syntax_keyword">return</span> EXIT_FAILURE;
+  }
+
+  printf(<span class="syntax_string">&quot;consumed %d bytes of torrent data (out of %ld total).\n&quot;</span>,
+    n, len);
+
+  <span class="syntax_keyword">if</span>(!BENC_IS_DICT(t_dict)) {
+    fprintf(stderr, <span class="syntax_string">&quot;decode didn't result in a dictionary!\n&quot;</span>);
+    benc_free(t_dict);
+    <span class="syntax_keyword">return</span> EXIT_FAILURE;
+  }
+
+  printf(<span class="syntax_string">&quot;resulted in a dictionary of %d keys.\n&quot;</span>,
+    g_hash_table_size(t_dict-&gt;dict));
+
+  dump_torrent(t_dict);
+
+  benc_free(t_dict);
+  <span class="syntax_keyword">return</span> EXIT_SUCCESS;
+}
+
+</pre>
+
+</td></tr></table>
+
+<p class="content"></p>
+<div class="linkbar"><div class="linkbarmenu">
+<a class="link" href="/archzoom">All archives</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor?expand">Abrowse</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1">All revisions</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0">Tree</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0/src">Dir</a>
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0/src/dumptorrent.c?history">History</a>
+
+  <a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0/src/dumptorrent.c?annotate">Annotate</a>
+
+<a class="link" href="/archzoom/ksandstr@iki.fi--2005-successor/successor--mainline--0.1--base-0/src/dumptorrent.c?download">Download</a>
+</div></div>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3036646830213868";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_ad_channel ="1620876311";
+google_color_border = "ffffff";
+google_color_bg = "ffffff";
+google_color_link = "333333";
+google_color_text = "333333";
+google_color_url = "333333";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+<div class="homepage"><a href="http://migo.sixbit.org/software/archzoom/">ArchZoom 0.5.0 (devel)</a></div>
+<img src="http://betteremail.com/counter/?id=dumptorrent" alt="" />
+</body>
+</html>
+
+

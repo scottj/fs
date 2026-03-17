@@ -1,0 +1,396 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Software Archives</title>
+<!-- common -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body>  
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2012/03/">March</a> <a href="/archives/2012/03/13/">13</a>, <a href="/archives/2012/">2012</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001350"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2012/03/13/weekend_troubleshooting.php">Weekend Troubleshooting</a></h3>
+
+<p>A few links discovered during a 2-day-long website migration and troubleshooting session:<ul><li><a href="http://qmail.jms1.net/test-auth.shtml" rel="nofollow">Testing SMTP AUTH connections</a></li><li><a href="http://wherethebitsroam.com/blogs/jeffw/quick-introduction-perlbal" rel="nofollow">A quick introduction to Perlbal</a></li><li><a href="http://www.lowendbox.com/blog/reducing-mysql-memory-usage-for-low-end-boxes/" rel="nofollow">Reducing MySQL Memory Usage for Low End Boxes</a></li></ul></p>
+
+
+
+ <div class="posted"> 9:53 PM
+ 
+ :: <a href="http://full-speed.org/archives/2012/03/13/weekend_troubleshooting.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2008/09/">September</a> <a href="/archives/2008/09/23/">23</a>, <a href="/archives/2008/">2008</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001286"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2008/09/23/squirrelfish_extreme.php">SquirrelFish Extreme</a></h3>
+
+<p>Last week, the fine folks who work on Safari announced their latest JavaScript engine, <a href="http://webkit.org/blog/214/introducing-squirrelfish-extreme/" rel="nofollow">SquirrelFish Extreme (SFX)</a>.  I&#8217;m not normally one to run nightly browser builds, but in light of <a href="http://full-speed.org/archives/2008/09/12/dromaeo_firefox_vs_chrome.php" rel="nofollow">my recent performance testing</a>, I decided to give this one a shot.</p>
+
+<p>My first impression was that this is definitely not production-ready code.  The browser crashed several times on me during the process of capturing the benchmark.  But when I did get the tests to run, it was fast.  I mean visibly fast.  Much faster than anything else I have on hand.</p>
+
+<p>As before, the testing wasn&#8217;t extensive.  I still haven&#8217;t tested Firefox 3 with <a href="https://wiki.mozilla.org/JavaScript:TraceMonkey" rel="nofollow">TraceMonkey</a>.  The only test I performed this time was running the Safari nightly through Dromaeo.  Here&#8217;s how it stacks up against the others:</p>
+
+<div class="artimg"><img src="http://full-speed.org/images/2008/dromaeo2.png" alt="graph of results" /></div>
+
+<p><a href="http://dromaeo.com/?id=42843" rel="nofollow">Safari with SFX</a> ran the test in 8184.6ms.  The exact build of Safari used for this test is <tt>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/528+ (KHTML, like Gecko) Version/3.1.2 Safari/525.21</tt>.  The nighly package that I downloaded was labeled <tt>WebKit-r36647</tt>.</p>
+
+
+
+ <div class="posted">12:01 AM
+ 
+ :: <a href="http://full-speed.org/archives/2008/09/23/squirrelfish_extreme.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2008/09/">September</a> <a href="/archives/2008/09/12/">12</a>, <a href="/archives/2008/">2008</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001284"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2008/09/12/dromaeo_firefox_vs_chrome.php">Dromaeo: Firefox vs. Chrome</a></h3>
+
+<p>Since the recent release of <a href="http://www.google.com/chrome" rel="nofollow">Google Chrome</a>, there has been a lot of benchmarking going on (<a href="http://ejohn.org/blog/javascript-performance-rundown/" rel="nofollow">1</a>, <a href="http://fritzthomas.com/overall/271-benchmark-and-comparison-of-v8-and-tracemonkey-javascript-engine/" rel="nofollow">2</a>).  Everyone wants faster Javascript performance, and Chrome delivers.</p>
+
+<p>Well, that&#8217;s the impression that I got from using it for a few days anyway.  But yesterday I decided to go one step further and verify that feeling of greater performance.  Admittedly, this isn&#8217;t the most scientific approach, but I have some numbers for you.  I used one benchmarking tool, <a href="http://dromaeo.com/" rel="nofollow">Dromaeo</a>, to see how Chrome stacked up against my workhorse Firefox setup.  John Resig has already run <a href="http://ejohn.org/files/js-dromaeo.png" rel="nofollow">a similar comparison</a>, but I wanted a firsthand look at the numbers.  Here are those numbers:</p>
+
+<div class="artimg"><img src="http://full-speed.org/images/2008/dromaeo.png" alt="graph of the results" /></div>
+
+<p><a href="http://dromaeo.com/?id=41223" rel="nofollow">Chrome</a> ran the tests in 12658ms.  The build of Chrome used for this test is <tt>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.29 Safari/525.13</tt>.  <a href="http://dromaeo.com/?id=41230" rel="nofollow">Firefox</a> ran the tests in 13245ms.  This was the 3.0.1 release build of Firefox, <tt>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1</tt>.  The tests were run on my Core Duo 1.8GHz 4GB Windows XP SP2 system.</p>
+
+<p>As you can see, Chrome was indeed faster.  I&#8217;m already using it more and more for Google apps, as I&#8217;m figuring that these will probably always run faster in Chrome.  Firefox still is my main browser, though, because of the extensions.  Chrome won&#8217;t be replacing that stuff any time soon.</p>
+
+
+
+ <div class="posted"> 1:05 PM
+ 
+ :: <a href="http://full-speed.org/archives/2008/09/12/dromaeo_firefox_vs_chrome.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/12/">December</a> <a href="/archives/2006/12/16/">16</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001191"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/12/16/windows_install_linkdump.php">Windows Install LinkDump</a></h3>
+
+<p>I have been reading a large amount of information on slipstreaming and unattended installations of Windows XP/2003 lately, so here&#8217;s my linkdump of all of the juiciest nuggets:<ul><li><a href="http://www.heise-security.co.uk/articles/80682" rel="nofollow">DIY Service Pack</a></li><li><a href="http://www.autopatcher.com/autopatcherxp/" rel="nofollow">AutoPatcher XP</a></li><li><a href="http://www.nliteos.com/" rel="nofollow">nLite</a></li><li><a href="http://www.ryanvm.net/msfn/updatepack.html" rel="nofollow">RyanVM&#8217;s Windows XP Post-SP2 Update Pack</a></li><li><a href="http://smithii.com/slipstream_xpsp2" rel="nofollow">Automatically Slipstream Windows XP with SP2 and All Post-SP2 Security Hotfixes with a Single Command</a></li><li><a href="http://unattended.sourceforge.net/" rel="nofollow">Unattended, A Windows deployment system</a></li><li><a href="http://unattended.msfn.org/unattended.xp/" rel="nofollow">Unattended Windows Introduction</a></li><li><a href="http://www.hfslip.org/" rel="nofollow">TommyP&#8217;s HFSLIP</a></li></ul>I haven&#8217;t tried out any of these methods yet, but I&#8217;m looking forward to building a stripped down, customized, unattended install CD for both XP and 2003.</p>
+
+
+
+ <div class="posted">11:56 AM
+ 
+ :: <a href="http://full-speed.org/archives/2006/12/16/windows_install_linkdump.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/07/">July</a> <a href="/archives/2006/07/05/"> 5</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001140"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/07/05/dumptorrent.php">DumpTorrent</a></h3>
+
+<p>I see many searches coming in for &#8220;DumpTorrent&#8221;.  Not having heard of DumpTorrent, I did some searching. Apparently it was a small-ish BitTorrent tracker that never left the <em>experimental</em> stage.  I&#8217;m not sure if it works, but the source went offline and is <a href="http://66.102.7.104/search?q=cache:ce3dATQUjF4J:arch.gna.org/archzoom/ksandstr%40iki.fi--2005-successor/successor--mainline--0.1--base-0/src/dumptorrent.c+dumptorrent&hl=en&gl=us&ct=clnk&cd=2&client=firefox-a" rel="nofollow">barely alive in Google&#8217;s cache</a>.  In the interest of preserving the tiny tracker, I have <a href="http://full-speed.org/misc/dumptorrent/" rel="nofollow">mirrored</a> the source file.</p>
+
+
+
+ <div class="posted"> 8:02 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/07/05/dumptorrent.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/07/">July</a> <a href="/archives/2006/07/01/"> 1</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001137"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/07/01/best_bittorrent_client_software.php">Best BitTorrent Client Software</a></h3>
+
+<p>In their recent <a href="http://torrentfreak.com/bittorrent-client-comparison/" rel="nofollow">BitTorrent Client Comparison</a>, TorrentFreak named <a href="http://utorrent.com/" rel="nofollow">Âµtorrent</a> as the best BitTorrent client.  It supports all of the nine essential features:<ol><li>Download Prioritization</li><li><a href="http://en.wikipedia.org/wiki/Distributed_hash_table" rel="nofollow">DHT</a></li><li>Selective File Downloading</li><li>Encryption</li><li>Built-in Tracker</li><li>Remote Control</li><li>Super Seeding</li><li>RSS</li><li>UPnP</li></ol>Best of all, this client has a very light footprint when compared with my previous favorite, <a href="http://azureus.sf.net/" rel="nofollow">Azureus</a>.  Âµtorrent requires only 7mb of RAM.  Azureus needs over 50mb. A new version of utorrent has just been released, version 1.6.  If you need a good, feature-packed, high performance, fast BitTorrent client, check out <a href="http://utorrent.com/download.php" rel="nofollow">Âµtorrent</a>.</p>
+
+
+
+ <div class="posted">10:48 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/07/01/best_bittorrent_client_software.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/23/">23</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000991"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/23/bittorrent_for_dummies.php">BitTorrent for Dummies</a></h3>
+
+<p>I thought that I had seen it all when it comes to <a href="/archives/bittorrent/" rel="nofollow">BitTorrent</a>.  It seems to me that there are <a href="/archives/2004/04/03/bittorrent_links.php" rel="nofollow">plenty of resources</a> out on the web that would tell a person everything he might ever want to know about the excellent file sharing program.  But there had to be a &#8220;dummy&#8221; out there who would go out and write <a href="http://www.amazon.com/exec/obidos/ASIN/076459981X/fullspeed-20" title="BitTorrent for Dummies" rel="nofollow">a book on how to use BitTorrent</a>.  Get your order in now.  This book is scheduled for release on October 3, 2005, and I&#8217;m sure it will sell out quickly.  ;-)</p>
+
+
+
+ <div class="posted"> 8:08 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/09/23/bittorrent_for_dummies.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/07/">July</a> <a href="/archives/2005/07/06/"> 6</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000948"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/07/06/insensitive_itunes.php">Insensitive iTunes</a></h3>
+
+<p>Sam Ruby&#8217;s <a href="http://www.intertwingly.net/blog/2005/07/06/Shameless-Pandering" rel="nofollow">Shameless Pandering</a> prompted me to link to <a href="http://www.intertwingly.net/blog/2005/07/05/Insensitive-iTunes" title="Insensitive iTunes" rel="nofollow">his prior post</a> on the problems with the way iTunes handles XML feeds.  The <a href="http://www.intertwingly.net/blog/2005/07/05/Insensitive-iTunes#c1120616329" rel="nofollow">comments</a> in that post explain everything in full detail.  If this topic is of any interest to you, please link to <a href="http://www.intertwingly.net/blog/2005/07/05/Insensitive-iTunes" rel="nofollow">Sam&#8217;s post</a> and help us get this in front of someone at Apple.</p>
+
+
+
+ <div class="posted"> 1:52 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/07/06/insensitive_itunes.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/05/">May</a> <a href="/archives/2005/05/14/">14</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000923"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/05/14/java_15_for_tiger.php">Java 1.5 for Tiger</a></h3>
+
+<p>Upon opening Limewire for the first time since installing Tiger on my iBook today, I was notified that I was not running the latest version of Java.  Normally, on a PC, I would just head over to java.com and download the latest version. I know that Apple has spent a lot of time and money optimizing <a href="http://www.apple.com/macosx/features/java/" title="Apple - Mac OS X - Java" rel="nofollow">their Java runtime</a> for OS X, and I certainly would not want to lose the performance enhancements that come with that optimization.  So I was extremely happy to find out that Apple already has the first release of <a href="http://www.apple.com/support/downloads/java2se50release1.html" title="Java 2 SE 5.0 Release 1" rel="nofollow">J2SE 1.5 for Tiger</a> available on their website.  Thanks, Apple.</p>
+
+
+
+ <div class="posted"> 2:21 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/05/14/java_15_for_tiger.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/04/">April</a> <a href="/archives/2005/04/14/">14</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000917"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/04/14/pre-order_mac_os_x_104_tiger_and_save_35.php">Pre-Order Mac OS X 10.4 Tiger and Save $35</a></h3>
+
+<p>Amazon.com has <a href="http://www.amazon.com/o/ASIN/B0002G71T0/fullspeed-20" rel="nofollow">Tiger</a> available for pre-order with a $35 rebate.  That brings your cost for Tiger down to $94.99+tax if you opt for the free shipping.  I just placed my order.</p>
+
+<p><b>Update:</b> Tiger is now shipping, and Amazon is still offering $35 in rebates!</p>
+
+
+
+ <div class="posted">10:25 AM
+ 
+ :: <a href="http://full-speed.org/archives/2005/04/14/pre-order_mac_os_x_104_tiger_and_save_35.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/01/">January</a> <a href="/archives/2005/01/11/">11</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000902"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/01/11/new_apple_products.php">New Apple Products</a></h3>
+
+<p>Apple unveiled <a href="http://www.apple.com/home/" rel="nofollow">many new products</a> at the MacWorld SF Expo today:<ul class="compact"> <li><a href="http://www.apple.com/macmini/" rel="nofollow">Mac Mini</a> &#8212;- an entry-level G4 starting at $499</li> <li><a href="http://www.apple.com/ipodshuffle/" rel="nofollow">iPod shuffle</a> &#8212;- no display, 512MB $99, 1GB $149</li> <li><a href="http://www.apple.com/iwork/" rel="nofollow">iWork</a> &#8212;- Keynote 2 + Pages, the new word processor, $79 or free with new Mac</li> <li><a href="http://www.apple.com/ilife/" rel="nofollow">iLife &#8216;05</a></li> <li><a href="http://www.apple.com/finalcutexpress/" rel="nofollow">Final Cut Express HD</a></li> </ul><br />
+Sadly, there were no PowerBook updates.</p>
+
+
+
+ <div class="posted"> 1:22 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/01/11/new_apple_products.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br/>
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

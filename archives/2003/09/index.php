@@ -1,0 +1,607 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/29/">29</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000778"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/29/xmlatom.php">XML::Atom</a></h3>
+
+<p>Ben Trott, co-founder and CTO of <a href="http://www.sixapart.com/about/#founders" title="About Six Apart" rel="nofollow">Six Apart</a>, announced <a href="http://www.sixapart.com/log/2003/09/announcing_xmla.shtml" title="Announcing XML::Atom" rel="nofollow">XML::Atom</a> yesterday.  This module implements most of the Atom API.  The goal for this project is &#8220;to provide an implementation of the syndication feed format, the API, and the archiving format planned for Atom.&#8221;  Ben also states that this code will form the basis of Atom support for Movable Type and TypePad.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/26/">26</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000777"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/26/quick_links.php">Quick Links</a></h3>
+
+<ul>
+<li><a href="http://www.tactile3d.com/tristan/" title="Eclectic Resources" rel="nofollow">Nice fonts for programming.</a></li>
+<li>Adactio has an excellent tutorial on <a href="http://adactio.com/articles/display.php/CSS_based_design" title="CSS Based Design" rel="nofollow">CSS-based design</a> that looks like a great way to break into this stuff.</li>
+<li><a href="http://photofriday.com/" title="Photo Friday" rel="nofollow">Photo Friday</a></li>
+<li><a href="http://www.veer.com/" title="Veer: Visial Elements for Creatives" rel="nofollow">Veer</a></li>
+<li>Wow!  <a href="http://www.ami.com/" title="American Megatrends, Inc." rel="nofollow">AMI</a> doesn&#8217;t use tables!</li>
+<li><a href="http://www.twothirty.com/" title="twothirty media inc." rel="nofollow">twothirty</a></li>
+<li>WaSP on <a href="http://webstandards.org/buzz/archive/2003_09.html#a000203" title="A table, s'il vous pla&icirc;t" rel="nofollow">accessible tables</a></li>
+<li><a href="http://www.maxdesign.com.au/presentation/listamatic2/" title="Listamatic2: nested list options" rel="nofollow">Listamatic2</a></li>
+<li><a href="http://www.inknoise.com/experimental/layoutomatic.php" title="Layout-o-matic" rel="nofollow">Layout-o-matic</a></li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000776"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/26/css_supremacists_beware.php">CSS Supremacists Beware</a></h3>
+
+<p>Paul Hammond <a href="http://www.paranoidfish.org/notes/2003/09/25/2226" title="paranoidfish.org/notes/ : An open letter to 'tableless' recoders" rel="nofollow">says all the right things</a> about redisigning other people&#8217;s sites.</p>
+
+<p>One point he makes in this excellent rant is that some sites already have a new design in the works but just haven&#8217;t quite gotten all of the kinks out of it yet.  That&#8217;s certainly the case <a href="/new/" title="Full Speed II" rel="nofollow">here</a>.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/25/">25</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000775"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/25/frisco_remix.php">FRISCO_REMIX</a></h3>
+
+<p><a href="http://www.stopdesign.com/log/2003/09/24/spaced_out.html" title="Stopdesign | Spaced Out" rel="nofollow">Stopdesign</a> led me to a strangely unique font called <a href="http://www.hollandfonts.com/tribe/tribe03/repub/index.html" title="Tribe03 | SPACE" rel="nofollow">FRISCO_REMIX</a> yesterday.  Of particular note is the letter &#8220;Y&#8221;.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000774"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/25/mozilla_backup.php">Mozilla Backup</a></h3>
+
+<p>For those of you who, like me, have all kinds of passwords in your encrypted Mozilla password store, along with a rather large file of bookmarks, <a href="http://backup.jasnapaka.com/" title="Mozilla Backup" rel="nofollow">Mozilla Backup</a> finally provides an easy way to save your Mozilla profile in a single archive file which can be readily backed up.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/24/">24</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000773"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/24/auto-complete_meets_javascript.php">Auto-Complete Meets JavaScript</a></h3>
+
+<p>Simon Willison made note of this <a href="http://simon.incutio.com/archive/2003/09/20/autoComplete" title="Simon Willison: Auto-complete text boxes" rel="nofollow">recent find</a>.  I think it would be nice to have a list of keywords auto-completing the search box on this site.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000772"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/24/secure_email.php">Secure Email</a></h3>
+
+<p>Does anybody use secure, encrypted email?  I know that there are several <a href="http://www.betteremail.com/" rel="nofollow">services</a> out there that are hosting this sort of thing, but it seems to me that they don&#8217;t get a lot of use.  I have never personally received an encrypted message.</p>
+
+<p>I&#8217;m sure that there are a lot of businesses that could benefit from such technology, however.  Brokers should probably use encryption to keep that hot stock tip a secret.  If I were an attorney, I&#8217;d be afraid of violating my clients&#8217; rights by using unencrypted email to discuss a case.  And do doctors email patient records in plain text?</p>
+
+<p>Security is a hot topic lately in the IT industry.  Yet email is one of the least secure internet applications out there.  Hopefully this will all change soon.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/23/">23</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000771"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/23/athlon_64_is_finally_here.php">Athlon 64 is Finally Here</a></h3>
+
+<p>The <a href="http://www.amd.com/us-en/Corporate/VirtualPressRoom/0,,51_104_543~74465,00.html" title="AMD Ushers in Era of Cinematic Computing with the AMD Athlon 64 FX Processor" rel="nofollow">announcement</a> came as no surprise today.  We&#8217;ve been anticipating this one for many months now.  The <a href="http://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_9484,00.html" title="AMD Athlon 64" rel="nofollow">Athlon 64</a> processor family, including the beefy <a href="http://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_9485_9488,00.html" title="AMD Athlon 64 FX Processor" rel="nofollow">64FX</a>, is finally here, along with a <a href="http://www.internetnews.com/ent-news/article.php/3081201" title="Microsoft Betas Windows XP 64-Bit on AMD64" rel="nofollow">beta release</a> of 64-bit Windows.  And <a href="http://rss.com.com/2009-1006_3-5080659.html?tag=fd_lede" title="AMD's 64-bit adventure begins | CNET News.com" rel="nofollow">news</a> <a href="http://www.infoworld.com/article/03/09/23/HNxpbeta_1.html?source=rss&amp;url=http://www.infoworld.com/article/03/09/23/HNxpbeta_1.html" title="InfoWorld: Microsoft unwraps Windows XP 64-bit beta: September 23, 2003: By : Applications" rel="nofollow">coverage</a> <a href="http://slashdot.org/article.pl?sid=03/09/23/1619201" title="Slashdot | Athlon 64 Debuts" rel="nofollow">abounds</a>.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000770"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/23/thinkpad_x31.php">ThinkPad X31</a></h3>
+
+<p>Having been a ThinkPad user for about two years now, I&#8217;ve recently been eyeing the newest ultraportable ThinkPad, the <a href="http://www-132.ibm.com/webapp/wcs/stores/servlet/ProductDisplay?productId=8601403&amp;storeId=1&amp;langId=-1&amp;categoryId=2059153&amp;dualCurrId=73&amp;catalogId=-840" title="ThinkPad X31" rel="nofollow">X31</a>.  Finally, thanks to <a href="http://www.gizmodo.com/archives/008931.php" title="Gizmodo : IBM ThinkPad X31 review" rel="nofollow">Gizmodo</a>, I got to read a <a href="http://compreviews.about.com/cs/laptops/gr/aaprIBMTPX31.htm" title="IBM ThinkPad X31" rel="nofollow">review</a> of the laptop today.  The review gave it five stars.  I guess I know what my next upgrade will be.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000769"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/23/fight_for_number_portability.php">Fight for Number Portability</a></h3>
+
+<p>As the deadline for phone number portability nears in the US, many phone companies are still fighting to prevent it.  They are afraid of number portability because it will force them to provide better service and better prices.  Don&#8217;t let them win!  Join the fight to help make number portability happen.  <a href="http://www.consumersunion.org/campaigns/escapecellhell/" title="Escape Cell Hell" rel="nofollow">Escape Cell Hell</a>, from <a href="http://www.consumersunion.org/" title="Consumers Union" rel="nofollow">the publishers of Consumer Reports</a>, makes it easy to send a letter to your Congresspeople.  With their site, you can voice your opinion in under 30 seconds.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000768"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/23/web_hosting_and_mt.php">Web Hosting and MT</a></h3>
+
+<p>I&#8217;ve been hosting my own websites for quite some time now.  Probably the last 7-8 years.  Whether they were run on the servers of companies that I worked for or my own servers, I always had full control of the server.  But it seems that many in the weblog world use web hosting companies for their blogs.  I&#8217;ve read about horror stories getting Movable Type installed.  It was simple for me, having root access to all of my servers.  In fact, I set up a fully-redundant, distributed architecture for this site in under an hour.  I suppose I&#8217;m out of touch with those who use the standard web hosting services.  Perhaps I should host other people&#8217;s blogs on my servers for a nominal fee since it&#8217;s so easy for me to setup.  Would anyone be interested in something like that?</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000767"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/23/quote_of_the_day.php">Quote of the Day</a></h3>
+
+<blockquote>&#8220;Whenever someone thinks that they can replace SSL/SSH with something much better that they designed this morning over coffee, their computer speakers should generate some sort of penis-shaped sound wave and plunge it repeatedly into their skulls until they achieve enlightenment.&#8221;
+&#8211;<a href="http://www.mit.edu:8008/bloom-picayune/crypto/14238" rel="nofollow">Peter Gutmann</a></blockquote>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/22/">22</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000766"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/22/roll_your_css.php">Roll your CSS</a></h3>
+
+<p><a href="http://www.redmelon.net/" title="redmelon.net" rel="nofollow">redmelon.net</a> has <a href="http://www.redmelon.net/tstme/" title="Navigation tstme - redmelon.net" rel="nofollow">a demo</a> of the best <acronym title="Cascading Style Sheets">CSS</acronym>-based image rollovers I&#8217;ve seen to date.  These rollovers need no Javascript, no image trickery&#8211;just plain CSS.  And as a bonus, they <b>preload</b>!  I believe that this is the ultimate CSS image rollover solution.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000765"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/22/the_internet_vs_verisign.php">The Internet vs. VeriSign</a></h3>
+
+<p>So we have a workaround for VeriSign&#8217;s nasty <acronym title="Domain Name System">DNS</acronym> changes, but that&#8217;s not enough.  Popular Enterprises, LLC, <a href="http://www.wired.com/news/business/0,1367,60518,00.html" title="Wired News: VeriSign Sued Over Search Service" rel="nofollow">sued VeriSign</a> over the new Site Finder &#8220;service&#8221;.</p>
+
+<p>Next, <acronym title="The Internet Corporation for Assigned Names and Numbers"><a href="http://www.icann.org/" rel="nofollow">ICANN</a></acronym> announced that they have called upon VeriSign to voluntarily suspend the service.  Clicking on <a href="http://this-is-not-a-real-domain.com/" rel="nofollow">a fake url</a> shows that VeriSign has not complied.  Will this ordeal ever end?</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/20/">20</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000764"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/20/upcoming.php">Upcoming</a></h3>
+
+<p>The latest in web-based social software, <a href="http://www.upcoming.org/" title="Upcoming.org: Home" rel="nofollow">Upcoming</a> looks very promising.  It joins people, places, and events.  And you can get RSS feeds for your agregator as well.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000763"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/20/list-o-matic.php">List-o-matic</a></h3>
+
+<p>Not to be confused with <a href="/archives/2003/09/06/listamatic_css_lists.fs" title="Listamatic: CSS Lists" rel="nofollow">Listamatic</a>, <a href="http://www.accessify.com/tools-and-wizards/list-o-matic/list-o-matic.asp" title="List-o-matic - generate CSS-styled navigation based on list items" rel="nofollow">List-o-matic</a> generates <acronym title="Cascading Style Sheets">CSS</acronym> styled lists for you.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000762"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/20/nice_try_verisign.php">Nice Try, VeriSign</a></h3>
+
+<p>In response to &#8220;high demand&#8221; from users, <abbr title="Internet Software Consortium">ISC</abbr>, the organization that develops and maintains <acronym title="Berkeley Internet Name Daemon">BIND</acronym>, has issued a <a href="http://www.isc.org/products/BIND/delegation-only.html" title="Internet Software Consortium - BIND" rel="nofollow">delegation-only patch</a> that prevents VeriSign&#8217;s <a href="http://www.wired.com/news/business/0,1367,60466,00.html" title="VeriSign Takes Sting out of Typos" rel="nofollow">hostile takeover</a> of the .com and .net domains.  In order for this effort to be successful, we must all <a href="http://marc.theaimsgroup.com/?l=bind-users&amp;m=106378709918676&amp;w=2" title="BIND 9.2.2-P1 is now available." rel="nofollow">update our nameservers</a> with this patch and add a few lines to the name server configuration.  Will this kill the &#8220;Site Finder&#8221;?  Only time will tell.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/19/">19</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000761"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/19/veen_on_web_standards.php">Veen on Web Standards</a></h3>
+
+<p>We&#8217;ve all known for quite some time that designing our websites according to the standards is a good thing.  It makes for lighter, faster sites that are typically more accessible.  <a href="http://www.veen.com/jeff/" title="Jeffrey Veen" rel="nofollow">Jeff Veen</a> has given a clear, concise business case <a href="http://www.adaptivepath.com/publications/essays/archives/000266.php" title="adaptive path : the business value of web standards" rel="nofollow">on the value of web standards</a>.  If you&#8217;re trying to convince a client to take a standards-based approach, this article is a must read.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/17/">17</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000760"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/17/959_at_last.php">959 At Last!</a></h3>
+
+<p>More than ten years after the limited production of the Porsche 959 supercar, laws have finally been passed that allow an emissions modified version of the car to roam the streets of the US.  Read more at <a href="http://www.autoweek.com/cat_content.mv?port_code=autoweek&amp;cat_code=coverstory&amp;loc_code=index&amp;content_code=09282484" title="AutoWeek - Cover Story" rel="nofollow">AutoWeek</a>.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/13/">13</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000759"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/13/hiding_from_browsers.php">Hiding From Browsers</a></h3>
+
+<p>A large subset of  web designers are drawing attention to the <a href="http://www.w3.org/WAI/" title="Web Accessibility Initiative" rel="nofollow">accessibility of websites</a> these days.  In simple terms, web accessibility means that anyone can access a site with any browser.  This means that an accessible site supports not only the latest versions of IE or Mozilla, but it works in older, less feature-packed browsers as well.</p>
+
+<p>There is a certain type of browser that seems to be creating a niche for itself as the most troublesome when creating accessible sites.  This browser is known as a &#8220;screen reader&#8221;.  And it&#8217;s probably not that screen readers are difficult to design for but rather that they&#8217;re just not all that available.</p>
+
+<p>You see, screen readers are typically found only on the computers of those who have visual disabilities.  As the name implies, a screen reader reads the contents of the screen to the user.  A blind or visually impaired user would not be able to use a computer without such software.</p>
+
+<p>And the companies that make the screen readers aren&#8217;t helping matters.  <a href="http://www.freedomscientific.com/fs_products/software_jaws.asp" title="JAWS for Windows" rel="nofollow">JAWS</a>, the most popular screen reader, is <a href="http://www.freedomscientific.com/fs_products/software_jawspricing.asp" title="JAWS for Windows Pricing" rel="nofollow">priced</a> rather prohibitively.  Sure, if a screen reader was the only means by which I could &#8220;view&#8221; a website, I wouldn&#8217;t mind paying $1000.  But for those of us who simply want to make our sites accessible to users of the screen reading software, this price is exorbitant.  Heck, even the 60-day trial version costs $40.</p>
+
+<p>A while back, a petition was started online to get lower-priced versions of JAWS for web designers.  This petition drew all kinds of criticism, from the <a href="http://www.webstandards.org/buzz/archive/2003_08.html#a000177" title="JAWS Petition: Just Say No" rel="nofollow">constructive</a> to the <a href="http://www.maccessibility.com/archive/000832.php" title="The JAWS Petition: Just Plain Stupid" rel="nofollow">outright negative</a>.  But it seemed that most agreed that this petition was not the right solution.  Coding a site to the quirks of one particular piece of software would be a step backwards.</p>
+
+<p>So what should we do now?  Well, I think that we, as web designers, should continue to build sites with semantic markup.  Producing valid code is certainly a step in the right direction.  The screen readers should be <a href="http://www.juicystudio.com/assistivedeviceschart.html" title="Assistive Device Behaviour Chart" rel="nofollow">able</a> to read a standards-based markup.  And if they can&#8217;t, the market will force them to acquire the capability soon.</p>
+
+<p>But if you can&#8217;t afford to have a single user turned away from your site, there is still a decent recourse&#8211;hiding text from visual browsers.  Jon Hicks <a href="http://exp.hicksdesign.co.uk/archives/000158.php" title="// hicksdesign: skip links - update" rel="nofollow">posted</a> a nice snippet of CSS today that will allow you to position a DIV outside of the browser window.  This makes it invisible to the browsers but not to screen readers.  The top three screen readers took a DIV hidden with this method and read it perfectly.</p>
+
+<p>In the end, I think that sticking to the <a href="http://www.w3.org/TR/WCAG10/" title="Web Content Accessibility Guidelines" rel="nofollow">WCAG</a> will be the ultimate solution for creating fully accessible sites.  If both the designers and the browser developers can stick to this standard, the web will be forever accessible.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000758"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/13/after_life.php">After Life</a></h3>
+
+<p>Jonathan Clark has produced a very impressive photo essay in his <a href="http://www.jonathan-clark.com/afterlife/cemetery.htm" title="After Life" rel="nofollow">After Life</a> series.  The sounds that accompany these photos really set the mood.  And the subtle animations add a good deal to the already excellent photographs.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000757"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/13/ive_got_mail.php">I&#8217;ve got mail!</a></h3>
+
+<p><a href="http://www.crankyank.com/video/Special_Ed-Ive_Got_Mail.mpg" title="Special Ed (25mb MPG)" rel="nofollow">I&#8217;ve got mail, yeaaaaaay!</a> (found at <a href="http://whatdoiknow.org/" title="What Do I Know" rel="nofollow">What Do I Know</a>)</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000756"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/13/color_schemes.php">Color Schemes</a></h3>
+
+<p>While working on a decent design for my site, I have come across many great tools to aid in graphic design.  Of particular interest are the tools which lend creativity to the otherwise colorblind.  Pixy&#8217;s <a href="http://www.pixy.cz/apps/barvy/index-en.html" title="Color Scheme" rel="nofollow">color schemes picker</a> and EasyRGB&#8217;s <a href="http://www.easyrgb.com/harmonies.php" title="Color Harmonies" rel="nofollow">Color Harmonies</a> are my favorite tools for choosing colors that will look good together in my work.  I&#8217;m still not too sure about the color, though.  I typically want to stick with gray on gray.  Who knows, though&#8211;maybe one of these tools will inspire me.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/11/">11</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000755"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/11/new_mozilla_coming_soon.php">New Mozilla Coming Soon</a></h3>
+
+<p>The word on the next major release of Mozilla was <a href="http://groups.google.com/groups?as_umsgid=3F5FFD28.3040206%40meer.net" title="Google Groups" rel="nofollow">released</a> today.  We should be using version 1.5 on September 29.  I know I can&#8217;t wait.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/06/"> 6</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000754"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/06/listamatic_css_lists.php">Listamatic:  CSS Lists</a></h3>
+
+<p>Lists styled with CSS have been an attractive mechanism for site navigation to me ever since I first saw them.  But I always had trouble remembering where I saw them or remembering to bookmark them when I did see them.  This post should take care of that.  <a href="http://www.maxdesign.com.au/presentation/listamatic/" title="Listamatic" rel="nofollow">Listamatic</a> is a collection of various techniques for producing both vertical and horizontal lists.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

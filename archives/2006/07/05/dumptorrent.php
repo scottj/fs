@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="I see many searches coming in for 'DumpTorrent'. Not having heard of DumpTorrent, I did some searching. Apparently it was a small-ish BitTorrent tracker that never left the experimental stage. I'm not sure if it works, but the source went..." />
+<meta name="author" content="Scott Johnson" />
+<title>DumpTorrent ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2006/07/05/dumptorrent.php">
+<dc:title>DumpTorrent</dc:title>
+<dc:description>I see many searches coming in for &quot;DumpTorrent&quot;. Not having heard of DumpTorrent, I did some searching. Apparently it was a small-ish BitTorrent tracker that never left the experimental stage. I&apos;m not sure if it works, but the source went...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2006-07-05T20:02:47-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2006/07/">July</a> <a href="/archives/2006/07/05/"> 5</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">DumpTorrent</h3>
+<p>I see many searches coming in for &#8220;DumpTorrent&#8221;.  Not having heard of DumpTorrent, I did some searching. Apparently it was a small-ish BitTorrent tracker that never left the <em>experimental</em> stage.  I&#8217;m not sure if it works, but the source went offline and is <a href="http://66.102.7.104/search?q=cache:ce3dATQUjF4J:arch.gna.org/archzoom/ksandstr%40iki.fi--2005-successor/successor--mainline--0.1--base-0/src/dumptorrent.c+dumptorrent&hl=en&gl=us&ct=clnk&cd=2&client=firefox-a">barely alive in Google&#8217;s cache</a>.  In the interest of preserving the tiny tracker, I have <a href="http://full-speed.org/misc/dumptorrent/">mirrored</a> the source file.</p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2006/07/01/best_bittorrent_client_software.php">Best BitTorrent Client Software</a> - July  1, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2003/08/13/faster_downloads_with_bittorrent.php">Faster Downloads with BitTorrent</a> - August 13, 2003</li>
+
+<li><a href="http://full-speed.org/archives/2004/01/02/better_bittorrent.php">Better BitTorrent</a> - January  2, 2004</li>
+
+<li><a href="http://full-speed.org/archives/2006/03/20/microsoft_and_http.php">Microsoft and HTTP</a> - March 20, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2005/10/04/bacon_polenta.php">Bacon Polenta</a> - October  4, 2005</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2006/07/05/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2006/07/04/links_for_2006-07-04.php" title="links for 2006-07-04">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2006/07/10/links_for_2006-07-10.php" title="links for 2006-07-10">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

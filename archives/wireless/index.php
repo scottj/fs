@@ -1,0 +1,510 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Wireless Archives</title>
+<!-- common -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body>  
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/06/">June</a> <a href="/archives/2006/06/28/">28</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001135"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/06/28/hsdpa_vs_umts.php">HSDPA vs. UMTS</a></h3>
+
+<p>With all of the new cellular standards and acronyms, I have been in the dark about a couple of things.  Specifically, HSDPA and UMTS.  If you don&#8217;t know what these are and don&#8217;t care to learn about them, you will probably want to stop reading now.  :)  I know that these are both high(er) speed wireless communications protocols.  That was the easy part.  I also know that they are both faster than <a href="http://en.wikipedia.org/wiki/EDGE" rel="nofollow">EDGE</a>, a protocol that I have frequently used with cellphones in times of broadband outage.</p>
+
+<p>Now this question isn&#8217;t something that I have been really racking my brain on.  It&#8217;s just been a curiousity lingering in the back of my mind that surfaces whenever I read about the fancy new phones that are becoming available.  It seemed to me that the two acronyms were often loosely interchanged.  And without digging around to find the differences, I was beginning to think that they were the same thing.</p>
+
+<p>Finally, I posed <a href="http://www.engadgetmobile.com/2006/06/28/bbb-largely-rules-for-cingular-in-ad-battle-with-sprint-nextel/1#c1670280" rel="nofollow">a question to a couple of fellow Engadget Mobile readers</a> tonight.  And as I typically do, I hammered it out and clicked submit before even thinking about doing a tiny bit of research.</p>
+
+<p>So, within five minutes, I found myself on Wikipedia reading about all of the gory details of <a href="http://en.wikipedia.org/wiki/High-Speed_Downlink_Packet_Access" rel="nofollow">HSDPA</a>, or High-Speed Downlink Packet Access.  I found that I already knew some of this information, such as the fact that the protocol supports downlink speeds of up to 14.4 Mbit/s.  (Wow!)</p>
+
+<p>The real benefit for me from the Wikipedia article on HSDPA was mostly in the first paragraph:<blockquote>HSDPA provides a smooth evolutionary path for Universal Mobile Telecommunications System (<a href="http://en.wikipedia.org/wiki/UMTS" rel="nofollow">UMTS</a>) networks allowing for higher data capacity. It is an evolution of the <a href="http://en.wikipedia.org/wiki/WCDMA" rel="nofollow">W-CDMA</a> standard, designed to increase the available data rate by a factor of 5 or more. HSDPA defines a new W-CDMA channel, the high-speed downlink shared channel (HS-DSCH) that operates in a different way from existing W-CDMA channels, but is only used for downlink communication to the mobile.</blockquote>Whew!  In addition to the above, the UMTS page on Wikipedia says that UMTS &#8220;uses W-CDMA as the underlying standard.&#8221;  Ok, so I&#8217;m seeing this as a progression:  WCDMA&#8594;UMTS&#8594;HSDPA.  The newer standards are evolutions of the older standards, using and expanding upon previous protocols.  <a href="http://www.3gamericas.org/english/technology_center/hsdpa.cfm" rel="nofollow">Elsewhere</a>, I confirmed the following:<blockquote>HSDPA is compatible with EDGE and is fully backwards compatible with WCDMA, and enterprise and rich multimedia applications developed for WCDMA will work with HSDPA. Most UMTS vendors support HSDPA.</blockquote>So here are my conclusions:<ol><li>HSDPA and USDPA devices should work on WCDMA networks and will possibly work on UMTS networks.</li><li>HSDPA devices should work on a UMTS network, but the reverse is not true.</li><li>HSDPA is blazing fast</li><li>As with most other wireless systems here in the US, we use different frequencies than other parts of the world.  Don&#8217;t count on your shiny new phone to work with one of these 3G protocols both at home and in other parts of the world.</li><li>If given a choice, pick an HSDPA device.</li></ol>These conclusions may be a bit off, but I feel that my questions have been answered.  I didn&#8217;t get into EV-DO, as that is a protocol that isn&#8217;t offered by the GSM providers here and thus isn&#8217;t an option for me.  Cingular is said to be planning to offer the <a href="http://www.mobilewhack.com/reviews/samsung_sgh-zx2050_hsdpa_phones.html" rel="nofollow">Samsung SGH-ZX20</a> in the near future.  That is looking like a winning option for early adopters and bandwidth freaks.<br />
+</p>
+
+
+
+ <div class="posted">11:30 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/06/28/hsdpa_vs_umts.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/12/">December</a> <a href="/archives/2004/12/06/"> 6</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000895"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/12/06/wi-fi_updates.php">Wi-Fi Updates</a></h3>
+
+<p><a href="http://wifinetnews.com/" rel="nofollow">Wi-Fi Networking News</a>, always a trusted source for news about wireless networking, released two interesting bits of news last week.</p>
+
+<p>First, <a href="http://wifinetnews.com/archives/004518.html" title="Gigabit Virtual Fiber in Lower Manhattan" rel="nofollow">GigaBeam is planning multi-gigabit wireless networking in Lower Manhattan</a>.  They are calling this &#8220;virtual fiber&#8221;.  It will be using point-to-point technology operating in the 71-76 GHz and 81-86 GHz ranges.  No prices have been announced yet, but I sure would love to have something like this in my apartment.</p>
+
+<p>And second, <a href="http://wifinetnews.com/archives/004520.html" title="802.11n Devices by mid-2006" rel="nofollow">an update on the progress of 802.11n</a>.  The short of this is that we should expect to see 802.11n devices by mid-2006.  For those of you not familiar with <a href="http://en.wikipedia.org/wiki/802.11#802.11n" rel="nofollow">802.11n</a>, this is the next generation in wireless networking, promising real throughput of at least 100Mbps.</p>
+
+<p>Exciting things are happening in the wireless world.  Within a couple of years, it will be a totally different landscape.</p>
+
+
+
+ <div class="posted">10:10 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/12/06/wi-fi_updates.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/08/">August</a> <a href="/archives/2004/08/29/">29</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000870"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/08/29/us_nationwide_wi-fi_providers.php">US Nationwide Wi-Fi Providers</a></h3>
+
+<ul><li><a href="http://www.attwireless.com/smallbusiness/solutions/laptop/" rel="nofollow">AT&amp;T</a></li><li><a href="http://www.boingo.com/" rel="nofollow">Boingo Wireless</a></li><li><a href="http://www.clearwire.com/" rel="nofollow">Clearwire</a> (coming soon)</li><li><a href="http://www.ipass.com/" rel="nofollow">iPass</a></li><li><a href="http://www.sprint.com/business/products/products/sprintPCSWI-FIAccess.jsp" rel="nofollow">Sprint</a></li><li><a href="http://www.tmobile.com/hotspot/" rel="nofollow">T-Mobile</a></li></ul>
+
+<p>Honorable Mentions:<ul><li><a href="http://www.panerabread.com/wifi.aspx" rel="nofollow">Panera Bread</a></li><li><a href="http://www.schlotzskys.com/wireless.html" rel="nofollow">Schlotzsky&#8217;s Cool Cloud</a></li></ul></p>
+
+<p>If you know of any others that are missing from this list, please feel free to contribute.</p>
+
+
+
+ <div class="posted"> 6:15 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/08/29/us_nationwide_wi-fi_providers.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/08/">August</a> <a href="/archives/2004/08/26/">26</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000868"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/08/26/pics_of_new_treo.php">Pics of New Treo</a></h3>
+
+<p>Engadget was kind enough to post up <a href="http://www.engadget.com/entry/2746522431029510/" title="Actual pics of the new Treo Ace/Treo 650" rel="nofollow">pics</a> found on <a href="http://discussion.treocentral.com/showthread.php?t=56586&page=5&pp=20" title="TREO ACE/650 CRITICAL INFO (Actual Pics)" rel="nofollow">TreoCentral</a> of the next incarnation of the Treo.  I&#8217;m still happy with the <em>old</em> Treo600, but this new phone looks amazing!</p>
+
+<p>New Specs:<ul class="compact"><li>Bluetooth</li><li>320x320 16-bit TFT</li><li>312MHz processor</li><li>32MB RAM</li><li>better backlit keyboard</li></ul></p>
+
+
+
+ <div class="posted"> 6:08 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/08/26/pics_of_new_treo.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/06/">June</a> <a href="/archives/2004/06/03/"> 3</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000859"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/06/03/t-mobile_hotspot.php">T-Mobile Hotspot</a></h3>
+
+<p>After about three years of using T-Mobile&#8217;s Hotspot service, I finally cancelled my account for good in April.  I&#8217;ll be using the <a href="http://www.austinwirelesscity.org/" rel="nofollow">wonderful free service</a> that&#8217;s available here in Austin for all of my local wireless needs.  Finally, my <a href="http://www.flipnotics.com/" rel="nofollow">favorite coffee shop</a> has wireless, so I can stop supporting T-Mobile and Starbucks.</p>
+
+<p>The cancellation of my T-Mobile account was not without frustration on my end and sneakiness on the part of T-Mobile, however.  It started with the mention of a cancellation fee.  The phone rep said, &#8220;You have completed your one year agreement, so there is no cancellation fee.&#8221;  One year agreement?  I never saw any agreement whatsoever.  In fact, when T-Mobile bought out Mobilestar, I merely saw a different SSID at Starbucks and a different name on my credit card statement.  Apparently T-Mobile had put me on a one year contract without my knowledge.  Not good.</p>
+
+<p>Since I had been using the unlimited T-Mobile service for 24 months, there was not really an issue with the contract.  Had there been a fee charged, I would have been very angry.  They got lucky with this one.</p>
+
+<p>It was the billing, however, that was a problem.  I was last billed for my monthly service on April 16.  That was four days prior to my cancellation.  When I asked the phone rep whether the account would be cancelled immediately, he said that it would.  I then asked when I could expect to see the remaining part of my money refunded, and he responded with, &#8220;There is no proration.  We have cancelled your account, and there is no money to refund.&#8221;  So T-Mobile has decided that it wants to steal 26 days of service from me.  That&#8217;s just not right.</p>
+
+<p>If you&#8217;re thinking about signing up with T-Mobile&#8217;s monthly hotspot plan, think again.  This is the most anti-customer organization I have dealt with in a long time.</p>
+
+
+
+ <div class="posted"> 8:56 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/06/03/t-mobile_hotspot.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/05/">May</a> <a href="/archives/2004/05/14/">14</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000857"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/05/14/treo_600_updates.php">Treo 600 Updates</a></h3>
+
+<ul>
+<li><a href="http://www.palminfocenter.com/view_story.asp?ID=6813" rel="nofollow">palmOne Releases Treo 600 Updater for Sprint</a></li>
+<li><a href="http://www.palmone.com/us/support/downloads/treo/treo_600_updater_sprint_v1_20.html" rel="nofollow">Treo 600 Updater 1.20 (SprintPCS)</a></li>
+<li><a href="http://www.shellen.com/2003/07/how-to-use-your-sprintpcs-wireless.asp" rel="nofollow">How to use your SprintPCS Wireless Camera phone with Blogger</a></li>
+</ul>
+
+
+
+ <div class="posted">11:29 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/05/14/treo_600_updates.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/03/">March</a> <a href="/archives/2004/03/31/">31</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000847"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/03/31/keyword_lists.php">Keyword Lists</a></h3>
+
+<p><a href="http://battellemedia.com/archives/000522.php" rel="nofollow">John Battelle</a> found an interesting service for tracking popular keywords: <a href="http://www.wordtracker.com/" rel="nofollow">Wordtracker</a>.  Add this to the <a href="http://50.lycos.com/" rel="nofollow">Lycos 50</a>, the <a href="http://buzz.yahoo.com/overall/" rel="nofollow">Yahoo! Buzz Index</a>, and the famous <a href="http://www.google.com/press/zeitgeist.html" rel="nofollow">Google Zeitgeist</a>, and you have an excellent set of keyword lists for search optimization.  A list of the highest priced AdWords keywords would really make this set complete.</p>
+
+
+
+ <div class="posted"> 9:25 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/03/31/keyword_lists.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/25/">25</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000840"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/25/ie_bug_list.php">IE Bug List</a></h3>
+
+<p>In his most recent <a href="http://www.mezzoblue.com/archives/2004/02/25/sidestepping/" rel="nofollow">rant about IE</a>, Dave Shea dropped a nice link to a <a href="http://www.positioniseverything.net/explorer.html" title="Explorer Exposed!" rel="nofollow">thorough list of bugs in Internet Explorer</a>.  I&#8217;m sure there are probably other IE buglists out there, but this one gives examples <b>and</b> workarounds!  This list should be very helpful in getting <a href="/" rel="nofollow">Full Speed</a> looking better in IE.</p>
+
+
+
+ <div class="posted"> 3:02 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/02/25/ie_bug_list.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/19/">19</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000839"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/19/ssh_for_pocket_pc.php">SSH for Pocket PC</a></h3>
+
+<p>For those of you who have the occasional need to tweak a server while on the go, <a href="http://pocketputty.duxy.net/viewtopic.php?t=5" rel="nofollow">PocketPuTTY</a> is for you.  This makes that <a href="http://h10010.www1.hp.com/wwpc/us/en/sm/WF05a/215348-64929-215381-314903-f43-349042.html" rel="nofollow">WiFi-enabled iPAQ</a> look a bit more tempting to me. [via <a href="http://www.mobilewhack.com/pda/pocketpc/pocketputty__free_ssh_for_pocket_pc.html" rel="nofollow">MobileWhack</a>]</p>
+
+
+
+ <div class="posted"> 8:51 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/02/19/ssh_for_pocket_pc.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/11/">November</a> <a href="/archives/2003/11/05/"> 5</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000792"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/11/05/xp_wireless_update.php">XP Wireless Update</a></h3>
+
+<p><a href="http://wifinetnews.com/archives/002454.html" title="Wi-Fi Networking News: Microsoft Rolls up XP Wireless Fixes" rel="nofollow">Microsoft has just released</a> a large bundle of <a href="http://support.microsoft.com/default.aspx?scid=kb;EN-US;826942" rel="nofollow">wireless patches for XP</a>.  The patches fix a lot of bugs (no surprise there) and also add support for <acronym title="Wireless Protected Access">WPA</acronym>.  If you&#8217;re a wireless XP user, you&#8217;ll certainly want to <a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=5039EF4A-61E0-4C44-94F0-C25C9DE0ACE9&displaylang=en" rel="nofollow">download the patches</a>.</p>
+
+
+
+ <div class="posted"> 2:15 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/11/05/xp_wireless_update.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/08/"> 8</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000735"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/08/xda_ii_pocket_pc_phone.php">xda II Pocket PC Phone</a></h3>
+
+<p>I think I&#8217;ve found the phone for me.  It&#8217;s the <a href="http://msmobiles.com/news.php/1134.html" title="msmobiles.com - Review: xda II (xda 2) Pocket PC phone (with many detailed photos)" rel="nofollow">xda II Pocket PC phone</a>.  No external antenna.  Interchangable battery.  Built-in camera!  See the link for a ton of great photos.</p>
+
+
+
+ <div class="posted"> 6:27 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/08/xda_ii_pocket_pc_phone.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/26/">26</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000727"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/26/almost_there.php">Almost There!</a></h3>
+
+<p>Found on Brighthand, <a href="http://www.sandisk.com/consumer/sdwifi.asp" title="SD Wi-Fi Card" rel="nofollow">Sandisk</a> is about to release a new <a href="http://brighthand.com/article/SanDisk_SD_WiFi_Card_Reviewed" title="Brighthand Reviews the SanDisk SD Wi-Fi Card" rel="nofollow">SD Wi-Fi Card</a>!</p>
+
+<p>This thing might get me one step closer to finding a small device that addresses all of my connectivity needs when I&#8217;m on the go.</p>
+
+
+
+ <div class="posted"> 5:12 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/26/almost_there.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/18/">18</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000717"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/18/linksys_linux_maybe.php">Linksys Linux (maybe?)</a></h3>
+
+<p><a href="http://www.oreillynet.com/pub/au/80" rel="nofollow">Rob Flickenger</a> <a href="http://www.oreillynet.com/pub/wlg/3525" title="Linux on the Linksys" rel="nofollow">reported</a> today on some <a href="http://seattlewireless.net/index.cgi/LinksysWrt54g#line50" title="Hacking on the WRT54G at hack night" rel="nofollow">serious hacking</a> that he and some <a href="http://seattlewireless.net/" rel="nofollow">Seattle Wireless</a> buddies have been doing on the <a href="http://www.linksys.com/products/product.asp?prid=508" rel="nofollow">Linksys WRT54G</a> wireless router.  This router already runs Linux out of the box, but these guys are trying to get their own firmware into it so that they can extend it to run some of the <a href="http://nocat.net/" rel="nofollow">NoCat</a> <a href="http://nocat.net/download/" rel="nofollow">projects</a>, tunnelling, monitoring, better firewalling, and anything else that one might expect from a good, secure WLAN node.</p>
+
+
+
+ <div class="posted"> 2:23 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/18/linksys_linux_maybe.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/17/">17</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000715"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/17/the_buzz_on_yahoo.php">The Buzz on Yahoo</a></h3>
+
+<p><a href="http://jeremy.zawodny.com/" rel="nofollow">Jeremy</a> pointed out some great <a href="http://jeremy.zawodny.com/blog/archives/000774.html" title="Yahoo! Buzz RSS Feeds" rel="nofollow">RSS feeds</a> today.  Now if only we could get the <a href="http://www.google.com/press/zeitgeist.html" title="Google Zeitgeist" rel="nofollow">Zeitgeist</a> in RSS.</p>
+
+
+
+ <div class="posted">10:36 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/17/the_buzz_on_yahoo.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/10/">10</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000706"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/10/wi-fi_detector.php">Wi-Fi Detector</a></h3>
+
+<p>I hate it when I pick the wrong chair at an unfamiliar Starbuck&#8217;s.  It&#8217;s the chair with the dead spot.  The chair where I can&#8217;t get my <a href="http://www.t-mobile.com/hotspot/" rel="nofollow">T-Mobile</a> connection.</p>
+
+<p>But <a href="http://kensington.com/html/3720.html" title="Kensington WiFi Finder" rel="nofollow">this gadget</a> (introduced to me by <a href="http://boingboing.net/2003_07_01_archive.html#200443609" rel="nofollow">Boing Boing</a>) will solve all of my problems.</p>
+
+
+
+ <div class="posted"> 8:26 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/10/wi-fi_detector.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br/>
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

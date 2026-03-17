@@ -1,0 +1,2674 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Web Archives</title>
+<!-- common -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body>  
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2012/03/">March</a> <a href="/archives/2012/03/13/">13</a>, <a href="/archives/2012/">2012</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001350"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2012/03/13/weekend_troubleshooting.php">Weekend Troubleshooting</a></h3>
+
+<p>A few links discovered during a 2-day-long website migration and troubleshooting session:<ul><li><a href="http://qmail.jms1.net/test-auth.shtml" rel="nofollow">Testing SMTP AUTH connections</a></li><li><a href="http://wherethebitsroam.com/blogs/jeffw/quick-introduction-perlbal" rel="nofollow">A quick introduction to Perlbal</a></li><li><a href="http://www.lowendbox.com/blog/reducing-mysql-memory-usage-for-low-end-boxes/" rel="nofollow">Reducing MySQL Memory Usage for Low End Boxes</a></li></ul></p>
+
+
+
+ <div class="posted"> 9:53 PM
+ 
+ :: <a href="http://full-speed.org/archives/2012/03/13/weekend_troubleshooting.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2008/09/">September</a> <a href="/archives/2008/09/23/">23</a>, <a href="/archives/2008/">2008</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001286"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2008/09/23/squirrelfish_extreme.php">SquirrelFish Extreme</a></h3>
+
+<p>Last week, the fine folks who work on Safari announced their latest JavaScript engine, <a href="http://webkit.org/blog/214/introducing-squirrelfish-extreme/" rel="nofollow">SquirrelFish Extreme (SFX)</a>.  I&#8217;m not normally one to run nightly browser builds, but in light of <a href="http://full-speed.org/archives/2008/09/12/dromaeo_firefox_vs_chrome.php" rel="nofollow">my recent performance testing</a>, I decided to give this one a shot.</p>
+
+<p>My first impression was that this is definitely not production-ready code.  The browser crashed several times on me during the process of capturing the benchmark.  But when I did get the tests to run, it was fast.  I mean visibly fast.  Much faster than anything else I have on hand.</p>
+
+<p>As before, the testing wasn&#8217;t extensive.  I still haven&#8217;t tested Firefox 3 with <a href="https://wiki.mozilla.org/JavaScript:TraceMonkey" rel="nofollow">TraceMonkey</a>.  The only test I performed this time was running the Safari nightly through Dromaeo.  Here&#8217;s how it stacks up against the others:</p>
+
+<div class="artimg"><img src="http://full-speed.org/images/2008/dromaeo2.png" alt="graph of results" /></div>
+
+<p><a href="http://dromaeo.com/?id=42843" rel="nofollow">Safari with SFX</a> ran the test in 8184.6ms.  The exact build of Safari used for this test is <tt>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/528+ (KHTML, like Gecko) Version/3.1.2 Safari/525.21</tt>.  The nighly package that I downloaded was labeled <tt>WebKit-r36647</tt>.</p>
+
+
+
+ <div class="posted">12:01 AM
+ 
+ :: <a href="http://full-speed.org/archives/2008/09/23/squirrelfish_extreme.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2008/09/">September</a> <a href="/archives/2008/09/12/">12</a>, <a href="/archives/2008/">2008</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001284"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2008/09/12/dromaeo_firefox_vs_chrome.php">Dromaeo: Firefox vs. Chrome</a></h3>
+
+<p>Since the recent release of <a href="http://www.google.com/chrome" rel="nofollow">Google Chrome</a>, there has been a lot of benchmarking going on (<a href="http://ejohn.org/blog/javascript-performance-rundown/" rel="nofollow">1</a>, <a href="http://fritzthomas.com/overall/271-benchmark-and-comparison-of-v8-and-tracemonkey-javascript-engine/" rel="nofollow">2</a>).  Everyone wants faster Javascript performance, and Chrome delivers.</p>
+
+<p>Well, that&#8217;s the impression that I got from using it for a few days anyway.  But yesterday I decided to go one step further and verify that feeling of greater performance.  Admittedly, this isn&#8217;t the most scientific approach, but I have some numbers for you.  I used one benchmarking tool, <a href="http://dromaeo.com/" rel="nofollow">Dromaeo</a>, to see how Chrome stacked up against my workhorse Firefox setup.  John Resig has already run <a href="http://ejohn.org/files/js-dromaeo.png" rel="nofollow">a similar comparison</a>, but I wanted a firsthand look at the numbers.  Here are those numbers:</p>
+
+<div class="artimg"><img src="http://full-speed.org/images/2008/dromaeo.png" alt="graph of the results" /></div>
+
+<p><a href="http://dromaeo.com/?id=41223" rel="nofollow">Chrome</a> ran the tests in 12658ms.  The build of Chrome used for this test is <tt>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.29 Safari/525.13</tt>.  <a href="http://dromaeo.com/?id=41230" rel="nofollow">Firefox</a> ran the tests in 13245ms.  This was the 3.0.1 release build of Firefox, <tt>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1</tt>.  The tests were run on my Core Duo 1.8GHz 4GB Windows XP SP2 system.</p>
+
+<p>As you can see, Chrome was indeed faster.  I&#8217;m already using it more and more for Google apps, as I&#8217;m figuring that these will probably always run faster in Chrome.  Firefox still is my main browser, though, because of the extensions.  Chrome won&#8217;t be replacing that stuff any time soon.</p>
+
+
+
+ <div class="posted"> 1:05 PM
+ 
+ :: <a href="http://full-speed.org/archives/2008/09/12/dromaeo_firefox_vs_chrome.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2008/05/">May</a> <a href="/archives/2008/05/02/"> 2</a>, <a href="/archives/2008/">2008</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001268"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2008/05/02/google_reader_favicon_disappearing.php">Google Reader Favicon Disappearing</a></h3>
+
+<div class="rightimg"><img src="http://full-speed.org/images/reader-favicon.png" alt="This is how my bookmarks look with the SBB extension--icons only." /></div>I have been having problems with Google Reader&#8217;s favicon disappearing from my bookmarks bar lately.  And since I use the <a href="https://addons.mozilla.org/en-US/firefox/addon/4072" rel="nofollow">Smart Bookmarks Bar</a> extension in Firefox, this icon is essential when it comes to knowing which bookmark is which.
+
+<p>Back when I was using Firefox 2, this wasn&#8217;t such a big deal.  I would just manually edit bookmarks.html and insert a base64-encoded data: URI that contained the favicon image.  I did this twice and was quite satisfied with the result.</p>
+
+<p>But now, I have upgraded to the beta of Firefox 3.  It is so much better that I just can&#8217;t bring myself to use FF2 any longer.  And with the upgrade, the bookmarks are now stored in a SQLite database.  Sure, I could update the data in this database file, but I didn&#8217;t want to be constantly editing favicons just to get the desired result.</p>
+
+<p>A bit of googling turned up <a href="http://groups.google.com/group/google-reader-troubleshoot/browse_thread/thread/144cab763890a7ca/e2a8a75bd0604baf?lnk=gst&q=" rel="nofollow">a thread on the Google Reader Troubleshooting group</a> covering this exact topic.  Following the suggestions in that thread, I bookmarked the following URL, and my favicon now appears every time:</p>
+
+<p><a href="http://www.google.com/reader/view/# " rel="nofollow">http://www.google.com/reader/view/# </a></p>
+
+<p>It even seems to work with the https variation of the URL:</p>
+
+<p><a href="https://www.google.com/reader/view/# " rel="nofollow">https://www.google.com/reader/view/# </a></p>
+
+<p>The troubleshooting thread lists a few links that should work.  Apparently, you can build your own as well.  For example, the following URL appears to have a working favicon.  It links directly to my &#8220;finance&#8221; label.</p>
+
+<p><a href="https://www.google.com/reader/view/user/-/label/finance#" rel="nofollow">https://www.google.com/reader/view/user/-/label/finance#</a></p>
+
+<p>It&#8217;s disappointing that you can&#8217;t simply bookmark reader.google.com or www.google.com/reader and get a favicon to show up in Firefox, but until somebody fixes things, this will do.</p>
+
+
+
+ <div class="posted">10:28 AM
+ 
+ :: <a href="http://full-speed.org/archives/2008/05/02/google_reader_favicon_disappearing.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2008/03/">March</a> <a href="/archives/2008/03/14/">14</a>, <a href="/archives/2008/">2008</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001266"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2008/03/14/embedded_journalism.php">Embedded Journalism</a></h3>
+
+<p><script src="http://www.dashes.com/anil/2008/03/embedded-journalism.js" type="text/javascript"></script></p>
+
+
+
+ <div class="posted"> 1:14 PM
+ 
+ :: <a href="http://full-speed.org/archives/2008/03/14/embedded_journalism.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2008/03/">March</a> <a href="/archives/2008/03/10/">10</a>, <a href="/archives/2008/">2008</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001264"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2008/03/10/fixed_john_resigs_blog.php">FIXED: John Resig&#8217;s blog</a></h3>
+
+<p>My online reading style dictates that I highlight text from time to time in order to keep track of where I&#8217;m at.  <a href="http://ejohn.org/blog/" rel="nofollow">John Resig&#8217;s blog</a> was styled in a way that prevented me from highlighting the text in a very visible way.  It seems that the background of the elements containing the text was set to transparent.  So I finally just whipped out a bit of CSS and made <a href="http://userstyles.org/styles/5657" rel="nofollow">a userstyle to override the background</a>.  <a href="https://addons.mozilla.org/en-US/firefox/addon/2108" rel="nofollow">Stylish</a> is a godsend.</p>
+
+<div class="artimg">Before:<br><img src="http://full-speed.org/images/ejohn/ejohn-before.jpg" alt="before" /></div>
+
+<div class="artimg">After:<br><img src="http://full-speed.org/images/ejohn/ejohn-after.jpg" alt="after" /></div>
+
+
+
+ <div class="posted"> 2:47 PM
+ 
+ :: <a href="http://full-speed.org/archives/2008/03/10/fixed_john_resigs_blog.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/01/"> 1</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001217"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/01/django_meets_google_code.php">Django meets Google Code</a></h3>
+
+<p>I recently discovered loads of <a href="http://www.djangoproject.com/" rel="nofollow">Django</a> code on <a href="http://code.google.com/" rel="nofollow">Google Code</a>.  This <a href="http://www.tbray.org/ongoing/When/200x/2006/11/22/Tab-Sweep" rel="nofollow">tab sweep</a> is meant to lower the memory footprint of Firefox on my laptop while serving as an excellent reference for those seeking prepackaged Django code.<ul><li><a href="http://code.google.com/p/django-voting/" rel="nofollow">django-voting</a></li><li><a href="http://code.google.com/p/django-contact-form/" rel="nofollow">django-contact-form</a></li><li><a href="http://code.google.com/p/django-registration/" rel="nofollow">django-registration</a></li><li><a href="http://code.google.com/p/django-tagging/" rel="nofollow">django-tagging</a></li><li><a href="http://code.google.com/p/django-template-utils/" rel="nofollow">django-template-utils</a></li><li><a href="http://code.google.com/p/typogrify/" rel="nofollow">typogrify</a></li><li><a href="http://code.google.com/p/django-openid/" rel="nofollow">django-openid</a></li><li><a href="http://code.google.com/p/reviewboard/" rel="nofollow">reviewboard</a> (also <a href="http://www.review-board.org/" rel="nofollow">here</a>)</li><li><a href="http://code.google.com/p/django-object-level-caching/" rel="nofollow">django-object-level-caching</a></li></ul></p>
+
+
+
+ <div class="posted">11:01 AM
+ 
+ :: <a href="http://full-speed.org/archives/2007/07/01/django_meets_google_code.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/05/">May</a> <a href="/archives/2007/05/29/">29</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001215"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/05/29/site_value.php">Site Value</a></h3>
+
+<p>Wow, who knew?<div class="artimg"><div style="height:130px;width:119px;text-align:center;padding: 10px 0 10px 0;background: url(http://www.dnscoop.com/images/sharebgb.gif) no-repeat; }"><center><div style="border-bottom:solid 1px #cdcdcd;width:100px;margin-bottom:5px;padding-bottom:5px;"><a href="http://www.dnscoop.com/?site=full-speed.org" title="Domain name appraisal" style="font-size: 11px; font-family: arial;" rel="nofollow">My Site is worth</a><br/><span style="font-size: 12px; font-family: arial;"> <b>$2,166,696</b></span></div><div style="font-family: 'Trebuchet MS',Arial,Verdana,Helvetica,sans-serif;"><a href="http://www.dnscoop.com" style="color:#444343;text-decoration:none;font-size:13px;" rel="nofollow">How much is<br />your site worth?</a></div></center></div></div>Any <a href="http://scottj.info/contact/" rel="nofollow">takers</a>?</p>
+
+
+
+ <div class="posted"> 2:08 PM
+ 
+ :: <a href="http://full-speed.org/archives/2007/05/29/site_value.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/11/">November</a> <a href="/archives/2006/11/03/"> 3</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001178"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/11/03/gmail_macros.php">GMail Macros</a></h3>
+
+<p>Late last year, <a href="http://persistent.info/" rel="nofollow">Mihai Parparita</a>, a member of Google&#8217;s Reader team, release a GreaseMonkey script called <a href="http://persistent.info/archives/2005/12/23/greasemonkey" rel="nofollow">GMail Macros</a>.  Lately, Mihai has been, understandably, a <a href="http://googlereader.blogspot.com/2006/10/we-made-it-little-bit-better.html" rel="nofollow">bit</a> <a href="http://googlereader.blogspot.com/2006/10/bug-swatting.html" rel="nofollow">busy</a>.  So <a href="http://gr.ayre.st/" rel="nofollow">others</a> <a href="http://www.coralindia.com/" rel="nofollow">have</a> <a href="http://groups-beta.google.com/groups/profile?enc_user=ni8J7xMAAAC2YDbp1JzWgNtKIjWOp8FXWMj6vob75xS36mXc24h6ww" rel="nofollow">picked up</a> the slack.  New features have been added.  We even have a &#8220;<a href="http://groups-beta.google.com/group/gmail-power-users" rel="nofollow">GMail Power Users</a>&#8221; discussion group on Google Groups.</p>
+
+<p>I have been using Mihai&#8217;s script ever since the day he released it.  It makes GMail a whole lot more friendly to someone who doesn&#8217;t like to reach over to grab the mouse all that often.  I stumbled upon all of the new activity around the script last week when some changes were made to GMail that broke the script.  It was great to see that the script&#8217;s tiny community had come together to not only fix the script but to also add in some really neat features.</p>
+
+<p>There are a few versions of the script up in the <a href="http://groups-beta.google.com/group/gmail-power-users/files" rel="nofollow">files section</a> of the Google Group.  The version that I&#8217;m currently using is the one that Brent created/modified.  I have tweaked my personal copy, mainly changing the appearance of the popup windows a tiny bit.  But anyhow, I&#8217;m posting <a href="http://full-speed.org/files/gmailmacros.user.js" rel="nofollow">a link to my version</a> here.  It&#8217;s not significantly different from Brent&#8217;s script, but I like it.</p>
+
+
+
+ <div class="posted"> 1:14 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/11/03/gmail_macros.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/10/">October</a> <a href="/archives/2006/10/06/"> 6</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001168"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/10/06/yahoo_seeking_advertising_guinea_pigs.php">Yahoo Seeking Advertising Guinea Pigs</a></h3>
+
+<p>When Yahoo announced their Finance modules, <a href="http://full-speed.org/archives/2006/07/17/customizable_yahoo_finance_modules.php" title="Customizable Yahoo Finance Modules" rel="nofollow">I was concerned</a> that they would someday start tossing in unwanted advertising.<blockquote>Clearly, there is no advertising on this widget today, other than links to other Yahoo properties. And IÃ¢m fine with that. But I have a feeling that the space at the bottom might be allocated for future ads.</blockquote>Today, Yahoo has issued <a href="http://ypnblog.com/blog/2006/10/06/calling-for-yahoo-finance-guinea-pigs/" rel="nofollow">a call for guinea pigs</a> to test their new &#8220;advertising options&#8221; in these same modules.  I am not impressed.</p>
+
+
+
+ <div class="posted">12:36 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/10/06/yahoo_seeking_advertising_guinea_pigs.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/10/">October</a> <a href="/archives/2006/10/05/"> 5</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001166"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/10/05/another_way_to_talk_to_google.php">Another Way To Talk To Google</a></h3>
+
+<p>Google <a href="http://googleblog.blogspot.com/2006/10/got-blog-will-ping.html" rel="nofollow">launched a pinging service</a> for their blog search today.  Much like <a href="http://pingomatic.com/" rel="nofollow">Ping-o-matic</a>, the service allows bloggers to inform the world of new content.  This is the first time, however, that we have been able to directly alert Google that a site has been updated.  It will be interesting to see how this is used by the SEO crowd.</p>
+
+
+
+ <div class="posted"> 1:27 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/10/05/another_way_to_talk_to_google.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/09/">September</a> <a href="/archives/2006/09/29/">29</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001164"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/09/29/microsoft_adcenter_reviewed.php">Microsoft adCenter Reviewed</a></h3>
+
+<p>I first signed up for MSN adCenter when the beta was announced.  I went to the site and submitted my email address to be put on a waiting list.  The wait was short, it turns out.  It wasn&#8217;t long before Microsoft announced that anyone could sign up for the expanded beta for the <strike>admission price</strike> one-time setup fee of $5.</p>
+
+<p>When I first signed in to the site, I was disappointed that it only worked with IE.  At the time, I primarily used a Mac at home, so this was a major dealbreaker.  And since I had successful AdWords campains and a decent Yahoo Search Marketing campain running, I wasn&#8217;t really <i>needing</i> another outlet for my advertising.</p>
+
+<p>Fast forward to August 5, when the adCenter website got a redesign.  It was renamed Microsoft adCenter, and one of the major features was Firefox support!  I had switched back to a Windows laptop in June, but with Firefox still being my primary browser, I was happy to see some support.  Now I could actually use the system, or so I thought.</p>
+
+<p>I created an &#8220;order&#8221;, which seems to be the equivalent of an AdWords campaign.  This order consisted of an ad along with about 20 keywords.  I submitted the order and was told that it would need to be subjected to editorial review next.  So I checked back every week or so, each time seeing the status of my order as &#8220;submitted&#8221;.</p>
+
+<p>Today, I checked again.  It has been one month and five days since I submitted my first batch of keywords and ads to Microsoft for editorial approval.  The order still shows the same status: &#8220;submitted&#8221;.  Since I had not received any communication from Microsoft, I decided to check into things.  I was expecting to see an &#8220;approved&#8221; status or similar on the order.  Instead, the individual items inside had been marked &#8220;approved&#8221;, with the order remaining &#8220;submitted&#8221;.  Not the result I was hoping for, but at least I knew that my keywords had been approved.</p>
+
+<p>With the approval question answered, I began to wonder exactly when the campaign had actually started running.  I requested this campaing to begin on August 24, but the campaign itself doesn&#8217;t really show when its ads actually cleared editorial and began running.  Since this test campaign has only received 56 impressions, it could have just started today, or it could have been running all along.</p>
+
+<p>Fortunately, this gave me an excuse to try out the reporting tools. A good daily report should show me when the campain began. And as it were, the ads had been running for a while. I ran a report to show all impressions for the month of September, and Sept 1 had the second highest number of impressions.  So I ran a report for August.  This gave me what I was looking for.  My ads had been running since the 26th.  So the approval process only took two days, but due to lack of communication from Microsoft and the mislabeling of my &#8220;order&#8221;, I was completely unaware.</p>
+
+<p>Thinking that user error could have come into play here, I proceeded to check the email settings.  My email address was there, and it was correct.  The box next to &#8220;Microsoft adCenter Member Communications&#8221; was checked, so I should be receiving mail.  I guess MS just forgot to send that message.</p>
+
+<p>Now that I have finally overcome Microsoft&#8217;s attempts to make the adCenter completely unusable, I can form an opinion of the underlying product.  In my mind, there are three metrics by which online advertising should be measured: ad creation, performance, and reporting.</p>
+
+<p>Initially, I wanted to give an F for ad creation.  I should have received an email when the order was approved.  And the order process should not have taken two days.  But knowing the limits of the system, I can get by.  So for ad creation, which includes keyword adds, etc., I give adCenter a D.</p>
+
+<p>Performance is right on par with what I have been seeing on Yahoo:  B-.  The prices are good, but there&#8217;s nowhere near as much traffic as I see on AdWords.</p>
+
+<p>And finally, reporting.  I was really impressed with the adCenter reports.  They&#8217;re flashy, literally.  Each report that I viewed contained slick, Flash-animated graphs.  There were the typical CSV export options as well.  These are certainly the most beautiful reports in the business.  And report templating and scheduling is available as well.  adCenter gets an A in reporting.</p>
+
+<p>So overall, I would have to give adCenter a C+.  I will probably continue to use it, but I won&#8217;t like it. I expect to be having plenty of discussions with adCenter support on how they can improve.</p>
+
+
+
+ <div class="posted"> 4:01 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/09/29/microsoft_adcenter_reviewed.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/07/">July</a> <a href="/archives/2006/07/17/">17</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001146"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/07/17/customizable_yahoo_finance_modules.php">Customizable Yahoo Finance Modules</a></h3>
+
+<p>Yahoo has finally <a href="http://feeds.feedburner.com/~r/YPN/~3/http%3A%2F%2Fypnblog.com%2Fblog%2F2006%2F07%2F17%2Fbuy-sell%2F" rel="nofollow">let loose</a> with their new <a href="http://finance.yahoo.com/" rel="nofollow">Finance</a> site modules.  Naturally, this was timed to coincide with the launch of <a href="http://yahoo.com/" rel="nofollow">the new Yahoo homepage</a> as well as the new Finance page.</p>
+
+<p>I have some problems with these things, though.  First of all, I added a red border to the example below so that you can see the large whitespace at the bottom.  The height of the iframe can easily be changed to compensate for that, but I have no way of knowing that the space in question will <i>never</i> be used, so I am hesitant to remove it.  I have tried adding more stock symbols to see if that would increase the height of the widget in order to fill the whitespace, but instead of filling the space, the iframe was only made taller.<br />
+<div class="artimg"><!-- Start of Yahoo! Finance code --><iframe style="border:1px solid red;" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="http://api.finance.yahoo.com/instrument/1.0/GOOG,YHOO,MSFT,AAPL,INTC,AMD/badge;chart=5d;quote/HTML?AppID=1WxnpzLgTg.VigGtlYqhQKO9lXVYcx4-&sig=BF8CcC9j0HzpuevC2GL.SplcB34-&t=1153178891250" width="300px" height="672px"></iframe><!-- End of Yahoo! Finance code --></div><br />
+My second concern is that of advertising.  Clearly, there is no advertising on this widget today, other than links to other Yahoo properties.  And I&#8217;m fine with that.  But I have a feeling that the space at the bottom might be allocated for future ads.  If I could put my <a href="http://publisher.yahoo.com/" rel="nofollow">YPN</a> ID into the code and receive targeted ads in that space, I wouldn&#8217;t mind.  But I certainly don&#8217;t want the kind of ads that I expect from Yahoo in that space&#8212;the kind of ads that annoy me every time I fire up Yahoo Messenger.  The jury is still out on this one.</p>
+
+
+
+ <div class="posted"> 5:13 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/07/17/customizable_yahoo_finance_modules.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/07/">July</a> <a href="/archives/2006/07/11/">11</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001142"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/07/11/bloglines_adds_publisher_tools.php">Bloglines Adds Publisher Tools</a></h3>
+
+<p><!-- ckey="655BFDAD" -->Bloglines, which I stopped using long ago, recently added <a href="http://www.bloglines.com/profile?mode=4" rel="nofollow">support tools for publishers</a>.  This will be very useful if you ever have to move a feed and don&#8217;t want to rely on your 301 to handle everything for you.  But, if your feed stays in the same place when you move your site to a different domain, you are still out of luck.  Here&#8217;s hoping someone at Bloglines is once again answering customer emails.  I know that the last couple of emails that I sent in went unanswered.</p>
+
+<p><b>Update</b>: No response from Bloglines, but I noticed that they did manually update my site URL.  Once this had been done, I was able to claim my feed and perform edits.</p>
+
+
+
+ <div class="posted"> 3:22 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/07/11/bloglines_adds_publisher_tools.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/06/">June</a> <a href="/archives/2006/06/02/"> 2</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001119"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/06/02/another_google_reader_error_message.php">Another Google Reader Error Message</a></h3>
+
+<p>Lately it seems that Google&#8217;s <a href="http://reader.google.com/" rel="nofollow">Reader</a> is full of surprises in its error screens.  It&#8217;s amazing that in my months of daily use, I have not seen these <a href="http://full-speed.org/archives/2006/05/24/electrons_and_leptons_meters_and_liters.php" title="Electrons and Leptons, Meters and Liters" rel="nofollow">errors</a> before.  Here&#8217;s the latest find:<div class="artimg"><img src="http://full-speed.org/images/reader-error.png" alt="Oops!" /></div></p>
+
+
+
+ <div class="posted"> 4:05 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/06/02/another_google_reader_error_message.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/04/">April</a> <a href="/archives/2006/04/25/">25</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001105"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/04/25/amazon_s3_roundup.php">Amazon S3 Roundup</a></h3>
+
+<p>Amazon&#8217;s <a href="http://aws.amazon.com/s3" rel="nofollow">Simple Storage Service</a> (S3 for short) is really hot lately.  From the site:<blockquote>&#8220;Amazon S3 provides a simple web services interface that can be used to store and retrieve any amount of data, at any time, from anywhere on the web. It gives any developer access to the same highly scalable, reliable, fast, inexpensive data storage infrastructure that Amazon uses to run its own global network of web sites. The service aims to maximize benefits of scale and to pass those benefits on to developers.&#8221;</blockquote>For the service Amazon charges a small fee: $0.15 per GB-Month of storage used and $0.20 per GB of data transferred.  Interested yet?  I thought so.</p>
+
+<p>The first major use of this service that I noticed was when Adrian Holovaty <a href="http://www.holovaty.com/blog/archive/2006/04/07/0927" rel="nofollow">converted</a> his <a href="http://chicagocrime.org/" rel="nofollow">chicagocrime.org</a> site to serve its images via S3.  Adrian estimates that this change, which greatly reduced the load on his server, will cost him about 35&#162; per month.</p>
+
+<p>The next item I noticed is an important building block for and S3-powered application: a snippet of code that <a href="http://tomcopeland.blogs.com/juniordeveloper/2006/04/amazon_s3_and_i.html" rel="nofollow">sets a MIME type on S3</a> when uploading.</p>
+
+<p>Finally, we have a very impressive undertaking&#8212;-<a href="http://s3.amazonaws.com/s3wiki/wiki/StartPage" rel="nofollow">S3AjaxWiki</a>.  Sure, this sounds like a lame attempt at exploiting all of the latest Web 2.0 buzzwords, but it&#8217;s the real deal: &#8220;both the documents and the authoring application are all resident on the S3 servers, loaded and run on the fly in a browser&#8221;.  More info <a href="http://decafbad.com/blog/2006/04/21/an-s3-ajax-wiki" rel="nofollow">here</a> and <a href="http://decafbad.com/blog/2006/04/23/more-on-s3ajaxwiki" rel="nofollow">here</a>.  This all started out with some work on <a href="http://ajaxian.com/archives/s3-javascript-bindings" rel="nofollow">S3 JavaScript Bindings</a>, and Les Orchard just went hog wild and turned S3 into a Wiki.<br />
+</p>
+
+
+
+ <div class="posted"> 8:22 AM
+ 
+ :: <a href="http://full-speed.org/archives/2006/04/25/amazon_s3_roundup.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/12/">December</a> <a href="/archives/2005/12/06/"> 6</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001042"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/12/06/amazon_product_previews.php">Amazon Product Previews</a></h3>
+
+<p>I&#8217;m trying out a beta of Amazon&#8217;s new web 2.0-compliant, buzzword-friendly, ajax-driven product previews on the site today.  If you want to see the beta in action, hover over the following links.  If not, please ignore this post.</p>
+
+<p><a href="http://www.amazon.com/exec/obidos/ASIN/B00064O1P0/fullspeed-20" rel="nofollow">Canon Powershot SD200</a><br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B0007LJHVA/fullspeed-20" rel="nofollow">Garmin StreetPilot c330</a></p>
+
+
+
+ <div class="posted">10:50 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/12/06/amazon_product_previews.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/10/">October</a> <a href="/archives/2005/10/12/">12</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001006"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/10/12/yahoo_publisher_network.php">Yahoo Publisher Network</a></h3>
+
+<p>I received a nice surprise in my inbox this morning:<blockquote>Thank you for applying to participate in the Yahoo! Publisher Network beta program. We&#8217;re excited to let you know that your application has been accepted.</blockquote>Naturally, I signed up as quickly as possible and pasted some ad code into my site.  This process was very straightforward, much like AdSense.  But after I pasted the ad code into my site, I realized that YPN is nowhere near as refined as AdSense.  According to the <a href="https://publisher.yahoo.com/help/faq/" rel="nofollow">YPN FAQ</a>, I should have seen public service ads while waiting for the context-targeted ads to appear.<blockquote>Your Yahoo! Publisher Network ads will usually begin appearing within seconds of pasting the ad code into your web pages. If no ads are available, public service announcements will be displayed. If you prefer, you may select a Substitute Color that matches your web page background so that a solid color block appears in the meantime instead.</blockquote>But I didn&#8217;t seeing anything.  All that the YPN code provided was an empty iframe.  Sure, it had the CSS for the ads in place, but there was no content inside the body of the html document.  The &#8220;substitute color&#8221; option worked, but I got no PSAs.  This really looked bad on my sites, so I thought that I might not get to try out YPN.</p>
+
+<p>Fortunately, however, the matter was resolved within a couple of hours.  I went back to my test page after doing some other work, and the ads were there.  When I have some solid data on the earnings, I will write up a summary of my experiences.  I&#8217;ll leave you with this for now, though:  Yahoo has a long way to go to catch up with AdSense.</p>
+
+
+
+ <div class="posted"> 9:49 AM
+ 
+ :: <a href="http://full-speed.org/archives/2005/10/12/yahoo_publisher_network.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/10/">October</a> <a href="/archives/2005/10/04/"> 4</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001003"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/10/04/bacon_polenta.php">Bacon Polenta</a></h3>
+
+<p>Google has <a href="http://www.threadwatch.org/node/4091" title="Google's Matt Cutts' Blog GoogleWashed" rel="nofollow">serious problems</a>.  It seems that they have given away a <a href="http://www.pr10.darkseoteam.com/" rel="nofollow">pr10</a> (<a href="http://216.239.63.104/search?q=cache%3Ahttp%3A%2F%2Fwww.pr10.darkseoteam.com%2F" rel="nofollow">Google cache</a>).  And Google employee Matt Cutts has been <a href="http://www.mattcutts.com/blog/" rel="nofollow">GoogleWashed</a>&#8212;-his site has had its content and <a href="http://www.google.com/technology/" title="PageRank Explained" rel="nofollow">PR</a> stolen.  The event has also been referred to as <a href="http://www.threadwatch.org/node/4091#comment-25298" rel="nofollow">The Great Bacon Polenta Conspiracy</a>, a name derived from <a href="http://www.mattcutts.com/blog/bacon-polenta/" rel="nofollow">a recent post</a> on Matt Cutts&#8217; blog.</p>
+
+
+
+ <div class="posted"> 8:53 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/10/04/bacon_polenta.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/24/">24</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000992"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/24/gmail_web_clips.php">GMail Web Clips</a></h3>
+
+<p>It seems that the &#8220;<a href="https://mail.google.com/support/bin/answer.py?ctx=%67mail&hl=en&answer=18219" title="What is 'Clips'?" rel="nofollow">Web Clips</a>&#8221; feature of Google&#8217;s <a href="http://mail.google.com/" rel="nofollow">GMail</a> has been around for <a href="http://blog.outer-court.com/archive/2005-04-15-n70.html" rel="nofollow">a while now</a>.  I just saw it tonight for the first time and was quite surprised to see it.  The new addition appears to be out in limited testing.  Initial thoughts:  I would certainly like to have the rotating headlines at the top of my GMail inbox.</p>
+
+
+
+ <div class="posted">12:12 AM
+ 
+ :: <a href="http://full-speed.org/archives/2005/09/24/gmail_web_clips.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/08/">August</a> <a href="/archives/2005/08/26/">26</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000978"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/08/26/new_movable_type_32_stylesheets.php">New Movable Type 3.2 Stylesheets</a></h3>
+
+<p>Along with <a href="/archives/2005/08/25/movable_type_32_is_finally_here.php" rel="nofollow">Movable Type 3.2</a> came <a href="http://www.sixapart.com/movabletype/news/2005/08/stylecatcher_pu.html" rel="nofollow">a ton of new stylesheets</a> from the good folks at Six Apart.  And they even created a <a href="http://www.sixapart.com/movabletype/styles/library" rel="nofollow">Style Library</a> that lets you preview each of the new styles before downloading them.  My favorite is <a href="http://www.lilia.com/" rel="nofollow">Lilia Ahner</a>&#8217;s <a href="http://www.sixapart.com/movabletype/styles/bold_palettes/theme-purple_crush/theme-purple_crush.css" rel="nofollow">Purple Crush</a>.  The library is AJAXified, so I haven&#8217;t found a way to link directly to the preview pages, but you will find Purple under the Bold Palettes category.  For those of you using standard templates on your Movable Type blog, be sure to check out these great new templates.</p>
+
+
+
+ <div class="posted">10:42 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/08/26/new_movable_type_32_stylesheets.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/08/">August</a> <a href="/archives/2005/08/25/">25</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000977"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/08/25/movable_type_32_is_finally_here.php">Movable Type 3.2 is Finally Here</a></h3>
+
+<p>Almost two months after I <a href="/archives/2005/07/02/movable_type_32_released.php" rel="nofollow">prematurely declared</a> that Movable Type 3.2 was released, it is now here.  Six Apart has <a href="http://www.sixapart.com/movabletype/news/2005/08/movable_type_3_2.html" rel="nofollow">the details</a>.  I actually saw <a href="http://www.dashes.com/anil/2005/08/25/movable_type_3" rel="nofollow">Anil&#8217;s announcement</a> first.  But it was <a href="http://www.livejournal.com/users/brad/2147610.html" rel="nofollow">Brad&#8217;s post</a> that really sparked my attention today:<blockquote>The just-released Movable Type 3.2 includes both an <a href="http://openid.net/" rel="nofollow">OpenID</a> server and consumer plugin. They&#8217;re not enabled by default, but this is a good first step.</blockquote>This seems like a step in the right direction.  I know what I will be doing tonight.</p>
+
+
+
+ <div class="posted"> 3:42 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/08/25/movable_type_32_is_finally_here.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/08/">August</a> <a href="/archives/2005/08/11/">11</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000971"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/08/11/googlex.php">GoogleX</a></h3>
+
+<p>GoogleX was a fine product of Google Labs.  It was an homage to OS X&#8217;s dock.  And as expected, Apple got mad and made them take it down.  A search for GoogleX on Google still returns <a href="http://labs.google.com/googlex/" rel="nofollow">the original URL for GoogleX</a> as the first (and second) search result, but the page only contains these words:<blockquote>The requested URL was not found on this server.</blockquote></p>
+
+<p>I had completely forgotten about this site until yesterday, when I stumbled upon <a href="http://googlex.iamcannabian.com/" rel="nofollow">a mirror</a>.  And as luck would have it, the host of the mirror has the entire site zipped up in <a href="http://googlex.iamcannabian.com/GoogleX.zip" rel="nofollow">one small file</a> for downloading.  Now I have <a href="http://googlex.genericsite.info/" rel="nofollow">my own GoogleX mirror</a>.  :)</p>
+
+
+
+ <div class="posted"> 8:45 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/08/11/googlex.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/08/">August</a> <a href="/archives/2005/08/09/"> 9</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000968"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/08/09/degradable_user_interfaces.php">Degradable User Interfaces</a></h3>
+
+<p>Jason Kottke exposed a delightful idea in <a href="http://www.kottke.org/05/08/the-present-future#18980" rel="nofollow">a comment</a> on one of his postings today:</p>
+
+<blockquote>jkottke says:<br /><i>Degradable interfaces&#8230;the more you use it the more wear it shows. Why does everything have to look like it has never been used? Give me hard edges that become blunt, rounded corners that get shiny, labels that wear off.</i>
+
+<p>I love this idea. A couple of years ago, I was going to launch a design for kottke.org that changed the more you used it. First time users get new graphics but someone who&#8217;s visited the site 50 times gets a less &#8220;branded&#8221; version, the idea being that someone who&#8217;s been here 50 times knows where they are and doesn&#8217;t need any big logo or anything, just the info they&#8217;re after.</blockquote></p>
+
+<p>I have not seen any examples of this type of behavior on a website, but I would certainly love to see it in action.</p>
+
+
+
+ <div class="posted"> 4:27 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/08/09/degradable_user_interfaces.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/07/">July</a> <a href="/archives/2005/07/06/"> 6</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000950"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/07/06/two_years_of_full_speed.php">Two Years of Full Speed</a></h3>
+
+<p>Wow, I can&#8217;t believe it.  It&#8217;s already been two years since the <a href="/archives/2003/07/06/hello_world.php" title="Hello, world!" rel="nofollow">first post</a> on this blog.  To the loyal readers out there, thanks for your time.  While the blog has been neglected at some points, it&#8217;s been a blast to publish content here!<ul><li><a href="http://www.technorati.com/search/full-speed.org" rel="nofollow">Technorati Cosmos</a></li><li><a href="http://www.technorati.com/profile/scottj" rel="nofollow">My Technorati Profile</a></li></ul></p>
+
+
+
+ <div class="posted"> 9:22 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/07/06/two_years_of_full_speed.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/06/">June</a> <a href="/archives/2005/06/28/">28</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000942"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/06/28/my_web_20.php">My Web 2.0</a></h3>
+
+<p><a href="http://flickr.com/" rel="nofollow">Flickr</a> just <a href="http://blog.flickr.com/flickrblog/2005/06/shiny_new_toy.html" rel="nofollow">announced</a> Yahoo&#8217;s new <a href="http://myweb2.search.yahoo.com/" rel="nofollow">My Web 2.0</a>.  This is Yahoo&#8217;s first shot at Social Search.  The relevancy of the results is somehow determined by a combination of the standard relevancy algorithms and the preferences of your friends.  It should be interesting to see how this develops over the coming weeks.</p>
+
+<p>There&#8217;s a <a href="http://www.ysearchblog.com/myweb" rel="nofollow">blog</a>, too.</p>
+
+<p><b>Update</b>: <a href="http://jeremy.zawodny.com/blog/archives/004859.html" rel="nofollow">Jeremy</a>, <a href="http://www.waxy.org/archive/2005/06/28/yahoo_la.shtml" rel="nofollow">Andy</a>, and <a href="http://a.wholelottanothing.org/2005/06/my_web_20.html" rel="nofollow">Matt</a> weighed in with their comments.</p>
+
+
+
+ <div class="posted">10:25 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/06/28/my_web_20.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000940"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/06/28/ripoffs_abound.php">Ripoffs Abound</a></h3>
+
+<p>Exhibit A:<ol><li><a href="http://contactsheet.org/articles/2005/06/26/nike_and_its_minor_threat.html" rel="nofollow">Contact Sheet</a></li><li><a href="http://www.pitchforkmedia.com/news/05-06/23.shtml" rel="nofollow">Pitchfork</a></li><li><a href="http://www.kottke.org/05/06/theft-or-homage" rel="nofollow">Kottke</a></li></ol>Now, at least Kottke gave credit to Pitchfork, but I find it to be quite the coincidence that each of the images that these articles are centered around is 200 pixels tall.  It seems to me that these articles about Nike ripping off Dischord have themselves ripped off some imagery.  Please note that I&#8217;m not condoning Nike&#8217;s acts; I actually agree with these articles.  I just really doubt that they have asked for permission to use these images.</p>
+
+<p><b>Update</b>: <a href="http://www.nike.com/nikeskateboarding/v2/letter/index.html" rel="nofollow">Nike has apologized.</a>  I&#8217;m impressed.</p>
+
+
+
+ <div class="posted">10:19 AM
+ 
+ :: <a href="http://full-speed.org/archives/2005/06/28/ripoffs_abound.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/06/">June</a> <a href="/archives/2005/06/07/"> 7</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000925"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/06/07/no_more_zen.php">No More Zen</a></h3>
+
+<p><a href="http://www.livejournal.com/users/jwz/485953.html" title="BANNED WORDS" rel="nofollow">It</a> had to be said.</p>
+
+
+
+ <div class="posted">11:36 AM
+ 
+ :: <a href="http://full-speed.org/archives/2005/06/07/no_more_zen.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/04/">April</a> <a href="/archives/2005/04/24/">24</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000919"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/04/24/technorati_claim.php">Technorati Claim</a></h3>
+
+<p>In order to claim this site as mine on Technorati, I give you the following link to my <a href="http://www.technorati.com/claim/ua2tnbhrn3" rel="nofollow me">Technorati Profile</a>.  Sorry for the trouble.</p>
+
+
+
+ <div class="posted"> 1:52 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/04/24/technorati_claim.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/03/">March</a> <a href="/archives/2005/03/02/"> 2</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000910"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/03/02/greasemonkey_vs_nofollow.php">Greasemonkey vs. nofollow</a></h3>
+
+<p><style type="text/css">code {display:inline;padding:inherit;}</style><a href="http://xurble.org/weblog" title="Gareth's Notes" rel="nofollow">Gareth Simpson</a> put together <a href="http://xurble.org/weblog/2005/03/greasemonkeying-about-with-nofollow.html" title="(Grease)monkeying about with nofollow" rel="nofollow">a slick little Greasemonkey user script</a> to strike through any <a href="/archives/2005/01/20/nofollow.php" rel="nofollow">rel=&#8221;nofollow&#8221;</a> links on any website.  I quickly found that this didn&#8217;t quite work on all sites, especially WordPress sites.</p>
+
+<p>The default for links in WordPress 1.5 blogs is <code>rel="external nofollow"</code>.  Because Gareth&#8217;s script was dependent on the <code>rel</code> attribute having the exact text <code>nofollow</code>, it failed on the newer WordPress sites.</p>
+
+<p>There are other uses of the <code>rel</code> attribute as well.  For example, <a href="http://www.technorati.com/tag" rel="nofollow">Technorati Tags</a> use a <code>rel="tag"</code> attribute.  And the <a href="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" rel="nofollow">XHTML 1.0 Strict DTD</a> states that the value of the <code>rel</code> attribute should be a &#8220;space-separated list of link types.&#8221;  So you could put together something like <code>rel="tag nofollow external"</code>, and it would be perfectly valid.</p>
+
+<p>So instead of just complaining about the minor problem with Gareth&#8217;s excellent script, I created <a href="/files/nofollow.user.js" rel="nofollow">a version</a> that works the way it should.  See <a href="http://greasemonkey.mozdev.org/using.html" title="Using Greasemonkey" rel="nofollow">the Greasemonkey site</a> for info on how to use the script.  [Found <a href="http://dunck.us/collab/GreaseMonkeyUserScripts" rel="nofollow">here</a>.]</p>
+
+
+
+ <div class="posted">12:11 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/03/02/greasemonkey_vs_nofollow.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/01/">January</a> <a href="/archives/2005/01/20/">20</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000904"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/01/20/nofollow.php">nofollow</a></h3>
+
+<p>The new rel=&#8221;nofollow&#8221; syntax for html <code>a</code> tags has caused quite a stir on the web this week.  It seems that <em>almost all</em> of the blogs that I read are abuzz with opinions and comments regarding this impressive feat of cooperation amongst the major search engines.  Here are the official announcements:<br />
+<ul class="compact"> <li>Google&#8217;s Announcement: <a href="http://www.google.com/googleblog/2005/01/preventing-comment-spam.html" rel="nofollow">Preventing comment spam</a></li> <li>Yahoo&#8217;s Announcement: <a href="http://www.ysearchblog.com/archives/000069.html" rel="nofollow">A Defense Against Comment Spam</a></li> <li>MSN Search&#8217;s Announcement: <a href="http://blogs.msdn.com/msnsearch/archive/2005/01/18/nofollow_tags.aspx" rel="nofollow">Working Together Against Blog Spam</a></li> <li>Six Apart&#8217;s Announcement: <a href="http://www.sixapart.com/log/2005/01/support_for_nof.shtml" rel="nofollow">Support for nofollow</a></li> </ul><br />
+And now that a bit of the dust has settled, the following links are ex post facto, third-party opinions that I found interesting:<br />
+<ul class="compact"><li><a href="http://radio.weblogs.com/0001011/2005/01/18.html#a9229" rel="nofollow">Google adds &#8220;nofollow&#8221; to link tags</a></li><li><a href="http://www.intertwingly.net/blog/2005/01/20/Follow-up-on-Nofollow" rel="nofollow">Follow up on Nofollow</a></li><li><a href="http://philringnalda.com/blog/2005/01/is_rel_nofollow_really_as_important_as_that.php" rel="nofollow">Is rel = &#8220;nofollow&#8221; really as !important as that?</a></li><li><a href="http://www.benhammersley.com/weblog/2005/01/20/let_no_fellow_nofollow_lest_we_all_lie_fallow.html" rel="nofollow">Let no fellow nofollow, lest we all lie fallow</a></li><li><a href="http://a.wholelottanothing.org/2005/01/nofollow_1.html" rel="nofollow">nofollow</a></li><li><a href="http://battellemedia.com/archives/001198.php" rel="nofollow">Follow On No Follow: Will &#8220;Fully web-expressed writing&#8221; Suffer?</a></li><li><a href="http://it.slashdot.org/article.pl?sid=05/01/19/0516246&amp;tid=111" rel="nofollow">Google Cans Comment Spam</a></li></ul></p>
+
+
+
+ <div class="posted">12:22 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/01/20/nofollow.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/12/">December</a> <a href="/archives/2004/12/01/"> 1</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000892"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/12/01/cnet_supports_trackback.php">CNET Supports Trackback</a></h3>
+
+<p>Matt Mullenweg did some <a href="http://photomatt.net/2004/09/22/newsdotcom/" rel="nofollow">URI hacking</a> back in September and discovered that CNET supports <a href="http://www.movabletype.org/docs/mttrackback.html" rel="nofollow">Trackback</a> and <a href="http://www.hixie.ch/specs/pingback/pingback" rel="nofollow">Pingback</a>.  Back then, this functionality was only exposed by some clever hacking.</p>
+
+<p>Today, while catching up with everything that happened on the web over the Thanksgiving holiday, I noticed that Matt <a href="http://photomatt.net/2004/11/23/tb-pb-news/" rel="nofollow">announced</a> that <a href="http://news.com.com/TrackBack%20and%20Pingback%20supported%20by%20CNET%20News.com/2030-9368_3-5462850.html#introContent" rel="nofollow">it is official</a>.  There are trackback buttons all over the CNET site.  This is yet another sign that some media outlets are taking notice of blogs.</p>
+
+
+
+ <div class="posted"> 3:05 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/12/01/cnet_supports_trackback.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/11/">November</a> <a href="/archives/2004/11/24/">24</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000889"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/11/24/froogle_wishlists.php">Froogle Wishlists</a></h3>
+
+<p>The <a href="http://www.google.com/googleblog/2004/11/im-wishing.html" rel="nofollow">latest entry</a> in the Google blog talks about <a href="http://www.froogle.com/" rel="nofollow">Froogle&#8217;s</a> new wishlist feature.  So, as a responsible internet citizen, I have created <a href="http://froogle.google.com/shoppinglist/shoppinglist?action=ShowWishList&email=scott.johnson@gmail.com" rel="nofollow">my own wishlist</a>.</p>
+
+<p>I have a couple of complaints about the wishlists, though.  First, the URL contains my gmail address.  And second, the same email address is featured prominently in plain text at the top of the wishlist page.</p>
+
+<p>I don&#8217;t mind giving this address out to the two or three people who might be reading this entry, but Google is effectively handing my address out to spammers when I link to the wishlist.  Please, Google, use some other unique identifier in the URL, and display my name instead of my email address on the wishlist page.  This needs to change ASAP!</p>
+
+
+
+ <div class="posted">11:53 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/11/24/froogle_wishlists.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/11/">November</a> <a href="/archives/2004/11/22/">22</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000887"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/11/22/ping-o-matic.php">Ping-O-Matic</a></h3>
+
+<p>After reading an <a href="http://photomatt.net/2004/11/22/case-for-ping-o-matic/" rel="nofollow">update</a> on Ping-O-Matic, I decided it was time to give it a try.  This service seems to be quite extensive and saves me from having to maintain a list of active RPC ping URLs.  The tool pings a <a href="http://elliottback.com/wp/archives/2004/11/21/a-list-of-rpc-and-rpc2-to-ping/" rel="nofollow">list</a> of 43 different sites and promises to add more as they appear.</p>
+
+
+
+ <div class="posted"> 2:43 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/11/22/ping-o-matic.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/09/">September</a> <a href="/archives/2004/09/15/">15</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000873"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/09/15/public_service_announcement.php">Public Service Announcement</a></h3>
+
+<p>As many of you know, there&#8217;s a big campaign brewing to get more people using Firefox.   This post is my contribution to the effort.</p>
+
+<div class="artimg"><a href="http://www.spreadfirefox.com/community/?q=affiliates&amp;id=3485&amp;t=46" rel="nofollow"><img alt="Get Firefox!" title="Get Firefox!" src="http://www.spreadfirefox.com/community/images/affiliates/Banners/300x250/trust_blue.png" /></a></div>
+
+
+
+ <div class="posted">11:37 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/09/15/public_service_announcement.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/08/">August</a> <a href="/archives/2004/08/27/">27</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000869"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/08/27/centralized_problems.php">Centralized Problems</a></h3>
+
+<p>A few hours after reading Shelley&#8217;s <a href="http://weblog.burningbird.net/archives/2004/08/26/technorati-technorati-wherefore-art-thou-technorati/" rel="nofollow">recent post</a> on problems with Tecnorati and the scaling of centralized network services in general, I am faced with the following error message when trying to open my email:<br />
+<div class="artimg"><img src="http://full-speed.org/images/gmail-error.jpg" alt="gmail error" /></div><br />
+While I don&#8217;t believe in turning off servers at night, many companies do this.  I suppose a scheduled outage or downtime is just something that we have to deal with from time to time, but to my knowledge, this is an unannounced outage.  Has Gmail scaled beyond its capacity already?  I seriously doubt it.</p>
+
+<p>I realize that Gmail is <em>beta</em> software, but it sure is disappointing that it is completely down right now.  And Google&#8217;s definition of beta seems to be somewhat different from the definition most software organizations use.  How long has Google News been in beta now?</p>
+
+<p>I have always been extremely impressed by all of Google&#8217;s products that I have used, including Gmail.  But my good old POP3 server is certainly looking more attractive at the moment.</p>
+
+<p>I first began to see this error at around 2:30am here in Texas.  At the time of this writing, the service has been down for over half an hour.</p>
+
+<p><b>Update:</b>  Well over <del>an hour has</del> <ins>three hours have</ins> passed, and I am still unable to log in.  I can get a login screen, but I get the above error every time I try to log in.  Oddly, though, I can log in to a different account from my PC but not mine.  Perhaps Google doesn&#8217;t like me tonight.  <ins>I finally went into my Firefox cookie store and manually deleted all gmail.google.com cookies and was able to log in afterwards.  I certainly hope the folks at Google fix this problem soon, as the average webmail user will not tolerate this sort of thing.</ins></p>
+
+
+
+ <div class="posted"> 3:01 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/08/27/centralized_problems.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/08/">August</a> <a href="/archives/2004/08/05/"> 5</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000867"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/08/05/staking_a_claim.php">Staking a Claim</a></h3>
+
+<p>There is absolutely no reason that you would want to click <a href="http://feedster.com/claimfeed.php?key=1704e744f5ca06a786bcd139ae5f0012" rel="nofollow">here</a>.  This link is merely a sign of me staking a claim on my feed over at <del>Friendster</del> <ins>Feedster</ins>.</p>
+
+<p>The site has already had its turn as <a href="/archives/2004/01/25/feedster_interesting_blogs.php" rel="nofollow">feed of the day</a> over at Feedster.  So now it&#8217;s time to take control of how Feedster&#8217;s users see the feed.  That is, of course, assuming that the flaky Feedster servers will cooperate.  The claim process seems to not really work all that well:<blockquote>We&#8217;re sorry but the feed you&#8217;re trying to edit is not claimed by you.  Please claim this feed before trying to edit it.</blockquote>That&#8217;s the error message that I keep receiving when I try to edit my lovely feed on the Feedster website.</p>
+
+<p>They may have been through a few rounds of enhancements, but Feedster still needs a lot of work.  Other than the above error, I first noticed that the <a href="http://feedster.com/help/" rel="nofollow">help page</a> was full of dead links.  But then I found that some (most) of the pages on the site link to what I am guessing is the <a href="http://feedster.blogs.com/corporate/help/index.html" rel="nofollow">new help page</a>.</p>
+
+<p>Also, the &#8220;Delete Feeds&#8221; page gives a bright red warning that shows clearly that the Feedster developers really don&#8217;t care about the quality of their app:<blockquote>Please note that there is no confirmation and no undo so delete with care. Also due to our cache, your delete may not show up immediately i.e. the feeds you delete could still be displayed for 10 or 15 minutes &#8212; but they really are deleted.</blockquote>This post was not intended to turn into an anti-Feedster rant, but I couldn&#8217;t help myself.  As an &#8220;RSS Search Engine&#8221;, Feedster seems to do an excellent job.  But the newer, expanded toolset that has been released (and even &#8220;Improved!&#8221;) is not very usable.  Bloglines, in its earliest incarnation, was a far better aggregator.  And even Friendster seems to work better as a simple web application.  And I had previously thought that Friendster was one of the worst web apps out there.</p>
+
+
+
+ <div class="posted"> 4:55 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/08/05/staking_a_claim.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/06/">June</a> <a href="/archives/2004/06/22/">22</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000864"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/06/22/cheap_lifetime_web_hosting.php">Cheap Lifetime Web Hosting</a></h3>
+
+<p>The gang over at <a href="http://www.textdrive.com/" title="TextDrive" rel="nofollow">TextDrive</a> have <a href="http://www.textdrive.com/forum/viewtopic.php?id=311" title="Lifetime Hosting Redux" rel="nofollow">announced</a> another lifetime <a href="http://www.textdrive.com/" rel="nofollow">hosting</a> package:<blockquote>200 megabytes storage, 2 gigabytes monthly bandwidth, up to 3 top-level domains hosted, 6 MySQL databases, and all of TextDrive&#8217;s great <a href="http://textdrive.com/specs/" title="Server Specs" rel="nofollow">standard features</a>, for a one-time payment of US $199.</blockquote>The only catch is that you have to sign up buy June 24.  So as of now, you&#8217;ve got less than two days to get in on this.  The servers are hosted at <a href="http://www.theplanet.com/" rel="nofollow">The Planet</a>, and if you haven&#8217;t heard of The Planet, be sure to check out their <a href="http://www.theplanet.com/datacenter.html" rel="nofollow">amazing network infrastructure</a>.  In short, this TextDrive deal is a total steal.  My advice:  buy quickly!</p>
+
+
+
+ <div class="posted"> 6:59 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/06/22/cheap_lifetime_web_hosting.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/06/">June</a> <a href="/archives/2004/06/16/">16</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000863"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/06/16/google_for_matt.php">Google for Matt</a></h3>
+
+<p>I was wondering which of the many <a href="http://www.google.com/search?q=Matt" title="Search for Matt" rel="nofollow">web authors named Matt</a> would appear first on a google search today.  Yes, I was a bit bored.  The results were interesting, though:<ol><li><a href="http://www.drudgereport.com/" title="Drudge Report" rel="nofollow">Matt Drudge</a></li><li><a href="http://photomatt.net/" title="Photo Matt" rel="nofollow">Matt Mullenweg</a></li><li><a href="http://www.scriptarchive.com/" title="Matt's Script Archive" rel="nofollow">Matt Wright</a></li><li><a href="http://a.wholelottanothing.org/" title="A Whole Lotta Nothing" rel="nofollow">Matt Haughey</a></li><li><a href="http://www.mattkruse.com/" title="Matt Kruse's Site" rel="nofollow">Matt Kruse</a></li></ol>Quite an eclectic mix for the top five.</p>
+
+<p><b>Update:</b>  Matt Mullenweg (aka PhotoMatt) recently <a href="http://photomatt.net/google/" title="It Happened!" rel="nofollow">shut his site down</a> when he got <a href="http://photomatt.net/2004/06/19/fun/" title="Well That Was Fun" rel="nofollow">bumped to the top of the list</a>.</p>
+
+
+
+ <div class="posted">12:19 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/06/16/google_for_matt.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/06/">June</a> <a href="/archives/2004/06/07/"> 7</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000862"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/06/07/rss_for_ebay.php">RSS for eBay</a></h3>
+
+<p>InternetNews.com <a href="http://www.internetnews.com/ec-news/article.php/3364611" title="eBay Hops Aboard The RSS Train" rel="nofollow">reports</a> that eBay&#8217;s Senior Manager of Developer Relations, <a href="http://mcmanus.typepad.com/grind/" rel="nofollow">Jeffrey McManus</a>, <a href="http://mcmanus.typepad.com/grind/2004/06/ebay_announceme.html" title="eBay Announcements via RSS" rel="nofollow">announced two RSS feeds</a> from eBay on his blog a fews days ago.</p>
+
+<p>These two feeds, the only feeds available from eBay so far, provide <a href="http://www2.ebay.com/aw/marketing.xml" rel="nofollow">eBay announcements</a> and <a href="http://www2.ebay.com/aw/announce.xml" rel="nofollow">system status messages</a>.  While these offerings fall short of what many want from eBay in the way of XML feeds, this is certainly a step in the right direction.</p>
+
+
+
+ <div class="posted"> 4:08 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/06/07/rss_for_ebay.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/05/">May</a> <a href="/archives/2004/05/05/"> 5</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000855"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/05/05/navigation_matrix.php">Navigation Matrix</a></h3>
+
+<p><a href="http://superfluousbanter.org/" rel="nofollow">SuperfluousBanter</a> has a sweet <a href="http://superfluousbanter.org/archives/000186.php" title="Navigation Matrix" rel="nofollow">CSS-based navbar concept</a> up.  This is the best image-based navbar I&#8217;ve seen yet.  See the <a href="http://www.nundroo.com/nav_matrix/welcome.html" rel="nofollow">example here</a>. [Via <a href="http://www.sitepoint.com/blog-post-view.php?id=167705" title="CSS Sprites" rel="nofollow">Stylish Scripting</a>]</p>
+
+<p><b>Update:</b> <a href="http://superfluousbanter.org/archives/000187.php" rel="nofollow">Navigation Matrix Reloaded</a> fixes some bugs in the first version.  This thing is looking rock solid.</p>
+
+
+
+ <div class="posted">12:53 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/05/05/navigation_matrix.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/04/">April</a> <a href="/archives/2004/04/22/">22</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000852"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/04/22/a_browser_wish.php">A Browser Wish</a></h3>
+
+<p>I really hate PDF links on websites.  I&#8217;m talking about the kind of PDF link that doesn&#8217;t warn you that you are about to download a PDF file.  This is mostly because I really don&#8217;t like waiting for Acrobat Pro to load.  It&#8217;s an enormous example of bloatware.  Adobe should probably fix <em>that problem</em>, but I&#8217;m sure there is a simpler workaround.</p>
+
+<p>My idea involves using a bit of DHTML to display a PDF icon near the pointer when it is hovering over a PDF link, similar to <a href="http://www.kryogenix.org/code/browser/nicetitle/" rel="nofollow">Nice Titles</a>.  It seems that the Nice Titles script could probably be extended to do this without much effort, but I haven&#8217;t really looked through the code yet.</p>
+
+<p>Has anyone seen anything similar to this out there?  And better yet:  Does anyone know how this type of functionality might be added to Firefox?</p>
+
+<p><b>Update:</b> I&#8217;ve modified Phil&#8217;s idea below a slight bit to forge a workable temporary solution.  The following is now in my userContent.css file:<br />
+<code><br />
+a[href$=".pdf"]:hover:after {<br />&#160;&#160;content: " [pdf]";<br />&#160;&#160;color: red;<br />}<br />
+</code></p>
+
+
+
+ <div class="posted"> 5:43 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/04/22/a_browser_wish.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/04/">April</a> <a href="/archives/2004/04/05/"> 5</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000849"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/04/05/some_links.php">Some Links</a></h3>
+
+<p><a href="http://www.boingboing.net/2004/04/04/freely_copy_itunes_m.html" rel="nofollow">playfair</a> &#8212;- Free your iTunes Music</p>
+
+<blockquote>&#8220;The playfair program is quite simple. It takes one of the iTMS Protected AAC Audio Files, decodes it using a key obtained from your iPod or Microsoft Windows system and then writes the new, decoded version to disk as a regular AAC Audio File. It then optionally copies the metadata tags that describe the song, including the cover art, to the new file.&#8221;</blockquote>
+
+<p><a href="http://www.itconversations.com/" rel="nofollow">IT Conversations</a> &#8212;- New Ideas Through Your Headphones</p>
+
+<p><a href="http://dynarch.com/mishoo/calendar.epl" rel="nofollow">JS Calendar</a> &#8212;- The coolest DHTML calendar widget</p>
+
+
+
+ <div class="posted"> 3:10 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/04/05/some_links.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/03/">March</a> <a href="/archives/2004/03/04/"> 4</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000841"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/03/04/amazon_adds_rss_feeds.php">Amazon Adds RSS Feeds</a></h3>
+
+<p><a href="http://www.amazon.com/o/redirect-home/fullspeed-20" rel="nofollow">Amazon.com</a> has added a <a title="Amazon.com Syndicated Content" href="http://www.amazon.com/o/redirect?tag=fullspeed-20&amp;path=subst/xs/syndicate.html" rel="nofollow">long list of RSS feeds</a>.  While I was hoping to find feeds that listed <em>new items</em> in several categories, it seems that these feeds only list most popular items by &#8220;Sales Rank&#8221;.  Not quite what I was looking for, but at least it&#8217;s a start.  It&#8217;s great to see Amazon moving in the right direction. [via <a href="http://jeremy.zawodny.com/blog/archives/001686.html" title="Amazon.com's new RSS Feeds" rel="nofollow">Jeremy</a>]</p>
+
+
+
+ <div class="posted"> 6:42 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/03/04/amazon_adds_rss_feeds.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/14/">14</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000837"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/14/online_advertising_is_officially_back.php">Online Advertising is Officially Back</a></h3>
+
+<p>I didn&#8217;t really think it was ever going to happen, but the $2.1 billion record for online advertising revenue set in 2000 has been broken.  With a lot of help from Google&#8217;s <a href="http://adwords.google.com/" rel="nofollow">AdWords</a> and <a href="http://www.google.com/adsense/" rel="nofollow">AdSense</a>, Q4 2003 ad revenue hit an estimated $2.2 billion.  The bubble may have burst, but we&#8217;re definitely recovering.  [via <a href="http://battellemedia.com/archives/000345.php" title="The Ad Bubble Has Been Topped" rel="nofollow">Searchblog</a>]</p>
+
+
+
+ <div class="posted"> 2:13 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/02/14/online_advertising_is_officially_back.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/11/">11</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000835"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/11/firefox_unstable.php">Firefox Unstable</a></h3>
+
+<p>Like most of the web design community, I upgraded to Mozilla Firefox 0.8 when it was released on Monday.  And I am not happy.</p>
+
+<p>While the team that handled the new <a href="http://www.hicksdesign.co.uk/journal/archives/000377.php" rel="nofollow">branding initiative</a> did an excellent job, the code monkeys screwed something up.  Now just 24 hours into my use of the new browser, it has crashed over six times.</p>
+
+<p>Initially, the browser had problems with my old profile.  I wasn&#8217;t really surprised at this because I knew that the profile had problems.  So I gave in and created a new profile, keeping only my bookmarks file.  With the new profile, I thought that I was in the clear.  Everything (saved logins, autocompletes, etc) began to work properly once again.</p>
+
+<p>But then I slowly began to notice some problems.  For example, Firefox often forgets cookies that it shouldn&#8217;t.  This gets to be really annoying when using a site that uses cookies for its authentication.  Imaging clicking submit after writing a long post only to be greeted with a login screen.  This has happened to me more than ten times today.</p>
+
+<p>And the crashes.  Firebird 0.7 crashed on me after about 5-7 days of solid use.  By solid use I mean never closing the app.  Always having at least 50 tabs open at any given time.  Closing one tab woudl typically mean opening three more.  Its memory footprint, according to the Windows XP Task Manager, often exceeded 150MB.  I didn&#8217;t mind the memory usage, considering what I was asking of the browser, but the crashes just really bothered me.</p>
+
+<p>The problem is worse with Firefox.  I can&#8217;t seem to keep the browser running for more than a couple of hours once I load up 20 or so tabs.  In my most recent crash, I launched the browser, opened two tabs, and then, before the loading of both pages was complete, Firefox crashed.</p>
+
+<p>The Mozilla Organization has simply failed with the release of this product.  <a href="http://www.mozilla.org/products/firefox/" rel="nofollow">Their own words</a>, while well-intentioned, provide false statements about the browser:<br />
+<blockquote>&#8220;Firefox empowers you to accomplish your online activities faster, more safely and efficiently than any other browser, period.&#8221;</blockquote><br />
+Now please understand that I have been using a <a href="http://www.mozilla.org/newlayout/" rel="nofollow">Gecko</a>-based browser for quite some time now.  In one form or another, Gecko has been my primary web browser for probably at least two years.  I&#8217;m a big fan of this project.  But this release was just not good.  It&#8217;s not good for me.  It&#8217;s not good for the newbies that Mozilla is trying to attract away from IE.  And it&#8217;s not good for Mozilla&#8217;s image and reputation.  We need Firefox 0.81, and we need it <b>fast</b>!</p>
+
+
+
+ <div class="posted"> 3:01 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/02/11/firefox_unstable.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/09/"> 9</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000834"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/09/easy_entity_encoding.php">Easy Entity Encoding</a></h3>
+
+<p>Dan Cederholm wrote a <a href="http://www.simplebits.com/archives/2004/02/05/simplecode.html" title="SimpleCode" rel="nofollow">simple utility</a> for converting XHTML (or other code-like data) into entity-encoded markup.  This is a simple <a href="http://www.simplebits.com/cgi-bin/simplecode.pl" rel="nofollow">perl script</a> that&#8217;s just designed to save a bit of time when writing web content.</p>
+
+<p><a href="http://waffle.wootest.net/" rel="nofollow">Jesper</a> rewrote the script in a neat, self-contained html page with a bit of JavaScript.  <a href="http://wootest.net/simplecode.htm" rel="nofollow">Jesper&#8217;s version</a>, <a href="/misc/simplecode/" rel="nofollow">mirrored here</a>, provides live previews and requires no server interaction.  Very slick.  A little more time saved.</p>
+
+<p>This looks a lot like Jon Hicks&#8217; <a href="http://www.hicksdesign.co.uk/journal/archives/000317.php" rel="nofollow">live comment previews</a>.  There&#8217;s just something great about seeing my input rendered by the browser as I type.  It&#8217;s almost like having a WYSIWYG word processor in the browser.  We need more of this kind of stuff on the web.</p>
+
+
+
+ <div class="posted">11:41 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/02/09/easy_entity_encoding.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/05/"> 5</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000833"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/05/rss_linkdump.php">RSS LinkDump</a></h3>
+
+<p><a href="http://en.wikipedia.org/wiki/Really_Simple_Syndication" title="Really Simple Syndication" rel="nofollow">RSS</a> feeds are popping up everywhere.  I finally found the <a href="http://www.wired.com/news/rss" title="RSS Feeds: Get Your Site Wired" rel="nofollow">master list</a> over at Wired News.</p>
+
+<p>Also, <a href="http://www.pickajob.com/rss/" rel="nofollow">PickAJob.com</a> has a listing of job feeds by state.  They claim that their feeds are RSS 0.91, but they appear to be <a href="http://www.feedvalidator.org/check?url=http%3A%2F%2Fwww.pickajob.com%2Frss%2Frss.asp%3Fstate%3DTX" rel="nofollow">valid RSS 2.0</a>.</p>
+
+<p>In other news, InternetNews.com seems to think that <a href="http://www.internetnews.com/IAR/article.php/3307961" title="Is Ad-Supported RSS the Next Big Thing?" rel="nofollow">ad-supported RSS</a> might be the &#8220;Next Big Thing&#8221;.</p>
+
+
+
+ <div class="posted"> 5:34 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/02/05/rss_linkdump.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/02/">February</a> <a href="/archives/2004/02/03/"> 3</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000832"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/02/03/google_catalogs.php">Google Catalogs</a></h3>
+
+<p><a href="http://www.kk.org/cooltools/archives/000276.php" title="Better than mail order" rel="nofollow">Kevin Kelly</a> has discovered Google&#8217;s latest new beta project, <a href="http://catalog.google.com/" rel="nofollow">Google Catalogs</a>.  He describes it quite well:<br />
+<blockquote>&#8220;Google has scanned in the pages of hundreds of mail order catalogs. This means you can search for anything you can think of and Google will bring up a picture of the item on the actual catalog page. In my experience browsing these scans turns out to be better and faster than scrolling through a company&#8217;s website. Because catalog pages are generally better designed than web pages, they are more informative. And because you can keyword search for items, it&#8217;s superior to the actual paper catalog.&#8221;</blockquote></p>
+
+<p>Add this to your list of places to search when researching that next purchase.</p>
+
+
+
+ <div class="posted">11:22 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/02/03/google_catalogs.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/29/">29</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000829"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/29/css_filters_and_hacks.php">CSS Filters and Hacks</a></h3>
+
+<p>Dithered.com has an excellent <a href="http://www.dithered.com/css_filters/css_only/index.php" title="CSS filtering using CSS only" rel="nofollow">chart</a> of CSS filters.  Any designer working on CSS-based designs for multiple browsers will find this useful.  Check out the <a href="http://www.dithered.com/css_filters/index.html" rel="nofollow">CSS Filters</a> page for a bit more commentary.</p>
+
+
+
+ <div class="posted">11:51 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/01/29/css_filters_and_hacks.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/28/">28</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000828"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/28/hutton_inquiry_experiment.php">Hutton Inquiry Experiment</a></h3>
+
+<p>Supposedly, the BBC is buying up all of the ads the the Google AdWords keywords &#8220;Hutton inquiry&#8221; and &#8220;Hutton report&#8221;.  According to <a href="http://media.guardian.co.uk/bbc/story/0,7521,1130050,00.html" rel="nofollow">The Guardian</a>, &#8220;No other news broadcaster or any newspaper has paid Google for this facility.&#8221;  This is the type of AdWords/AdSense experiment I&#8217;ve been waiting for.</p>
+
+<p>Lord Hutton is scheduled to deliver his verdict on the death of Dr. David Kelly today.</p>
+
+<p><b>Update:</b> The <a href="http://www.the-hutton-inquiry.org.uk/" rel="nofollow">Hutton Inquiry</a> is out (<a href="http://www.dracos.co.uk/hutton/" rel="nofollow">accessible version</a>). [Via <a href="http://www.metafilter.com/mefi/31001" rel="nofollow">MeFi</a>]</p>
+
+
+
+ <div class="posted">12:08 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/01/28/hutton_inquiry_experiment.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/27/">27</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000827"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/27/free_image_storage.php">Free Image Storage</a></h3>
+
+<p><a href="http://photobucket.com/" rel="nofollow">Photobucket</a> claims to provide 100MB of free image hosting to anyone.  Use it for your photo albums, images for eBay auctions, images for your blog, or whatever.  If you have strict bandwidth limits on your hosting account, this will certainly help cut your costs.  But this just <em>can&#8217;t</em> last very long. [Via <a href="http://www.metafilter.com/mefi/30957" rel="nofollow">MeFi</a>]</p>
+
+
+
+ <div class="posted">12:33 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/01/27/free_image_storage.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/25/">25</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000824"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/25/feedster_interesting_blogs.php">Feedster Interesting Blogs</a></h3>
+
+<p>Wow, I just discovered that my site was selected as <a href="http://feedster.com/fotd.php" rel="nofollow">Feedster Interesting Blog of the Day</a> for December 17, 2003.  And all along I thought that nobody read this thing.</p>
+
+<div class="artimg"><img src="http://feedster.com/i/fotd.jpg" alt="Feed of the Day" /></div>
+
+<p>Seeing <a href="http://battellemedia.com/" rel="nofollow">John Battelle</a> just 15 days earlier and <a href="http://www.nelson.monkey.org/~nelson/weblog" rel="nofollow">Nelson</a> just three months earlier made me feel good.</p>
+
+<p>Thanks to <a href="http://www.fuzzyblog.com/" rel="nofollow">Scott</a>, <a href="http://betsydevine.weblogger.com/" rel="nofollow">Betsy</a>, and everybody else at <a href="http://www.feedster.com/" rel="nofollow">Feedster</a>.</p>
+
+
+
+ <div class="posted"> 9:41 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/01/25/feedster_interesting_blogs.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/22/">22</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000823"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/22/itunes_music_store_rss.php">iTunes Music Store RSS</a></h3>
+
+<p>Apple now has an <a href="http://phobos.apple.com/WebObjects/MZSearch.woa/wa/MRSS/rssGenerator" title="iTunes Music Store RSS Generator" rel="nofollow">RSS generator</a> for the iTunes Music Store.  You can get a feed for just about anything you want.  <a href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/newreleases/genre=0000800/limit=10/rss.xml" rel="nofollow">Latest 10 Hip Hop/Rap Releases</a>.  <a href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/topsongs/genre=0008200/limit=50/rss.xml" rel="nofollow">Top 50 Pop &amp; Alternative Songs</a>.  The possibilities are limitless.</p>
+
+<p><b>Update:</b>  It seems that <a href="http://www.metafilter.com/mefi/30910" rel="nofollow">several</a> <a href="http://www.macminute.com/2004/01/22/itunesrss" rel="nofollow">other</a> <a href="http://www.macdailynews.com/comments.php?id=P1993_0_1_0" rel="nofollow">sites</a> have picked up on this one now, too.  This service is sure to be a hit.</p>
+
+
+
+ <div class="posted"> 5:54 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/01/22/itunes_music_store_rss.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/12/">12</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000821"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/12/share_your_opml.php">Share your OPML</a></h3>
+
+<p>Dave Winer has started a new site called <a href="http://feeds.scripting.com/" title="Share Your OPML!" rel="nofollow">Share Your OPML!</a>  On the site, Dave is attempting to create a community of feed subscription lists and aggregate the resulting data in various ways.  He already has a <a href="http://feeds.scripting.com/rankings" rel="nofollow">Top 100 Feeds</a> page up.  Also, for each feed listed, you can see <a href="http://feeds.scripting.com/whoSubscribesTo?who=http%3A%2F%2Ffeeds.feedburner.com%2Fspeed&amp;subscribe=Who%3F" rel="nofollow">who is subscribed</a>.  A lot of people have already contributed their feeds.  It&#8217;s rather  interesting to see what some people read on a daily basis.  If you use an RSS aggregator that exports OMPL, be sure to <a href="http://feeds.scripting.com/member/signup" rel="nofollow">sign up</a> and add your list.</p>
+
+
+
+ <div class="posted"> 6:57 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/01/12/share_your_opml.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/07/"> 7</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000818"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/07/oracle_discovers_rss.php">Oracle Discovers RSS</a></h3>
+
+<p>Like many <a href="http://news.yahoo.com/rss" rel="nofollow">other</a> <a href="http://jeremy.zawodny.com/blog/archives/000774.html" title="Yahoo! Buzz RSS Feeds" rel="nofollow">websites</a>, Oracle has <a href="http://otn.oracle.com/syndication/" title="OTN RSS Newsfeeds" rel="nofollow">seen the light</a>.  You can now access Oracle Technology Network resources via several <a href="http://blogs.law.harvard.edu/tech/rss" title="RSS 2.0 Specification" rel="nofollow">RSS 2.0</a> feeds.</p>
+
+<blockquote>Along with the new year comes a new way for you to access technical resources on OTN: via new RSS versions of the product documentation and software download indexes, as well as separate developer- and DBA-focused RSS feeds containing links to current technical articles.</blockquote>
+
+
+
+ <div class="posted"> 1:44 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/01/07/oracle_discovers_rss.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/12/">December</a> <a href="/archives/2003/12/30/">30</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000813"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/12/30/tunnel_ssh_over_http.php">Tunnel SSH over HTTP</a></h3>
+
+<p>A while back, I was looking around for a way to tunnel an SSH connection over an HTTP proxy.  This seemed like something that would be easy enough to accomplish, but I had a very difficult time finding a solution.  I had given up on the whole idea until yesterday, when I found <a href="http://www.decafbad.com/blog/links/boocjabjbg.html" rel="nofollow">a link</a> to the home page for <a href="http://www.agroman.net/corkscrew/" title="Corkscrew" rel="nofollow">Corkscrew</a>.  Corkscrew does just what I wanted:  it allows an SSH connection to be established through an HTTP proxy.  And from what I&#8217;ve seen so far, it will easily run on any popular OS.  This is one I&#8217;ll be adding to my travel toolbox.</p>
+
+
+
+ <div class="posted"> 5:40 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/12/30/tunnel_ssh_over_http.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/12/">December</a> <a href="/archives/2003/12/12/">12</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000809"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/12/12/new_link.php">New Link</a></h3>
+
+<p>Thanks to <a href="http://www.hicksdesign.co.uk/journal/archives/000296.php" title="lists of 2003" rel="nofollow">Jon&#8217;s 2003 Linkdump</a>, I&#8217;ve got a new link for the blogroll:  <a href="http://www.abeatexperience.com/experience/" title="EXP" rel="nofollow">EXP</a>.  EXP is a well-designed blog with a picture to accompany each post.  I haven&#8217;t read many of the posting yet because the pictures are so good.</p>
+
+
+
+ <div class="posted">12:56 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/12/12/new_link.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/12/">December</a> <a href="/archives/2003/12/09/"> 9</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000806"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/12/09/latest_on_safari.php">Latest on Safari</a></h3>
+
+<p>Dave Hyatt published a <a href="http://weblogs.mozillazine.org/hyatt/archives/2003_12.html#004377" title="Progress Report" rel="nofollow">Safari progress report</a> yesterday.  He mentioned many fixes and additions to the latest version of Safari&#8217;s WebCore.  Of the many features, I&#8217;m particularly excited to see that they are already adopting some of the new CSS 2.1 features.  This makes the next release of Safari look like a winner!</p>
+
+
+
+ <div class="posted"> 2:12 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/12/09/latest_on_safari.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/11/">November</a> <a href="/archives/2003/11/11/">11</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000800"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/11/11/required_reading.php">Required Reading</a></h3>
+
+<p>Simon Willison <a href="http://simon.incutio.com/archive/2003/11/11/requiredReading" title="More Required Reading" rel="nofollow">pointed me to</a> some <a href="http://www.positioniseverything.net/articles/float-theory.html" title="Float: The Theory" rel="nofollow">excellent</a> <a href="http://www.positioniseverything.net/articles/flow-pos.html" title="Flowing and Positioning: Two Page Models" rel="nofollow">articles</a> on CSS layouts.  With these and <a href="http://www.positioniseverything.net/ordered-borders-center.html" title="Ordered Borders" rel="nofollow">another article on the same site</a>, I think I finally have everything I need to solve the problems that have been causing my <a href="/new/" rel="nofollow">new design</a> to remain unfinished.  Just remember, <a href="http://www.positioniseverything.net/" title="Position is Everything" rel="nofollow">Position is Everything</a>.</p>
+
+
+
+ <div class="posted">12:04 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/11/11/required_reading.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/11/">November</a> <a href="/archives/2003/11/10/">10</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000799"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/11/10/ending_comment_spam.php">Ending Comment Spam</a></h3>
+
+<p>Adam Kalsey is fed up with the spam that his website receives on a daily basis.  How can a website receive spam, you ask?  Well it&#8217;s simple&#8212;-people leave comments for the sole purpose of getting their link out there.  His site, like this site and many others, allows a readers to post a link to his own site along with his comments.</p>
+
+<p>The spammers know that if their links appear on popular sites, they will get bonus PageRank points from Google.  They take advantage of this by posting comments to discussion pages.  These comments are quite often nothing more than a 2-5 word affirmation of the post&#8212;if they&#8217;re even <strong>that</strong> relevant.  Often the spam is sent by programmatic robots.  In this case, the comments are completely irrelevant to the discussion at hand.</p>
+
+<p>In response to the growing problem of &#8220;comment spam&#8221; or &#8220;blog spam&#8221;, Kalsey has written a <a href="http://kalsey.com/2003/11/comment_spam_manifesto/" title="Comment Spam Manifesto" rel="nofollow">Comment Spam Manifesto</a>.  This is sort of an open letter to all would be comment spammers out there.  He sums it all up quite nicely:</p>
+
+<blockquote>&#8220;Our sites belong to us and we intend to keep it that way. It will no longer be profitable to advertise through comment spam.&#8221;</blockquote>
+
+<p>No site with open commenting is immune.  As evidence, this site, oddly, has experienced a bit of <a href="/archives/2003/07/09/canada_becomes_first_to_choose_medical_marijuana.php" rel="nofollow">comment spam</a> beginning mere weeks after the site opened its doors.</p>
+
+<p>If you run a site that is plagued by comment spammers, be sure to <a href="http://kalsey.com/2003/11/comment_spam_manifesto/" rel="nofollow">show your support</a> for the effort against them.</p>
+
+<p>Read more about the problems with Google here:  <a href="http://jeremy.zawodny.com/blog/archives/000751.html" title="PageRank is Dead" rel="nofollow">PageRank is Dead</a>.</p>
+
+
+
+ <div class="posted"> 3:10 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/11/10/ending_comment_spam.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/11/">November</a> <a href="/archives/2003/11/09/"> 9</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000797"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/11/09/new_smartypants.php">New SmartyPants</a></h3>
+
+<p>There&#8217;s a new version of <a href="http://daringfireball.net/2003/11/smartypants_141" title="Daring Fireball: SmartyPants 1.4.1" rel="nofollow">SmartyPants</a> out.  SmartyPants is, in my opinion, one of the most seamless and useful plugins for Movable Type.  It transforms mere dashes into em- and en-dashes (&#8212;- and &#8212;).  It transforms quotes into their proper form (&#8220;&#8221;).  It transforms dots into elipses (&#8230;). If your Movable Type site doesn&#8217;t use this, it should.</p>
+
+
+
+ <div class="posted"> 1:59 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/11/09/new_smartypants.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000796"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/11/09/surfin_safari.php">Surfin&#8217; Safari</a></h3>
+
+<p><a href="http://weblogs.mozillazine.org/hyatt/" title="Surfin' Safari" rel="nofollow">Surfin&#8217; Safari</a> is home to Dave Hyatt, one of the developers of <a href="http://www.apple.com/safari/" title="Apple - Safari" rel="nofollow">Safari</a>.  His site gives many insights into the future direction of Safari.  And there&#8217;s always the occasional <a href="http://weblogs.mozillazine.org/hyatt/archives/2003_10.html#004283" rel="nofollow">ambiguously funny link</a>.</p>
+
+
+
+ <div class="posted"> 2:23 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/11/09/surfin_safari.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/11/">November</a> <a href="/archives/2003/11/07/"> 7</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000794"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/11/07/ie_times_three.php">IE Times Three</a></h3>
+
+<p>It&#8217;s true!  Internet Explorer isn&#8217;t really the inseparable component of Windows that Microsoft claimed it was.  This has now <a href="http://www.insert-title.com/web_design/?page=articles/dev/multi_IE" title="Multiple IE's in Windows" rel="nofollow">been proven</a>.  You can <a href="http://www.insert-title.com/web_design/articles/dev/multiIE.jpg" rel="nofollow">run older versions of Internet Explorer</a> alongside the latest version.  <a href="http://simon.incutio.com/archive/2003/11/07/multipleIEs" title="Simon Willison: Multiple Internet Explorers" rel="nofollow">No virtual machines; No emulation!</a>  <a href="http://www.skyzyx.com/archives/000094.php" title="Multiple Versions of Internet Explorer" rel="nofollow">This is real!</a></p>
+
+
+
+ <div class="posted"> 3:08 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/11/07/ie_times_three.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/11/">November</a> <a href="/archives/2003/11/05/"> 5</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000793"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/11/05/sortable_tables.php">Sortable Tables</a></h3>
+
+<p><a href="http://simon.incutio.com/archive/2003/11/05/mojo" title="Simon Willison: Javascript Mojo" rel="nofollow">Simon Willison</a>, always an expert at finding juicy JavaScript nuggets, has done it again.  This time we&#8217;re treated to <a href="http://www.kryogenix.org/days/565.html" title="Sortable Tables" rel="nofollow">Stuart Langridge&#8217;s</a> <a href="http://www.kryogenix.org/code/browser/sorttable/" title="sorttable: Make all your tables sortable" rel="nofollow">sorttable</a>.  This technique makes any table sortable by clicking on a header.  All that&#8217;s needed is to include a <a href="http://www.kryogenix.org/code/browser/sorttable/sorttable.js" rel="nofollow">javascript library</a>, give the table a unique id and make it a member of the &#8220;sortable&#8221; class.  Very slick.</p>
+
+
+
+ <div class="posted"> 3:08 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/11/05/sortable_tables.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/10/">October</a> <a href="/archives/2003/10/30/">30</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000790"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/10/30/lindows_to_develop_web_editor.php">Lindows to Develop Web Editor</a></h3>
+
+<p>Simon Willison <a href="http://simon.incutio.com/archive/2003/10/30/nvu" title="Simon Willison: Nvu" rel="nofollow">drew my attention to Nvu</a> today.  It seems that Lindows is taking the <a href="http://www.mozilla.org/editor/#What_is_the_editor" title="Mozilla Editor" rel="nofollow">Mozilla Composer</a> and adding new features with a focus on ease of use.</p>
+
+
+
+ <div class="posted"> 5:16 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/10/30/lindows_to_develop_web_editor.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/10/">October</a> <a href="/archives/2003/10/15/">15</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000788"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/10/15/new_mozilla.php">New Mozilla</a></h3>
+
+<p>The new Mozilla wares are out today:  Mozilla, Firebird, and Thunderbird.  And to go along with this release, <a href="http://www.mezzoblue.com/archives/2003/10/15/mozillaorg_r/index.php" title="mezzoblue - mozilla.org Redesign" rel="nofollow">Dave Shea</a> put out a beautiful <a href="http://www.mozilla.org/website-beta/" rel="nofollow">redesign of mozilla.org</a>.</p>
+
+
+
+ <div class="posted"> 1:23 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/10/15/new_mozilla.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/10/">October</a> <a href="/archives/2003/10/10/">10</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000786"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/10/10/pagerank_vs_spammers.php">PageRank vs. Spammers</a></h3>
+
+<p><a href="http://jeremy.zawodny.com/blog/archives/001002.html" title="Jeremy Zawodny's blog: Cheap Viagra, Vicodin, Xanax, Prescription Drugs, and Penis Enlargement Pills!!!" rel="nofollow">Jeremy put it best</a> when he said:<br />
+<blockquote>&#8220;Low Price, Fast Delivery, PRIVACY! FDA Approved Medications online. SOMA, ADIPEX, Viagra, and MUCH MORE. Go Online. Fill out your Prescription Request. Your request will be reviewed by a Licensed US Physician. If Approved, your medication will be dispensed by a Licensed US Pharmacy. Requests received by 2:00 PM EST will arrive the very next business day.&#8221;</blockquote><br />
+Well, anyway, this entry is part of &#8220;PageRank Abuse Day&#8221;.<br />
+<blockquote>&#8220;Attend a Free Online Product Sales and Acquisition Conference. To make money on eBay and the Internet you need to get the source product at deep discounts. In this free online conference you will learn how to acquire thousands of products directly from the manufacturers &#8212; (cut the middlemen and buying clubs) at wholesale or less - including overstocks and discontinued items for pennies on the dollar.&#8221;</blockquote></p>
+
+
+
+ <div class="posted">12:27 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/10/10/pagerank_vs_spammers.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/10/">October</a> <a href="/archives/2003/10/08/"> 8</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000783"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/10/08/localfeeds.php">Localfeeds</a></h3>
+
+<p>I finally got around to installing some <a href="http://awstats.sourceforge.net/" title="AWStats" rel="nofollow">stats analysis software</a> on this site yesterday, and the results have been interesting.  What has intrigued me the most, however, is <a href="http://austin.localfeeds.com/" title="Localfeeds:Austin, TX, USA" rel="nofollow">Localfeeds</a>.  I was pleasantly surprised to find, via my web server&#8217;s logfiles, that my entries from this site are featured on the Localfeeds front page for my area.  Much like <a href="http://geourl.org/" title="GeoURL" rel="nofollow">GeoURL</a>, they geographically group websites.  But unlike GeoURL, they also will <a href="http://www.karchner.com/update/archives/000304.html" rel="nofollow">give you an RSS feed</a> of these groups.  I&#8217;m adding my area to my newsreader right now.</p>
+
+
+
+ <div class="posted"> 7:33 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/10/08/localfeeds.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000782"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/10/08/typepad_launches.php">TypePad Launches</a></h3>
+
+<p><a href="http://www.sixapart.com/log/2003/10/typepads_offici.shtml" title="TypePad's Official Launch" rel="nofollow">It&#8217;s Official!</a>  Six Apart launched TypePad yesterday.  Be sure to check out <a href="http://www.sixapart.com/log/2003/10/appearance_on_h.shtml" title="Appearance on Headline News" rel="nofollow">Ben and Mena&#8217;s Headline News appearance</a>.</p>
+
+
+
+ <div class="posted">11:31 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/10/08/typepad_launches.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/29/">29</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000778"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/29/xmlatom.php">XML::Atom</a></h3>
+
+<p>Ben Trott, co-founder and CTO of <a href="http://www.sixapart.com/about/#founders" title="About Six Apart" rel="nofollow">Six Apart</a>, announced <a href="http://www.sixapart.com/log/2003/09/announcing_xmla.shtml" title="Announcing XML::Atom" rel="nofollow">XML::Atom</a> yesterday.  This module implements most of the Atom API.  The goal for this project is &#8220;to provide an implementation of the syndication feed format, the API, and the archiving format planned for Atom.&#8221;  Ben also states that this code will form the basis of Atom support for Movable Type and TypePad.</p>
+
+
+
+ <div class="posted">11:32 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/29/xmlatom.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/26/">26</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000776"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/26/css_supremacists_beware.php">CSS Supremacists Beware</a></h3>
+
+<p>Paul Hammond <a href="http://www.paranoidfish.org/notes/2003/09/25/2226" title="paranoidfish.org/notes/ : An open letter to 'tableless' recoders" rel="nofollow">says all the right things</a> about redisigning other people&#8217;s sites.</p>
+
+<p>One point he makes in this excellent rant is that some sites already have a new design in the works but just haven&#8217;t quite gotten all of the kinks out of it yet.  That&#8217;s certainly the case <a href="/new/" title="Full Speed II" rel="nofollow">here</a>.</p>
+
+
+
+ <div class="posted"> 5:09 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/26/css_supremacists_beware.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/22/">22</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000766"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/22/roll_your_css.php">Roll your CSS</a></h3>
+
+<p><a href="http://www.redmelon.net/" title="redmelon.net" rel="nofollow">redmelon.net</a> has <a href="http://www.redmelon.net/tstme/" title="Navigation tstme - redmelon.net" rel="nofollow">a demo</a> of the best <acronym title="Cascading Style Sheets">CSS</acronym>-based image rollovers I&#8217;ve seen to date.  These rollovers need no Javascript, no image trickery&#8212;just plain CSS.  And as a bonus, they <b>preload</b>!  I believe that this is the ultimate CSS image rollover solution.</p>
+
+
+
+ <div class="posted"> 4:23 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/22/roll_your_css.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000765"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/22/the_internet_vs_verisign.php">The Internet vs. VeriSign</a></h3>
+
+<p>So we have a workaround for VeriSign&#8217;s nasty <acronym title="Domain Name System">DNS</acronym> changes, but that&#8217;s not enough.  Popular Enterprises, LLC, <a href="http://www.wired.com/news/business/0,1367,60518,00.html" title="Wired News: VeriSign Sued Over Search Service" rel="nofollow">sued VeriSign</a> over the new Site Finder &#8220;service&#8221;.</p>
+
+<p>Next, <acronym title="The Internet Corporation for Assigned Names and Numbers"><a href="http://www.icann.org/" rel="nofollow">ICANN</a></acronym> announced that they have called upon VeriSign to voluntarily suspend the service.  Clicking on <a href="http://this-is-not-a-real-domain.com/" rel="nofollow">a fake url</a> shows that VeriSign has not complied.  Will this ordeal ever end?</p>
+
+
+
+ <div class="posted"> 3:01 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/22/the_internet_vs_verisign.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/20/">20</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000764"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/20/upcoming.php">Upcoming</a></h3>
+
+<p>The latest in web-based social software, <a href="http://www.upcoming.org/" title="Upcoming.org: Home" rel="nofollow">Upcoming</a> looks very promising.  It joins people, places, and events.  And you can get RSS feeds for your agregator as well.</p>
+
+
+
+ <div class="posted"> 1:17 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/20/upcoming.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000763"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/20/list-o-matic.php">List-o-matic</a></h3>
+
+<p>Not to be confused with <a href="/archives/2003/09/06/listamatic_css_lists.fs" title="Listamatic: CSS Lists" rel="nofollow">Listamatic</a>, <a href="http://www.accessify.com/tools-and-wizards/list-o-matic/list-o-matic.asp" title="List-o-matic - generate CSS-styled navigation based on list items" rel="nofollow">List-o-matic</a> generates <acronym title="Cascading Style Sheets">CSS</acronym> styled lists for you.</p>
+
+
+
+ <div class="posted"> 9:22 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/20/list-o-matic.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000762"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/20/nice_try_verisign.php">Nice Try, VeriSign</a></h3>
+
+<p>In response to &#8220;high demand&#8221; from users, <abbr title="Internet Software Consortium">ISC</abbr>, the organization that develops and maintains <acronym title="Berkeley Internet Name Daemon">BIND</acronym>, has issued a <a href="http://www.isc.org/products/BIND/delegation-only.html" title="Internet Software Consortium - BIND" rel="nofollow">delegation-only patch</a> that prevents VeriSign&#8217;s <a href="http://www.wired.com/news/business/0,1367,60466,00.html" title="VeriSign Takes Sting out of Typos" rel="nofollow">hostile takeover</a> of the .com and .net domains.  In order for this effort to be successful, we must all <a href="http://marc.theaimsgroup.com/?l=bind-users&amp;m=106378709918676&amp;w=2" title="BIND 9.2.2-P1 is now available." rel="nofollow">update our nameservers</a> with this patch and add a few lines to the name server configuration.  Will this kill the &#8220;Site Finder&#8221;?  Only time will tell.</p>
+
+
+
+ <div class="posted">12:30 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/20/nice_try_verisign.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/19/">19</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000761"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/19/veen_on_web_standards.php">Veen on Web Standards</a></h3>
+
+<p>We&#8217;ve all known for quite some time that designing our websites according to the standards is a good thing.  It makes for lighter, faster sites that are typically more accessible.  <a href="http://www.veen.com/jeff/" title="Jeffrey Veen" rel="nofollow">Jeff Veen</a> has given a clear, concise business case <a href="http://www.adaptivepath.com/publications/essays/archives/000266.php" title="adaptive path : the business value of web standards" rel="nofollow">on the value of web standards</a>.  If you&#8217;re trying to convince a client to take a standards-based approach, this article is a must read.</p>
+
+
+
+ <div class="posted">11:22 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/19/veen_on_web_standards.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/13/">13</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000759"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/13/hiding_from_browsers.php">Hiding From Browsers</a></h3>
+
+<p>A large subset of  web designers are drawing attention to the <a href="http://www.w3.org/WAI/" title="Web Accessibility Initiative" rel="nofollow">accessibility of websites</a> these days.  In simple terms, web accessibility means that anyone can access a site with any browser.  This means that an accessible site supports not only the latest versions of IE or Mozilla, but it works in older, less feature-packed browsers as well.</p>
+
+<p>There is a certain type of browser that seems to be creating a niche for itself as the most troublesome when creating accessible sites.  This browser is known as a &#8220;screen reader&#8221;.  And it&#8217;s probably not that screen readers are difficult to design for but rather that they&#8217;re just not all that available.</p>
+
+<p>You see, screen readers are typically found only on the computers of those who have visual disabilities.  As the name implies, a screen reader reads the contents of the screen to the user.  A blind or visually impaired user would not be able to use a computer without such software.</p>
+
+<p>And the companies that make the screen readers aren&#8217;t helping matters.  <a href="http://www.freedomscientific.com/fs_products/software_jaws.asp" title="JAWS for Windows" rel="nofollow">JAWS</a>, the most popular screen reader, is <a href="http://www.freedomscientific.com/fs_products/software_jawspricing.asp" title="JAWS for Windows Pricing" rel="nofollow">priced</a> rather prohibitively.  Sure, if a screen reader was the only means by which I could &#8220;view&#8221; a website, I wouldn&#8217;t mind paying $1000.  But for those of us who simply want to make our sites accessible to users of the screen reading software, this price is exorbitant.  Heck, even the 60-day trial version costs $40.</p>
+
+<p>A while back, a petition was started online to get lower-priced versions of JAWS for web designers.  This petition drew all kinds of criticism, from the <a href="http://www.webstandards.org/buzz/archive/2003_08.html#a000177" title="JAWS Petition: Just Say No" rel="nofollow">constructive</a> to the <a href="http://www.maccessibility.com/archive/000832.php" title="The JAWS Petition: Just Plain Stupid" rel="nofollow">outright negative</a>.  But it seemed that most agreed that this petition was not the right solution.  Coding a site to the quirks of one particular piece of software would be a step backwards.</p>
+
+<p>So what should we do now?  Well, I think that we, as web designers, should continue to build sites with semantic markup.  Producing valid code is certainly a step in the right direction.  The screen readers should be <a href="http://www.juicystudio.com/assistivedeviceschart.html" title="Assistive Device Behaviour Chart" rel="nofollow">able</a> to read a standards-based markup.  And if they can&#8217;t, the market will force them to acquire the capability soon.</p>
+
+<p>But if you can&#8217;t afford to have a single user turned away from your site, there is still a decent recourse&#8212;hiding text from visual browsers.  Jon Hicks <a href="http://exp.hicksdesign.co.uk/archives/000158.php" title="// hicksdesign: skip links - update" rel="nofollow">posted</a> a nice snippet of CSS today that will allow you to position a DIV outside of the browser window.  This makes it invisible to the browsers but not to screen readers.  The top three screen readers took a DIV hidden with this method and read it perfectly.</p>
+
+<p>In the end, I think that sticking to the <a href="http://www.w3.org/TR/WCAG10/" title="Web Content Accessibility Guidelines" rel="nofollow">WCAG</a> will be the ultimate solution for creating fully accessible sites.  If both the designers and the browser developers can stick to this standard, the web will be forever accessible.</p>
+
+
+
+ <div class="posted"> 6:04 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/13/hiding_from_browsers.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000758"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/13/after_life.php">After Life</a></h3>
+
+<p>Jonathan Clark has produced a very impressive photo essay in his <a href="http://www.jonathan-clark.com/afterlife/cemetery.htm" title="After Life" rel="nofollow">After Life</a> series.  The sounds that accompany these photos really set the mood.  And the subtle animations add a good deal to the already excellent photographs.</p>
+
+
+
+ <div class="posted"> 4:01 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/13/after_life.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000756"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/13/color_schemes.php">Color Schemes</a></h3>
+
+<p>While working on a decent design for my site, I have come across many great tools to aid in graphic design.  Of particular interest are the tools which lend creativity to the otherwise colorblind.  Pixy&#8217;s <a href="http://www.pixy.cz/apps/barvy/index-en.html" title="Color Scheme" rel="nofollow">color schemes picker</a> and EasyRGB&#8217;s <a href="http://www.easyrgb.com/harmonies.php" title="Color Harmonies" rel="nofollow">Color Harmonies</a> are my favorite tools for choosing colors that will look good together in my work.  I&#8217;m still not too sure about the color, though.  I typically want to stick with gray on gray.  Who knows, though&#8212;maybe one of these tools will inspire me.</p>
+
+
+
+ <div class="posted"> 3:40 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/13/color_schemes.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/11/">11</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000755"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/11/new_mozilla_coming_soon.php">New Mozilla Coming Soon</a></h3>
+
+<p>The word on the next major release of Mozilla was <a href="http://groups.google.com/groups?as_umsgid=3F5FFD28.3040206%40meer.net" title="Google Groups" rel="nofollow">released</a> today.  We should be using version 1.5 on September 29.  I know I can&#8217;t wait.</p>
+
+
+
+ <div class="posted"> 6:07 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/11/new_mozilla_coming_soon.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/06/"> 6</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000754"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/06/listamatic_css_lists.php">Listamatic:  CSS Lists</a></h3>
+
+<p>Lists styled with CSS have been an attractive mechanism for site navigation to me ever since I first saw them.  But I always had trouble remembering where I saw them or remembering to bookmark them when I did see them.  This post should take care of that.  <a href="http://www.maxdesign.com.au/presentation/listamatic/" title="Listamatic" rel="nofollow">Listamatic</a> is a collection of various techniques for producing both vertical and horizontal lists.</p>
+
+
+
+ <div class="posted"> 3:00 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/06/listamatic_css_lists.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/27/">27</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000752"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/27/css_mini_tabs.php">CSS Mini Tabs</a></h3>
+
+<p>I found Dan Cederholm&#8217;s <a href="http://www.simplebits.com/code/minitabs.html" title="CSS Mini Tabs (the UN-tab, tab)" rel="nofollow">mini tabs</a> a while back but lost track of them somehow.  It was probably one of those days when my browser was crashing frequently due to the java-based rss aggregator that was running in my browser.  But thanks to <a href="http://www.adampolselli.com/archives/2003/08/18/minitabs_i_sense_a_trend.php" title="Mini-Tabs: I Sense a Trend" rel="nofollow">Adam Polselli</a>, I now know where to find the Minis again.  And Dan has <a href="http://www.simplebits.com/archives/2003/08/14/minitab_shapes.html" title="Mini-Tab Shapes" rel="nofollow">improved</a> them as well.  This is a simple styling that is very extensible and flexible.  If you need some tab-based navigation for your site, be sure to check this out.</p>
+
+
+
+ <div class="posted"> 2:51 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/27/css_mini_tabs.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000751"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/27/movable_photos.php">Movable Photos</a></h3>
+
+<p>Adam Polselli must have been reading my mind when he was working up his <a href="http://www.adampolselli.com/archives/2003/08/11/creating_an_mtpowered_photo_album.php" title="Creating an MT-Powered Photo Album" rel="nofollow">new photo album</a>.  It&#8217;s 100% pure Movable Type.  And it is pleasing to the eye as well.  Have a <a href="http://www.adampolselli.com/photography/" title="The Photography of Adam Polselli" rel="nofollow">look</a>.  Expect to see something similar in this space soon.</p>
+
+
+
+ <div class="posted"> 2:34 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/27/movable_photos.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/20/">20</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000746"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/20/shutterbug.php">shutterbug</a></h3>
+
+<p>I ran across another great photoblog today: <a href="http://www.sh1ft.org/shutterbug/" title="shutterbug : photographs by tracey" rel="nofollow">shutterbug</a>.  There is a stark contrast between this site and the site that I <a href="/archives/2003/08/20/sensitive_light.php" title="Sensitive Light" rel="nofollow">mentioned earlier today</a>.  They&#8217;re both great in their own unique ways, though.  I suggest that you block of a good part of the day and review the history of photos on each site.</p>
+
+
+
+ <div class="posted">10:43 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/20/shutterbug.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000745"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/20/sensitive_light.php">Sensitive Light</a></h3>
+
+<p>Phil Ringnalda <a href="http://philringnalda.com/blog/2003/08/brilliant_clarity.php" title="Brilliant clarity" rel="nofollow">linked</a> to a long chain of sites that led him to <a href="http://sensitivelight.com/blog/" title="Sensitive Light" rel="nofollow">Sensitive Light</a>.  And he&#8217;s right&#8212;it is indeed &#8220;absolutely stunning&#8221;.  I really need to start taking more photos and get some of them up on this site.</p>
+
+
+
+ <div class="posted"> 1:06 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/20/sensitive_light.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/15/">15</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000742"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/15/javascript_for_long_forms.php">JavaScript for Long Forms</a></h3>
+
+<p>Andy Arikawa first <a href="http://modulo26.net/daily/080703.php" title="Multi-Part Forms" rel="nofollow">wrote</a> about a new multipart form concept for making those longer web forms appear as short as possible.  Simon Willison has <a href="http://simon.incutio.com/archive/2003/08/12/multiPartForms" title="Simon Willison: Multi part forms with Javascript" rel="nofollow">expanded</a> on this concept to make the same form more accessible.  If you have ever dealt with a web form that was too long, you&#8217;ll certainly appreciate Simon&#8217;s <a href="http://simon.incutio.com/code/js/multi-page-form/" title="Contact Form" rel="nofollow">example</a>.</p>
+
+
+
+ <div class="posted">12:01 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/15/javascript_for_long_forms.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/14/">14</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000740"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/14/image_rollovers_with_css.php">Image Rollovers with CSS</a></h3>
+
+<p>Jon Hicks recently posted an excellent article on <a href="http://exp.hicksdesign.co.uk/articles/archive/000055.php" title="// hicksdesign articles: Image rollovers with CSS" rel="nofollow">image rollovers with CSS</a>.  This eliminates the need for complicated JavaScript code in your site design while still allowing those rollovers that many have come to love.  This is certainly a bookmark that should be in the toolchest of all CSS designers.</p>
+
+
+
+ <div class="posted">11:43 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/14/image_rollovers_with_css.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000739"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/14/calendar_fix.php">Calendar Fix</a></h3>
+
+<p>I&#8217;m not a big fan of Movable Type&#8217;s default calendar setup.  With individual archiving enabled, the links for each day on the calendar take you to the last entry from that day.  I think that it makes much more sense for that link to send you to a daily archive for that day.  So now my calendar does just that.</p>
+
+<p>Here&#8217;s how it works.  First, I installed <a href="http://www.bradchoate.com/" title="Brad Choate" rel="nofollow">Brad Choate</a>&#8217;s <a href="http://www.bradchoate.com/past/mtregex.php" title="Brad Choate: Regex Plugin" rel="nofollow">MT Regex Plugin</a>.  Next, I added a regex line at the top of my main index template:</p>
+
+<p><span class="entryData"><code>&lt;MTRegexDefine&gt;s|^(.*/)[^/]*$|$1|&lt;/MTRegexDefine&gt;</code></span></p>
+
+<p>This regular expression removes everything after the final slash in the url for the calendar links.  This works for my site&#8217;s setup because my daily archive is the index for the directory that contains that day&#8217;s articles.  Different configurations might need some tweaking.  For reference, here&#8217;s how I have my archiving configured:</p>
+
+<table class="entryData">
+<tr><td>Individual</td><td><code>&lt;$MTArchiveDate format="%Y/%m/%d/"$&gt;&lt;$MTEntryTitle dirify="1"$&gt;.fs</code></td></tr>
+<tr><td>Daily</td><td><code>&lt;$MTArchiveDate format="%Y/%m/%d/"$&gt;index.fs</code></td></tr>
+<tr><td>Monthly</td><td><code>&lt;$MTArchiveDate format="%Y/%m/index.fs"$&gt;</code></td></tr>
+<tr><td>Category</td><td><code>&lt;$MTArchiveCategory dirify="1"$&gt;/index.fs</code></td></tr>
+</table>
+
+<p>I apply the regular expression to the calendar links by changing the MTEntryLink tag in the calendar to the following:</p>
+
+<p><span class="entryData"><code>&lt;$MTEntryLink  regex="1"$&gt;</code></span></p>
+
+<p>Save, rebuild, and you now have a calendar that links to daily archives.</p>
+
+
+
+ <div class="posted"> 5:45 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/14/calendar_fix.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/06/"> 6</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000734"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/06/zeldmans_accessibility_lecture.php">Zeldman&#8217;s Accessibility Lecture</a></h3>
+
+<p>Jeffrey Zeldman <a href="http://www.zeldman.com/daily/0703b.shtml#lex" title="Lecture notes online" rel="nofollow">posted</a> a link to his notes from a recent lecture titled <a href="http://www.happycog.com/lectures/access/" title="Accessibility and Section 508" rel="nofollow">&#8220;Accessibility and Section 508&#8221;</a>.  Not only is this an excellent presentation on accessibility, but it&#8217;s beautifully designed with <acronym title="Extensible HyperText Markup Language">XHTML</acronym> and <acronym title="Cascading style Sheets">CSS</acronym>.</p>
+
+
+
+ <div class="posted"> 1:38 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/06/zeldmans_accessibility_lecture.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/03/"> 3</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000733"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/03/free_world_dialup.php">Free World Dialup</a></h3>
+
+<p>I just found out about <a href="http://www.fwdnet.net/" title="Free World Dialup" rel="nofollow">Free World Dialup</a> today.  It looks like an interesting free <acronym title="Voice over Internet Protocol">VoIP</acronym> service.  I signed on using a version of  <a href="http://www.xten.com/" title="Xten" rel="nofollow">Xten&#8217;s</a> <a href="http://www.xten.com/lite.php" title="X-Lite" rel="nofollow">X-Lite</a> that was customized for FWD.  I&#8217;ve only made one call to a time service thus far, but the quality was great.  They also have a number you can dial for an echo service.  This seems like a good idea for those curious about the delays that such networks have.  I&#8217;ll certainly have to try this out next.</p>
+
+<p>A strange thing happened tonight, though.  Soon after I made a couple of test calls, someone by the name of &#8220;Rodrigo Rodrigues&#8221; called me.  This is strange because I requested that me number be unlisted.  I&#8217;m guessing that I may have just been a victim of random dialing, but I guess I&#8217;ll never know.</p>
+
+
+
+ <div class="posted">10:11 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/03/free_world_dialup.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/30/">30</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000730"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/simplifying_the_web.php">Simplifying the Web</a></h3>
+
+<p><a href="http://kalsey.com/" title="Kalsey Consulting Group" rel="nofollow">Kalsey</a> is trying to  <a href="http://kalsey.com/2003/07/simplifying_the_web_one_step_at_a_time/" title="Simplifying the web, one step at a time :: Kalsey Consulting Group" rel="nofollow">simplify the web, one step at a time</a>.  This is certainly a long overdue step in the right direction for form design.</p>
+
+<blockquote>&#8220;Some things in Web design are too complex.&#8221;</blockquote>
+
+<p>With the first article on <a href="http://kalsey.com/simplified/" title="Simplified" rel="nofollow">Simplified</a>, a simple PHP script is introduced that provides highly usable form errors.  Having dealt with many websites with brain dead forms, I&#8217;m eagerly anticipating the adoption of such techniques.</p>
+
+
+
+ <div class="posted"> 2:47 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/30/simplifying_the_web.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/25/">25</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000726"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/25/serious_css.php">Serious CSS</a></h3>
+
+<p><a href="mailto:schampeo@hesketh.com" rel="nofollow">Steve Champeon</a> wrote up a <a href="http://hotwired.lycos.com/webmonkey/03/21/index3a.html" title="Progressive Enhancement and the Future of Web Design" rel="nofollow">great article</a> on some of his recent <a href="http://hesketh.com/presentations/sxsw/2003/" title="Inclusive Web Design" rel="nofollow">css</a> <a href="http://hesketh.com/" title="hesketh.com" rel="nofollow">work</a>.</p>
+
+<blockquote>&#8220; &#8230; a comprehensive approach to Web document design that both embraced the future and drew heavily upon the past.&#8221;<br /><br />&#8220; &#8230; restored markup to its rightful place, showed how presentation could be requested only by those browsers that wanted it, and demonstrated how much money and time could be saved by expanding your audience and embracing the medium.&#8221;</blockquote>
+
+<p>I&#8217;m thoroughly impressed with Steve&#8217;s <a href="http://hesketh.com/presentations/sxsw/2003/" title="Inclusive Web Design" rel="nofollow">presentation</a> on web design that he gave at this year&#8217;s <a href="http://www.sxsw.com/" title="South by Southwest" rel="nofollow">SXSW</a>.  The entire content of the presentation is one HTML file.  The design and navigation aspects of the presentation are contained in various <acronym title="Cascading Style Sheets">CSS</acronym> and <acronym title="JavaScript">JS</acronym> files.  Now, if one were to take this concept and extend it a bit, an entire presentation could easily be included in one HTML file.  I relize that this digresses from the ideal separation of content and design, but for a presentation that needs to be sent to colleagues or potential clients, I find that having everything in a single file is <em>very</em> convenient.</p>
+
+
+
+ <div class="posted"> 5:40 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/25/serious_css.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/24/">24</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000724"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/24/i_wont_buymusiccom.php">I won&#8217;t BuyMusic.com!</a></h3>
+
+<p>Jeffrey Zeldman beat me to <a href="http://www.zeldman.com/daily/0703b.shtml#outoftune" title="Buymusic.com: out of tune with the times" rel="nofollow">the punch</a> with his bit about <a href="http://www.buy.com/" rel="nofollow">Buy.com</a>&#8217;s new music site:</p>
+
+<blockquote>The Web Standards Project <a href="http://www.webstandards.org/buzz/archive/2003_07.html#a000169" title="Some men you just can't reach" rel="nofollow">says everything</a> we would have said about this foolishness.</blockquote>
+
+
+<p>Updated July 27, 2003:</p>
+
+<p>Apple's <a href="http://www.apple.com/music/store/" rel="nofollow">iTunes Music Store</a> certainly does it right.  They sold a very large amount of music in the first few weeks, and I don't see any sign of that slowing down.  And with the ability to play that music on the <a href="http://www.apple.com/ipod/" title="iPod" rel="nofollow">ultimate personal music player</a>, the momentum is certainly powerful.</p>
+
+<p>But BuyMusic.com music won't play on my iPod.  In fact, I can't even download it on my Mac.  It's not only restricted to windows, but it's also restricted to Internet Explorer and WMA audio.  The will certainly be competitors that will challenge Apple in this market, but BuyMusic.com is not one of them.</p>
+
+
+ <div class="posted"> 4:46 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/24/i_wont_buymusiccom.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/16/">16</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000713"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/16/adsense_changes.php">AdSense Changes?</a></h3>
+
+<p>I know I&#8217;m not the <a href="http://jason.defillippo.com/blog/archives/000292.phtml" title="GRRRR" rel="nofollow">first</a> to notice this, but it seems like <a href="http://www.google.com/adsense/" title="Google AdSense" rel="nofollow">AdSense</a> isn&#8217;t paying anywhere near as much per click today as it has been over the past couple of weeks.  What gives?</p>
+
+
+
+ <div class="posted"> 8:09 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/16/adsense_changes.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000712"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/16/shorter_urls.php">Shorter URLs</a></h3>
+
+<p>Go <a href="http://notlong.com/links/" title="Web Sites That Shorten Long URLs" rel="nofollow">here</a> if you are needing to shorten that long URL and want to see a comparison of the various services do this for you.  (via <a href="http://boingboing.net/#200443677" rel="nofollow">Boing Boing</a>)</p>
+
+
+
+ <div class="posted"> 5:02 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/16/shorter_urls.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000711"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/16/fun_with_movabletype.php">Fun with MovableType</a></h3>
+
+<p>Until my first <a href="http://www.movabletype.org/" title="MovableType" rel="nofollow">MT</a> install last week, I had always thought that it was just a simple tool for blogging.  I&#8217;m been learning rather quickly, however, that it&#8217;s for more than that.  <a href="http://www.bradchoate.com/past/001656.php" title="Doing your whole site with MT" rel="nofollow">Brad Choate</a> runs his whole site on MT.  <a href="http://a.wholelottanothing.org/features.blah/entry/007162" title="Beyond the Blog" rel="nofollow">Matt Haughey</a> has done the same on many sites.   In fact, I&#8217;m find <a href="http://scott.typepad.com/delimiter/2003/07/relative_paths_.html" title="Relative Paths in MT" rel="nofollow">references</a> of this type of thing happening all over the place.  I know that my site is currently missing some important info.  Right now it&#8217;s just a blog needing some personalization.  These new tips will certainly make life easier when I finally getting around to fixing things up.</p>
+
+
+
+ <div class="posted"> 4:38 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/16/fun_with_movabletype.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br/>
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

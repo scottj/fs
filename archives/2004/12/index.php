@@ -1,0 +1,322 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/12/">December</a> <a href="/archives/2004/12/24/">24</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000899"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/12/24/links_for_2004-12-24.php">links for 2004-12-24</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.couloir.org/js_slideshow/" rel="nofollow">Couloir.org: Resizing, Fading Slideshow Demo</a></div>
+	<div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/photography" rel="nofollow">photography</a> <a href="http://del.icio.us/scottj/web" rel="nofollow">web</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/12/">December</a> <a href="/archives/2004/12/22/">22</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000898"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/12/22/links_for_2004-12-22.php">links for 2004-12-22</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.keohi.com/keohihdtv/brandspecific/sony/servicemenu_sony.html" rel="nofollow">Keohi HDTV - Sony - Service Menu</a></div>
+	<div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/hdtv" rel="nofollow">hdtv</a> <a href="http://del.icio.us/scottj/tvtweaks" rel="nofollow">tvtweaks</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/12/">December</a> <a href="/archives/2004/12/12/">12</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000897"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/12/12/links_for_2004-12-12.php">links for 2004-12-12</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://developer.apple.com/internet/webcontent/xmlhttpreq.html" rel="nofollow">Dynamic HTML and XML: The XMLHttpRequest Object</a></div>
+    <div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/dev" rel="nofollow">dev</a> <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/12/">December</a> <a href="/archives/2004/12/06/"> 6</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000895"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/12/06/wi-fi_updates.php">Wi-Fi Updates</a></h3>
+
+<p><a href="http://wifinetnews.com/" rel="nofollow">Wi-Fi Networking News</a>, always a trusted source for news about wireless networking, released two interesting bits of news last week.</p>
+
+<p>First, <a href="http://wifinetnews.com/archives/004518.html" title="Gigabit Virtual Fiber in Lower Manhattan" rel="nofollow">GigaBeam is planning multi-gigabit wireless networking in Lower Manhattan</a>.  They are calling this &#8220;virtual fiber&#8221;.  It will be using point-to-point technology operating in the 71-76 GHz and 81-86 GHz ranges.  No prices have been announced yet, but I sure would love to have something like this in my apartment.</p>
+
+<p>And second, <a href="http://wifinetnews.com/archives/004520.html" title="802.11n Devices by mid-2006" rel="nofollow">an update on the progress of 802.11n</a>.  The short of this is that we should expect to see 802.11n devices by mid-2006.  For those of you not familiar with <a href="http://en.wikipedia.org/wiki/802.11#802.11n" rel="nofollow">802.11n</a>, this is the next generation in wireless networking, promising real throughput of at least 100Mbps.</p>
+
+<p>Exciting things are happening in the wireless world.  Within a couple of years, it will be a totally different landscape.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/12/">December</a> <a href="/archives/2004/12/04/"> 4</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000894"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/12/04/links_for_2004-12-04.php">links for 2004-12-04</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.sitepoint.com/blog-post-view.php?id=211431" rel="nofollow">Opacity and DHTML - SitePoint DHTML & CSS Blog</a></div>
+    <div class="delicious-extended">a simple javascript function for fading images</div>
+    <div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/dev" rel="nofollow">dev</a> <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/12/">December</a> <a href="/archives/2004/12/03/"> 3</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000893"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/12/03/links_for_2004-12-03.php">links for 2004-12-03</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://sxc.hu/" rel="nofollow">stock.xchng - the leading free stock photography site</a></div>
+    <div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.istockphoto.com/" rel="nofollow">iStockphoto.com - royalty free stock photography community</a></div>
+	<div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://images.fws.gov/" rel="nofollow">DLS: Digital Library System</a></div>
+	<div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://stock.reh3.com/" rel="nofollow">R3 Stock Photography Archive</a></div>
+	<div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://gimp-savvy.com/PHOTO-ARCHIVE/" rel="nofollow">Copyright-Free Photo Archive</a></div>
+   <div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.freefoto.com/index.jsp" rel="nofollow">FreeFoto.com - Free Pictures - FreeFoto.Com</a></div>
+	<div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://www.pixelperfectdigital.com/" rel="nofollow">Pixel Perfect Digital : Download free images, textures, backgrounds, illustrations, digital art and stock photos.</a></div>
+	  <div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.imageafter.com/" rel="nofollow">Image * After - currently 8755 textures and images available.</a></div>
+	<div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://www.morguefile.com/archive/" rel="nofollow">morguefile :: archive</a></div>
+    <div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.stockvault.net/" rel="nofollow">StockVault.net | Free stock photos for personal and non-commercial use</a></div>
+   <div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://canstockphoto.com/" rel="nofollow">Can Stock Photo - Royalty Free Stock Photography</a></div>
+    <div class="delicious-categories">(categories: <a href="http://del.icio.us/scottj/stockphoto" rel="nofollow">stockphoto</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/12/">December</a> <a href="/archives/2004/12/01/"> 1</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000892"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/12/01/cnet_supports_trackback.php">CNET Supports Trackback</a></h3>
+
+<p>Matt Mullenweg did some <a href="http://photomatt.net/2004/09/22/newsdotcom/" rel="nofollow">URI hacking</a> back in September and discovered that CNET supports <a href="http://www.movabletype.org/docs/mttrackback.html" rel="nofollow">Trackback</a> and <a href="http://www.hixie.ch/specs/pingback/pingback" rel="nofollow">Pingback</a>.  Back then, this functionality was only exposed by some clever hacking.</p>
+
+<p>Today, while catching up with everything that happened on the web over the Thanksgiving holiday, I noticed that Matt <a href="http://photomatt.net/2004/11/23/tb-pb-news/" rel="nofollow">announced</a> that <a href="http://news.com.com/TrackBack%20and%20Pingback%20supported%20by%20CNET%20News.com/2030-9368_3-5462850.html#introContent" rel="nofollow">it is official</a>.  There are trackback buttons all over the CNET site.  This is yet another sign that some media outlets are taking notice of blogs.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

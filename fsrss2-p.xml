@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://full-speed.org/">
+<title>Full Speed</title>
+<link>http://full-speed.org/</link>
+<description></description>
+
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2012-03-13T21:53:23-06:00</dc:date>
+
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=4.32-en" />
+
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+
+
+<items>
+
+<rdf:Seq>
+<rdf:li rdf:resource="http://full-speed.org/archives/2012/03/13/weekend_troubleshooting.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/11/09/tab_sweep.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/09/03/links_for_2011-09-03.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/08/13/links_for_2011-08-13.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/08/11/links_for_2011-08-10.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/07/30/links_for_2011-07-29.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/07/16/links_for_2011-07-15.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/07/03/links_for_2011-07-02.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/06/29/links_for_2011-06-28.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/05/14/links_for_2011-05-13.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/05/01/links_for_2011-04-30.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/04/19/links_for_2011-04-18.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/04/12/links_for_2011-04-11.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/04/05/links_for_2011-04-04.php" />
+
+<rdf:li rdf:resource="http://full-speed.org/archives/2011/01/31/links_for_2011-01-31.php" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+
+<item rdf:about="http://full-speed.org/archives/2012/03/13/weekend_troubleshooting.php">
+<title>Weekend Troubleshooting</title>
+
+<link>http://full-speed.org/archives/2012/03/13/weekend_troubleshooting.php</link>
+<description>A few links discovered during a 2-day-long website migration and troubleshooting session:Testing SMTP AUTH connectionsA quick introduction to PerlbalReducing MySQL Memory Usage for Low End Boxes...</description>
+<dc:subject>Linux</dc:subject>
+
+<dc:creator>scottj</dc:creator>
+<dc:date>2012-03-13T21:53:23-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/11/09/tab_sweep.php">
+<title>Tab Sweep</title>
+
+<link>http://full-speed.org/archives/2011/11/09/tab_sweep.php</link>
+<description> CentOS 6.0 Release Notes Iris --- An astronomical images processing software Backtrack Live USB Install Tutorial Sematic Versioning Cinetics CineSkates Camera Sliders Lotus Culinary --- &quot;Experience authentic regional Chinese cuisines&quot;...</description>
+<dc:subject>Links</dc:subject>
+
+<dc:creator>scottj</dc:creator>
+<dc:date>2011-11-09T20:14:46-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/09/03/links_for_2011-09-03.php">
+<title>links for 2011-09-03</title>
+
+<link>http://full-speed.org/archives/2011/09/03/links_for_2011-09-03.php</link>
+<description><![CDATA[ Fuck You. Pay Me. (tags: design video Mike_FTW) From Me To You (tags: photography blog animatedgifs) Google Ads Preferences &quot;Many websites, such as news sites and blogs, partner with us to show ads to their visitors. To see ads...]]></description>
+<dc:subject></dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-09-03T02:11:21-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/08/13/links_for_2011-08-13.php">
+<title>links for 2011-08-13</title>
+
+<link>http://full-speed.org/archives/2011/08/13/links_for_2011-08-13.php</link>
+<description><![CDATA[ Flixel &quot;Flixel is an open source game-making library that is completely free for personal or commercial use. Written entirely in Actionscript 3, and designed to be used with free development tools, Flixel is easy to learn, extend and customize.&quot;...]]></description>
+<dc:subject>Links</dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-08-13T02:01:40-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/08/11/links_for_2011-08-10.php">
+<title>links for 2011-08-10</title>
+
+<link>http://full-speed.org/archives/2011/08/11/links_for_2011-08-10.php</link>
+<description><![CDATA[ The Hacker Firefox &quot;Portable Firefox With Web Hacking Addons Bundled. It is useful for instant web app security assessment. It includes Firebug, HackBar, JSDebugger, NF-Tools, LiveHttpHeaders, Selenuim IDE, FireEncrypter, TamperData, WebDeveloper, etc.&quot; (tags: firefox portable security) YEHG Security Tools...]]></description>
+<dc:subject>Links</dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-08-11T00:02:16-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/07/30/links_for_2011-07-29.php">
+<title>links for 2011-07-29</title>
+
+<link>http://full-speed.org/archives/2011/07/30/links_for_2011-07-29.php</link>
+<description><![CDATA[ Sick Beard - Internet PVR for your TV Shows &quot;The ultimate PVR application that downloads and manages your TV shows&quot; (tags: usenet nzb tv) Dexpot - The utility for virtual desktops (tags: windows virtualdesktop)...]]></description>
+<dc:subject>Links</dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-07-30T01:01:59-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/07/16/links_for_2011-07-15.php">
+<title>links for 2011-07-15</title>
+
+<link>http://full-speed.org/archives/2011/07/16/links_for_2011-07-15.php</link>
+<description><![CDATA[ HowTos/OS Protection - CentOS Wiki (tags: linux security CentOS) OptiPNG &quot;a PNG optimizer that recompresses image files to a smaller size, without losing any information&quot; (tags: tools png compression) Ultimate CSS Gradient Generator (tags: webdev css gradients) Media Queries...]]></description>
+<dc:subject>Links</dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-07-16T00:01:42-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/07/03/links_for_2011-07-02.php">
+<title>links for 2011-07-02</title>
+
+<link>http://full-speed.org/archives/2011/07/03/links_for_2011-07-02.php</link>
+<description> Apple Development Videos - WWDC 2011 (tags: programming apple video mac osx iOS)...</description>
+<dc:subject>Links</dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-07-03T00:02:44-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/06/29/links_for_2011-06-28.php">
+<title>links for 2011-06-28</title>
+
+<link>http://full-speed.org/archives/2011/06/29/links_for_2011-06-28.php</link>
+<description><![CDATA[ Jekyll &quot;Jekyll is a simple, blog aware, static site generator.&quot; (tags: webdev tools blog static baked)...]]></description>
+<dc:subject>Links</dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-06-29T00:02:06-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/05/14/links_for_2011-05-13.php">
+<title>links for 2011-05-13</title>
+
+<link>http://full-speed.org/archives/2011/05/14/links_for_2011-05-13.php</link>
+<description><![CDATA[ Lettering.JS &quot;a lightweight, easy to use jQuery plugin for radical Web Typography&quot; (tags: webdev javascript jQuery) iOS Fonts (tags: iOS webdev reference)...]]></description>
+<dc:subject></dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-05-14T00:02:44-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/05/01/links_for_2011-04-30.php">
+<title>links for 2011-04-30</title>
+
+<link>http://full-speed.org/archives/2011/05/01/links_for_2011-04-30.php</link>
+<description><![CDATA[ docco.coffee &quot;a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator&quot; (tags: code documentation tools) Recipe For Baked Wordpress (tags: wordpress baked howto) Starman &quot;a high-performance preforking Perl PSGI web server &quot; (tags: perl psgi webserver) PerlDancer &quot;a micro web application framework for...]]></description>
+<dc:subject></dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-05-01T00:01:49-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/04/19/links_for_2011-04-18.php">
+<title>links for 2011-04-18</title>
+
+<link>http://full-speed.org/archives/2011/04/19/links_for_2011-04-18.php</link>
+<description> Solarized “Precision colors for machines and people” (tags: programming color vim terminal) txt2re: headache relief for programmers :: regular expression generator (tags: programming tools regex generator)...</description>
+<dc:subject></dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-04-19T00:11:59-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/04/12/links_for_2011-04-11.php">
+<title>links for 2011-04-11</title>
+
+<link>http://full-speed.org/archives/2011/04/12/links_for_2011-04-11.php</link>
+<description> vpn@UCSF Network Connect Installer Download (tags: vpn juniper) Using Network Connect with OS X 10.6 Snow Leopard A quick fix for Juniper Network Connect that worked on my Macbook Air running Snow Leopard. (tags: vpn mac osx juniper)...</description>
+<dc:subject></dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-04-12T00:01:45-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/04/05/links_for_2011-04-04.php">
+<title>links for 2011-04-04</title>
+
+<link>http://full-speed.org/archives/2011/04/05/links_for_2011-04-04.php</link>
+<description> Jekyll “Jekyll is a blog-aware, static site generator in Ruby” (tags: static blog generator ruby) Just Add ssh and Water: sshuttle for VPN on the Go “sshuttle turns a single ssh connection into an encrypted VPN for your entire...</description>
+<dc:subject></dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-04-05T00:01:39-06:00</dc:date>
+</item>
+
+
+<item rdf:about="http://full-speed.org/archives/2011/01/31/links_for_2011-01-31.php">
+<title>links for 2011-01-31</title>
+
+<link>http://full-speed.org/archives/2011/01/31/links_for_2011-01-31.php</link>
+<description><![CDATA[ Google APIs &amp; Developer Products - January 2011 A Periodic Table of Google APIs. (tags: google development api visualization)...]]></description>
+<dc:subject></dc:subject>
+
+<dc:creator>del</dc:creator>
+<dc:date>2011-01-31T23:02:23-06:00</dc:date>
+</item>
+
+
+
+</rdf:RDF>

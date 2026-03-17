@@ -1,0 +1,2 @@
+Sitemap: http://full-speed.org/speedsitemap.xml
+

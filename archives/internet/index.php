@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Internet Archives</title>
+<!-- common -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body>  
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/09/">September</a> <a href="/archives/2006/09/29/">29</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001164"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/09/29/microsoft_adcenter_reviewed.php">Microsoft adCenter Reviewed</a></h3>
+
+<p>I first signed up for MSN adCenter when the beta was announced.  I went to the site and submitted my email address to be put on a waiting list.  The wait was short, it turns out.  It wasn&#8217;t long before Microsoft announced that anyone could sign up for the expanded beta for the <strike>admission price</strike> one-time setup fee of $5.</p>
+
+<p>When I first signed in to the site, I was disappointed that it only worked with IE.  At the time, I primarily used a Mac at home, so this was a major dealbreaker.  And since I had successful AdWords campains and a decent Yahoo Search Marketing campain running, I wasn&#8217;t really <i>needing</i> another outlet for my advertising.</p>
+
+<p>Fast forward to August 5, when the adCenter website got a redesign.  It was renamed Microsoft adCenter, and one of the major features was Firefox support!  I had switched back to a Windows laptop in June, but with Firefox still being my primary browser, I was happy to see some support.  Now I could actually use the system, or so I thought.</p>
+
+<p>I created an &#8220;order&#8221;, which seems to be the equivalent of an AdWords campaign.  This order consisted of an ad along with about 20 keywords.  I submitted the order and was told that it would need to be subjected to editorial review next.  So I checked back every week or so, each time seeing the status of my order as &#8220;submitted&#8221;.</p>
+
+<p>Today, I checked again.  It has been one month and five days since I submitted my first batch of keywords and ads to Microsoft for editorial approval.  The order still shows the same status: &#8220;submitted&#8221;.  Since I had not received any communication from Microsoft, I decided to check into things.  I was expecting to see an &#8220;approved&#8221; status or similar on the order.  Instead, the individual items inside had been marked &#8220;approved&#8221;, with the order remaining &#8220;submitted&#8221;.  Not the result I was hoping for, but at least I knew that my keywords had been approved.</p>
+
+<p>With the approval question answered, I began to wonder exactly when the campaign had actually started running.  I requested this campaing to begin on August 24, but the campaign itself doesn&#8217;t really show when its ads actually cleared editorial and began running.  Since this test campaign has only received 56 impressions, it could have just started today, or it could have been running all along.</p>
+
+<p>Fortunately, this gave me an excuse to try out the reporting tools. A good daily report should show me when the campain began. And as it were, the ads had been running for a while. I ran a report to show all impressions for the month of September, and Sept 1 had the second highest number of impressions.  So I ran a report for August.  This gave me what I was looking for.  My ads had been running since the 26th.  So the approval process only took two days, but due to lack of communication from Microsoft and the mislabeling of my &#8220;order&#8221;, I was completely unaware.</p>
+
+<p>Thinking that user error could have come into play here, I proceeded to check the email settings.  My email address was there, and it was correct.  The box next to &#8220;Microsoft adCenter Member Communications&#8221; was checked, so I should be receiving mail.  I guess MS just forgot to send that message.</p>
+
+<p>Now that I have finally overcome Microsoft&#8217;s attempts to make the adCenter completely unusable, I can form an opinion of the underlying product.  In my mind, there are three metrics by which online advertising should be measured: ad creation, performance, and reporting.</p>
+
+<p>Initially, I wanted to give an F for ad creation.  I should have received an email when the order was approved.  And the order process should not have taken two days.  But knowing the limits of the system, I can get by.  So for ad creation, which includes keyword adds, etc., I give adCenter a D.</p>
+
+<p>Performance is right on par with what I have been seeing on Yahoo:  B-.  The prices are good, but there&#8217;s nowhere near as much traffic as I see on AdWords.</p>
+
+<p>And finally, reporting.  I was really impressed with the adCenter reports.  They&#8217;re flashy, literally.  Each report that I viewed contained slick, Flash-animated graphs.  There were the typical CSV export options as well.  These are certainly the most beautiful reports in the business.  And report templating and scheduling is available as well.  adCenter gets an A in reporting.</p>
+
+<p>So overall, I would have to give adCenter a C+.  I will probably continue to use it, but I won&#8217;t like it. I expect to be having plenty of discussions with adCenter support on how they can improve.</p>
+
+
+
+ <div class="posted"> 4:01 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/09/29/microsoft_adcenter_reviewed.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/07/">July</a> <a href="/archives/2006/07/17/">17</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001147"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/07/17/amazon_grocery_is_out_of_beta.php">Amazon Grocery Is Out of Beta</a></h3>
+
+<p>Found on the <a href="http://www.amazon.com/gp/redirect.html?link_code=ur2&tag=fullspeed-20&camp=1789&creative=9325&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Ffeature.html%3FdocId%3Dgrocery%252dannounce" rel="nofollow">Amazon.com</a> homepage today:<br />
+<div class="artimg"><a href="http://www.amazon.com/gp/redirect.html?link_code=ur2&tag=fullspeed-20&camp=1789&creative=9325&location=http%3A%2F%2Fwww.amazon.com%2Fb%2Fref%3Damb_link_3184592_1%3Fnode%3D16310101" rel="nofollow"><img src="http://full-speed.org/images/grocery.gif" alt="Amazon Grocery"/></a></div></p>
+
+
+
+ <div class="posted"> 7:16 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/07/17/amazon_grocery_is_out_of_beta.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/07/">July</a> <a href="/archives/2006/07/16/">16</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001143"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/07/16/the_internet_is_not_a_big_truck.php">The Internet Is Not a Big Truck!</a></h3>
+
+<p>I&#8217;m not sure which I like better:  the <a href="http://www.youtube.com/watch?v=DClkE64nFDY" rel="nofollow">Ted Stevens</a> remix or the slick Odeo flash player.<br />
+<div class="artimg"><embed src="http://www.odeo.com/flash/audio_player_standard_black.swf" quality="high" width="300" height="52" name="audio_player_standard_black" align="middle" allowScriptAccess="always" wmode="transparent"  type="application/x-shockwave-flash" flashvars="audio_id=1483741&audio_duration=185.365&valid_sample_rate=true&external_url=http://66.132.137.45/podcast/steves_viral/DJ_teds_techno_tubes.mp3" pluginspage="http://www.macromedia.com/go/getflashplayer" /></embed></div><br />
+[Via <a href="http://evhead.com/2006/07/massive-tangled-up-tubes.asp" rel="nofollow">Evhead</a>.]</p>
+
+
+
+ <div class="posted"> 6:00 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/07/16/the_internet_is_not_a_big_truck.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br/>
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

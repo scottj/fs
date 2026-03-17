@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Since the recent release of Google Chrome, there has been a lot of benchmarking going on (1, 2). Everyone wants faster Javascript performance, and Chrome delivers. Well, that's the impression that I got from using it for a few days..." />
+<meta name="author" content="Scott Johnson" />
+<title>Dromaeo: Firefox vs. Chrome ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2008/09/12/dromaeo_firefox_vs_chrome.php">
+<dc:title>Dromaeo: Firefox vs. Chrome</dc:title>
+<dc:description>Since the recent release of Google Chrome, there has been a lot of benchmarking going on (1, 2). Everyone wants faster Javascript performance, and Chrome delivers. Well, that&apos;s the impression that I got from using it for a few days...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2008-09-12T13:05:00-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2008/09/">September</a> <a href="/archives/2008/09/12/">12</a>, <a href="/archives/2008/">2008</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">Dromaeo: Firefox vs. Chrome</h3>
+<p>Since the recent release of <a href="http://www.google.com/chrome" rel="nofollow">Google Chrome</a>, there has been a lot of benchmarking going on (<a href="http://ejohn.org/blog/javascript-performance-rundown/">1</a>, <a href="http://fritzthomas.com/overall/271-benchmark-and-comparison-of-v8-and-tracemonkey-javascript-engine/">2</a>).  Everyone wants faster Javascript performance, and Chrome delivers.</p>
+
+<p>Well, that&#8217;s the impression that I got from using it for a few days anyway.  But yesterday I decided to go one step further and verify that feeling of greater performance.  Admittedly, this isn&#8217;t the most scientific approach, but I have some numbers for you.  I used one benchmarking tool, <a href="http://dromaeo.com/">Dromaeo</a>, to see how Chrome stacked up against my workhorse Firefox setup.  John Resig has already run <a href="http://ejohn.org/files/js-dromaeo.png">a similar comparison</a>, but I wanted a firsthand look at the numbers.  Here are those numbers:</p>
+
+<div class="artimg"><img src="http://full-speed.org/images/2008/dromaeo.png" alt="graph of the results" /></div>
+
+<p><a href="http://dromaeo.com/?id=41223">Chrome</a> ran the tests in 12658ms.  The build of Chrome used for this test is <tt>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.29 Safari/525.13</tt>.  <a href="http://dromaeo.com/?id=41230">Firefox</a> ran the tests in 13245ms.  This was the 3.0.1 release build of Firefox, <tt>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1</tt>.  The tests were run on my Core Duo 1.8GHz 4GB Windows XP SP2 system.</p>
+
+<p>As you can see, Chrome was indeed faster.  I&#8217;m already using it more and more for Google apps, as I&#8217;m figuring that these will probably always run faster in Chrome.  Firefox still is my main browser, though, because of the extensions.  Chrome won&#8217;t be replacing that stuff any time soon.</p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2008/09/23/squirrelfish_extreme.php">SquirrelFish Extreme</a> - September 23, 2008</li>
+
+<li><a href="http://full-speed.org/archives/2004/02/11/firefox_unstable.php">Firefox Unstable</a> - February 11, 2004</li>
+
+<li><a href="http://full-speed.org/archives/2008/03/10/fixed_john_resigs_blog.php">FIXED: John Resig's blog</a> - March 10, 2008</li>
+
+<li><a href="http://full-speed.org/archives/2008/05/02/google_reader_favicon_disappearing.php">Google Reader Favicon Disappearing</a> - May  2, 2008</li>
+
+<li><a href="http://full-speed.org/archives/2006/03/20/microsoft_and_http.php">Microsoft and HTTP</a> - March 20, 2006</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2008/09/12/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2008/09/06/links_for_2008-09-06.php" title="links for 2008-09-06">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2008/09/13/links_for_2008-09-13.php" title="links for 2008-09-13">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Networks Archives</title>
+<!-- common -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body>  
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/06/">June</a> <a href="/archives/2006/06/28/">28</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001135"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/06/28/hsdpa_vs_umts.php">HSDPA vs. UMTS</a></h3>
+
+<p>With all of the new cellular standards and acronyms, I have been in the dark about a couple of things.  Specifically, HSDPA and UMTS.  If you don&#8217;t know what these are and don&#8217;t care to learn about them, you will probably want to stop reading now.  :)  I know that these are both high(er) speed wireless communications protocols.  That was the easy part.  I also know that they are both faster than <a href="http://en.wikipedia.org/wiki/EDGE" rel="nofollow">EDGE</a>, a protocol that I have frequently used with cellphones in times of broadband outage.</p>
+
+<p>Now this question isn&#8217;t something that I have been really racking my brain on.  It&#8217;s just been a curiousity lingering in the back of my mind that surfaces whenever I read about the fancy new phones that are becoming available.  It seemed to me that the two acronyms were often loosely interchanged.  And without digging around to find the differences, I was beginning to think that they were the same thing.</p>
+
+<p>Finally, I posed <a href="http://www.engadgetmobile.com/2006/06/28/bbb-largely-rules-for-cingular-in-ad-battle-with-sprint-nextel/1#c1670280" rel="nofollow">a question to a couple of fellow Engadget Mobile readers</a> tonight.  And as I typically do, I hammered it out and clicked submit before even thinking about doing a tiny bit of research.</p>
+
+<p>So, within five minutes, I found myself on Wikipedia reading about all of the gory details of <a href="http://en.wikipedia.org/wiki/High-Speed_Downlink_Packet_Access" rel="nofollow">HSDPA</a>, or High-Speed Downlink Packet Access.  I found that I already knew some of this information, such as the fact that the protocol supports downlink speeds of up to 14.4 Mbit/s.  (Wow!)</p>
+
+<p>The real benefit for me from the Wikipedia article on HSDPA was mostly in the first paragraph:<blockquote>HSDPA provides a smooth evolutionary path for Universal Mobile Telecommunications System (<a href="http://en.wikipedia.org/wiki/UMTS" rel="nofollow">UMTS</a>) networks allowing for higher data capacity. It is an evolution of the <a href="http://en.wikipedia.org/wiki/WCDMA" rel="nofollow">W-CDMA</a> standard, designed to increase the available data rate by a factor of 5 or more. HSDPA defines a new W-CDMA channel, the high-speed downlink shared channel (HS-DSCH) that operates in a different way from existing W-CDMA channels, but is only used for downlink communication to the mobile.</blockquote>Whew!  In addition to the above, the UMTS page on Wikipedia says that UMTS &#8220;uses W-CDMA as the underlying standard.&#8221;  Ok, so I&#8217;m seeing this as a progression:  WCDMA&#8594;UMTS&#8594;HSDPA.  The newer standards are evolutions of the older standards, using and expanding upon previous protocols.  <a href="http://www.3gamericas.org/english/technology_center/hsdpa.cfm" rel="nofollow">Elsewhere</a>, I confirmed the following:<blockquote>HSDPA is compatible with EDGE and is fully backwards compatible with WCDMA, and enterprise and rich multimedia applications developed for WCDMA will work with HSDPA. Most UMTS vendors support HSDPA.</blockquote>So here are my conclusions:<ol><li>HSDPA and USDPA devices should work on WCDMA networks and will possibly work on UMTS networks.</li><li>HSDPA devices should work on a UMTS network, but the reverse is not true.</li><li>HSDPA is blazing fast</li><li>As with most other wireless systems here in the US, we use different frequencies than other parts of the world.  Don&#8217;t count on your shiny new phone to work with one of these 3G protocols both at home and in other parts of the world.</li><li>If given a choice, pick an HSDPA device.</li></ol>These conclusions may be a bit off, but I feel that my questions have been answered.  I didn&#8217;t get into EV-DO, as that is a protocol that isn&#8217;t offered by the GSM providers here and thus isn&#8217;t an option for me.  Cingular is said to be planning to offer the <a href="http://www.mobilewhack.com/reviews/samsung_sgh-zx2050_hsdpa_phones.html" rel="nofollow">Samsung SGH-ZX20</a> in the near future.  That is looking like a winning option for early adopters and bandwidth freaks.<br />
+</p>
+
+
+
+ <div class="posted">11:30 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/06/28/hsdpa_vs_umts.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/11/">November</a> <a href="/archives/2005/11/02/"> 2</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001024"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/11/02/cisco_makes_networks_happy.php">Cisco Makes Networks Happy</a></h3>
+
+<div style="margin-top: 5px;" class="artimg"><img src="/images/unicorn.jpg" alt="" /></div>
+
+
+
+ <div class="posted"> 4:10 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/11/02/cisco_makes_networks_happy.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/08/">August</a> <a href="/archives/2005/08/22/">22</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000974"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/08/22/sshkeychain.php">SSHKeychain</a></h3>
+
+<p>A while back, I <a href="/archives/2005/06/14/links_for_20050614.php" rel="nofollow">posted a link</a> to <a href="http://www.sshkeychain.org/" rel="nofollow">SSHKeychain</a>, an OS X tool that acts as a user-friendly graphical interface to the ssh agent.  I didn&#8217;t begin to use this tool until a few weeks ago.  It had been on my short list of new software that I needed to try, but I kept putting it off.</p>
+
+<p>Well, I finally tried it, and I really like it!  It just doesn&#8217;t get any easier than this.  This is such a simple piece of software, but I don&#8217;t know how I have lived without it for so long.</p>
+
+<p>First of all, the idea behind the ssh agent is to save time.  The agent caches your public keys and uses them to log you in to servers.  These keys are normally stored on your hard drive in an encrypted format.  When loading them into the agent, they are first decrypted.</p>
+
+<p>In order to use public key ssh authentication without an agent, you would have to type in the key password and then wait for the key to be decrypted before any authentication could take place.  Or you could store unencrypted keys on your hard drive, but that&#8217;s not something that I want to do on a laptop.  So the agent really makes a lot of sense, even if it&#8217;s just to save those few keystrokes each time I connect.</p>
+
+<p>But this tool goes a bit further than an ordinary agent.  It <em>automatically</em> adds your ssh private keys to the agent when you need them.  <b>Automatically</b>.  Even if your keys aren&#8217;t in the agent when you type your ssh command, they are added when you first use them.  With other agents, you have to be sure that you manually load the keys before you ssh.  This tool eliminates the need to even think about loading the keys.</p>
+
+<p>Your key passwords are stored in your keychain, the standard OS X password store.  This means that you truly have single signon.  Log in to your Mac, and you are logged in to all of your servers, too.</p>
+
+<p>And it is integrated so well that I don&#8217;t ever notice its presence.  In fact, other than typing my password once to unlock my keychain after logging in to my iBook, the only thing I notice is that I don&#8217;t have to type passwords to log in to my servers any more.  I have not clicked on the SSHKeychain icon on the menu bar once since I first installed it.</p>
+
+<p>But best of all, it is completely free.  And the source is available.  It is actually <a href="http://www.sshkeychain.org/donate.php" rel="nofollow">donationware</a>, so if you like, be sure to let the author know.</p>
+
+<p>The tool also has support for tunnels, but as of this writing, I have not used that part yet.  I am a huge fan of ssh tunnels, so I am sure that I will have more to say about this part soon.</p>
+
+
+
+ <div class="posted"> 8:42 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/08/22/sshkeychain.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br/>
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

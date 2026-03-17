@@ -1,0 +1,792 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > MovableType Archives</title>
+<!-- common -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body>  
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/05/">May</a> <a href="/archives/2007/05/05/"> 5</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001211"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/05/05/link_roundup.php">Link Roundup</a></h3>
+
+<p>For today&#8217;s browser spring cleaning, I will be offering several sets of links, grouped by topic.</p>
+
+<p>I&#8217;m exploring the use of <a href="http://www.djangoproject.com/" rel="nofollow">django</a> for my next web project.<ul><li><a href="http://simonwillison.net/2007/Apr/24/openidconsumer/" rel="nofollow">Turn your Django application in to an OpenID consumer</a></li><li><a href="http://code.google.com/p/django-logging/wiki/Overview" rel="nofollow">django-logging</a></li><li><a href="http://www.hackermojo.com/mt-static/archives/2007/03/django-mint-cache.html" rel="nofollow">MintCache for Django</a></li></ul>And speaking of that next project, I have a large stash of webdev links.<ul><li><a href="http://www.arnebrachhold.de/2007/02/16/four-plus-one-ways-to-speed-up-the-performance-of-wordpress-with-caching" rel="nofollow">4+1 Ways To Speed Up WordPress With Caching</a></li><li><a href="http://dev2dev.bea.com/pub/a/2006/01/ajax-back-button.html" rel="nofollow">Developing Ajax Applications That Preserve Standard Browser Functionality</a></li><li><a href="http://developer.yahoo.com/yui/" rel="nofollow">Yahoo! User Interface Library</a></li><li><a href="http://fortysomething.ca/mt/etc/archives/005400.php" rel="nofollow">Which Lightbox is right for you?</a></li><li><a href="http://particletree.com/features/lightbox-gone-wild/" rel="nofollow">Lightbox Gone Wild!</a></li></ul>And what web2.0 project would be complete without mentioning Amazon&#8217;s S3 and EC2?<ul><li><a href="http://aws.typepad.com/aws/2007/03/commodity_compu.html" rel="nofollow">Commodity Computing with Amazon&#8217;s S3 and EC2</a></li><li><a href="http://aws.typepad.com/aws/2007/04/another_databas.html" rel="nofollow">Another Database Solution for EC2 - S3DFS and SQLite</a></li><li><a href="http://aws.typepad.com/aws/2007/04/fastest_way_to_.html" rel="nofollow">Fastest way to Get Started with EC2 - EC2UI</a></li><li><a href="http://aws.typepad.com/aws/2007/04/mysql_interface.html" rel="nofollow">MySQL Interface to Amazon S3</a></li><li><a href="http://aws.typepad.com/aws/2007/04/weoceo_video.html" rel="nofollow">WeoCeo Video</a></li><li><a href="http://aws.typepad.com/aws/2007/04/enomalism_amazo.html" rel="nofollow">Enomalism Amazon EC2 Migration Module</a></li></ul>I found this excellent collection of Movable Type plugins recently.  I don&#8217;t exactly have a use for them as of yet, but they&#8217;re too good to lose.<ul><li><a href="http://www.majordojo.com/projects/feedmanager.php" rel="nofollow">FeedManager</a></li><li><a href="http://www.majordojo.com/projects/pluginmanager.php" rel="nofollow">PluginManager</a></li><li><a href="http://www.majordojo.com/projects/mediamanager.php" rel="nofollow">MediaManager</a></li><li><a href="http://www.majordojo.com/projects/photogallery.php" rel="nofollow">PhotoGallery</a></li><li><a href="http://www.majordojo.com/projects/promotethis.php" rel="nofollow">PromoteThis!</a></li><li><a href="http://www.majordojo.com/projects/widgetmanager.php" rel="nofollow">WidgetManager</a></li><li><a href="http://mt-hacks.com/fastsearch.html" rel="nofollow">FastSearch</a></li></ul>Next we have some OS tricks.  These are fun.  Well, if you&#8217;re into that sort of thing.<ul><li><a href="http://bink.nu/Article9478.bink" rel="nofollow">Creating A Bootable WinPE 2.0 USB Key</a></li><li><a href="http://gentoo-wiki.com/TIP_Boot_Floppydisk_Image_without_Floppy_using_GRUB" rel="nofollow">Boot Floppydisk Image without Floppy using GRUB</a></li><li><a href="http://www.debuntu.org/how-to-install-ubuntu-linux-on-usb-bar" rel="nofollow">How-to: Installing Ubuntu Linux on a usb pendrive</a></li></ul>Some x86 virtualization links:<ul><li><a href="http://searchservervirtualization.techtarget.com/" rel="nofollow">Server Virtualization: Covering today&#8217;s Server Virtualization topics</a></li><li><a href="http://www.virtual-strategy.com/en/blogs" rel="nofollow">Virtual Strategy Magazine</a></li><li><a href="http://x86virtualization.com/virtualizationnews/vbscript-checking-for-virtual-host.html" rel="nofollow">VBScript, quick and dirty check to Virtual Host</a></li></ul>Firefox is breathing easier now&#8212;-and using around 100MB less RAM.</p>
+
+
+
+ <div class="posted">11:19 PM
+ 
+ :: <a href="http://full-speed.org/archives/2007/05/05/link_roundup.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/05/">May</a> <a href="/archives/2006/05/17/">17</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001113"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/05/17/new_feature_related_entries.php">New Feature: Related Entries</a></h3>
+
+<p>There&#8217;s a new Related Entries feature here at Full Speed today, courtesy of <a href="http://kalsey.com/blog/2003/05/related_entries_revisited/index.html" title="Related Entries Revisited" rel="nofollow">Adam Kalsey</a>.  You can see it in action below.  It&#8217;s a quick, simple hack that uses MySQL&#8217;s fulltext queries and Brad Choate&#8217;s eternally useful <a href="http://www.bradchoate.com/weblog/2002/07/11/mtsql" rel="nofollow">MTSQL</a> plugin.  For the sake of documenting the way things work on this site, I will document the basic steps here.</p>
+
+<p>1) Add a fulltext index to the mt_entry table:<br />
+<textarea rows="3" id="codepress1" class="codepress sql linenumbers-off readonly-on">ALTER TABLE mt_entry ADD FULLTEXT ( entry_keywords, entry_title, entry_excerpt );</textarea><br />
+2) Add the query to the individual entry archive template in MT:<br />
+<pre>&lt;MTSQLEntries query="<br/>   SELECT entry_id, MATCH (entry_keywords, entry_title, entry_excerpt)<br/>      AGAINST ('[MTEntryKeywords encode_php='q'] [MTEntryTitle encode_php='q']')<br/>      AS score<br/>   FROM mt_entry<br/>   WHERE MATCH (entry_keywords, entry_title, entry_excerpt)<br/>      AGAINST ('[MTEntryKeywords encode_php='q'] [MTEntryTitle encode_php='q']')<br/>      AND entry_id != '[MTEntryID]'<br/>   AND entry_blog_id = [MTBlogID]<br/>      ORDER BY score DESC<br/>      LIMIT 0 , 4"&gt;&lt;li&gt;&lt;a href="&lt;MTEntryLink&gt;"&gt;<br/>&lt;MTEntryTitle&gt;&lt;/a&gt;&lt;/li&gt;&lt;/MTSQLEntries&gt;</pre></p>
+
+
+
+ <div class="posted"> 1:09 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/05/17/new_feature_related_entries.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/04/">April</a> <a href="/archives/2006/04/19/">19</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001101"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/04/19/meta_descriptions_in_movable_type.php">Meta Descriptions in Movable Type</a></h3>
+
+<p>I have been seriously neglecting the <tt>meta</tt> tags in my Movable Type blogs.  In fact, other than the requisite content type declaration, I haven&#8217;t been using <tt>meta</tt> tags at all.  That change today when I finally added entry excerpts into the <tt>meta</tt> descriptions.</p>
+
+<p>After the first test, I noticed that there was a slight problem.  If the excerpt contained quotes, they were not escaped in any way and invalidated the page.  Brad Choate&#8217;s <a href="http://www.bradchoate.com/weblog/2002/07/27/mtregex" rel="nofollow">MT Regex</a> plugin saves the day <a href="/archives/2003/08/14/calendar_fix.php" rel="nofollow">again</a>:</p>
+
+<p><code>&lt;MTAddRegex name="dequote"&gt;s|"|'|g&lt;/MTAddRegex&gt;<br />&lt;meta name="description" content="&lt;$MTEntryExcerpt regex="dequote"$&gt;" /&gt;</code></p>
+
+
+
+ <div class="posted"> 5:16 PM
+ 
+ :: <a href="http://full-speed.org/archives/2006/04/19/meta_descriptions_in_movable_type.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/28/">28</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000998"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/28/pingback.php">Pingback</a></h3>
+
+<p>I&#8217;m working on hacking my implementation of Movable Type to interoperate with <a href="http://www.hixie.ch/specs/pingback/pingback-1.0" rel="nofollow">Pingback</a> servers.  If all is well, I should show up <a href="http://simon.incutio.com/archive/2002/09/02/pingBackImplemented" rel="nofollow">here</a>.  I&#8217;m hoping to get my Pingback implementation stuffed into a plugin before I&#8217;m finished.</p>
+
+
+
+ <div class="posted"> 3:14 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/09/28/pingback.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/02/"> 2</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000980"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/02/links_for_2005-09-02.php">links for 2005-09-02</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.sixapart.com/pronet/weblog/2005/08/stylecatcher_up.html" rel="nofollow">Six Apart - ProNet - StyleCatcher Updated</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/MovableType" rel="nofollow">MovableType</a> <a href="http://del.icio.us/scottj/css" rel="nofollow">css</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.sixapart.com/pronet/weblog/2005/08/simple_example.html" rel="nofollow">Six Apart - ProNet - Simple Example Templates for Movable Type 3.2</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/MovableType" rel="nofollow">MovableType</a> <a href="http://del.icio.us/scottj/design" rel="nofollow">design</a> <a href="http://del.icio.us/scottj/html" rel="nofollow">html</a> <a href="http://del.icio.us/scottj/xhtml" rel="nofollow">xhtml</a> <a href="http://del.icio.us/scottj/template" rel="nofollow">template</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"> 9:17 AM
+ 
+ :: <a href="http://full-speed.org/archives/2005/09/02/links_for_2005-09-02.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/08/">August</a> <a href="/archives/2005/08/27/">27</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000979"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/08/27/links_for_2005-08-27.php">links for 2005-08-27</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.beastieboys.com/remixers.php" rel="nofollow">Beastie Boys - A Capella Download Page</a></div>
+    <div class="delicious-extended">&#8220;for your own personal use to make your own remixes&#8221;</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/art" rel="nofollow">art</a> <a href="http://del.icio.us/scottj/creativity" rel="nofollow">creativity</a> <a href="http://del.icio.us/scottj/mp3" rel="nofollow">mp3</a> <a href="http://del.icio.us/scottj/remix" rel="nofollow">remix</a> <a href="http://del.icio.us/scottj/mashup" rel="nofollow">mashup</a> <a href="http://del.icio.us/scottj/free" rel="nofollow">free</a> <a href="http://del.icio.us/scottj/design" rel="nofollow">design</a> <a href="http://del.icio.us/scottj/music" rel="nofollow">music</a> <a href="http://del.icio.us/scottj/sharing" rel="nofollow">sharing</a> <a href="http://del.icio.us/scottj/download" rel="nofollow">download</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://bradchoate.com/weblog/2005/08/26/mt-32-and-lighttpd-fastcgi" rel="nofollow">Brad Choate: MT 3.2 and LightTPD/FastCGI</a></div>
+	  <div class="delicious-extended">&#8220;MT 3.2 can now run under LightTPD and FastCGI.&#8221;</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/MovableType" rel="nofollow">MovableType</a> <a href="http://del.icio.us/scottj/web" rel="nofollow">web</a> <a href="http://del.icio.us/scottj/FastCGI" rel="nofollow">FastCGI</a> <a href="http://del.icio.us/scottj/lighttpd" rel="nofollow">lighttpd</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.sixapart.com/pronet/weblog/2005/08/movable_type_32.html" rel="nofollow">Six Apart - Movable Type 3.2 under LighTPD and FastCGI</a></div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/MovableType" rel="nofollow">MovableType</a> <a href="http://del.icio.us/scottj/web" rel="nofollow">web</a> <a href="http://del.icio.us/scottj/FastCGI" rel="nofollow">FastCGI</a> <a href="http://del.icio.us/scottj/lighttpd" rel="nofollow">lighttpd</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://bennolan.com/behaviour/" rel="nofollow">Behaviour : Using CSS selectors to apply Javascript behaviours</a></div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/ajax" rel="nofollow">ajax</a> <a href="http://del.icio.us/scottj/code" rel="nofollow">code</a> <a href="http://del.icio.us/scottj/css" rel="nofollow">css</a> <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/dhtml" rel="nofollow">dhtml</a> <a href="http://del.icio.us/scottj/dev" rel="nofollow">dev</a> <a href="http://del.icio.us/scottj/howto" rel="nofollow">howto</a> <a href="http://del.icio.us/scottj/xhtml" rel="nofollow">xhtml</a>)</div>
+	</li>
+</ul>
+
+
+
+ <div class="posted"> 9:18 AM
+ 
+ :: <a href="http://full-speed.org/archives/2005/08/27/links_for_2005-08-27.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/08/">August</a> <a href="/archives/2005/08/26/">26</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000978"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/08/26/new_movable_type_32_stylesheets.php">New Movable Type 3.2 Stylesheets</a></h3>
+
+<p>Along with <a href="/archives/2005/08/25/movable_type_32_is_finally_here.php" rel="nofollow">Movable Type 3.2</a> came <a href="http://www.sixapart.com/movabletype/news/2005/08/stylecatcher_pu.html" rel="nofollow">a ton of new stylesheets</a> from the good folks at Six Apart.  And they even created a <a href="http://www.sixapart.com/movabletype/styles/library" rel="nofollow">Style Library</a> that lets you preview each of the new styles before downloading them.  My favorite is <a href="http://www.lilia.com/" rel="nofollow">Lilia Ahner</a>&#8217;s <a href="http://www.sixapart.com/movabletype/styles/bold_palettes/theme-purple_crush/theme-purple_crush.css" rel="nofollow">Purple Crush</a>.  The library is AJAXified, so I haven&#8217;t found a way to link directly to the preview pages, but you will find Purple under the Bold Palettes category.  For those of you using standard templates on your Movable Type blog, be sure to check out these great new templates.</p>
+
+
+
+ <div class="posted">10:42 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/08/26/new_movable_type_32_stylesheets.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/08/">August</a> <a href="/archives/2005/08/25/">25</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000977"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/08/25/movable_type_32_is_finally_here.php">Movable Type 3.2 is Finally Here</a></h3>
+
+<p>Almost two months after I <a href="/archives/2005/07/02/movable_type_32_released.php" rel="nofollow">prematurely declared</a> that Movable Type 3.2 was released, it is now here.  Six Apart has <a href="http://www.sixapart.com/movabletype/news/2005/08/movable_type_3_2.html" rel="nofollow">the details</a>.  I actually saw <a href="http://www.dashes.com/anil/2005/08/25/movable_type_3" rel="nofollow">Anil&#8217;s announcement</a> first.  But it was <a href="http://www.livejournal.com/users/brad/2147610.html" rel="nofollow">Brad&#8217;s post</a> that really sparked my attention today:<blockquote>The just-released Movable Type 3.2 includes both an <a href="http://openid.net/" rel="nofollow">OpenID</a> server and consumer plugin. They&#8217;re not enabled by default, but this is a good first step.</blockquote>This seems like a step in the right direction.  I know what I will be doing tonight.</p>
+
+
+
+ <div class="posted"> 3:42 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/08/25/movable_type_32_is_finally_here.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/07/">July</a> <a href="/archives/2005/07/26/">26</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000962"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/07/26/movable_type_32_comment_management.php">Movable Type 3.2 Comment Management</a></h3>
+
+<p>Movable Type 3.2 has been portrayed as a worthwhile upgrade.  It adds some neat new features.  But today, I found out about a killer feature that makes me want this update <b>now</b>:  <a href="http://www.sixapart.com/typepad/news/2005/07/manage_comments.html" title="Manage Comments directly from Your Inbox" rel="nofollow">better comment management</a>.</p>
+
+<p>And we&#8217;re not just talking about a minor improvement to the existing comment management functionality.  We&#8217;re talking about a revolutionary change.  HTML email notifications!  And from within those notifications, you can read the comment, edit the comment, approve it, or delete it.  For me, it just doesn&#8217;t get any better than that.  This is a <em>huge</em> time saver.</p>
+
+<p>Now here&#8217;s the only problem:  To my knowledge, this feature hasn&#8217;t been announced for MT 3.2 yet.  It&#8217;s just a new TypePad feature.  If you are listening, Six Apart, please add this in 3.2!</p>
+
+
+
+ <div class="posted"> 8:23 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/07/26/movable_type_32_comment_management.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/07/">July</a> <a href="/archives/2005/07/02/"> 2</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000944"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/07/02/movable_type_32_released.php">Movable Type 3.2 Released</a></h3>
+
+<p>This new release is full of new features.  <a href="http://www.sixapart.com/pronet/weblog/2005/07/trackback_moder.html" title="Trackback moderation and editing" rel="nofollow">Trackback moderation</a> is finally here!  There is also a <a href="http://www.sixapart.com/pronet/weblog/2005/07/movable_type_3.html" title="Movable Type 3.2's Junk Folder" rel="nofollow">Junk folder</a> where hopefully all of the trackback and comment spams will appear &#8212;- instead of appearing on the blog.  <a href="http://www.sixapart.com/pronet/weblog/2005/07/the_feedback_ra.html" title="The Feedback Rating System in Movable Type 3.2" rel="nofollow">Feedback Rating</a> is another new feature.  Think of this as SpamAssassin for your blogs&#8217; comments and trackbacks &#8212;- all built-in.  The <a href="http://www.sixapart.com/pronet/weblog/2005/06/new_in_movable_.html" title="New in Movable Type 3.2: A home for administrators" rel="nofollow">System Overview</a> provides a high-level view of the entire MT installation, spanning all blogs.</p>
+
+<p>In all, there are <a href="http://www.sixapart.com/movabletype/news/2005/06/movable_type_32_is_comin.html" rel="nofollow">32 new features</a>.  This should be a very impressive release.</p>
+
+<p><b>Update:</b> It seems that the new software isn&#8217;t actually out yet.  <a href="http://www.sixapart.com/" rel="nofollow">6A</a> is just hyping the new release at this point.  I can&#8217;t wait to get my hands on it!</p>
+
+
+
+ <div class="posted">11:35 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/07/02/movable_type_32_released.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/06/">June</a> <a href="/archives/2005/06/09/"> 9</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000928"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/06/09/tags_come_to_movable_type.php">Tags Come to Movable Type</a></h3>
+
+<p>Adding to the already excellent collection of <a href="http://www.sixapart.com/pronet/docs/powertools" title="PROFESSIONAL NETWORK POWER TOOLS" rel="nofollow">Power Tools</a> for <a href="http://www.movabletype.org/" rel="nofollow">Movable Type</a>, the <a href="http://www.sixapart.com/pronet/weblog/2005/06/the_tags_power_.html" title="The Tags Power Tool for Movable Type" rel="nofollow">Tags Power Tool</a> was released today.  Think Flickr/del.icio.us meets blogs.  I expect to see some interesting development coming out of this.</p>
+
+
+
+ <div class="posted"> 6:03 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/06/09/tags_come_to_movable_type.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/04/">April</a> <a href="/archives/2005/04/19/">19</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000918"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/04/19/movable_type_316_released.php">Movable Type 3.16 Released</a></h3>
+
+<p>Movable Type 3.16 has been released.  And to be sure that you found out about it, there were <a href="http://www.sixapart.com/pronet/weblog/2005/04/movable_type_3.html" rel="nofollow">five</a> <a href="http://www.sixapart.com/partners/news/2005/04/movable_type_3.html" rel="nofollow">blog</a> <a href="http://www.sixapart.com/about/corner/2005/04/movable_type_31_2.html" rel="nofollow">entries</a> <a href="http://www.sixapart.com/about/news/2005/04/movable_type_31_3.html" rel="nofollow">on</a> <a href="http://www.sixapart.com/movabletype/news/2005/04/movable_type_316_release.html" rel="nofollow">sixapart.com</a> about the release.</p>
+
+<p>Also on the Movable Type front, a <a href="http://www.sixapart.com/movabletype/news/2005/04/workflow_for_movable_type.html" rel="nofollow">workflow plugin</a> has been released.  This fills one of the few remaining voids in making MT into a serious CMS.</p>
+
+
+
+ <div class="posted"> 4:13 PM
+ 
+ :: <a href="http://full-speed.org/archives/2005/04/19/movable_type_316_released.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/11/">November</a> <a href="/archives/2004/11/17/">17</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000883"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/11/17/finally_upgraded_movable_type.php">Finally Upgraded Movable Type</a></h3>
+
+<p>OK, so I finally got off my duff and upgraded the site to MT 3.121 today.  I haven&#8217;t heard anybody complaining about problems with the recent versions, so I think the 3.x series is probably stable enough for this site now.  Not that stability was preventing me from upgrading, though.  That was procrastination mixed with <a href="/archives/2004/05/17/mt_30.php" rel="nofollow">a bit of fear</a>.</p>
+
+<p>Browsing the site itself, I don&#8217;t notice a single difference.  Of course, that&#8217;s what I expected since everything MT generates for me is static.  But the new admin interface is really slick.  The Six Apart crew did a great job a making this app even easier to use.</p>
+
+<p>There are definitely some known CSS deficiencies on the site.  Those are my fault.  Hopefully I&#8217;ll get all of those worked out later this afternoon.</p>
+
+<p>That&#8217;s all for now.  If you notice any errors, please leave a comment on this post to let me know.  My contact form is still not operational, so that will have to do.</p>
+
+<p><b>Update:</b> Thanks to <a href="http://www.brianbehrend.com/" rel="nofollow">Brian</a> for pointing out a missing template in the new config.  Search results look cleaner now, too.</p>
+
+
+
+ <div class="posted"> 1:15 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/11/17/finally_upgraded_movable_type.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/06/">June</a> <a href="/archives/2004/06/03/"> 3</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000861"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/06/03/six_apart_developer_perks.php">Six Apart Developer Perks</a></h3>
+
+<p>I&#8217;ve been getting messages for at least a couple of weeks now about the mysterious Six Apart developer network.  And today there was a <a href="http://www.sixapart.com/log/2004/06/more_for_develo.shtml" title="More for Developers" rel="nofollow">blog post about it</a>.  But these messages keep restating the same thing.  They keep telling me that someday soon I&#8217;ll get an email telling me how I can sign up for this network.  They tell me about the perks and discounts that I&#8217;ll get in somewhat unspecific terms.  What&#8217;s a &#8220;developer discount for a free commercial license&#8221;?  Why would you need a discount on something that&#8217;s being given as free?  I know that the good people at 6A realize that they have had some communication issues in the recent past, but it&#8217;s about time they start fixing these problems.  They are losing customers daily, and better communication is the only thing that is going to save them.</p>
+
+<p>Here&#8217;s my message to Six Apart Ltd.:  Get that developer program out the door <strong>ASAP</strong>.  Your developers are your most important resource.  They are the ones who will push your wares.  If you don&#8217;t help them, <a href="http://www.photomatt.net/" rel="nofollow">Matt</a> will gladly help them switch to WP.</p>
+
+
+
+ <div class="posted">10:22 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/06/03/six_apart_developer_perks.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/05/">May</a> <a href="/archives/2004/05/17/">17</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000858"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/05/17/mt_30.php">MT 3.0?</a></h3>
+
+<p><a href="http://daringfireball.net/2004/05/mt3_plugin_compatibility" rel="nofollow">John Gruber</a>:<br />
+<blockquote><p>&#8220;The current versions of both of my MT plug-ins &#8212; <a href="http://daringfireball.net/projects/smartypants/" rel="nofollow">SmartyPants</a> and <a href="http://daringfireball.net/projects/markdown/" rel="nofollow">Markdown</a> &#8212; are fully compatible with MT 3.0.&#8221;</p></blockquote><br />
+OK, that was going to be the biggest obstacle for the MT3 upgrade.  With that out of the way, there are only a few remaining plugins that need confirmation:  <a href="http://www.rayners.org/2004/02/03/optionalredirect_v011.php" rel="nofollow">Optional-Redirect</a>, <a href="http://bradchoate.com/weblog/2002/07/27/regex-plugin" rel="nofollow">Regex Plugin</a>, <a href="http://bradchoate.com/weblog/2002/07/11/sql-plugin" rel="nofollow">SQL Plugin</a>, and <a href="http://kalsey.com/2003/02/simplecomments/" rel="nofollow">SimpleComments</a>.  I don&#8217;t think I&#8217;m actually even using the SQL plugin.  I may or may not be using the Regex plugin.  Not having either of those wouldn&#8217;t totally destroy the site.  SimpleComments is one that my archive templates are currently depending on, however.  I&#8217;m going to need to verify that one will work before any upgrading commences.</p>
+
+<p>I remember examining the code for the Optional-Redirect plugin when it first was released.  It was short and simple.  I should easily be able to build my own version of this plugin if it doesn&#8217;t work out of the box with MT3.</p>
+
+<p>In the mean time, I fired up a new blog on the <a href="http://secure.sixapart.com/t/store?l=mtpf000300" rel="nofollow">free version</a> of MT3 this afternoon.  My initial reaction is that MT3 looks a lot like TypePad.  The colors are the same.  I haven&#8217;t ever used the CMS interface of TypePad, but I would be willing to wager that it is very similar.  And the name has changed, too.  Instead of being a &#8220;Personal Publishing System&#8221;, it&#8217;s now &#8220;Movable Type Publishing Platform&#8221;.  I suppose that goes well with the pricing structure that so many are upset about.</p>
+
+
+
+ <div class="posted"> 5:28 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/05/17/mt_30.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/05/">May</a> <a href="/archives/2004/05/14/">14</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000856"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/05/14/alternatives_and_comment_previews.php">Alternatives and Comment Previews</a></h3>
+
+<p>With the <a href="http://www.sixapart.com/corner/archives/2004/05/its_about_time.shtml" rel="nofollow">recent announcement</a> of the <a href="http://www.movabletype.org/news/2004_05.shtml#001048" rel="nofollow">Movable Type 3.0 Developer Edition</a>, the blog world is buzzing with all kinds of recommendations for switching away from MT.  I&#8217;m not sure whether this site will remain on MT 2.661, upgrade to the 3.0 &#8220;Personal Edition&#8221; for $49.95, or switch to one of the alternatives.  But what I do know is that many of the preferred alternatives are lacking a major feature that MT has gotten right from the start (for me, at least).</p>
+
+<p>That feature is comment previews.  <a href="http://www.textpattern.com/" rel="nofollow">Textpattern</a> and <a href="http://wordpress.org/" rel="nofollow">WordPress</a> both seem to be excellent blog management systems.  Perhaps either would even be qualified to be described as a full-blown CMS.  But none of the sites I&#8217;ve visited that use these wares have preview functionality for their comments.</p>
+
+<p>We all make mistakes.  That&#8217;s why we have spell checkers.  MS Word has had that feature for well over ten years now.  A blog without comment preview is like a word processor without a spell checker.  The result is that comments get posted to the site with errors.  Or that quick bit of typing doesn&#8217;t read properly once you see it posted.  Preview, when <a href="http://www.intertwingly.net/blog/1681.html" rel="nofollow">used properly</a>, eliminates a lot of these errors.  It also eliminates the followup &#8220;oops&#8221; posts.</p>
+
+<p>Now I&#8217;m sure that there are ten free blog packages out there that offer this functionality, but all of the MT haters today seem to be mentioning WordPress and Textpattern.  Personally, I&#8217;d rather spend my $50 than use a package that is missing such essential functionality.</p>
+
+<p>There is, however, one more thing that I should mention:  Jon Hicks&#8217; excellent <a href="http://www.hicksdesign.co.uk/journal/2003/12/live_comment_previews/" rel="nofollow">Live Comment Previews</a>.  Visit a recent post on Jon&#8217;s site to see this in action.  It&#8217;s very slick.  Perhaps Dean or Matt would be interested in adopting something such as this in their default comment templates?</p>
+
+<p><b>Update:</b> It turns out that Textpattern has preview already.  I&#8217;m not sure why I thought it was missing.  And <a href="http://wordpress.org/development/archives/2004/05/22/heres-the-beef/" rel="nofollow">WordPress 1.2</a> was just released with a new preview feature.  It&#8217;s good to see more people paying attention to previews.</p>
+
+
+
+ <div class="posted"> 1:39 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/05/14/alternatives_and_comment_previews.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/03/">March</a> <a href="/archives/2004/03/23/">23</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000846"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/03/23/typekey_announced.php">TypeKey Announced</a></h3>
+
+<p><a href="http://www.sixapart.com/" rel="nofollow">Six Apart</a> has <a href="http://www.sixapart.com/log/2004/03/movable_type_30.shtml" rel="nofollow">announced</a> <a href="http://www.typekey.com/" rel="nofollow">TypeKey</a>.  Due in part to many <a href="http://diveintomark.org/archives/2004/03/22/you-blow-me" rel="nofollow">complaints</a>, they have also put out a <a href="http://www.sixapart.com/log/2004/03/you_wanted_the_.shtml" rel="nofollow">FAQ</a>.  Burningbird has excellent analyses from both <a href="http://weblog.burningbird.net/fires/technology/typekey_the_patriot_act_of_weblogging.htm" rel="nofollow">before</a> and <a href="http://weblog.burningbird.net/fires/sensuoustechnology/typekey_final_act.htm" rel="nofollow">after</a> the FAQ release.</p>
+
+<p>While it&#8217;s great to see the creators of <a href="http://www.movabletype.org/" rel="nofollow">Movable Type</a> working on <a href="http://joi.ito.com/archives/2004/03/21/six_apart_announced_typekey.html" rel="nofollow">new technology</a>, it seems that most of their users are <a href="http://golem.ph.utexas.edu/~distler/blog/archives/000335.html#c000826" rel="nofollow">not happy</a> with the proposal of a centralized service for authenticating commentors.</p>
+
+
+
+ <div class="posted"> 1:05 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/03/23/typekey_announced.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/03/">March</a> <a href="/archives/2004/03/10/">10</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000842"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/03/10/smartypants_15.php">SmartyPants 1.5</a></h3>
+
+<p><a href="http://daringfireball.net/projects/smartypants/" rel="nofollow">SmartyPants 1.5</a> <a href="http://daringfireball.net/2004/03/dance" title="I Would Like You to Dance" rel="nofollow">is out</a>.  Another incremental update to this already flawless Movable Type plugin.</p>
+
+<p><b>Update:</b> There was a minor bug with 1.5.  Version 1.5.1 has been released to correct the problem.</p>
+
+
+
+ <div class="posted"> 1:26 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/03/10/smartypants_15.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/27/">27</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000825"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/27/redirects_are_not_an_option.php">Redirects Are Not An Option</a></h3>
+
+<p>I have just installed David Raynes&#8217; <a href="http://www.rayners.org/2004/01/20/optionalredirect_v01.php" rel="nofollow">Optional-Redirect Plugin</a> for <a href="http://www.movabletype.org/" rel="nofollow">Movable Type</a>.  Comment author links no longer behave in the 2.661 way.  They work as they should&#8212;-that is, they link directly.  While I understand the nature of this change that Six Apart made to MT, I don&#8217;t agree with it.  Redirects are slow and destroy Google juice.  There are <a href="http://golem.ph.utexas.edu/~distler/blog/archives/000291.html" rel="nofollow">better</a> <a href="http://golem.ph.utexas.edu/~distler/blog/archives/000294.html" rel="nofollow">ways</a> to fight spam.</p>
+
+
+
+ <div class="posted">10:34 AM
+ 
+ :: <a href="http://full-speed.org/archives/2004/01/27/redirects_are_not_an_option.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2004/01/">January</a> <a href="/archives/2004/01/13/">13</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000822"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2004/01/13/automatically_closing_old_mt_entries.php">Automatically Closing Old MT Entries</a></h3>
+
+<p>There has been quite a bit of talk about <a href="/archives/2003/11/10/ending_comment_spam.php" title="Ending Comment Spam" rel="nofollow">preventing weblog comment spam</a> lately.  <a href="http://jeremy.zawodny.com/blog/archives/001263.html" title="Auto-closing MT Comments on Old Blog Entries" rel="nofollow">Jeremy Zawodny</a> and <a href="http://www.sifry.com/alerts/archives/000323.html" title="How to limit comments to one week after posting" rel="nofollow">David Sifry</a> have each come up with similar solutions for automatically turning off comments on older posts.  While both of these solutions work perfectly well, I wanted something that was a bit more integrated with <acronym title="Movable Type">MT</acronym>.  I wanted <acronym title="Movable Type">MT</acronym> to handle the updates to the older entries.</p>
+
+<p>So today it dawned on me that Brad Choate&#8217;s <a href="http://www.bradchoate.com/weblog/2002/07/11/sql-plugin.php#000667" title="SQL Plugin" rel="nofollow">MTSQL plugin</a> was exactly what I needed to make this happen.  Since the plugin allows the execution of arbitrary SQL statements, I can now make a template that will shut down comments and pings on my older posts.</p>
+
+<p>Once you have MTSQL installed, create an <em>index</em> template with contents similar to the following:<br />
+<pre>&lt;MTSQL query="<br />    update mt_entry<br />        set entry_allow_comments = 2,<br />            entry_allow_pings = 0<br />    where entry_created_on &lt;= date_sub(CURDATE(), interval 7 day)<br />        and entry_blog_id = 2<br />"&gt;<br />&lt;MTSQLColumn column="1"&gt;<br />&lt;/MTSQL&gt;</pre><br />
+Substitute any number of days in the &#8220;interval 7 day&#8221; part.  Also, you&#8217;ll need to be sure that the <tt>entry_blog_id</tt> matches that of your blog.  Alternatively, if you either have only one blog or want the post on all of your blogs to be closed, you can simply remove the last line of the query.</p>
+
+<p>Be sure to check the box next to &#8220;Rebuild this template automatically when rebuilding index templates&#8221;.  With this option enabled, this query will be executed each time you save an entry.</p>
+
+<p>I prefer this method to the previously mentioned methods because I feel it is more inline with the way MT works.  Nothing happens unless it is in response to my actions.  The other solutions require a cron job to work automatically.  I have no problems with cron&#8212;-I just prefer this integrated approach.</p>
+
+<p>One problem that remains unsolved by Jeremy&#8217;s, David&#8217;s, or my solution is that closed entries will still show their comment forms.  The presence of the comment form does not allow comments, but it is misleading.  A user might type in a long rant only to be disappointed by a mesage stating that comments for the entry are closed once he clicks the Post button.</p>
+
+<p>An entry must be rebuilt before the comment form will be removed from its page.  There are a couple of ways to make this happen.  One option is to simply rebuild your entire blog from within MT.  Another option is to use Timothy Appnel&#8217;s <a href="http://www.timaoutloud.org/archives/000238.html" title="mt-rebuild: The rebuild script to end all rebuild scripts." rel="nofollow">mt-rebuild</a> script to rebuild the blog.  This script will rebuild individual pages or the entire blog from the command line.  If you&#8217;re serious about closing down comments, I&#8217;d suggest setting up a cron job to run this script.  And if anyone knows of a way to avoid the cron job and just execute a rebuild from within an MT template, I&#8217;d love to hear about it.</p>
+
+
+
+ <div class="posted">11:26 PM
+ 
+ :: <a href="http://full-speed.org/archives/2004/01/13/automatically_closing_old_mt_entries.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/09/">September</a> <a href="/archives/2003/09/23/">23</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000768"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/09/23/web_hosting_and_mt.php">Web Hosting and MT</a></h3>
+
+<p>I&#8217;ve been hosting my own websites for quite some time now.  Probably the last 7-8 years.  Whether they were run on the servers of companies that I worked for or my own servers, I always had full control of the server.  But it seems that many in the weblog world use web hosting companies for their blogs.  I&#8217;ve read about horror stories getting Movable Type installed.  It was simple for me, having root access to all of my servers.  In fact, I set up a fully-redundant, distributed architecture for this site in under an hour.  I suppose I&#8217;m out of touch with those who use the standard web hosting services.  Perhaps I should host other people&#8217;s blogs on my servers for a nominal fee since it&#8217;s so easy for me to setup.  Would anyone be interested in something like that?</p>
+
+
+
+ <div class="posted"> 2:50 AM
+ 
+ :: <a href="http://full-speed.org/archives/2003/09/23/web_hosting_and_mt.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/15/">15</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000743"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/15/xslt_for_your_movable_type.php">XSLT for your Movable Type</a></h3>
+
+<p>Kevin Davis <a href="http://alazanto.org/weblog/cat_mt_carbon.php" title="MT Carbon" rel="nofollow">has written</a> a series of articles on using XML and XSLT templates with Movable Type. (Thanks <a href="http://simon.incutio.com/archive/2003/08/11/MTxslt" title="Simon Willison: Moveably Type with XSLT" rel="nofollow">Simon</a>!)  In the initial sample, Kevin had some problems with the HTML inside an entry body being rendered in Mozilla.  That problem has since been <a href="http://alazanto.org/weblog/cat_mt_carbon.php#000037" title="Embedded Formatting for Mozilla" rel="nofollow">solved</a>.  Check out this <a href="http://alazanto.org/xml/style2.xml" title="MT Carbon Sample" rel="nofollow">great sample</a>!</p>
+
+
+
+ <div class="posted"> 2:44 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/15/xslt_for_your_movable_type.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/08/">August</a> <a href="/archives/2003/08/14/">14</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000738"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/08/14/blogrolling_with_movable_type.php">Blogrolling with Movable Type</a></h3>
+
+<p><a href="http://dylan.tweney.com/" title="the tweney report" rel="nofollow">Dylan Tweney</a> wrote an <a href="http://dylan.tweney.com/weblog/000611.html" title="Movable Type blogroll." rel="nofollow">interesting article</a> about using PHP to spiff up your MT blogroll.  I&#8217;ve already incorporated this partially into my site.  The gist of the article is that you create an additional blog which contains one blogroll link for each entry.  The index page for that blog is then pulled into your main blog&#8217;s index with a PHP-based include.  Very slick!</p>
+
+
+
+ <div class="posted"> 4:30 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/08/14/blogrolling_with_movable_type.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/30/">30</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000729"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2003/07/30/zempt.php">Zempt</a></h3>
+
+<p>I just discovered <a href="http://zempt.com/" title="Zempt :: Multi-platform posting for Movable Type :: Zempt" rel="nofollow">Zempt</a> this past weekend.  In short, it&#8217;s totally changing the way I post to my site.</p>
+
+<p>First off, since it runs on my PC instead of on my web server, it&#8217;s a lot faster than <a href="http://www.movabletype.org/" title="Movable Type" rel="nofollow">Movable Type</a>&#8217;s web interface.  Sure, there are <a href="http://wbloggar.com/" title="w.bloggar" rel="nofollow">other</a> tools that have similar functionality, but I haven&#8217;t been happy with them.</p>
+
+<p>Second, it&#8217;s got spell check!  Hopefully this will take care of the inevitable typos that plague my postings.</p>
+
+<p>And my favorite feature of this tool is the Preview functionality.  The preview isn&#8217;t anything special&#8212;it&#8217;s just showing my simple markup in a basic HTML control.  But it&#8217;s <strong>far</strong> faster than MT&#8217;s web interface.  This is a major plus for me.</p>
+
+<p>And lastly, Zempt will be a multi-platform app as soon as the next release is available&#8212;Linux support is due in version 0.4.  Mac support is also supposed to show up in 0.5.  I can&#8217;t wait!</p>
+
+<p>If you&#8217;re looking for a better tool for posting to Movable Type, be sure to check out Zempt.</p>
+
+
+
+ <div class="posted"> 2:33 PM
+ 
+ :: <a href="http://full-speed.org/archives/2003/07/30/zempt.php" rel="nofollow">#</a>
+  </div>
+
+</div> <!-- blogbody -->
+
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br/>
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

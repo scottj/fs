@@ -1,0 +1,566 @@
+/* layout */
+body {
+    background:#fff;
+    text-align: center;
+}
+#frame {
+    background:#fff;
+    border: 1px solid #eee;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    position:relative;
+    width: 649px;
+}
+#top {
+    background:#fff url(http://full-speed.org/images/fullspeed2.png) no-repeat;
+    height:80px;
+    margin: 0;
+    padding: 0;
+}
+#nav {
+    border-bottom: 1px solid #000;
+    border-bottom:0;
+    border-top: 2px solid #000;
+    border-top:0;
+    height: 22px;
+    letter-spacing: 1px;
+}
+#body {
+    background:transparent;
+    clear:both;
+    margin: 0 auto 0 auto;
+    padding: 0;
+}
+#left {
+    background:transparent;
+    float:left;
+    margin:0;
+    padding:0;
+    position:relative;
+    width: 516px;
+}
+html>body #left {
+    width: 519px;
+}
+#right {
+    background:transparent;
+    border: 0;
+    height:100%;
+    margin: 0 0 0 515px;
+    padding: 0;
+}
+html>body #right {
+    margin: 0 0 0 520px;
+}
+#bottom {
+    background: #fff;
+    clear:both;
+    color:#666;
+    font: 10px/15px 'Lucida Sans Unicode','Lucida Grande',verdana,lucida,sans-serif;
+    height: 30;
+    padding-top:75px;
+    width: 649px;
+}
+#ad {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    width: 127px;
+}
+html>body #ad {
+    width: 129px;
+}
+#blogroll {
+    border:0;
+    margin:0 0 5px 0;
+    padding:0;
+    width:127px;
+}
+html>body #blogroll {
+    width:129px;
+}
+#links {
+    border:0;
+    margin:5px 0 0 0;
+    padding:0;
+    width:127px;
+}
+html>body #links {
+    width:129px;
+}
+.rightbox {
+    border:0;
+    font: 10px/14px 'Lucida Sans Unicode','Lucida Grande', verdana, lucida, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 127px;
+}
+html>body .rightbox {
+    width: 128px;
+}
+
+/* nav */
+#nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 649px;
+}
+#nav li {
+    //border-left: 1px solid #aaa;
+    display: block;
+    float: left;
+    font: 10px/22px 'Lucida Sans Unicode','Lucida Grande',lucida,verdana,sans-serif;
+    margin:0;
+    padding:0;
+    text-align: center;
+    width: 129px;
+}
+#nav .first {
+    border: 0;
+}
+#nav a,
+#nav a:link,
+#nav a:visited {
+    background: #fff;
+    border: 0;
+    color: #000;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 129px;
+}
+#nav a:active,
+#nav a:hover {
+    background: #fff;
+    border: 0;
+    color: #a00;
+    display: block;
+    text-decoration: none;
+    width: 129px;
+    font-weight:800;
+}
+#current a,
+#current a:active,
+#current a:link,
+#current a:visited {
+    background: #fff;
+    color: #000;
+}
+
+/* general formatting */
+#top h1 {
+    display: none;
+}
+#top span {
+    display: none;
+}
+h1, h2, h3 {
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    height:100px;
+}
+
+/* individual entries */
+.date {
+    color: #666;
+    font-family: georgia,palatino,'times new roman',serif;
+    font-size: small;
+    font-weight: normal;
+    margin: 0px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    text-align: center;
+}
+.date a {
+ color:#666;
+ text-decoration:none;
+}
+.title {
+    font: 18px georgia,palatino,'times new roman',serif;
+    margin: 0px;
+    text-align: center;
+}
+.title a {
+    border: 0;
+}
+.older {
+    font: 18px georgia,palatino,'times new roman',serif;
+    margin: 5px 0 10px 0;
+    text-align: center;
+}
+
+.wishlist {
+    font: 14px georgia,palatino,'times new roman',serif;
+    margin: 0px;
+    text-align: center;
+}
+.wishlist a {
+    border: 0;
+}
+.blog {
+    padding: 0 15px 15px 15px;
+    //background:transparent;
+}
+.blogbody {
+    color:#333;
+    font:11px/1.5 'Lucida Sans Unicode','Lucida Grande',verdana,lucida,sans-serif;
+    text-align: justify;
+}
+.blogbody code {
+  background-color: #fff;
+  font: 11px/1.5 monospace;
+  white-space: pre;
+}
+.blogbody h3 a,
+.blogbody h3 a:active,
+.blogbody h3 a:hover,
+.blogbody h3 a:link,
+.blogbody h3 a:visited {
+    border: 0;
+}
+.blogbody h4 a,
+.blogbody h4 a:active,
+.blogbody h4 a:hover,
+.blogbody h4 a:link,
+.blogbody h4 a:visited {
+    border: 0;
+}
+.blogbody a,
+.blogbody a:link,
+.blogbody a:visited {
+    border-bottom: 1px solid #a00;
+    color: #a00;
+    text-decoration: none;
+}
+.blogbody a:active,
+.blogbody a:hover {
+    border-bottom: 1px solid #e33;
+    color: #e33;
+    text-decoration: none;
+}
+.blogbody ol li {
+  margin-bottom: 0;
+}
+.blogbody pre {
+	border-left:2px solid #666;
+	font-size: 10px;
+	padding-left:10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.compact {
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.compact li {
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.posted	{
+    border:0;
+    color: #000;
+    font-family:verdana, arial, sans-serif;
+    font-size: x-small;
+    margin-bottom:50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2px;
+    text-align: center;
+    width: 300px;
+}
+.posted a,
+.posted a:active,
+.posted a:hover,
+.posted a:link,
+.posted a:visited {
+    border: 0;
+    text-decoration: none;
+}
+.rTitle {
+    background: #fff;
+    border:0;
+    color: #333;
+    font: 14px georgia,palatino,'times new roman',serif;
+    margin: 0;
+    padding: 2px 0 2px 0;
+    visibility:hidden;
+    width: 127px;
+}
+html>body .rTitle {
+    width: 129px;
+}
+
+/* comments and trackback */
+.reply {
+    border-top:1px solid #999;
+    clear:none;
+    color:#666;
+    font:11px/15px 'Lucida Sans Unicode', 'Lucida Grande', verdana, lucida, sans-serif;
+    padding:0 0 5px 0;
+}
+.reply-body {
+    clear:both;
+    color:#666;
+    margin: 0 0 0 20px;
+    text-align: justify;
+}
+.reply-head {
+    font-weight:bold;
+    margin-top:10px;
+    padding: 0 0 1px 0;
+}
+.reply-num {
+    clear:none;
+    float:left;
+    font: 22px/22px palatino, georgia, verdana, arial, sans-serif;
+    padding: 2px 0 2px 0;
+    width:20px;
+}	
+.reply-source {
+    clear:right;
+    float:left;
+    font:11px/15px 'Lucida Sans Unicode', 'Lucida Grande', verdana, lucida, sans-serif;
+    padding: 2px 0 2px 5px;
+}
+.reply-tag {
+    border-left: 1px solid #999;
+    border-right: 1px solid #999;
+    clear:none;
+    float:left;
+    font:11px/15px 'Lucida Sans Unicode','Lucida Grande',verdana,lucida,sans-serif;
+    padding: 2px 5px 2px 5px;
+}
+.reply-title {
+    clear:both;
+    font:normal small palatino, georgia, verdana, arial, sans-serif;
+    margin: 10px 0 0 20px;
+    text-align:left;
+}
+.reply a {
+    color: #a00;
+    text-decoration: none;
+}
+.reply a:hover {
+    color: #e33;
+    text-decoration: none;
+}
+#banner-commentspop {
+    font-family: georgia, palatino, verdana, arial, sans-serif;
+    color:#FFF;
+    font-size:large;
+    font-weight:bold;
+    border-left:1px solid #FFF;
+    border-right:1px solid #FFF;
+    border-top:1px solid #FFF;
+    background:#003366;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+/* specific formatting */
+abbr {
+    border: 0;
+    cursor: help;
+    text-decoration: none;
+}
+acronym {
+    border: 0;
+    cursor: help;
+    text-decoration: none;
+}
+.artimg {
+    text-align: center;
+}
+.artimg img {
+    border: 0;
+}
+.artimg a,
+.artimg a:active,
+.artimg a:hover,
+.artimg a:link,
+.artimg a:visited {
+    border:0;
+    text-decoration:none;
+}
+#bottom a {
+  border: 0;
+  color: #a00;
+  text-decoration:none;
+}
+blockquote {
+    background-color: #eee;
+    border: 1px solid #bbb;
+    font:12px/16px 'Lucida Sans Unicode','Lucida Grande',verdana,lucida,sans-serif;
+    padding: 10px;
+}
+.bqsource {
+  margin-top: 5px;
+  text-align: right;
+}
+code {
+  background-color: #eee;
+  border: 1px solid #bbb;
+  display: block;
+  font: 10px/14px monaco, courier, monospace;
+  overflow: scroll;
+  padding: 10px;
+}
+/* IE hack */
+* html body code {
+  width: 95%;
+}
+.entryData {
+    border-left: 1px solid #ddd;
+    font-size: small;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.entryData td {
+    padding-right: 5px;
+}
+#topright {
+    border-top: 0;
+}
+
+/* blogroll */
+.blogrollmain {
+    font: 10px/14px 'Lucida Sans Unicode','Lucida Grande',verdana,lucida,sans-serif;
+}
+.blogrollmain a {
+    color: #a00;
+    text-decoration: none;
+}
+.blogrollmain a:active,
+.blogrollmain a:hover {
+    color: #e33;
+    border-bottom: 1px solid #e33;
+}
+.blogrollfolder {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* elsewhere */
+.rightbox ul {
+    list-style: none;
+    margin: 3px 0 3px 0;
+    padding: 0;
+}
+.rightbox li {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.rightbox li a {
+    border:0;
+    color: #a00;
+    display: block;
+    font: 10px/14px 'Lucida Sans Unicode','Lucida Grande',lucida,verdana,sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.rightbox li a:hover {
+    background-color: #eee;
+    border:0;
+    color: #e33;
+    text-decoration: none;
+}
+
+/* contact form */
+#contact {
+    padding: 15px 0 0 0;
+    text-align: center;
+}
+#contactFields {
+    margin: 0 auto 0 auto;
+    text-align: left;
+    width: 382px;
+}
+#contactFieldset {
+    font: 10px/14px 'Lucida Sans Unicode','Lucida Grande',verdana,lucida,sans-serif;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    width: 400px;
+}
+#contactFormLegend {
+    color: #000;
+}
+.contactText {
+    width: 380px;
+}
+.contactTextarea {
+    width: 380px;
+}
+
+/* generic section formatting */
+.sectionBody {
+    color:#333;       
+    font:10px/16px 'Lucida Sans Unicode','Lucida Grande',verdana,lucida,sans-serif;
+    margin: 0 15px 0 15px;
+    padding: 0 0 10px 0;
+    text-align: justify;
+}
+.sectionBody a {
+    border-bottom: 1px solid #a00;
+    color: #a00;
+    text-decoration: none;
+}
+.sectionBody a:hover {
+    border-bottom: 1px solid #e33;
+    color: #e33;
+    text-decoration: none;
+}
+.sectionHead {     
+  color: #333;
+  font: 18px georgia, palatino, verdana, arial, sans-serif;
+  letter-spacing: -0.06em;
+  margin: 0 0 5px 0;
+  padding: 15px 0 2px 15px;
+  text-align: left;
+  width: 504px;
+}
+.sectionHead a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* del.icio.us */
+.delicious-categories,
+.delicious-tags {
+  color: #bbb;
+}
+.delicious-categories a,
+.delicious-categories a:link,
+.delicious-categories a:visited,
+.delicious-tags a,
+.delicious-tags a:link,
+.delicious-tags a:visited {
+  border: 0;
+  color: #bbb;
+  text-decoration: none;
+}
+.delicious-categories a:active,
+.delicious-categories a:hover,
+.delicious-tags a:active,
+.delicious-tags a:hover {
+  border: 0;
+  color: #666;
+}
+
+/* sub buttons */
+#subs {
+  font:4px/18px sans-serif;
+  padding-top:5px;
+  padding-bottom:5px;
+}

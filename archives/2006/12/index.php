@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/12/">December</a> <a href="/archives/2006/12/29/">29</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001192"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/12/29/links_for_2006-12-29.php">links for 2006-12-29</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://www.vmware.com/pdf/asplos235_adams.pdf" rel="nofollow">A Comparison of Software and Hardware Techniques for x86 Virtualization</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/hardware" rel="nofollow">hardware</a> <a href="http://del.icio.us/scottj/software" rel="nofollow">software</a> <a href="http://del.icio.us/scottj/x86" rel="nofollow">x86</a> <a href="http://del.icio.us/scottj/virtualization" rel="nofollow">virtualization</a> <a href="http://del.icio.us/scottj/vmware" rel="nofollow">vmware</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/12/">December</a> <a href="/archives/2006/12/16/">16</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001191"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/12/16/windows_install_linkdump.php">Windows Install LinkDump</a></h3>
+
+<p>I have been reading a large amount of information on slipstreaming and unattended installations of Windows XP/2003 lately, so here&#8217;s my linkdump of all of the juiciest nuggets:<ul><li><a href="http://www.heise-security.co.uk/articles/80682" rel="nofollow">DIY Service Pack</a></li><li><a href="http://www.autopatcher.com/autopatcherxp/" rel="nofollow">AutoPatcher XP</a></li><li><a href="http://www.nliteos.com/" rel="nofollow">nLite</a></li><li><a href="http://www.ryanvm.net/msfn/updatepack.html" rel="nofollow">RyanVM&#8217;s Windows XP Post-SP2 Update Pack</a></li><li><a href="http://smithii.com/slipstream_xpsp2" rel="nofollow">Automatically Slipstream Windows XP with SP2 and All Post-SP2 Security Hotfixes with a Single Command</a></li><li><a href="http://unattended.sourceforge.net/" rel="nofollow">Unattended, A Windows deployment system</a></li><li><a href="http://unattended.msfn.org/unattended.xp/" rel="nofollow">Unattended Windows Introduction</a></li><li><a href="http://www.hfslip.org/" rel="nofollow">TommyP&#8217;s HFSLIP</a></li></ul>I haven&#8217;t tried out any of these methods yet, but I&#8217;m looking forward to building a stripped down, customized, unattended install CD for both XP and 2003.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/12/">December</a> <a href="/archives/2006/12/11/">11</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001190"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/12/11/links_for_2006-12-11.php">links for 2006-12-11</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://www.tomshardware.com/2004/11/19/using_windowsxp_to_make_raid_5_happen/page2.html" rel="nofollow">Using WindowsXP to Make RAID 5 Happen</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/windows" rel="nofollow">windows</a> <a href="http://del.icio.us/scottj/xp" rel="nofollow">xp</a> <a href="http://del.icio.us/scottj/raid" rel="nofollow">raid</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/12/">December</a> <a href="/archives/2006/12/01/"> 1</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001189"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/12/01/links_for_2006-12-01.php">links for 2006-12-01</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://www.aspecto-software.com/rw/applications/dweller/" rel="nofollow">Aspecto Software - Dweller</a></div>
+	<div class="delicious-extended">&#8220;Install apps over the air, without the need for ActiveSync&#8221;</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/PocketPC" rel="nofollow">PocketPC</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://www.apsis.ch/pound/" rel="nofollow">pound</a></div>
+    <div class="delicious-extended">Reverse Proxy and Load Balancer</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/http" rel="nofollow">http</a> <a href="http://del.icio.us/scottj/software" rel="nofollow">software</a> <a href="http://del.icio.us/scottj/networking" rel="nofollow">networking</a> <a href="http://del.icio.us/scottj/loadbalancing" rel="nofollow">loadbalancing</a> <a href="http://del.icio.us/scottj/proxy" rel="nofollow">proxy</a> <a href="http://del.icio.us/scottj/ssl" rel="nofollow">ssl</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://www.backhand.org/wackamole/" rel="nofollow">Wackamole</a></div>
+	  <div class="delicious-extended">HSRP/VRRP alternative for Linux</div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/networking" rel="nofollow">networking</a> <a href="http://del.icio.us/scottj/ha" rel="nofollow">ha</a> <a href="http://del.icio.us/scottj/failover" rel="nofollow">failover</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

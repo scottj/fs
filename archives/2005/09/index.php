@@ -1,0 +1,740 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/30/">30</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001001"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/30/universal_remote_controls.php">Universal Remote Controls</a></h3>
+
+<p>I have had a Philips Pronto Pro as my main universal remote for a while.  The <a href="http://www.remotecentral.com/prontopro/index.html" title="Philips ProntoPro TSU6000 Remote Control" rel="nofollow">review on RemoteCentral.com</a>, along with many comments in the RemoteCentral forums, identified this as the best consumer remote on the market at the time that I bought it.  The remote was excellent at everything, truly exceeding my expectations.  It arrived preconfigured to support every device that I own (and more).  I was able to setup macros to control multiple devices with the touch of one button.  I was even able to configure it  to shut off all of the lights in my living room when I wanted to watch a movie.</p>
+
+<p>But with time, I got tired of looking at the passive matrix LCD display.  It&#8217;s just old technology that really doesn&#8217;t have a place in my &#8220;technologically advanced&#8221; household.  I&#8217;m a bit of a snob when it comes to these things.  When I moved a year ago, I never even bothered unpacking the Pronto Pro.  Instead, I am using several different remotes now.  I have something like five different remotes on the coffee table, each of which can change the volume on the TV.  Yes, I know, it&#8217;s disgusting.</p>
+
+<p>It seems that there are some new options on the market these days, though.  I first start looking into remotes today when I saw Matt Haughey&#8217;s post on the <a href="http://www.pvrblog.com/pvr/2005/09/things_we_love_.html" title="Things we love: the Harmony 880 remote" rel="nofollow">Harmony 880</a>.  The <a href="http://genericsite.info/?k=B00093IIRA" title="Harmony 880 on Amazon" rel="nofollow">Harmony 880</a> is made by Logitech.  I typically like their gear.  But I&#8217;m really not too sure about this one yet.  It looks nice, and as Matt entions, it has that TiVo-like peanut shape to it.  But how would it stack up to the old Pronto Pro?</p>
+
+<p>Well it turns out that there&#8217;s a <em>new</em> Pronto Pro out now.  RemoteCentral has <a href="http://www.remotecentral.com/tsu7000/index.html" title="Philips ProntoPro NG TSU7000 &amp; Marantz RC9500 Remote Controls" rel="nofollow">a review</a> on it.  This is going to be a tough decision.  The new Pronto Pro now has a TFT display and more buttons as well.  But I have become a bit spoiled by my DirecTiVo&#8217;s peanut-shaped remote lately.  Time for more research.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="001000"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/30/links_for_2005-09-30.php">links for 2005-09-30</a></h3>
+
+<ul class="delicious">
+  <li>
+    <div class="delicious-link"><a href="http://sparkline.org/" rel="nofollow">Sparkline PHP Graphing Library</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/sparklines" rel="nofollow">sparklines</a> <a href="http://del.icio.us/scottj/php" rel="nofollow">php</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a> <a href="http://del.icio.us/scottj/visualization" rel="nofollow">visualization</a> <a href="http://del.icio.us/scottj/graphing" rel="nofollow">graphing</a> <a href="http://del.icio.us/scottj/library" rel="nofollow">library</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/29/">29</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000999"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/29/links_for_2005-09-29.php">links for 2005-09-29</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://software.hixie.ch/utilities/cgi/pingback-proxy/" rel="nofollow">Pingback Sample Code</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/pingback" rel="nofollow">pingback</a> <a href="http://del.icio.us/scottj/perl" rel="nofollow">perl</a> <a href="http://del.icio.us/scottj/dev" rel="nofollow">dev</a> <a href="http://del.icio.us/scottj/xml-rpc" rel="nofollow">xml-rpc</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/28/">28</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000998"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/28/pingback.php">Pingback</a></h3>
+
+<p>I&#8217;m working on hacking my implementation of Movable Type to interoperate with <a href="http://www.hixie.ch/specs/pingback/pingback-1.0" rel="nofollow">Pingback</a> servers.  If all is well, I should show up <a href="http://simon.incutio.com/archive/2002/09/02/pingBackImplemented" rel="nofollow">here</a>.  I&#8217;m hoping to get my Pingback implementation stuffed into a plugin before I&#8217;m finished.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/27/">27</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000997"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/27/links_for_2005-09-27.php">links for 2005-09-27</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.extremeperl.org/bk/home" rel="nofollow">Extreme Perl</a></div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/perl" rel="nofollow">perl</a> <a href="http://del.icio.us/scottj/programming" rel="nofollow">programming</a> <a href="http://del.icio.us/scottj/xp" rel="nofollow">xp</a> <a href="http://del.icio.us/scottj/extreme" rel="nofollow">extreme</a> <a href="http://del.icio.us/scottj/books" rel="nofollow">books</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://a9.com/-/company/help/siteinfo/index.jsp" rel="nofollow">A9.com > SiteInfo</a></div>
+   <div class="delicious-extended">Explanation for mysterious siteinfo.xml queries in webserver logs.</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/amazon" rel="nofollow">amazon</a> <a href="http://del.icio.us/scottj/seo" rel="nofollow">seo</a> <a href="http://del.icio.us/scottj/xml" rel="nofollow">xml</a> <a href="http://del.icio.us/scottj/weird" rel="nofollow">weird</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.subzeropro48.com/" rel="nofollow">Sub-Zero PRO 48 Refrigerator/Freezer - A Monument to Food Preservation</a></div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/subzero" rel="nofollow">subzero</a> <a href="http://del.icio.us/scottj/refrigerator" rel="nofollow">refrigerator</a> <a href="http://del.icio.us/scottj/stainless" rel="nofollow">stainless</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://www.bindows.net/" rel="nofollow">BindowsÃ¢</a></div>
+    <div class="delicious-extended">&#8220;The leading object-oriented platform for developing AJAX applications&#8221;</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/ajax" rel="nofollow">ajax</a> <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/xml" rel="nofollow">xml</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a> <a href="http://del.icio.us/scottj/gui" rel="nofollow">gui</a> <a href="http://del.icio.us/scottj/library" rel="nofollow">library</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.quirksmode.org/dom/innerhtml.html" rel="nofollow">Javascript - Benchmark - W3C DOM vs. innerHTML</a></div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/ajax" rel="nofollow">ajax</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a> <a href="http://del.icio.us/scottj/benchmarks" rel="nofollow">benchmarks</a> <a href="http://del.icio.us/scottj/optimization" rel="nofollow">optimization</a> <a href="http://del.icio.us/scottj/code" rel="nofollow">code</a> <a href="http://del.icio.us/scottj/dhtml" rel="nofollow">dhtml</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://home.earthlink.net/~kendrasg/info/js_opt/" rel="nofollow">JavaScript Optimization</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/optimization" rel="nofollow">optimization</a> <a href="http://del.icio.us/scottj/ajax" rel="nofollow">ajax</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a>)</div>
+	</li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/26/">26</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000996"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/26/links_for_2005-09-26.php">links for 2005-09-26</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.intertwingly.net/blog/2005/09/25/Do-you-Sudoku" rel="nofollow">Sam Ruby: Do you Sudoku?</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/!productivity" rel="nofollow">!productivity</a> <a href="http://del.icio.us/scottj/puzzle" rel="nofollow">puzzle</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.macupdate.com/info.php/id/18358" rel="nofollow">Sudoku Susser 2.0</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/!productivity" rel="nofollow">!productivity</a> <a href="http://del.icio.us/scottj/puzzle" rel="nofollow">puzzle</a> <a href="http://del.icio.us/scottj/cheat" rel="nofollow">cheat</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://sean.treadway.info/demo/upload" rel="nofollow">Upload progress demo</a></div>
+	<div class="delicious-extended">This could easily convince me to try Rails.</div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/rubyonrails" rel="nofollow">rubyonrails</a> <a href="http://del.icio.us/scottj/ajax" rel="nofollow">ajax</a> <a href="http://del.icio.us/scottj/demo" rel="nofollow">demo</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://dojotoolkit.org/" rel="nofollow">Dojo</a></div>
+	  <div class="delicious-extended">&#8220;An Open Source toolkit that allows you to easily build dynamic capabilities into web pages and any other environment that supports JavaScript.&#8221;</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/ajax" rel="nofollow">ajax</a> <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a> <a href="http://del.icio.us/scottj/xhtml" rel="nofollow">xhtml</a> <a href="http://del.icio.us/scottj/xml" rel="nofollow">xml</a> <a href="http://del.icio.us/scottj/dhtml" rel="nofollow">dhtml</a> <a href="http://del.icio.us/scottj/library" rel="nofollow">library</a> <a href="http://del.icio.us/scottj/opensource" rel="nofollow">opensource</a> <a href="http://del.icio.us/scottj/api" rel="nofollow">api</a> <a href="http://del.icio.us/scottj/code" rel="nofollow">code</a>)</div>
+	</li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/25/">25</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000995"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/25/links_for_2005-09-25.php">links for 2005-09-25</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://q.queso.com/archives/001774" rel="nofollow">QDN: TypeKey goes OpenID</a></div>
+	  <div class="delicious-extended">Use the URL of your TypeKey profile page with OpenID!</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/TypeKey" rel="nofollow">TypeKey</a> <a href="http://del.icio.us/scottj/OpenID" rel="nofollow">OpenID</a> <a href="http://del.icio.us/scottj/blogs" rel="nofollow">blogs</a> <a href="http://del.icio.us/scottj/MovableType" rel="nofollow">MovableType</a> <a href="http://del.icio.us/scottj/authentication" rel="nofollow">authentication</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://markpasc.org/weblog/2005/08/16/openid_comments_for_mt_11" rel="nofollow">OpenID Comments for MT 1.1: markpasc.org</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/OpenID" rel="nofollow">OpenID</a> <a href="http://del.icio.us/scottj/MovableType" rel="nofollow">MovableType</a> <a href="http://del.icio.us/scottj/comments" rel="nofollow">comments</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.flickr.com/groups/flickrhacks/" rel="nofollow">Flickr Hacks</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/flickr" rel="nofollow">flickr</a> <a href="http://del.icio.us/scottj/greasemonkey" rel="nofollow">greasemonkey</a> <a href="http://del.icio.us/scottj/hacks" rel="nofollow">hacks</a> <a href="http://del.icio.us/scottj/photography" rel="nofollow">photography</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.dashes.com/anil/2005/09/06/web_development" rel="nofollow">Anil Dash: Web Development Trends for 2006</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/ajax" rel="nofollow">ajax</a> <a href="http://del.icio.us/scottj/design" rel="nofollow">design</a> <a href="http://del.icio.us/scottj/dhtml" rel="nofollow">dhtml</a> <a href="http://del.icio.us/scottj/internet" rel="nofollow">internet</a> <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/ruby" rel="nofollow">ruby</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a> <a href="http://del.icio.us/scottj/xml" rel="nofollow">xml</a> <a href="http://del.icio.us/scottj/predictions" rel="nofollow">predictions</a>)</div>
+	</li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/24/">24</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000994"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/24/notes_on_making_art.php">Notes on Making Art</a></h3>
+
+<blockquote>&#8220;Do NOT mix generating and editing. When youÃ¢re making a piece, donÃ¢t stop and get judgmental half-way through. If itÃ¢s a piece of crap, get that piece of crap out of your system Ã¢ donÃ¢t try to fix it mid-flow. Finish it, move on.&#8221;<div class="bqsource"><a href="http://www.43folders.com/2005/09/scarlet_letters.html" title="Scarlet Letters: Creative tips for artists" rel="nofollow">the Scarlet Letters: Notes on Making Art</a></div></blockquote>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000993"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/24/links_for_2005-09-24.php">links for 2005-09-24</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.kevinstock.com/osx/googlevpn/" rel="nofollow">Google Secure Access on Mac OS X</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/mac" rel="nofollow">mac</a> <a href="http://del.icio.us/scottj/networking" rel="nofollow">networking</a> <a href="http://del.icio.us/scottj/howto" rel="nofollow">howto</a> <a href="http://del.icio.us/scottj/google" rel="nofollow">google</a> <a href="http://del.icio.us/scottj/osx" rel="nofollow">osx</a> <a href="http://del.icio.us/scottj/pptp" rel="nofollow">pptp</a> <a href="http://del.icio.us/scottj/vpn" rel="nofollow">vpn</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://www.sixapart.com/pronet/weblog/2005/09/tagalag_tags_an.html" rel="nofollow">Tagalag, Tags and TypeKey Together</a></div>
+	  <div class="delicious-extended">Not quite sure what this is for yet.</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/tags" rel="nofollow">tags</a> <a href="http://del.icio.us/scottj/sixapart" rel="nofollow">sixapart</a> <a href="http://del.icio.us/scottj/typekey" rel="nofollow">typekey</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.baidu.com/search/rss.html" rel="nofollow">Ã§åº¦RSSÃ¦Ã©è®¢Ã©</a></div>
+	  <div class="delicious-extended">RSS Feeds for BaiDu&#8217;s Internet News</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/rss" rel="nofollow">rss</a> <a href="http://del.icio.us/scottj/feeds" rel="nofollow">feeds</a> <a href="http://del.icio.us/scottj/news" rel="nofollow">news</a> <a href="http://del.icio.us/scottj/china" rel="nofollow">china</a> <a href="http://del.icio.us/scottj/BIDU" rel="nofollow">BIDU</a> <a href="http://del.icio.us/scottj/China" rel="nofollow">China</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000992"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/24/gmail_web_clips.php">GMail Web Clips</a></h3>
+
+<p>It seems that the &#8220;<a href="https://mail.google.com/support/bin/answer.py?ctx=%67mail&hl=en&answer=18219" title="What is 'Clips'?" rel="nofollow">Web Clips</a>&#8221; feature of Google&#8217;s <a href="http://mail.google.com/" rel="nofollow">GMail</a> has been around for <a href="http://blog.outer-court.com/archive/2005-04-15-n70.html" rel="nofollow">a while now</a>.  I just saw it tonight for the first time and was quite surprised to see it.  The new addition appears to be out in limited testing.  Initial thoughts:  I would certainly like to have the rotating headlines at the top of my GMail inbox.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/23/">23</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000991"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/23/bittorrent_for_dummies.php">BitTorrent for Dummies</a></h3>
+
+<p>I thought that I had seen it all when it comes to <a href="/archives/bittorrent/" rel="nofollow">BitTorrent</a>.  It seems to me that there are <a href="/archives/2004/04/03/bittorrent_links.php" rel="nofollow">plenty of resources</a> out on the web that would tell a person everything he might ever want to know about the excellent file sharing program.  But there had to be a &#8220;dummy&#8221; out there who would go out and write <a href="http://www.amazon.com/exec/obidos/ASIN/076459981X/fullspeed-20" title="BitTorrent for Dummies" rel="nofollow">a book on how to use BitTorrent</a>.  Get your order in now.  This book is scheduled for release on October 3, 2005, and I&#8217;m sure it will sell out quickly.  ;-)</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000990"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/23/links_for_2005-09-23.php">links for 2005-09-23</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.nhc.noaa.gov/" rel="nofollow">National Hurricane Center</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/maps" rel="nofollow">maps</a> <a href="http://del.icio.us/scottj/weather" rel="nofollow">weather</a> <a href="http://del.icio.us/scottj/hurricanes" rel="nofollow">hurricanes</a> <a href="http://del.icio.us/scottj/forecasts" rel="nofollow">forecasts</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.dustindiaz.com/sweet-titles/" rel="nofollow">JavaScript Fading Tooltips</a></div>
+    <div class="delicious-extended">Sweet &#8230; titles!</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/css" rel="nofollow">css</a> <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a> <a href="http://del.icio.us/scottj/design" rel="nofollow">design</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/22/">22</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000989"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/22/links_for_2005-09-22.php">links for 2005-09-22</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://jetty.mortbay.org/jetty/" rel="nofollow">Jetty Java HTTP Servlet Server</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/java" rel="nofollow">java</a> <a href="http://del.icio.us/scottj/http" rel="nofollow">http</a> <a href="http://del.icio.us/scottj/web" rel="nofollow">web</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a> <a href="http://del.icio.us/scottj/software" rel="nofollow">software</a> <a href="http://del.icio.us/scottj/servlets" rel="nofollow">servlets</a> <a href="http://del.icio.us/scottj/j2ee" rel="nofollow">j2ee</a> <a href="http://del.icio.us/scottj/jsp" rel="nofollow">jsp</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/20/">20</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000988"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/20/links_for_2005-09-20.php">links for 2005-09-20</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.amk.ca/diary/archives/004087.html" rel="nofollow">AMK&#8217;s Journal: Atom 1.0 template for Movable Type</a></div>
+   <div class="delicious-extended">An Atom 1.0 template for MT that actually validates.</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/atom" rel="nofollow">atom</a> <a href="http://del.icio.us/scottj/MovableType" rel="nofollow">MovableType</a> <a href="http://del.icio.us/scottj/template" rel="nofollow">template</a> <a href="http://del.icio.us/scottj/xml" rel="nofollow">xml</a> <a href="http://del.icio.us/scottj/syndication" rel="nofollow">syndication</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://www.rakaz.nl/nucleus/item/103" rel="nofollow">rakaz - Moving from Atom 0.3 to 1.0</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/atom" rel="nofollow">atom</a> <a href="http://del.icio.us/scottj/syndication" rel="nofollow">syndication</a> <a href="http://del.icio.us/scottj/xml" rel="nofollow">xml</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://taint.org/2005/09/20/022107a.html" rel="nofollow">Buying Music From iTMS in Linux</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/music" rel="nofollow">music</a> <a href="http://del.icio.us/scottj/itunes" rel="nofollow">itunes</a> <a href="http://del.icio.us/scottj/DRM" rel="nofollow">DRM</a> <a href="http://del.icio.us/scottj/hacks" rel="nofollow">hacks</a> <a href="http://del.icio.us/scottj/linux" rel="nofollow">linux</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/17/">17</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000987"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/17/links_for_2005-09-17.php">links for 2005-09-17</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.eleven21.com/notetaker/" rel="nofollow">Cornell Notetaking Method Custom PDF Generator</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/pdf" rel="nofollow">pdf</a> <a href="http://del.icio.us/scottj/reference" rel="nofollow">reference</a> <a href="http://del.icio.us/scottj/template" rel="nofollow">template</a> <a href="http://del.icio.us/scottj/notetaking" rel="nofollow">notetaking</a> <a href="http://del.icio.us/scottj/gtd" rel="nofollow">gtd</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://mythic.tv/" rel="nofollow">MythTV Store</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/hardware" rel="nofollow">hardware</a> <a href="http://del.icio.us/scottj/hdtv" rel="nofollow">hdtv</a> <a href="http://del.icio.us/scottj/linux" rel="nofollow">linux</a> <a href="http://del.icio.us/scottj/pvr" rel="nofollow">pvr</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.mythtv.org/" rel="nofollow">MythTV</a></div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/software" rel="nofollow">software</a> <a href="http://del.icio.us/scottj/pvr" rel="nofollow">pvr</a> <a href="http://del.icio.us/scottj/linux" rel="nofollow">linux</a> <a href="http://del.icio.us/scottj/video" rel="nofollow">video</a> <a href="http://del.icio.us/scottj/mpeg2" rel="nofollow">mpeg2</a>)</div>
+	</li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/13/">13</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000986"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/13/links_for_2005-09-13.php">links for 2005-09-13</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.theplaceforitall.com/portablefirefox/" rel="nofollow">Mac and PC Compatible Cross-platform Portable Firefox</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/mac" rel="nofollow">mac</a> <a href="http://del.icio.us/scottj/firefox" rel="nofollow">firefox</a> <a href="http://del.icio.us/scottj/download" rel="nofollow">download</a> <a href="http://del.icio.us/scottj/portable" rel="nofollow">portable</a> <a href="http://del.icio.us/scottj/windows" rel="nofollow">windows</a> <a href="http://del.icio.us/scottj/web" rel="nofollow">web</a> <a href="http://del.icio.us/scottj/travel" rel="nofollow">travel</a> <a href="http://del.icio.us/scottj/usb" rel="nofollow">usb</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://forums.vwvortex.com/zeroforum?id=142" rel="nofollow">VWvortex Forums: Golf V & Jetta V</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/vw" rel="nofollow">vw</a> <a href="http://del.icio.us/scottj/jetta" rel="nofollow">jetta</a> <a href="http://del.icio.us/scottj/forums" rel="nofollow">forums</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.ross-tech.com/vag-com/index.html" rel="nofollow">Ross-Tech: VAG-COM</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/vw" rel="nofollow">vw</a> <a href="http://del.icio.us/scottj/diagnostic" rel="nofollow">diagnostic</a> <a href="http://del.icio.us/scottj/software" rel="nofollow">software</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/09/"> 9</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000985"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/09/links_for_2005-09-09.php">links for 2005-09-09</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="https://adwords.google.com/select/KeywordSandbox" rel="nofollow">Google AdWords: Keyword Tool</a></div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/adsense" rel="nofollow">adsense</a> <a href="http://del.icio.us/scottj/adwords" rel="nofollow">adwords</a> <a href="http://del.icio.us/scottj/search" rel="nofollow">search</a> <a href="http://del.icio.us/scottj/google" rel="nofollow">google</a> <a href="http://del.icio.us/scottj/tools" rel="nofollow">tools</a> <a href="http://del.icio.us/scottj/seo" rel="nofollow">seo</a>)</div>
+	</li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/08/"> 8</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000984"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/08/links_for_2005-09-08.php">links for 2005-09-08</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.jeremyboles.com/weblog/2005/06/14/using-javascript-to-enhance-form-labels/" rel="nofollow">Jeremy Boles Â» Using Javascript to Enhance Form Labels</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/css" rel="nofollow">css</a> <a href="http://del.icio.us/scottj/forms" rel="nofollow">forms</a> <a href="http://del.icio.us/scottj/dev" rel="nofollow">dev</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a>)</div>
+	</li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/06/"> 6</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000983"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/06/links_for_2005-09-06.php">links for 2005-09-06</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://nanocrew.net/?p=129" rel="nofollow">So sue me Â» Compiling VLC</a></div>
+    <div class="delicious-extended">Copy and Paste guide to getting WM9 up on Linux</div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/linux" rel="nofollow">linux</a> <a href="http://del.icio.us/scottj/streaming" rel="nofollow">streaming</a> <a href="http://del.icio.us/scottj/wm9" rel="nofollow">wm9</a> <a href="http://del.icio.us/scottj/wmv" rel="nofollow">wmv</a> <a href="http://del.icio.us/scottj/media" rel="nofollow">media</a> <a href="http://del.icio.us/scottj/software" rel="nofollow">software</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.russellbeattie.com/notebook/1008603.html" rel="nofollow">Russell Beattie Notebook Â» My Life In A Cartoon</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/humor" rel="nofollow">humor</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/03/"> 3</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000982"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/03/links_for_2005-09-03.php">links for 2005-09-03</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.research.att.com/~bala/papers/h0vh1.html" rel="nofollow">Key Differences between HTTP/1.0 and HTTP/1.1</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/http" rel="nofollow">http</a> <a href="http://del.icio.us/scottj/protocols" rel="nofollow">protocols</a> <a href="http://del.icio.us/scottj/$work" rel="nofollow">$work</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://nanocrew.net/?p=128" rel="nofollow">So sue me Â» Reversing NSC</a></div>
+	  <div class="delicious-extended">A while back I searched a bit for a way to decode NSC files.  I didn&#8217;t find anything.  And now the guy who cracked DVD encryption has released some code that will decode NSC files.</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/$work" rel="nofollow">$work</a> <a href="http://del.icio.us/scottj/wmv" rel="nofollow">wmv</a> <a href="http://del.icio.us/scottj/nsc" rel="nofollow">nsc</a> <a href="http://del.icio.us/scottj/multicast" rel="nofollow">multicast</a> <a href="http://del.icio.us/scottj/microsoft" rel="nofollow">microsoft</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://s1.amazon.com/exec/varzea/paypage/PELYGQVJ8Q7IB/103-0950016-3766247" rel="nofollow">Amazon Honor System - Katrina</a></div>
+	  <div class="delicious-extended">Donate and watch the numbers rise!</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/hurricanekatrina" rel="nofollow">hurricanekatrina</a> <a href="http://del.icio.us/scottj/redcross" rel="nofollow">redcross</a> <a href="http://del.icio.us/scottj/donations" rel="nofollow">donations</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/02/"> 2</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="000981"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/02/magellan_roadmate.php">Magellan Roadmate</a></h3>
+
+<p>Does anyone around here know anything about the <a href="http://www.amazon.com/exec/obidos/ASIN/B0009MFQ12/fullspeed-20" rel="nofollow">Magellan Roadmate 760 GPS</a>?  I am thinking about getting one of these.  I miss the GPS navigation that I had in a previous car, but factory nav systems are just way too expensive.<br />
+<div class="artimg"><iframe src="http://rcm.amazon.com/e/cm?t=fullspeed-20&o=1&p=8&l=as1&asins=B0009MFQ12&fc1=000000&=1&lc1=aa0000&bc1=000000&lt1=_blank&IS2=1&bg1=ffffff&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></div><br />
+This unit seems like a viable alternative to a factory system.  But I&#8217;m really just wondering what others think about it at this point.  Has anyone used a 760?<br />
+</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="000980"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/02/links_for_2005-09-02.php">links for 2005-09-02</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.sixapart.com/pronet/weblog/2005/08/stylecatcher_up.html" rel="nofollow">Six Apart - ProNet - StyleCatcher Updated</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/MovableType" rel="nofollow">MovableType</a> <a href="http://del.icio.us/scottj/css" rel="nofollow">css</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.sixapart.com/pronet/weblog/2005/08/simple_example.html" rel="nofollow">Six Apart - ProNet - Simple Example Templates for Movable Type 3.2</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/MovableType" rel="nofollow">MovableType</a> <a href="http://del.icio.us/scottj/design" rel="nofollow">design</a> <a href="http://del.icio.us/scottj/html" rel="nofollow">html</a> <a href="http://del.icio.us/scottj/xhtml" rel="nofollow">xhtml</a> <a href="http://del.icio.us/scottj/template" rel="nofollow">template</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

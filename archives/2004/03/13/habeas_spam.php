@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Habeas has infiltrated many popular antispam tools with their 'Sender Warranted Email'. Nelson described the technique best: Habeas thought they had a clever idea: copyright a little haiku, consider any mail that has the haiku to be not spam, then..." />
+<meta name="author" content="Scott Johnson" />
+<title>Habeas Spam ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2004/03/13/habeas_spam.php">
+<dc:title>Habeas Spam</dc:title>
+<dc:description>Habeas has infiltrated many popular antispam tools with their &quot;Sender Warranted Email&quot;. Nelson described the technique best: Habeas thought they had a clever idea: copyright a little haiku, consider any mail that has the haiku to be not spam, then...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2004-03-13T14:06:08-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2004/03/">March</a> <a href="/archives/2004/03/13/">13</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">Habeas Spam</h3>
+<p><a href="http://www.habeas.com/">Habeas</a> has infiltrated many popular antispam tools with their &#8220;Sender Warranted Email&#8221;. Nelson described the technique best:</p>
+
+<blockquote>Habeas thought they had a clever idea: copyright a little haiku, consider any mail that has the haiku to be not spam, then sue any spammer who violates their copyright.</blockquote>
+The problem is that spammers typically don&#8217;t care about these lawsuits and have started including this haiku in their messages.  After reading Nelson&#8217;s post, I examined the spams that had mad it past SpamAssassin, and he was right&#8212;I saw Habeas all over the place.  <a href="http://log.does-not-exist.org/archives/2004/01/12/1129_habeas_spam.html">Many</a>  <a href="http://www.uncledirtae.com/blog/archives/2004/01/12/habeas_spam.php">others</a> <a href="http://www.ro0t.com/archives/000103.php">have</a> <a href="http://www.mspland.com/weblog/computer/HabeasSpam.html">also</a> <a href="http://stevenf.com/mt/archives/000552.php">noticed</a> <a href="http://www.neilturner.me.uk/2004/Mar/10/habeas_being_exploited_again.html">this</a> <a href="http://www.jacobsen.no/anders/blog/archives/2004/03/09/how_the_habeas_haiku_is_failing.html">problem</a>.
+
+<p>SpamAssassin gives Habeas a -8 score by default.  This is a fair score to give an effective rule, but this rule is obviously failing.  So while Nelson recommends giving Habeas a score of 0 in SpamAssassin, effectively removing the rule, I&#8217;m giving it a 5, penalizing those who use this haiku:  <code>score HABEAS_SWE 5</code>.  [via <a href="http://www.nelson.monkey.org/~nelson/weblog/tech/bad/habeasMark.html" title="Habeas haiku considered harmful">Nelson Minar</a>]</p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2004/01/25/feedster_interesting_blogs.php">Feedster Interesting Blogs</a> - January 25, 2004</li>
+
+<li><a href="http://full-speed.org/archives/2004/04/25/spamassassin_customization.php">SpamAssassin Customization</a> - April 25, 2004</li>
+
+<li><a href="http://full-speed.org/archives/2003/11/10/ending_comment_spam.php">Ending Comment Spam</a> - November 10, 2003</li>
+
+<li><a href="http://full-speed.org/archives/2004/02/18/advanced_spam_filtering.php">Advanced Spam Filtering</a> - February 18, 2004</li>
+
+<li><a href="http://full-speed.org/archives/2004/03/23/typekey_announced.php">TypeKey Announced</a> - March 23, 2004</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2004/03/13/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2004/03/11/record_movies_on_the_treo_600.php" title="Record Movies on the Treo 600">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2004/03/17/linkdump.php" title="LinkDump">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

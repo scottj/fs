@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="I logged in to Commission Junction today and found that Six Apart had started an affiliate program. I supposed this has probably been around for a while, but the convenience of CJ pulled me in. Here are some samples of..." />
+<meta name="author" content="Scott Johnson" />
+<title>Six Apart Affiliate Program ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2006/01/13/six_apart_affiliate_program.php">
+<dc:title>Six Apart Affiliate Program</dc:title>
+<dc:description>I logged in to Commission Junction today and found that Six Apart had started an affiliate program. I supposed this has probably been around for a while, but the convenience of CJ pulled me in. Here are some samples of...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2006-01-13T09:51:15-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/13/">13</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">Six Apart Affiliate Program</h3>
+<p>I logged in to <a href="http://cj.com/" rel="nofollow">Commission Junction</a> today and found that Six Apart had started an <a href="http://www.sixapart.com/pronet/affiliate">affiliate program</a>.  I supposed this has probably been around for a while, but the convenience of CJ pulled me in.  Here are some samples of the ads:<div class="artimg"><a href="http://www.tkqlhce.com/ag106ox52x4KMTOQNTNKMLOUURTQ" target="_blank" onmouseover="window.status='http://www.sixapart.com';return true;" onmouseout="window.status=' ';return true;"><br />
+<img src="http://www.afcyhf.com/op72h48x20MOVQSPVPMONQWWTVS" alt="" border="0"></a></div><br />
+<div class="artimg"><a href="http://www.jdoqocy.com/kq75ft1zt0GIPKMJPJGIHLHQOHM" target="_blank" onmouseover="window.status='http://www.sixapart.com';return true;" onmouseout="window.status=' ';return true;"><br />
+<img src="http://www.tqlkg.com/2a110xjnbhf0294639302151A816" alt="" border="0"></a></div><br />
+<div class="artimg"><a href="http://www.jdoqocy.com/d3106hz74z6MOVQSPVPMONRNPPTQ" target="_blank" onmouseover="window.status='http://www.sixapart.com';return true;" onmouseout="window.status=' ';return true;"><br />
+<img src="http://www.tqlkg.com/fr121vvzntrCELGIFLFCEDHDFFJG" alt="LiveJournal" border="0"></a></div></p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2006/09/13/tivo_series3_hd_finally_available.php">TiVo Series3 HD Finally Available</a> - September 13, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2010/08/25/links_for_2010-08-24.php">links for 2010-08-24</a> - August 25, 2010</li>
+
+<li><a href="http://full-speed.org/archives/2003/07/23/i_want_this_bike.php">I want this bike!</a> - July 23, 2003</li>
+
+<li><a href="http://full-speed.org/archives/2006/03/03/free_sirius_3-day_online_trial.php">Free Sirius 3-Day Online Trial</a> - March  3, 2006</li>
+
+<li><a href="http://full-speed.org/archives/2005/04/19/movable_type_316_released.php">Movable Type 3.16 Released</a> - April 19, 2005</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2006/01/13/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2006/01/08/links_for_2006-01-08.php" title="links for 2006-01-08">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2006/01/24/links_for_2006-01-24.php" title="links for 2006-01-24">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

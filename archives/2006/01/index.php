@@ -1,0 +1,407 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/26/">26</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001061"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/01/26/links_for_2006-01-26.php">links for 2006-01-26</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.pvrblog.com/pvr/2006/01/engadget_howto_.html" rel="nofollow">how-to: Build a practical HTPC</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/HTPC" rel="nofollow">HTPC</a> <a href="http://del.icio.us/scottj/pvr" rel="nofollow">pvr</a> <a href="http://del.icio.us/scottj/howto" rel="nofollow">howto</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://msdn.microsoft.com/windowsmedia/downloads/default.aspx" rel="nofollow">Windows Media Developer Center: Downloads</a></div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/$work" rel="nofollow">$work</a> <a href="http://del.icio.us/scottj/windowsmedia" rel="nofollow">windowsmedia</a> <a href="http://del.icio.us/scottj/streaming" rel="nofollow">streaming</a> <a href="http://del.icio.us/scottj/wm9" rel="nofollow">wm9</a> <a href="http://del.icio.us/scottj/wm9.5" rel="nofollow">wm9.5</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.mcsweeneys.net/links/newfood/" rel="nofollow">McSweeney&#8217;s Internet Tendency: Reviews of New Food</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/review" rel="nofollow">review</a> <a href="http://del.icio.us/scottj/food" rel="nofollow">food</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://shop.store.yahoo.com/semsons-inc/botcaptripfo.html" rel="nofollow">Bottle Cap Tripod for Digital Camera by Yodobashi (6 Colors)</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/photography" rel="nofollow">photography</a> <a href="http://del.icio.us/scottj/tripods" rel="nofollow">tripods</a> <a href="http://del.icio.us/scottj/travel" rel="nofollow">travel</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.bmw-sauber-f1.com/en/" rel="nofollow">BMW Sauber F1 Team</a></div>
+	  <div class="delicious-extended">The site of the new BMW Sauber F1 Team has a handy email reminder service that reminds you of upcoming Grands Prix.  Now hopefully I won&#8217;t miss a single race this year.</div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/F1" rel="nofollow">F1</a> <a href="http://del.icio.us/scottj/reminders" rel="nofollow">reminders</a> <a href="http://del.icio.us/scottj/racing" rel="nofollow">racing</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://interfacelift.com/wallpaper/details.php?id=660" rel="nofollow">Splash wallpaper</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/wallpaper" rel="nofollow">wallpaper</a>)</div>
+	</li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/25/">25</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001060"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/01/25/europe_through_the_back_door.php">Europe Through the Back Door</a></h3>
+
+<p>Rick Steves&#8217; <a href="http://www.amazon.com/exec/obidos/ASIN/1566917212/fullspeed-20" rel="nofollow">Europe Through the Back Door</a> just made it to my <a href="http://amazon.com/o/registry/102LVFOVT47FN/fullspeed-20" rel="nofollow">Amazon wishlist</a>.  <a href="http://www.kk.org/cooltools/archives/001088.php" rel="nofollow">Kevin Kelly&#8217;s review</a> was quite convincing.  Anyone who travels this well is probably worth reading.  From the book:<blockquote style="font-size:10px;">Desperate Telephone Communication</p>
+
+<p>Let me illustrate with a hypothetical telephone conversation. I&#8217;m calling a hotel in Barcelona from a phone booth in the train station. I just arrived, read my guidebook&#8217;s list of budget accommodations, and I like Pedro&#8217;s Hotel. Here&#8217;s what happens:</p>
+
+<p>Pedro answers, &#8220;Hotel Pedro, grabdaboodogalaysk.&#8221;<br />
+I ask, &#8220;Hotel Pedro?&#8221; (Question marks are created melodically.)<br />
+He affirms, already a bit impatient, &#8220;Si, Hotel Pedro.&#8221;<br />
+I ask, &#8220;Habla Eng-leesh?&#8221;<br />
+He says, &#8220;No, dees ess Ehspain.&#8221; (Actually, he probably would speak a little English or would say &#8220;moment&#8221; and get someone who did. But we&#8217;ll make this particularly challenging. Not only does he not speak English &#8211; he doesn&#8217;t want to&#8230; for patriotic reasons.)</p>
+
+<p>Remembering not to overcommunicate, you don&#8217;t need to tell him you&#8217;re a tourist looking for a bed. Who else calls a hotel speaking in a foreign language? Also, you can assume he&#8217;s got a room available. If he&#8217;s full, he&#8217;s very busy and he&#8217;d say &#8220;complete&#8221; or &#8220;&#8221;no hotel&#8221; and hang up. If he&#8217;s still talking to you, he wants your business. Now you must communicate just a few things, like how many beds you need and who you are.</p>
+
+<p>I say, &#8220;OK.&#8221; (OK is international for, &#8220;Roger, prepare for the next transmission.&#8221;) &#8220;Two people&#8221; &#8211;he doesn&#8217;t understand. I get fancy, &#8220;Dos people&#8221; &#8211; he still doesn&#8217;t get it. Internationalize, &#8220;Dos pehr-son&#8221; &#8211; no comprende. &#8220;Dos hombre&#8221; &#8211; nope. Digging deep into my bag of international linguistic tricks, I say, &#8220;Dos Yankees.&#8221;<br />
+&#8220;OK!&#8221; He understands, you want beds for two Americans. He says, &#8220;Si,&#8221; and I say, &#8220;Very good&#8221; or &#8220;Muy bueno.&#8221;<br />
+Now I need to tell him who I am. I say, &#8220;My name Ricardo (Ree-KAR-do).&#8221; In Italy I say, &#8220;My name Luigi.&#8221; Your name really doesn&#8217;t matter; you&#8217;re communicating just a password so you can identify yourself when you walk through the door. Say anything to be understood.<br />
+He says, &#8220;OK.&#8221;<br />
+You repeat slowly, &#8220;Hotel, dos Yankees, Ricardo, coming pronto, OK?&#8221;<br />
+He says, &#8220;OK.&#8221;<br />
+You say, &#8220;Gracias, ciao!&#8221;<br />
+Twenty minutes later you walk up to the reception desk, and Pedro greets you with a robust, &#8220;Eh, Ricardo!&#8221;</blockquote></p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/24/">24</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001059"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/01/24/links_for_2006-01-24.php">links for 2006-01-24</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.free-codecs.com/AC3_Filter_download.htm" rel="nofollow">Free-Codecs.com :: AC3 Filter is a DirectShow filter for AC3 decoding</a></div>
+	<div class="delicious-extended">This plus the DivX player got DVD video playing on my WinXP machine.</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/video" rel="nofollow">video</a> <a href="http://del.icio.us/scottj/mpeg2" rel="nofollow">mpeg2</a> <a href="http://del.icio.us/scottj/dvd" rel="nofollow">dvd</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.divx.com/divx/play/download/" rel="nofollow">DivX Play Bundle Download</a></div>
+   <div class="delicious-extended">(for the sake of completeness)</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/video" rel="nofollow">video</a> <a href="http://del.icio.us/scottj/links" rel="nofollow">links</a> <a href="http://del.icio.us/scottj/DivX" rel="nofollow">DivX</a> <a href="http://del.icio.us/scottj/free" rel="nofollow">free</a> <a href="http://del.icio.us/scottj/codecs" rel="nofollow">codecs</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/13/">13</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001058"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/01/13/six_apart_affiliate_program.php">Six Apart Affiliate Program</a></h3>
+
+<p>I logged in to <a href="http://cj.com/" rel="nofollow">Commission Junction</a> today and found that Six Apart had started an <a href="http://www.sixapart.com/pronet/affiliate" rel="nofollow">affiliate program</a>.  I supposed this has probably been around for a while, but the convenience of CJ pulled me in.  Here are some samples of the ads:<div class="artimg"><a href="http://www.tkqlhce.com/ag106ox52x4KMTOQNTNKMLOUURTQ" target="_blank" onmouseover="window.status='http://www.sixapart.com';return true;" onmouseout="window.status=' ';return true;" rel="nofollow"><br />
+<img src="http://www.afcyhf.com/op72h48x20MOVQSPVPMONQWWTVS" alt="" border="0"></a></div><br />
+<div class="artimg"><a href="http://www.jdoqocy.com/kq75ft1zt0GIPKMJPJGIHLHQOHM" target="_blank" onmouseover="window.status='http://www.sixapart.com';return true;" onmouseout="window.status=' ';return true;" rel="nofollow"><br />
+<img src="http://www.tqlkg.com/2a110xjnbhf0294639302151A816" alt="" border="0"></a></div><br />
+<div class="artimg"><a href="http://www.jdoqocy.com/d3106hz74z6MOVQSPVPMONRNPPTQ" target="_blank" onmouseover="window.status='http://www.sixapart.com';return true;" onmouseout="window.status=' ';return true;" rel="nofollow"><br />
+<img src="http://www.tqlkg.com/fr121vvzntrCELGIFLFCEDHDFFJG" alt="LiveJournal" border="0"></a></div></p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/08/"> 8</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001057"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/01/08/links_for_2006-01-08.php">links for 2006-01-08</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.pvrblog.com/pvr/2006/01/hd_tivo_series_.html" rel="nofollow">HD TiVo Series 3 @ CES | PVRblog</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/hdtv" rel="nofollow">hdtv</a> <a href="http://del.icio.us/scottj/tivo" rel="nofollow">tivo</a> <a href="http://del.icio.us/scottj/series3" rel="nofollow">series3</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.teare.com/index.php/pages/200" rel="nofollow">Keith TeareÃ¢s Weblog Â» TeareÃ¢s theorem: The first law of RSS (updated)</a></div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/rss" rel="nofollow">rss</a> <a href="http://del.icio.us/scottj/syndication" rel="nofollow">syndication</a> <a href="http://del.icio.us/scottj/technology" rel="nofollow">technology</a> <a href="http://del.icio.us/scottj/atom" rel="nofollow">atom</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.456bereastreet.com/archive/200601/internet_explorer_7_and_html/" rel="nofollow">Internet Explorer 7 and * html</a></div>
+	  <div class="delicious-extended">&#8220;When Internet Explorer 7 is released, probably later this year, it looks like one long-standing CSS selector bug in IE will be fixed.&#8221;</div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/css" rel="nofollow">css</a> <a href="http://del.icio.us/scottj/ie7" rel="nofollow">ie7</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://www.wait-till-i.com/index.php?p=202" rel="nofollow">Shorter DOMscript via cloning vs. generating elements</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/optimization" rel="nofollow">optimization</a> <a href="http://del.icio.us/scottj/DOM" rel="nofollow">DOM</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/07/"> 7</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001056"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/01/07/links_for_2006-01-07.php">links for 2006-01-07</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://television.aol.com/styles/latenight.adp" rel="nofollow">AOL Television: Late Night TV Talk Show Listings & Guest Previews</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/latenight" rel="nofollow">latenight</a> <a href="http://del.icio.us/scottj/TV" rel="nofollow">TV</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/04/"> 4</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001055"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/01/04/links_for_2006-01-04.php">links for 2006-01-04</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.flickr.com/groups/highspeed/" rel="nofollow">Flickr: High Speed Photography</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/art" rel="nofollow">art</a> <a href="http://del.icio.us/scottj/photography" rel="nofollow">photography</a> <a href="http://del.icio.us/scottj/photos" rel="nofollow">photos</a> <a href="http://del.icio.us/scottj/highspeed" rel="nofollow">highspeed</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://web.mit.edu/Edgerton/www/HighSpeed.html" rel="nofollow">Edgerton Center: High Speed Imaging</a></div>
+    <div class="delicious-extended">&#8220;The Center carries on the legacy of Doc Edgerton&#8217;s research and teaching by providing the Institute with a continuing expertise in high-speed and scientific imaging.&#8221;</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/photography" rel="nofollow">photography</a> <a href="http://del.icio.us/scottj/highspeed" rel="nofollow">highspeed</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/03/"> 3</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001054"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/01/03/links_for_2006-01-03.php">links for 2006-01-03</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.glennjones.net/Post/805/AjaxLinkTracker.htm" rel="nofollow">Ajax Link Tracker</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/ajax" rel="nofollow">ajax</a> <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/reference" rel="nofollow">reference</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://www.hesido.com/web.php?page=javascriptanimation" rel="nofollow">Animating with Javascript - An article to get you started on Javascript animation</a></div>
+    <div class="delicious-extended">&#8220;Animating elements with Javascript using DOM compliant, non-invasive code &#8230; Color fading and resizing to notify user for dynamic changes&#8221;</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/javascript" rel="nofollow">javascript</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a> <a href="http://del.icio.us/scottj/reference" rel="nofollow">reference</a> <a href="http://del.icio.us/scottj/DOM" rel="nofollow">DOM</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2006/01/">January</a> <a href="/archives/2006/01/02/"> 2</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001053"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2006/01/02/links_for_2006-01-02.php">links for 2006-01-02</a></h3>
+
+<ul class="delicious">
+	<li>
+	  <div class="delicious-link"><a href="http://www.kottke.org/05/12/the-best-links-2005" rel="nofollow">The Best Links 2005 (kottke.org)</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/links" rel="nofollow">links</a> <a href="http://del.icio.us/scottj/2005" rel="nofollow">2005</a> <a href="http://del.icio.us/scottj/popular" rel="nofollow">popular</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.kottke.org/05/12/the-rest-of-the-best-links" rel="nofollow">The rest of the best (links) (kottke.org)</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/links" rel="nofollow">links</a> <a href="http://del.icio.us/scottj/2005" rel="nofollow">2005</a> <a href="http://del.icio.us/scottj/popular" rel="nofollow">popular</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.khmerang.com/index.php?p=95" rel="nofollow">CSS-Technique: Worn Type</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/css" rel="nofollow">css</a> <a href="http://del.icio.us/scottj/design" rel="nofollow">design</a> <a href="http://del.icio.us/scottj/fonts" rel="nofollow">fonts</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

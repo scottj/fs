@@ -1,0 +1,444 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/26/">26</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001227"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/26/links_for_2007-07-26.php">links for 2007-07-26</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://pocketmod.com/" rel="nofollow">PocketMod: The Free Disposable Personal Organizer</a></div>
+   <div class="delicious-extended">The PocketMod is a small book with guides on each page, combined with a unique folding style, which enable a normal piece of paper to become the ultimate note card.</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/productivity" rel="nofollow">productivity</a> <a href="http://del.icio.us/scottj/organizer" rel="nofollow">organizer</a> <a href="http://del.icio.us/scottj/tools" rel="nofollow">tools</a> <a href="http://del.icio.us/scottj/lifehacks" rel="nofollow">lifehacks</a> <a href="http://del.icio.us/scottj/lotek" rel="nofollow">lotek</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/25/">25</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001226"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/25/links_for_2007-07-25.php">links for 2007-07-25</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://airbagindustries.com/iphone-candy/" rel="nofollow">iPhone Wallpapers - Airbag Industries LLC</a></div>
+	<div class="delicious-extended">&#8220;iPhone Candy&#8221;</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/iPhone" rel="nofollow">iPhone</a> <a href="http://del.icio.us/scottj/wallpaper" rel="nofollow">wallpaper</a> <a href="http://del.icio.us/scottj/mobile" rel="nofollow">mobile</a> <a href="http://del.icio.us/scottj/art" rel="nofollow">art</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://maps.google.com/support/bin/answer.py?answer=68480" rel="nofollow">Google Maps User Guide</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/google" rel="nofollow">google</a> <a href="http://del.icio.us/scottj/maps" rel="nofollow">maps</a> <a href="http://del.icio.us/scottj/reference" rel="nofollow">reference</a> <a href="http://del.icio.us/scottj/tutorial" rel="nofollow">tutorial</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://toys.jacobian.org/presentations/2007/oscon/tutorial/" rel="nofollow">Django Master Class</a></div>
+   <div class="delicious-extended">&#8220;[An Introduction] to the features of Django that the experts know.&#8221;</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/django" rel="nofollow">django</a> <a href="http://del.icio.us/scottj/python" rel="nofollow">python</a> <a href="http://del.icio.us/scottj/tutorial" rel="nofollow">tutorial</a> <a href="http://del.icio.us/scottj/presentation" rel="nofollow">presentation</a> <a href="http://del.icio.us/scottj/oscon" rel="nofollow">oscon</a> <a href="http://del.icio.us/scottj/memcached" rel="nofollow">memcached</a> <a href="http://del.icio.us/scottj/perlbal" rel="nofollow">perlbal</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/18/">18</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001225"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/18/links_for_2007-07-18.php">links for 2007-07-18</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://varnish.projects.linpro.no/" rel="nofollow">Varnish</a></div>
+	<div class="delicious-extended">&#8220;Varnish is a state-of-the-art, high-performance HTTP accelerator [&#8230;] targeted primarily at the FreeBSD 6 and Linux 2.6 platforms.  [Varnish] will take full advantage of the virtual memory system and advanced I/O features offered by these operating syst</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/http" rel="nofollow">http</a> <a href="http://del.icio.us/scottj/reverse" rel="nofollow">reverse</a> <a href="http://del.icio.us/scottj/proxy" rel="nofollow">proxy</a> <a href="http://del.icio.us/scottj/caching" rel="nofollow">caching</a> <a href="http://del.icio.us/scottj/accelerator" rel="nofollow">accelerator</a> <a href="http://del.icio.us/scottj/performance" rel="nofollow">performance</a> <a href="http://del.icio.us/scottj/optimization" rel="nofollow">optimization</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://www.djangosnippets.org/snippets/312/" rel="nofollow">Django snippets: nofollow filter</a></div>
+	  <div class="delicious-extended">A simple &#8220;nofollow&#8221; filter for Django.</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/django" rel="nofollow">django</a> <a href="http://del.icio.us/scottj/nofollow" rel="nofollow">nofollow</a> <a href="http://del.icio.us/scottj/filter" rel="nofollow">filter</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/17/">17</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001224"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/17/links_for_2007-07-17.php">links for 2007-07-17</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://pida.co.uk/" rel="nofollow">PIDA Community loves you!</a></div>
+	  <div class="delicious-extended">&#8220;PIDA is an IDE [&#8230;] written in Python with the PyGTK toolkit.&#8221;</div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/python" rel="nofollow">python</a> <a href="http://del.icio.us/scottj/ide" rel="nofollow">ide</a> <a href="http://del.icio.us/scottj/development" rel="nofollow">development</a> <a href="http://del.icio.us/scottj/tools" rel="nofollow">tools</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.lethain.com/entry/2007/jul/13/creating-my-dream-server-django/" rel="nofollow">Irrational Exuberance: Creating my Dream Server for Django</a></div>
+	<div class="delicious-extended">&#8220;The end product is an Ubuntu Feisty server using Apache2 and mod_python to serve Django, and lighttpd to serve static media. It uses memcached as its caching backend, and uses Postgres8.2 as its database.&#8221;</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/ubuntu" rel="nofollow">ubuntu</a> <a href="http://del.icio.us/scottj/django" rel="nofollow">django</a> <a href="http://del.icio.us/scottj/howto" rel="nofollow">howto</a> <a href="http://del.icio.us/scottj/apache" rel="nofollow">apache</a> <a href="http://del.icio.us/scottj/lighttpd" rel="nofollow">lighttpd</a> <a href="http://del.icio.us/scottj/memcached" rel="nofollow">memcached</a> <a href="http://del.icio.us/scottj/postgres" rel="nofollow">postgres</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/15/">15</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001223"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/15/links_for_2007-07-15.php">links for 2007-07-15</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://ctail.i-want-a-pony.com/" rel="nofollow">ctail</a></div>
+	  <div class="delicious-extended">&#8220;a tool for operating tail(1) across large clusters of machines, with many log files&#8221;</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/tools" rel="nofollow">tools</a> <a href="http://del.icio.us/scottj/unix" rel="nofollow">unix</a> <a href="http://del.icio.us/scottj/tail" rel="nofollow">tail</a> <a href="http://del.icio.us/scottj/ssh" rel="nofollow">ssh</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/13/">13</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001222"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/13/links_for_2007-07-13.php">links for 2007-07-13</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://lifehacker.com/software/featured-windows-download/preview-css-in-ie-6-and-firefox-simultaneously-with-cssvista-271237.php" rel="nofollow">Preview CSS in IE 6 and Firefox simultaneously with CSSVista</a></div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/css" rel="nofollow">css</a> <a href="http://del.icio.us/scottj/webdesign" rel="nofollow">webdesign</a> <a href="http://del.icio.us/scottj/testing" rel="nofollow">testing</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/12/">12</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001221"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/12/links_for_2007-07-12.php">links for 2007-07-12</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://www.stereogum.com/okx/" rel="nofollow">stereogum presents&#8230;OK X: A Tribute to OK Computer</a></div>
+   <div class="delicious-extended">&#8220;To celebrate the 10th anniversary of Radiohead&#8217;s OK Computer we&#8217;ve asked some of our favorite musicians to participate in a song-by-song covers compilation.&#8221;</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/music" rel="nofollow">music</a> <a href="http://del.icio.us/scottj/radiohead" rel="nofollow">radiohead</a> <a href="http://del.icio.us/scottj/mp3" rel="nofollow">mp3</a> <a href="http://del.icio.us/scottj/covers" rel="nofollow">covers</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/11/">11</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001220"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/11/links_for_2007-07-11.php">links for 2007-07-11</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://www.webhostingtalk.com/" rel="nofollow">WebHostingTalk Forums - Web Hosting Discussion</a></div>
+	  <div class="delicious-extended">Found a sweet deal on my dedicated server in this forum.  Highly recommended.</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/webhosting" rel="nofollow">webhosting</a> <a href="http://del.icio.us/scottj/forum" rel="nofollow">forum</a> <a href="http://del.icio.us/scottj/hosting" rel="nofollow">hosting</a>)</div>
+	</li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/05/"> 5</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001219"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/05/links_for_2007-07-05.php">links for 2007-07-05</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://www.google.com/linuxrepositories/index.html" rel="nofollow">Google Linux Software Repositories</a></div>
+	  <div class="delicious-extended">&#8220;Google&#8217;s Linux software repositories make it easier to download and stay up-to-date with current releases of Google Linux applications.&#8221;</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/google" rel="nofollow">google</a> <a href="http://del.icio.us/scottj/linux" rel="nofollow">linux</a> <a href="http://del.icio.us/scottj/repository" rel="nofollow">repository</a> <a href="http://del.icio.us/scottj/ubuntu" rel="nofollow">ubuntu</a>)</div>
+ </li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/02/"> 2</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001218"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/02/links_for_2007-07-02.php">links for 2007-07-02</a></h3>
+
+<ul class="delicious">
+  <li>
+	<div class="delicious-link"><a href="http://www.davidnaylor.co.uk/archives/2007/06/19/google-adwords-keyworddefault_text/" rel="nofollow">Google Adwords {keyword:Default_text}</a></div>
+	<div class="delicious-extended">Some capitaliztion variations that might be useful for future ad campaigns.</div>
+   <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/google" rel="nofollow">google</a> <a href="http://del.icio.us/scottj/adwords" rel="nofollow">adwords</a>)</div>
+	</li>
+	<li>
+	  <div class="delicious-link"><a href="http://journal.paul.querna.org/articles/2007/06/06/mod_never_expire" rel="nofollow">mod_never_expire</a></div>
+    <div class="delicious-extended">Apache 2.x module that sets long expire and cache-control headers so that specified files or directories will be cached for a long time.</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/apache" rel="nofollow">apache</a> <a href="http://del.icio.us/scottj/http" rel="nofollow">http</a> <a href="http://del.icio.us/scottj/caching" rel="nofollow">caching</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.mnot.net/blog/2007/06/20/proxy_caching" rel="nofollow">mnotÃ¢s Web log: The State of Proxy Caching</a></div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/http" rel="nofollow">http</a> <a href="http://del.icio.us/scottj/proxy" rel="nofollow">proxy</a> <a href="http://del.icio.us/scottj/caching" rel="nofollow">caching</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://www.v-moda.com/collection/modaphones/vibe.aspx" rel="nofollow">modaphones</a></div>
+	  <div class="delicious-extended">These are the best-looking headphones I have seen.</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/headphones" rel="nofollow">headphones</a> <a href="http://del.icio.us/scottj/earphones" rel="nofollow">earphones</a> <a href="http://del.icio.us/scottj/ipod" rel="nofollow">ipod</a> <a href="http://del.icio.us/scottj/music" rel="nofollow">music</a>)</div>
+ </li>
+ <li>
+    <div class="delicious-link"><a href="http://earth.google.com/outreach/tutorial_spreadsheet.html" rel="nofollow">Tutorial: Creating KML From a Spreadsheet</a></div>
+	<div class="delicious-extended">how to enter data in a spreadsheet and then generate a set of placemarks for that data in Google Earth</div>
+	  <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/kml" rel="nofollow">kml</a> <a href="http://del.icio.us/scottj/geocoding" rel="nofollow">geocoding</a> <a href="http://del.icio.us/scottj/google" rel="nofollow">google</a> <a href="http://del.icio.us/scottj/googlemaps" rel="nofollow">googlemaps</a> <a href="http://del.icio.us/scottj/googleearth" rel="nofollow">googleearth</a>)</div>
+ </li>
+ <li>
+	<div class="delicious-link"><a href="http://wmptagext.sourceforge.net/index.html" rel="nofollow">WMP Tag Support Extender - Home</a></div>
+	<div class="delicious-extended">&#8220;adds support of APE tag format, FLAC MetaData, OGG Vorbis Comments, and MPEG4 &#8216;meta&#8217; atom&#8221;</div>
+	<div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/windows" rel="nofollow">windows</a> <a href="http://del.icio.us/scottj/wmp" rel="nofollow">wmp</a> <a href="http://del.icio.us/scottj/FLAC" rel="nofollow">FLAC</a> <a href="http://del.icio.us/scottj/ogg" rel="nofollow">ogg</a> <a href="http://del.icio.us/scottj/tags" rel="nofollow">tags</a>)</div>
+	</li>
+</ul>
+
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2007/07/">July</a> <a href="/archives/2007/07/01/"> 1</a>, <a href="/archives/2007/">2007</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001217"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2007/07/01/django_meets_google_code.php">Django meets Google Code</a></h3>
+
+<p>I recently discovered loads of <a href="http://www.djangoproject.com/" rel="nofollow">Django</a> code on <a href="http://code.google.com/" rel="nofollow">Google Code</a>.  This <a href="http://www.tbray.org/ongoing/When/200x/2006/11/22/Tab-Sweep" rel="nofollow">tab sweep</a> is meant to lower the memory footprint of Firefox on my laptop while serving as an excellent reference for those seeking prepackaged Django code.<ul><li><a href="http://code.google.com/p/django-voting/" rel="nofollow">django-voting</a></li><li><a href="http://code.google.com/p/django-contact-form/" rel="nofollow">django-contact-form</a></li><li><a href="http://code.google.com/p/django-registration/" rel="nofollow">django-registration</a></li><li><a href="http://code.google.com/p/django-tagging/" rel="nofollow">django-tagging</a></li><li><a href="http://code.google.com/p/django-template-utils/" rel="nofollow">django-template-utils</a></li><li><a href="http://code.google.com/p/typogrify/" rel="nofollow">typogrify</a></li><li><a href="http://code.google.com/p/django-openid/" rel="nofollow">django-openid</a></li><li><a href="http://code.google.com/p/reviewboard/" rel="nofollow">reviewboard</a> (also <a href="http://www.review-board.org/" rel="nofollow">here</a>)</li><li><a href="http://code.google.com/p/django-object-level-caching/" rel="nofollow">django-object-level-caching</a></li></ul></p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

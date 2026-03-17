@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Sony's latest entry in the ultralight subnotebook category is being called a 12' Powerbook Killer. I'm not a big fan of Sony hardware. I once purchased one of their tiny notebooks rom CompUSA and had to take it back because..." />
+<meta name="author" content="Scott Johnson" />
+<title>Sony's New Ultralight ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2003/07/21/sonys_new_ultralight.php">
+<dc:title>Sony&apos;s New Ultralight</dc:title>
+<dc:description>Sony&apos;s latest entry in the ultralight subnotebook category is being called a 12&quot; Powerbook Killer. I&apos;m not a big fan of Sony hardware. I once purchased one of their tiny notebooks rom CompUSA and had to take it back because...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2003-07-21T19:01:22-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2003/07/">July</a> <a href="/archives/2003/07/21/">21</a>, <a href="/archives/2003/">2003</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">Sony's New Ultralight</h3>
+<p>Sony&#8217;s <a href="http://reviews.designtechnica.com/firstlook24.html" title="Sony VAIO PCG-TR1A Notebook">latest</a> <a href="http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?CatalogCategoryID=7gwKC0%2eNOosAAAD2WYTZ7HTA&amp;ProductID=FAQKC0%2eNLzUAAAD2CJfZ7HTD&amp;Dept=cpu">entry</a> in the ultralight subnotebook category is being called a <a href="http://slashdot.org/article.pl?sid=03/07/21/2310222" title="Sony's New Vaio PCG-TR1A: 12&quot; Powerbook Killer?">12&#8221; Powerbook Killer</a>.</p>
+
+<p>I&#8217;m not a big fan of Sony hardware.  I once purchased one of their tiny notebooks rom CompUSA and had to take it back because the touchpad just didn&#8217;t work at all.  In all, they gave me four different notebooks before I just gave up and decided that I wanted my money back.</p>
+
+<p>Then I bought a Sony CLIE.  The NR-70.  This was one of their first to include and MP3 player in a clamshell form factor.  But the problem:  the thing didn&#8217;t recognize my memory sticks.  I had about 5 different sticks which worked quite well in my Sony camera, voice recorder, and TV.  These sticks also worked just fine on my Mac and PCs via USB and PCMCIA adapters.  But the CLIE said that the stick was improperly formatted.  I even tried formatting the stick on the CLIE, but that didn&#8217;t even help.  I eventually unloaded the PDA on <a href="http://www.ebay.com/">eBay</a>.</p>
+
+<p>Sony definitely knows how to <a href="/archives/2003/07/20/sony_cli_ux50.php" title="Sony CLIï¿½ UX50">pack the features</a> into a small device.  They know what the market wants.  They know how to make it look good.  But they just don&#8217;t hold up.  Whenever I finally get around to buying a tiny notebook for myself, I think I&#8217;ll stick to the good old <a href="http://www.ibm.com/thinkpad/">IBM Thinkpad</a> line.  I&#8217;m using a very heavy Thinkpad right now, and it&#8217;s withstood some horrific falls.  I don&#8217;t think any Sony notebook owner can say the same.</p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2003/07/20/sony_clie_ux50.php">Sony CLIE UX50</a> - July 20, 2003</li>
+
+<li><a href="http://full-speed.org/archives/2003/07/17/the_ultimate_pda.php">The Ultimate PDA?</a> - July 17, 2003</li>
+
+<li><a href="http://full-speed.org/archives/2003/08/25/more_on_the_f-828.php">More on the F-828</a> - August 25, 2003</li>
+
+<li><a href="http://full-speed.org/archives/2003/08/18/cybershot_8_megapixel_marvel.php">Cybershot 8 MegaPixel Marvel</a> - August 18, 2003</li>
+
+<li><a href="http://full-speed.org/archives/2003/09/23/thinkpad_x31.php">ThinkPad X31</a> - September 23, 2003</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2003/07/21/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2003/07/21/i_think_i_missed_out_on_refinancing_my_house.php" title="I think I missed out on refinancing my house">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2003/07/23/need_a_low-power_server.php" title="Need a Low-Power Server?">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

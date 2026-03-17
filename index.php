@@ -1,0 +1,491 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed</title>
+<!-- OpenID -->
+<link rel="openid.server" href="https://full-speed.org/openid/" />
+<link rel="openid.delegate" href="https://full-speed.org/openid/" />
+<!-- Ad Manager -->
+<script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  window.google_analytics_uacct = "UA-134264-6";
+  GS_googleAddAdSenseService("ca-pub-3036646830213868");
+  GS_googleEnableAllServices();
+</script>
+<!-- common -->
+<link rel="stylesheet" href="https://full-speed.org/css/speed.css" type="text/css" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/rsd.xml" />
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- geo -->
+<meta name="ICBM" content="32.790780, -96.789751" />
+<meta name="DC.title" content="Full Speed" />
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3036646830213868",
+          enable_page_level_ads: true
+     });
+</script>
+</head>
+
+
+
+<body>
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first" id="current"><a href="/" accesskey="1">home</a></li>
+<li><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+<!-- google_ad_section_start -->
+
+
+
+
+ 
+  <h2 class="date">
+	[ <a href="/archives/2012/03/">March</a> <a href="/archives/2012/03/13/">13</a>, <a href="/archives/2012/">2012</a> ]
+  </h2>
+ 
+
+ <div class="blogbody">
+	<h3 class="title"><a href="https://full-speed.org/archives/2012/03/13/weekend_troubleshooting.php">Weekend Troubleshooting</a></h3>
+ 
+  <p>A few links discovered during a 2-day-long website migration and troubleshooting session:<ul><li><a href="http://qmail.jms1.net/test-auth.shtml">Testing SMTP AUTH connections</a></li><li><a href="http://wherethebitsroam.com/blogs/jeffw/quick-introduction-perlbal">A quick introduction to Perlbal</a></li><li><a href="http://www.lowendbox.com/blog/reducing-mysql-memory-usage-for-low-end-boxes/">Reducing MySQL Memory Usage for Low End Boxes</a></li></ul></p>
+  
+	
+  
+  <div class="posted"></div>
+	
+  </div>
+  
+
+
+
+
+ 
+  <h2 class="date">
+	[ <a href="/archives/2011/11/">November</a> <a href="/archives/2011/11/09/"> 9</a>, <a href="/archives/2011/">2011</a> ]
+  </h2>
+ 
+
+ <div class="blogbody">
+	<h3 class="title"><a href="https://full-speed.org/archives/2011/11/09/tab_sweep.php">Tab Sweep</a></h3>
+ 
+  <ul>
+<li><a href="http://wiki.centos.org/Manuals/ReleaseNotes/CentOS6.0">CentOS 6.0 Release Notes</a></li>
+<li><a href="http://www.astrosurf.com/buil/us/iris/iris.htm">Iris</a> &#8212; An astronomical images processing software</li>
+<li><a href="http://www.backtrack-linux.org/tutorials/usb-live-install/">Backtrack Live USB Install Tutorial</a></li>
+<li><a href="http://semver.org/">Sematic Versioning</a></li>
+<li><a href="http://cinetics.com/">Cinetics CineSkates Camera Sliders</a></li>
+<li><a href="http://lotusculinary.com/">Lotus Culinary</a> &#8212; &#8220;Experience authentic regional Chinese cuisines&#8221;</li>
+</ul>
+  
+	
+  
+  <div class="posted"></div>
+	
+  </div>
+  
+
+
+
+
+ 
+  <h2 class="date">
+	[ <a href="/archives/2011/09/">September</a> <a href="/archives/2011/09/03/"> 3</a>, <a href="/archives/2011/">2011</a> ]
+  </h2>
+ 
+
+ <div class="blogbody">
+	<h3 class="title"><a href="https://full-speed.org/archives/2011/09/03/links_for_2011-09-03.php">links for 2011-09-03</a></h3>
+ 
+  <ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://vimeo.com/22053820">Fuck You. Pay Me.</a></div>
+                
+                <div class="delicious-tags">(tags: design video Mike_FTW)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://fromme-toyou.tumblr.com/tagged/gif">From Me To You</a></div>
+                
+                <div class="delicious-tags">(tags: photography blog animatedgifs)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.google.com/ads/preferences/view">Google Ads Preferences</a></div>
+                <div class="delicious-extended">&quot;Many websites, such as news sites and blogs, partner with us to show ads to their visitors. To see ads that are more related to you and your interests, edit the categories below, which are based on sites you have recently visited.&quot;</div>
+                <div class="delicious-tags">(tags: AdChoices google advertising privacy settings AdWords)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://microjs.com/">Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</a></div>
+                
+                <div class="delicious-tags">(tags: webdev javascript tools libraries frameworks)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.howtogeek.com/howto/37424/jailbreak-your-kindle-for-dead-simple-screensaver-customization/">Jailbreak Your Kindle for Dead Simple Screensaver Customization</a></div>
+                
+                <div class="delicious-tags">(tags: kindle screensaver wallpaper jailbreak)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://ebookscreensavers.com/">E-book Screensavers</a></div>
+                <div class="delicious-extended">&quot;Home of Kindle Screensavers!&quot;</div>
+                <div class="delicious-tags">(tags: kindle wallpaper screensaver)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://kindlewallpapers.tumblr.com/">Kindle Wallpapers</a></div>
+                <div class="delicious-extended">&quot;A collection of custom screensavers for the Amazon Kindle.&quot;</div>
+                <div class="delicious-tags">(tags: kindle wallpaper screensaver)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://punter-infosec.com/owasp-http-post-toollayer-7-ddos">OWASP HTTP Post Tool (layer 7 DDOS)</a></div>
+                <div class="delicious-extended">&quot;created to allow you to test your web applications to test availability concerns from HTTP GET and HTTP POST denial of service attacks&quot;</div>
+                <div class="delicious-tags">(tags: owasp DDoS http POST webappsec)</div>
+            </li></ul>
+  
+	
+  
+  <div class="posted"></div>
+	
+  </div>
+  
+
+
+
+
+ 
+  <h2 class="date">
+	[ <a href="/archives/2011/08/">August</a> <a href="/archives/2011/08/13/">13</a>, <a href="/archives/2011/">2011</a> ]
+  </h2>
+ 
+
+ <div class="blogbody">
+	<h3 class="title"><a href="https://full-speed.org/archives/2011/08/13/links_for_2011-08-13.php">links for 2011-08-13</a></h3>
+ 
+  <ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://flixel.org/">Flixel</a></div>
+                <div class="delicious-extended">&quot;Flixel is an open source game-making library that is completely free for personal or commercial use. Written entirely in Actionscript 3, and designed to be used with free development tools, Flixel is easy to learn, extend and customize.&quot;</div>
+                <div class="delicious-tags">(tags: game development tools opensource)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://code.google.com/appengine/docs/python/tools/protorpc/overview.html">ProtoRPC Python API Overview</a></div>
+                <div class="delicious-extended">&quot;ProtoRPC is a simple way to send and receive HTTP-based remote procedure call (RPC) services.&quot;</div>
+                <div class="delicious-tags">(tags: google appengine python rpc gae)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://code.google.com/p/zaproxy/">OWASP ZAP</a></div>
+                <div class="delicious-extended">&quot;The OWASP Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.&quot;</div>
+                <div class="delicious-tags">(tags: security owasp proxy pentest)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.cdnjs.com/">cdn js - the missing cdn</a></div>
+                
+                <div class="delicious-tags">(tags: javascript cdn webdev)</div>
+            </li><li>
+                <div class="delicious-link"><a href="https://github.com/twitter/twui">TwUI</a></div>
+                <div class="delicious-extended">&quot;Core Animation based UI framework for Mac&quot;</div>
+                <div class="delicious-tags">(tags: programming mac osx opensource)</div>
+            </li></ul>
+  
+	
+  
+  <div class="posted"></div>
+	
+  </div>
+  
+
+
+
+
+ 
+  <h2 class="date">
+	[ <a href="/archives/2011/08/">August</a> <a href="/archives/2011/08/11/">11</a>, <a href="/archives/2011/">2011</a> ]
+  </h2>
+ 
+
+ <div class="blogbody">
+	<h3 class="title"><a href="https://full-speed.org/archives/2011/08/11/links_for_2011-08-10.php">links for 2011-08-10</a></h3>
+ 
+  <ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://hackfox.sourceforge.net/">The Hacker Firefox</a></div>
+                <div class="delicious-extended">&quot;Portable Firefox With Web Hacking Addons Bundled. It is useful for instant web app security assessment. It includes Firebug, HackBar, JSDebugger, NF-Tools, LiveHttpHeaders, Selenuim IDE, FireEncrypter, TamperData, WebDeveloper, etc.&quot;</div>
+                <div class="delicious-tags">(tags: firefox portable security)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://yehg.net/lab/#tools">YEHG Security Tools</a></div>
+                
+                <div class="delicious-tags">(tags: security software tools)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://yehg.net/encoding/">PHP Charset Encoder/PHP String Encrypter</a></div>
+                <div class="delicious-extended">&quot;This tool helps you encoding arbitrary texts to and from 65 kinds of charsets. Also some encoding/encryption/hashing functions featured by JavaScript/PHP are provided.&quot;</div>
+                <div class="delicious-tags">(tags: security encoding php javascript)</div>
+            </li></ul>
+  
+	
+  
+  <div class="posted"></div>
+	
+  </div>
+  
+
+
+
+
+ 
+  <h2 class="date">
+	[ <a href="/archives/2011/07/">July</a> <a href="/archives/2011/07/30/">30</a>, <a href="/archives/2011/">2011</a> ]
+  </h2>
+ 
+
+ <div class="blogbody">
+	<h3 class="title"><a href="https://full-speed.org/archives/2011/07/30/links_for_2011-07-29.php">links for 2011-07-29</a></h3>
+ 
+  <ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://sickbeard.com/">Sick Beard - Internet PVR for your TV Shows</a></div>
+                <div class="delicious-extended">&quot;The ultimate PVR application that downloads and manages your TV shows&quot;</div>
+                <div class="delicious-tags">(tags: usenet nzb tv)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.dexpot.de/index.php?lang=en">Dexpot - The utility for virtual desktops</a></div>
+                
+                <div class="delicious-tags">(tags: windows virtualdesktop)</div>
+            </li></ul>
+  
+	
+  
+  <div class="posted"></div>
+	
+  </div>
+  
+
+
+
+
+ 
+  <h2 class="date">
+	[ <a href="/archives/2011/07/">July</a> <a href="/archives/2011/07/16/">16</a>, <a href="/archives/2011/">2011</a> ]
+  </h2>
+ 
+
+ <div class="blogbody">
+	<h3 class="title"><a href="https://full-speed.org/archives/2011/07/16/links_for_2011-07-15.php">links for 2011-07-15</a></h3>
+ 
+  <ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://wiki.centos.org/HowTos/OS_Protection#head-b3126b7267f04dc869a18f3547468727e82308d1">HowTos/OS Protection - CentOS Wiki</a></div>
+                
+                <div class="delicious-tags">(tags: linux security CentOS)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://optipng.sourceforge.net/">OptiPNG</a></div>
+                <div class="delicious-extended">&quot;a PNG optimizer that recompresses image files to a smaller size, without losing any information&quot;</div>
+                <div class="delicious-tags">(tags: tools png compression)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.colorzilla.com/gradient-editor/">Ultimate CSS Gradient Generator</a></div>
+                
+                <div class="delicious-tags">(tags: webdev css gradients)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://mediaqueri.es/">Media Queries</a></div>
+                <div class="delicious-extended">&quot;a collection of sites using media queries&quot;</div>
+                <div class="delicious-tags">(tags: web css design gallery)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.selectorgadget.com/">SelectorGadget: point and click CSS selectors</a></div>
+                <div class="delicious-extended">&quot;an open source bookmarklet that makes CSS selector generation and discovery on complicated sites a breeze&quot;</div>
+                <div class="delicious-tags">(tags: webdev javascript css selectors)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://pow.cx/">Pow</a></div>
+                <div class="delicious-extended">&quot;a zero-configuration Rack server for Mac OS X&quot;</div>
+                <div class="delicious-tags">(tags: webdev server osx)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.sinatrarb.com/intro">Sinatra</a></div>
+                <div class="delicious-extended">&quot;a DSL for quickly creating web applications in Ruby with minimal effort&quot;</div>
+                <div class="delicious-tags">(tags: webdev programming)</div>
+            </li></ul>
+  
+	
+  
+  <div class="posted"></div>
+	
+  </div>
+  
+
+
+
+
+ 
+  <h2 class="date">
+	[ <a href="/archives/2011/07/">July</a> <a href="/archives/2011/07/03/"> 3</a>, <a href="/archives/2011/">2011</a> ]
+  </h2>
+ 
+
+ <div class="blogbody">
+	<h3 class="title"><a href="https://full-speed.org/archives/2011/07/03/links_for_2011-07-02.php">links for 2011-07-02</a></h3>
+ 
+  <ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://developer.apple.com/videos/">Apple Development Videos - WWDC 2011</a></div>
+                
+                <div class="delicious-tags">(tags: programming apple video mac osx iOS)</div>
+            </li></ul>
+  
+	
+  
+  <div class="posted"></div>
+	
+  </div>
+  
+
+
+<div class="blogbody">
+<h3 class="older">Older Entries</h3>
+</div>
+
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/06/29/links_for_2011-06-28.php">links for 2011-06-28</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/05/14/links_for_2011-05-13.php">links for 2011-05-13</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/05/01/links_for_2011-04-30.php">links for 2011-04-30</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/04/19/links_for_2011-04-18.php">links for 2011-04-18</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/04/12/links_for_2011-04-11.php">links for 2011-04-11</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/04/05/links_for_2011-04-04.php">links for 2011-04-04</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/01/31/links_for_2011-01-31.php">links for 2011-01-31</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/01/30/links_for_2011-01-30.php">links for 2011-01-30</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/01/24/links_for_2011-01-24.php">links for 2011-01-24</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2011/01/05/links_for_2011-01-05.php">links for 2011-01-05</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/12/21/links_for_2010-12-21.php">links for 2010-12-21</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/10/29/links_for_2010-10-28.php">links for 2010-10-28</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/10/03/links_for_2010-10-02.php">links for 2010-10-02</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/09/29/links_for_2010-09-28.php">links for 2010-09-28</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/09/25/links_for_2010-09-24.php">links for 2010-09-24</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/08/26/links_for_2010-08-25.php">links for 2010-08-25</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/08/25/links_for_2010-08-24.php">links for 2010-08-24</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/07/17/links_for_2010-07-16.php">links for 2010-07-16</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/07/16/links_for_2010-07-15.php">links for 2010-07-15</a></h4>
+	</div>
+
+    <div class="blogbody">
+  <h4 class="title"><a href="https://full-speed.org/archives/2010/07/09/links_for_2010-07-08.php">links for 2010-07-08</a></h4>
+	</div>
+
+
+<!-- google_ad_section_end -->
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+
+<div class="rightbox">
+<div class="rTitle">Subscribe</div>
+<div id="subs">
+<a href="http://feeds.feedburner.com/speed" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img src="https://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="border:0"/></a>
+</div> <!-- subs -->
+</div> <!-- rightbox-->
+
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3036646830213868";
+/* full-speed.org */
+google_ad_slot = "6806590133";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("links/index.html"); ?>
+</div> <!-- rightbox-->
+<div class="ad">
+</div> <!-- ad -->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="https://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="https://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

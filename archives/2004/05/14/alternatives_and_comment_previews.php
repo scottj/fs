@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="With the recent announcement of the Movable Type 3.0 Developer Edition, the blog world is buzzing with all kinds of recommendations for switching away from MT. I'm not sure whether this site will remain on MT 2.661, upgrade to the..." />
+<meta name="author" content="Scott Johnson" />
+<title>Alternatives and Comment Previews ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://full-speed.org/archives/2004/05/14/alternatives_and_comment_previews.php">
+<dc:title>Alternatives and Comment Previews</dc:title>
+<dc:description>With the recent announcement of the Movable Type 3.0 Developer Edition, the blog world is buzzing with all kinds of recommendations for switching away from MT. I&apos;m not sure whether this site will remain on MT 2.661, upgrade to the...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2004-05-14T13:39:43-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2004/05/">May</a> <a href="/archives/2004/05/14/">14</a>, <a href="/archives/2004/">2004</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">Alternatives and Comment Previews</h3>
+<p>With the <a href="http://www.sixapart.com/corner/archives/2004/05/its_about_time.shtml">recent announcement</a> of the <a href="http://www.movabletype.org/news/2004_05.shtml#001048">Movable Type 3.0 Developer Edition</a>, the blog world is buzzing with all kinds of recommendations for switching away from MT.  I&#8217;m not sure whether this site will remain on MT 2.661, upgrade to the 3.0 &#8220;Personal Edition&#8221; for $49.95, or switch to one of the alternatives.  But what I do know is that many of the preferred alternatives are lacking a major feature that MT has gotten right from the start (for me, at least).</p>
+
+<p>That feature is comment previews.  <a href="http://www.textpattern.com/">Textpattern</a> and <a href="http://wordpress.org/">WordPress</a> both seem to be excellent blog management systems.  Perhaps either would even be qualified to be described as a full-blown CMS.  But none of the sites I&#8217;ve visited that use these wares have preview functionality for their comments.</p>
+
+<p>We all make mistakes.  That&#8217;s why we have spell checkers.  MS Word has had that feature for well over ten years now.  A blog without comment preview is like a word processor without a spell checker.  The result is that comments get posted to the site with errors.  Or that quick bit of typing doesn&#8217;t read properly once you see it posted.  Preview, when <a href="http://www.intertwingly.net/blog/1681.html">used properly</a>, eliminates a lot of these errors.  It also eliminates the followup &#8220;oops&#8221; posts.</p>
+
+<p>Now I&#8217;m sure that there are ten free blog packages out there that offer this functionality, but all of the MT haters today seem to be mentioning WordPress and Textpattern.  Personally, I&#8217;d rather spend my $50 than use a package that is missing such essential functionality.</p>
+
+<p>There is, however, one more thing that I should mention:  Jon Hicks&#8217; excellent <a href="http://www.hicksdesign.co.uk/journal/2003/12/live_comment_previews/">Live Comment Previews</a>.  Visit a recent post on Jon&#8217;s site to see this in action.  It&#8217;s very slick.  Perhaps Dean or Matt would be interested in adopting something such as this in their default comment templates?</p>
+
+<p><b>Update:</b> It turns out that Textpattern has preview already.  I&#8217;m not sure why I thought it was missing.  And <a href="http://wordpress.org/development/archives/2004/05/22/heres-the-beef/">WordPress 1.2</a> was just released with a new preview feature.  It&#8217;s good to see more people paying attention to previews.</p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="http://full-speed.org/archives/2005/07/26/movable_type_32_comment_management.php">Movable Type 3.2 Comment Management</a> - July 26, 2005</li>
+
+<li><a href="http://full-speed.org/archives/2003/07/30/zempt.php">Zempt</a> - July 30, 2003</li>
+
+<li><a href="http://full-speed.org/archives/2003/11/10/ending_comment_spam.php">Ending Comment Spam</a> - November 10, 2003</li>
+
+<li><a href="http://full-speed.org/archives/2004/02/09/easy_entity_encoding.php">Easy Entity Encoding</a> - February  9, 2004</li>
+
+<li><a href="http://full-speed.org/archives/2004/11/17/finally_upgraded_movable_type.php">Finally Upgraded Movable Type</a> - November 17, 2004</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="http://full-speed.org/archives/2004/05/14/">Up</a></li>
+
+<li><a href="http://full-speed.org/archives/2004/05/05/navigation_matrix.php" title="Navigation Matrix">Previous</a></li>
+
+
+<li><a href="http://full-speed.org/archives/2004/05/14/treo_600_updates.php" title="Treo 600 Updates">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("../../../../links/index.html"); ?>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>

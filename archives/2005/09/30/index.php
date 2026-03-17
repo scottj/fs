@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" id="fullspeed">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Full Speed > Archives</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="http://full-speed.org/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body> 
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+
+<div id="container">
+<div class="blog">
+
+
+
+
+<h2 class="date">
+[ <a href="/archives/2005/09/">September</a> <a href="/archives/2005/09/30/">30</a>, <a href="/archives/2005/">2005</a> ]
+</h2>
+
+
+<div class="blogbody">
+<a name="001001"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/30/universal_remote_controls.php">Universal Remote Controls</a></h3>
+
+<p>I have had a Philips Pronto Pro as my main universal remote for a while.  The <a href="http://www.remotecentral.com/prontopro/index.html" title="Philips ProntoPro TSU6000 Remote Control" rel="nofollow">review on RemoteCentral.com</a>, along with many comments in the RemoteCentral forums, identified this as the best consumer remote on the market at the time that I bought it.  The remote was excellent at everything, truly exceeding my expectations.  It arrived preconfigured to support every device that I own (and more).  I was able to setup macros to control multiple devices with the touch of one button.  I was even able to configure it  to shut off all of the lights in my living room when I wanted to watch a movie.</p>
+
+<p>But with time, I got tired of looking at the passive matrix LCD display.  It&#8217;s just old technology that really doesn&#8217;t have a place in my &#8220;technologically advanced&#8221; household.  I&#8217;m a bit of a snob when it comes to these things.  When I moved a year ago, I never even bothered unpacking the Pronto Pro.  Instead, I am using several different remotes now.  I have something like five different remotes on the coffee table, each of which can change the volume on the TV.  Yes, I know, it&#8217;s disgusting.</p>
+
+<p>It seems that there are some new options on the market these days, though.  I first start looking into remotes today when I saw Matt Haughey&#8217;s post on the <a href="http://www.pvrblog.com/pvr/2005/09/things_we_love_.html" title="Things we love: the Harmony 880 remote" rel="nofollow">Harmony 880</a>.  The <a href="http://genericsite.info/?k=B00093IIRA" title="Harmony 880 on Amazon" rel="nofollow">Harmony 880</a> is made by Logitech.  I typically like their gear.  But I&#8217;m really not too sure about this one yet.  It looks nice, and as Matt entions, it has that TiVo-like peanut shape to it.  But how would it stack up to the old Pronto Pro?</p>
+
+<p>Well it turns out that there&#8217;s a <em>new</em> Pronto Pro out now.  RemoteCentral has <a href="http://www.remotecentral.com/tsu7000/index.html" title="Philips ProntoPro NG TSU7000 &amp; Marantz RC9500 Remote Controls" rel="nofollow">a review</a> on it.  This is going to be a tough decision.  The new Pronto Pro now has a TFT display and more buttons as well.  But I have become a bit spoiled by my DirecTiVo&#8217;s peanut-shaped remote lately.  Time for more research.</p>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+
+
+
+
+<div class="blogbody">
+<a name="001000"></a>
+<h3 class="title"><a href="http://full-speed.org/archives/2005/09/30/links_for_2005-09-30.php">links for 2005-09-30</a></h3>
+
+<ul class="delicious">
+  <li>
+    <div class="delicious-link"><a href="http://sparkline.org/" rel="nofollow">Sparkline PHP Graphing Library</a></div>
+    <div class="delicious-tags">(tags: <a href="http://del.icio.us/scottj/sparklines" rel="nofollow">sparklines</a> <a href="http://del.icio.us/scottj/php" rel="nofollow">php</a> <a href="http://del.icio.us/scottj/webdev" rel="nofollow">webdev</a> <a href="http://del.icio.us/scottj/visualization" rel="nofollow">visualization</a> <a href="http://del.icio.us/scottj/graphing" rel="nofollow">graphing</a> <a href="http://del.icio.us/scottj/library" rel="nofollow">library</a>)</div>
+ </li>
+</ul>
+
+
+
+ <div class="posted"></div>
+
+</div> <!-- blogbody -->
+
+
+</div> <!-- blog -->
+</div> <!-- container -->
+
+</div> <!-- left -->
+
+<div id="right">
+<div id="ad">
+<div class="rTitle" id="topright">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+// -->
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<?php include("/www/full-speed.org/html/links/index.html"); ?>
+</div> <!-- rightbox-->
+
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="/" title="Full Speed">Scott Johnson</a> (<a href="http://scottj.info/">info</a>)<br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>
