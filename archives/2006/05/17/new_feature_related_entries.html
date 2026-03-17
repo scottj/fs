@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="There's a new Related Entries feature here at Full Speed today, courtesy of Adam Kalsey. You can see it in action below. It's a quick, simple hack that uses MySQL's fulltext queries and Brad Choate's eternally useful MTSQL plugin. For..." />
+<meta name="author" content="Scott Johnson" />
+<title>New Feature: Related Entries ~ Full Speed</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="/css/speed.css" type="text/css" />
+<!-- xml -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/speed" />
+<!-- common -->
+<link rel="start" href="/" />
+<link rel="search" href="/search/" />
+<link rel="author" href="/about/" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nd/3.0/" />
+<script type="text/javascript" src="/js/speed.js"></script>
+<script src="/codepress/codepress.js" type="text/javascript"></script>
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="/archives/2006/05/17/new_feature_related_entries.html">
+<dc:title>New Feature: Related Entries</dc:title>
+<dc:description>There&apos;s a new Related Entries feature here at Full Speed today, courtesy of Adam Kalsey. You can see it in action below. It&apos;s a quick, simple hack that uses MySQL&apos;s fulltext queries and Brad Choate&apos;s eternally useful MTSQL plugin. For...</dc:description>
+<dc:creator>Scott Johnson</dc:creator>
+<dc:date>2006-05-17T13:09:36-06:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nd/2.5/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd/2.5/">
+</License>
+</rdf:RDF>
+-->
+
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-134264-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</head>
+<body onload="individualArchivesOnLoad(commenter_name)">
+
+<div id="frame">
+
+<div id="top">
+<h1>Full Speed</h1>
+</div> <!-- top -->
+
+<div id="nav">
+<ul>
+<li class="first"><a href="/" accesskey="1">home</a></li>
+<li id="current"><a href="/archives/" accesskey="2">archives</a></li>
+<li><a href="/search/" accesskey="3">search</a></li>
+<li><a href="/about/" accesskey="4">about</a></li>
+<li><a href="/contact/" accesskey="5">contact</a></li>
+</ul>
+</div> <!-- nav -->
+
+<div id="body">
+<div id="left">
+<div class="blog">
+
+<h2 class="date">
+[ <a href="/archives/2006/05/">May</a> <a href="/archives/2006/05/17/">17</a>, <a href="/archives/2006/">2006</a> ]
+</h2>
+<div class="blogbody">
+<!-- google_ad_section_start -->
+<h3 class="title">New Feature: Related Entries</h3>
+<p>There&#8217;s a new Related Entries feature here at Full Speed today, courtesy of <a href="http://kalsey.com/blog/2003/05/related_entries_revisited/index.html" title="Related Entries Revisited">Adam Kalsey</a>.  You can see it in action below.  It&#8217;s a quick, simple hack that uses MySQL&#8217;s fulltext queries and Brad Choate&#8217;s eternally useful <a href="http://www.bradchoate.com/weblog/2002/07/11/mtsql">MTSQL</a> plugin.  For the sake of documenting the way things work on this site, I will document the basic steps here.</p>
+
+<p>1) Add a fulltext index to the mt_entry table:<br />
+<textarea rows="3" id="codepress1" class="codepress sql linenumbers-off readonly-on">ALTER TABLE mt_entry ADD FULLTEXT ( entry_keywords, entry_title, entry_excerpt );</textarea><br />
+2) Add the query to the individual entry archive template in MT:<br />
+<pre>&lt;MTSQLEntries query="<br/>   SELECT entry_id, MATCH (entry_keywords, entry_title, entry_excerpt)<br/>      AGAINST ('[MTEntryKeywords encode_php='q'] [MTEntryTitle encode_php='q']')<br/>      AS score<br/>   FROM mt_entry<br/>   WHERE MATCH (entry_keywords, entry_title, entry_excerpt)<br/>      AGAINST ('[MTEntryKeywords encode_php='q'] [MTEntryTitle encode_php='q']')<br/>      AND entry_id != '[MTEntryID]'<br/>   AND entry_blog_id = [MTBlogID]<br/>      ORDER BY score DESC<br/>      LIMIT 0 , 4"&gt;&lt;li&gt;&lt;a href="&lt;MTEntryLink&gt;"&gt;<br/>&lt;MTEntryTitle&gt;&lt;/a&gt;&lt;/li&gt;&lt;/MTSQLEntries&gt;</pre></p>
+<a name="more"></a>
+
+<!-- google_ad_section_end -->
+
+<h2 class="sectionHead">Possibly Related:</h2>
+<div class="sectionBody">
+<ul>
+
+<li><a href="/archives/2004/01/13/automatically_closing_old_mt_entries.html">Automatically Closing Old MT Entries</a> - January 13, 2004</li>
+
+<li><a href="/archives/2003/08/14/calendar_fix.html">Calendar Fix</a> - August 14, 2003</li>
+
+<li><a href="/archives/2004/05/17/mt_30.html">MT 3.0?</a> - May 17, 2004</li>
+
+<li><a href="/archives/2003/07/30/simplifying_the_web.html">Simplifying the Web</a> - July 30, 2003</li>
+
+<li><a href="/archives/2003/11/10/ending_comment_spam.html">Ending Comment Spam</a> - November 10, 2003</li>
+
+</ul>
+</div> <!-- sectionBody -->
+</div> <!-- blogbody -->
+
+</div> <!-- blog -->
+</div> <!-- left -->
+
+<div id="right">
+<div class="rightbox">
+<div class="rTitle" id="topright">Elsewhere</div>
+<ul>
+<li><a href="/archives/2006/05/17/">Up</a></li>
+
+<li><a href="/archives/2006/05/13/schneier_on_nsa_wiretapping.html" title="Schneier on NSA Wiretapping">Previous</a></li>
+
+
+<li><a href="/archives/2006/05/21/links_for_2006-05-21.html" title="links for 2006-05-21">Next</a></li>
+
+</ul>
+</div> <!-- rightbox -->
+
+<div id="ad">
+<div class="rTitle">Sponsored Ads</div>
+<script language="JavaScript" type="text/javascript">
+google_ad_channel ="1620876311";
+google_ad_client = 'pub-3036646830213868';
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = '120x600_as';
+google_color_border = 'ffffff';
+google_color_bg = 'ffffff';
+google_color_link = 'bb0000';
+google_color_url = '666666';
+google_color_text = '333333';
+</script>
+<script language="JavaScript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"
+  type="text/javascript">
+</script>
+</div> <!-- ad -->
+
+<div class="rightbox">
+<div class="rTitle">Links</div>
+<div class="linksmain">
+<div class="linksitem"><a href="http://betteremail.com/">Better Email</a></div>
+<div class="linksitem"><a href="http://enzojohnson.com/">Enzo Johnson</a></div>
+<div class="linksitem"><a href="http://store.full-speed.org/">Full Speed Store</a></div>
+<div class="linksitem"><a href="/wishlist/">Wishlist</a></div>
+</div>
+</div> <!-- rightbox-->
+</div> <!-- right -->
+</div> <!-- body -->
+
+<div id="bottom">
+&copy; 2014 <a href="http://scottj.info/">Scott Johnson</a><br />
+&#8226; &#8226;
+</div> <!-- bottom -->
+</div> <!-- frame -->
+
+<br clear="all" />
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=fullspeed-20"></script>
+<noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=fullspeed-20" alt="" /></noscript>
+</body>
+</html>
