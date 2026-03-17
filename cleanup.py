@@ -88,6 +88,25 @@ def commit4_remove_adsense(dry_run=False):
     else:
         print("Verified: 0 files contain google_ad_client")
 
+def commit5_remove_amazon(dry_run=False):
+    """Remove Amazon Associates script and noscript tags."""
+    # Script tag - handles fullspeed-20, insane-20, and malformed fullspeed> variants
+    script_pattern = r'<script type="text/javascript" src="https?://www\.assoc-amazon\.com/s/link-enhancer\?tag=[^<]*</script>\r?\n'
+    # Noscript tag - handles fullspeed-20 and insane-20
+    noscript_pattern = r'<noscript><img src="https?://www\.assoc-amazon\.com/s/noscript\?tag=[^"]*" alt="" /></noscript>\r?\n'
+    count = 0
+    for f in find_html_files():
+        with open(f, 'r', encoding='utf-8', errors='replace') as fh:
+            content = fh.read()
+        new = re.sub(script_pattern, '', content)
+        new = re.sub(noscript_pattern, '', new)
+        if new != content:
+            count += 1
+            if not dry_run:
+                with open(f, 'w', encoding='utf-8', newline='') as fh:
+                    fh.write(new)
+    print(f"{'Would modify' if dry_run else 'Modified'}: {count} files")
+
 if __name__ == '__main__':
     import sys
     cmd = sys.argv[1] if len(sys.argv) > 1 else ''
@@ -98,3 +117,5 @@ if __name__ == '__main__':
         commit2_remove_analytics(dry_run=dry)
     elif cmd == 'commit4':
         commit4_remove_adsense(dry_run=dry)
+    elif cmd == 'commit5':
+        commit5_remove_amazon(dry_run=dry)
