@@ -2,7 +2,7 @@
 
 ## Status
 
-**NOT STARTED** — The repo is at commit `82fcb64` (Create CNAME), which is the last known good state. A previous attempt (commit `576456a`) was force-pushed but broke 709+ HTML files due to unsafe regex patterns. That commit was reverted with `git reset --hard 82fcb64`. The remote (origin/main) still has `576456a` — a force push will be needed after completing this work.
+**NOT STARTED** — The repo is at the commit "chaos control 2", which is the last known good state. You will have to find the hash for this commit on your own, but I'll refer to it as cccccc2 going forward. A previous attempt (commit `576456a`) was force-pushed but broke 709+ HTML files due to unsafe regex patterns. That commit was reverted with `git reset --hard cccccc2`. The remote (origin/main) still has `576456a` and potentially others — a force push will be needed after completing this work.
 
 ## Background
 
