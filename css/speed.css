@@ -1,6 +1,6 @@
 /* layout */
 body {
-    background: #6BB2FF url(http://full-speed.org/images/pat_20050222151926.gif);
+    background: #6BB2FF url(/images/pat_20050222151926.gif);
     text-align: center;
 }
 #frame {
@@ -14,7 +14,7 @@ body {
     width: 649px;
 }
 #top {
-    background:#fff url(http://full-speed.org/images/fullspeed2.png) no-repeat;
+    background:#fff url(/images/fullspeed2.png) no-repeat;
     height:80px;
     margin: 0;
     padding: 0;
