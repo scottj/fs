@@ -46,7 +46,6 @@
 [ <a href="/archives/2006/05/">May</a> <a href="/archives/2006/05/17/">17</a>, <a href="/archives/2006/">2006</a> ]
 </h2>
 <div class="blogbody">
-<!-- google_ad_section_start -->
 <h3 class="title">New Feature: Related Entries</h3>
 <p>There&#8217;s a new Related Entries feature here at Full Speed today, courtesy of <a href="http://kalsey.com/blog/2003/05/related_entries_revisited/index.html" title="Related Entries Revisited">Adam Kalsey</a>.  You can see it in action below.  It&#8217;s a quick, simple hack that uses MySQL&#8217;s fulltext queries and Brad Choate&#8217;s eternally useful <a href="http://www.bradchoate.com/weblog/2002/07/11/mtsql">MTSQL</a> plugin.  For the sake of documenting the way things work on this site, I will document the basic steps here.</p>
 
@@ -56,7 +55,6 @@
 <pre>&lt;MTSQLEntries query="<br/>   SELECT entry_id, MATCH (entry_keywords, entry_title, entry_excerpt)<br/>      AGAINST ('[MTEntryKeywords encode_php='q'] [MTEntryTitle encode_php='q']')<br/>      AS score<br/>   FROM mt_entry<br/>   WHERE MATCH (entry_keywords, entry_title, entry_excerpt)<br/>      AGAINST ('[MTEntryKeywords encode_php='q'] [MTEntryTitle encode_php='q']')<br/>      AND entry_id != '[MTEntryID]'<br/>   AND entry_blog_id = [MTBlogID]<br/>      ORDER BY score DESC<br/>      LIMIT 0 , 4"&gt;&lt;li&gt;&lt;a href="&lt;MTEntryLink&gt;"&gt;<br/>&lt;MTEntryTitle&gt;&lt;/a&gt;&lt;/li&gt;&lt;/MTSQLEntries&gt;</pre></p>
 <a name="more"></a>
 
-<!-- google_ad_section_end -->
 
 <h2 class="sectionHead">Possibly Related:</h2>
 <div class="sectionBody">

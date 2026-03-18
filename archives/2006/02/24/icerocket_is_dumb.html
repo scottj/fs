@@ -46,7 +46,6 @@
 [ <a href="/archives/2006/02/">February</a> <a href="/archives/2006/02/24/">24</a>, <a href="/archives/2006/">2006</a> ]
 </h2>
 <div class="blogbody">
-<!-- google_ad_section_start -->
 <h3 class="title">IceRocket is Dumb</h3>
 <p>I was watching some logs today, just to see how much traffic was being forwarded from this site&#8217;s former domain, and I found this interesting bit:<code>206.196.125.91 - - [24/Feb/2006:13:20:53 -0600] "GET /index.xml HTTP/1.1" 301 247 "-" "BlogSearch/1.1 +http://www.icerocket.com/"<br/>206.196.125.91 - - [24/Feb/2006:13:20:53 -0600] "GET /index.rdf HTTP/1.1" 301 247 "-" "BlogSearch/1.1 +http://www.icerocket.com/"<br/>206.196.125.91 - - [24/Feb/2006:13:20:53 -0600] "GET /index.xml HTTP/1.1" 301 247 "-" "BlogSearch/1.1 +http://www.icerocket.com/"<br/>206.196.125.91 - - [24/Feb/2006:13:20:54 -0600] "GET /index.rdf HTTP/1.1" 301 247 "-" "BlogSearch/1.1 +http://www.icerocket.com/"<br/>206.196.125.91 - - [24/Feb/2006:13:21:07 -0600] "GET /index.xml HTTP/1.1" 301 247 "-" "BlogSearch/1.1 +http://www.icerocket.com/"<br/>206.196.125.91 - - [24/Feb/2006:13:21:07 -0600] "GET /index.rdf HTTP/1.1" 301 247 "-" "BlogSearch/1.1 +http://www.icerocket.com/"<br/>206.196.125.91 - - [24/Feb/2006:13:22:32 -0600] "GET /index.xml HTTP/1.1" 301 247 "-" "BlogSearch/1.1 +http://www.icerocket.com/"<br/>206.196.125.91 - - [24/Feb/2006:13:22:32 -0600] "GET /index.rdf HTTP/1.1" 301 247 "-" "BlogSearch/1.1 +http://www.icerocket.com/"</code><br />
 And then, a few minutes later, there was this:<br />
@@ -54,7 +53,6 @@ And then, a few minutes later, there was this:<br />
 It&#8217;s bad enough that IceRocket&#8217;s blog search is still pulling these URLs, which have been 301&#8217;ed for a <em>long</em> time now, but it&#8217;s really annoying when the crawler sends back to back requests, ignoring the 301 each time.  The 301 status code has been a part of HTTP for quite some time.  Why can&#8217;t a search engine get this simple detail right?</p>
 <a name="more"></a>
 
-<!-- google_ad_section_end -->
 
 <h2 class="sectionHead">Possibly Related:</h2>
 <div class="sectionBody">
