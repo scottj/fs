@@ -128,16 +128,12 @@
 
 <meta name="DC.title" content="Full Speed" />
 <script type="text/javascript" src="/js/speed.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-function gotoCatPage () {
-  var form = document.searchForm;
-  var val = form.category[form.category.selectedIndex].value;
-  if (val != '') {
-    document.location = val;
+<script>
+function gotoCatPage (select) {
+  if (select.value) {
+    location.href = select.value;
   }
 }
-// -->
 </script>
 </head>
 <body>
@@ -163,7 +159,7 @@ function gotoCatPage () {
 
 <h2 class="sectionHead">Browse Categories</h2>
 <div class="sectionBody">
-<select name="category" onchange="gotoCatPage();">
+<select name="category" onchange="gotoCatPage(this);">
   <option value=""> Select One </option>
 
   <option value="/archives/advertising/">Advertising</option>
@@ -275,7 +271,7 @@ function gotoCatPage () {
 <h2 class="sectionHead">Search This Site With Google</h2>
 <div class="sectionBody">
 <!-- SiteSearch Google -->
-<form method="get" action="http://www.google.com/custom" target="_top">
+<form method="get" action="https://www.google.com/custom" target="_top">
 <input type="hidden" name="domains" value="full-speed.org"></input>
 <input type="hidden" name="sitesearch" value="full-speed.org"></input>
 <input type="text" name="q" size="31" maxlength="255" value=""></input>
@@ -289,16 +285,6 @@ function gotoCatPage () {
 <input type="hidden" name="hl" value="en"></input>
 </form>
 <!-- SiteSearch Google -->
-</div> <!-- sectionBody -->
-
-<h2 class="sectionHead">Search This Site With MovableType</h2>
-<div class="sectionBody">
-<form method="get" action="/mt/mt-search.cgi" name="searchForm">
-<input type="hidden" name="Template" value="spsearch" />
-<input type="hidden" name="IncludeBlogs" value="2" />
-<input id="search" name="search" size="31" maxlength="255" />
-<input type="submit" value="Search" />
-</form>
 </div> <!-- sectionBody -->
 
 <h2 class="sectionHead">Category List</h2>
