@@ -14,7 +14,8 @@ This is the document root for **https://full-speed.org/**, a personal blog by Sc
 
 - **`index.php`** — Homepage; hand-written HTML with PHP includes, shows recent posts and an "Older Entries" list
 - **`archives/`** — Blog posts organized by date (`YYYY/MM/DD/slug.php`) and by category. ~1,667 PHP files spanning 2003–2012.
-- **`css/speed.css`** — Main stylesheet
+- **`css/speed.css`** — Main stylesheet (minified; do not edit directly)
+- **`css/speed-src.css`** — Stylesheet source (edit this, then regenerate `speed.css` via `bunx lightningcss-cli --minify css/speed-src.css -o css/speed.css`)
 - **`js/speed.js`** — Main JS file
 - **`about/`**, **`contact/`**, **`search/`**, **`links/`** — Static section pages
 - **`images/`**, **`files/`**, **`misc/`** — Static assets and miscellaneous content
